@@ -7,8 +7,8 @@ const sidebars = {
     'license',
     {
       type: 'category',
-      label: 'Unit 1',
-      description: 'Weeks 1–4',
+      label: 'The Anatomy of a Message',
+      description: 'Weeks 1–4: Deconstructing Construction',
       collapsed: false,
       items: [
         'week01-week-1',
@@ -19,26 +19,19 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Unit 2',
-      description: 'Weeks 5–6',
+      label: 'The Attention Economy',
+      description: 'Weeks 5–8: The Monetization Protocol',
       items: [
         'week05-week-5',
         'week06-week-6',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Unit 3',
-      description: 'Weeks 7–8',
-      items: [
         'week07-week-7',
         'week08-week-8',
       ],
     },
     {
       type: 'category',
-      label: 'Unit 4',
-      description: 'Weeks 9–11',
+      label: 'Verification & Debugging',
+      description: 'Weeks 9–11: Signal-to-Noise Filtering',
       items: [
         'week09-week-9',
         'week10-week-10',
@@ -47,8 +40,8 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Unit 5',
-      description: 'Weeks 12–14',
+      label: 'The Algorithmic Echo',
+      description: 'Weeks 12–14: Network Feedback Loops',
       items: [
         'week12-week-12',
         'week13-week-13',
@@ -57,8 +50,8 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Final Project',
-      description: 'Weeks 15–18: Build, refine, and showcase a creation',
+      label: 'Intentional Production',
+      description: 'Weeks 15–18: Build, refine, and broadcast a media project',
       items: [
         'week15-week-15',
         'week16-week-16',
@@ -69,7 +62,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Optional Extension',
-      description: 'Bonus weeks',
+      description: 'Bonus: AI-Generated Media & News Literacy',
       items: [
         'week-extension-1',
         'week-extension-2',

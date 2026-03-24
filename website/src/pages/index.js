@@ -15,9 +15,12 @@ function HomepageHeader() {
           <p className={styles.kicker}>Free and open educational curriculum</p>
           <h1 className="hero__title">Media Literacy for Kids</h1>
           <p className="hero__subtitle">
-            A free, open curriculum that teaches kids how to think critically about media.
+            A free, open curriculum for navigating the information landscape and filtering the signal from the noise.
           </p>
           <p className={styles.heroLead}>
+            18 weeks of guided lessons that teach young learners to see media
+            not as a window into reality, but as a series of designed artifacts —
+            built by people, delivered by algorithms, and amplified by sharing.
           </p>
           <div className={styles.buttons}>
             <Link
