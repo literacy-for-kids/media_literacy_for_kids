@@ -12,12 +12,12 @@ const features = [
   {
     title: 'The Incentive Dictates the Signal',
     description:
-      'To understand a message, follow the money. If the content is free, your attention is the product being sold. Students learn to ask: is the creator trying to inform, to sell, or to enrage?',
+      'To understand a message, follow the money. If the content is free, ask what\'s paying for it \u2014 often, your attention is the product being sold. Students learn to ask: is the creator trying to inform, to sell, or to provoke?',
   },
   {
     title: 'Algorithms Optimize for Engagement, Not Truth',
     description:
-      'Digital platforms are designed to keep you watching. Algorithms push high-emotion content because it gets more clicks — whether or not it is accurate or valuable.',
+      'Digital platforms tend to prioritize content that keeps users engaged. This can mean high-emotion content gets promoted over more accurate or balanced material \u2014 not through malice, but through the mechanics of engagement-based ranking.',
   },
   {
     title: 'Context is the Metadata of Truth',
@@ -27,7 +27,7 @@ const features = [
   {
     title: 'Sharing is a "Write" Operation',
     description:
-      'When you like, share, or comment, you aren\'t just watching — you are amplifying. Every share sends a message further into the network. Students learn the responsibility of spreading information.',
+      'When you like, share, or comment, you aren\'t just watching \u2014 you are amplifying a message, much like writing changes a document. Every share sends information further into the network, and students learn the responsibility that comes with it.',
   },
 ];
 
@@ -146,7 +146,7 @@ export default function HomepageFeatures() {
             No prior media expertise required — just curiosity and conversation.
           </p>
           <div className={styles.ctaButtons}>
-            <Link className="button button--primary button--lg" to="/docs/week1">
+            <Link className="button button--primary button--lg" to="/docs/week01-week-1">
               Begin Week 1
             </Link>
           </div>

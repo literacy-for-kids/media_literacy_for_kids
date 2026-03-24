@@ -27,7 +27,7 @@ sidebar_position: 0
 ## Curriculum Overview
 
 ### Target Audience
-Young learners (roughly ages 7–11).
+Young learners (ages 8–12).
 Basic reading ability is helpful, but adult guidance is expected throughout.
 
 ### Weekly Structure
@@ -41,13 +41,13 @@ Independent sessions reinforce skills through creative exploration, journaling, 
 
 ### Core Concepts
 
-Five ideas thread through every unit:
+Five ideas thread through every unit. For a full explanation of each, see the [Welcome page](/docs/intro#core-concepts).
 
-1. **All Media is Constructed** — someone built it, on purpose, with a goal.
-2. **The Incentive Dictates the Signal** — follow the money to understand the message.
-3. **Algorithms Optimize for Engagement, Not Truth** — platforms want clicks, not accuracy.
-4. **Context is the Metadata of Truth** — information without context is unreliable.
-5. **Sharing is a "Write" Operation** — every share amplifies a message further.
+1. **All Media is Constructed**
+2. **The Incentive Dictates the Signal**
+3. **Algorithms Optimize for Engagement, Not Truth**
+4. **Context is the Metadata of Truth**
+5. **Sharing is a "Write" Operation**
 
 ### Final Project
 
@@ -90,7 +90,7 @@ Each week below links to a detailed lesson page containing:
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Week 5](./week05-week-5) | Nothing Online Is Free | Business models — if it's free, you are the product |
+| [Week 5](./week05-week-5) | The Price of Free | Business models behind free content — if it's free, ask what's paying for it |
 | [Week 6](./week06-week-6) | The Clickbait Machine | How headlines and thumbnails are engineered to exploit curiosity |
 | [Week 7](./week07-week-7) | The Ad Tracker | Key Activity — counting every persuasion attempt in an hour of media |
 | [Week 8](./week08-week-8) | Selling Ideas | When media sells opinions, feelings, or behaviors instead of products |

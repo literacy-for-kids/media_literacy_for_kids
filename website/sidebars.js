@@ -8,7 +8,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'The Anatomy of a Message',
-      description: 'Weeks 1–4: Deconstructing Construction',
+      description: 'Weeks 1–4: How media is built and why it matters',
       collapsed: false,
       items: [
         'week01-week-1',
@@ -20,7 +20,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'The Attention Economy',
-      description: 'Weeks 5–8: The Monetization Protocol',
+      description: 'Weeks 5–8: How free content makes money',
       items: [
         'week05-week-5',
         'week06-week-6',
@@ -31,7 +31,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Verification & Debugging',
-      description: 'Weeks 9–11: Signal-to-Noise Filtering',
+      description: 'Weeks 9–11: Fact-checking and spotting fakes',
       items: [
         'week09-week-9',
         'week10-week-10',
@@ -41,7 +41,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'The Algorithmic Echo',
-      description: 'Weeks 12–14: Network Feedback Loops',
+      description: 'Weeks 12–14: Algorithms, filter bubbles, and bias',
       items: [
         'week12-week-12',
         'week13-week-13',
@@ -69,6 +69,7 @@ const sidebars = {
       ],
     },
     'curriculum-master',
+    'materials',
   ],
 };
 

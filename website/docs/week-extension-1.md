@@ -49,7 +49,11 @@ Students can explain what AI-generated content is, name the main types (images, 
 
 1. **A New Kind of "Constructed"** — Recall Week 1: "All media is constructed. Someone made it." Now add: "But what if the 'someone' is... a computer program? AI can now generate images that look like real photos, text that reads like a real person wrote it, and even voices that sound like real people. This is AI-generated content."
 
-2. **How It Works (Simple Version)** — Explain: "AI learns by studying millions of real examples. It studies millions of real photos, then learns to make new ones that look like they could be real — but they aren't photos of anything that actually exists. It's like a student who studies thousands of paintings and then creates a brand-new painting in the same style."
+2. **How It Works (Simple Version)** — Explain: "AI learns by studying millions of real examples — real photos, real articles, real artwork created by real people. After studying all those examples, it learns to make new ones that look like they could be real — but they aren't photos of anything that actually exists. It's like a student who studies thousands of paintings and then creates a brand-new painting in the same style."
+
+   Important context: "Those millions of examples came from real artists, writers, photographers, and musicians. Most of them didn't know their work would be used to train an AI. This raises questions about fairness and ownership that society is still figuring out."
+
+   One more critical idea: "AI can be *wrong* while sounding completely sure of itself. Because it learned from patterns rather than from understanding, it can produce answers that sound confident and well-written but are factually incorrect. This is sometimes called a *hallucination* — the AI generates something that doesn't exist or isn't true, but it doesn't know it made a mistake. This is why you should always verify AI-generated information the same way you'd verify any other source."
 
 3. **The Four Types** — Show examples of each type:
    - **AI Images**: Show an AI-generated face or landscape. "This person doesn't exist. This place doesn't exist. A computer created them."
@@ -86,6 +90,8 @@ Students can identify common signs of AI-generated images and apply their existi
    - **Skin and hair**: Overly smooth skin, hair that merges with the background, inconsistent lighting
 
    Look at AI images together and hunt for these tells.
+
+   **Important caveat**: These visual tells are becoming less reliable as AI technology improves. They are a useful bonus skill, but your most dependable tools are still the ones from Weeks 9–11: check the source, search for the image elsewhere, and ask who benefits from you believing it's real. Visual tells supplement your verification toolkit — they don't replace it.
 
 3. **The Verification Extension** — AI content means we need to add new items to our verification toolkit:
    - ✅ All the existing checks (source, date, lateral reading)

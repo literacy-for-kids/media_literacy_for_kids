@@ -88,7 +88,7 @@ Students can describe how interacting with content (liking, watching, searching)
 
 2. **Two Feeds, One World** — Discuss: "If Person A watches funny animal videos all day, and Person B watches news about science, their feeds will look completely different. They're using the same app, living in the same city — but they see a different internet." Ask: "Is either feed showing 'the truth'? Or are both showing *a piece* of the truth selected by the algorithm?"
 
-3. **The Engagement Trap** — Explain why emotional content gets boosted: "If a calm, factual video gets watched for 2 minutes but an outrageous, dramatic video gets watched for 7 minutes plus 50 comments, which one will the algorithm promote? The dramatic one — because it generates more engagement. This means the algorithm naturally pushes content that is extreme, emotional, or controversial, even if it's not the most accurate or helpful."
+3. **The Engagement Trap** — Explain why emotional content gets boosted: "If a calm, factual video gets watched for 2 minutes but an outrageous, dramatic video gets watched for 7 minutes plus 50 comments, which one will the algorithm promote? The dramatic one — because it generates more engagement. This doesn't always happen — platforms are working on ways to promote quality content too — but the general pattern holds: engagement signals are powerful, and emotional content tends to generate more of them."
 
 4. **Draw Your Algorithm** — Have the student draw or diagram their "ideal feed" vs. what an algorithm would probably build for them. The ideal might include a variety of topics; the algorithm's version would be narrower and more repetitive. Discuss the gap.
 

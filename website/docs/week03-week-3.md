@@ -126,5 +126,3 @@ When you're done, compare them. Same topic, two completely different feelings â€
 #### Setup
 
 Provide paper (two sheets), markers or crayons, scissors and old magazines if available for collage, and a flat workspace. A timer set for 25 minutes works well â€” suggest spending about 12 minutes on each mood board.
-
-#### Setup

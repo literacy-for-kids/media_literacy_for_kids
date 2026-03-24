@@ -123,5 +123,3 @@ If you have time, create a clean "title card" for your rule — decorate it, mak
 #### Setup
 
 Provide the student's two completed versions, a journal or paper, and something to write with. This session is quieter and more reflective. A comfortable, distraction-free spot helps. Set a timer for 20 minutes.
-
-#### Setup

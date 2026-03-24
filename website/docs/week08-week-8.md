@@ -27,7 +27,7 @@ Weeks 5–7 focused on ads and clickbait — the commercial side of the attentio
 :::info Before You Begin
 Collect examples of media that sell ideas or emotions rather than physical products:
 - A public service announcement (anti-littering, wear your seatbelt)
-- A political campaign ad or poster (choose something non-controversial and age-appropriate)
+- A political campaign ad or poster (choose something non-controversial and age-appropriate — historical campaigns from completed elections work best, or use fictional/hypothetical campaign material to avoid any appearance of partisan bias)
 - A social media post designed to provoke outrage or strong agreement
 - A "feel-good" viral video that has a subtle brand message
 - A charity appeal that uses emotional images
@@ -36,7 +36,7 @@ Be selective and age-appropriate. The goal is to show that media can influence h
 :::
 
 :::tip Teaching Mindset
-This is a week where thoughtful conversation matters more than activities. Students may have strong reactions to the idea that someone is trying to change what they think or feel. Validate that reaction: "It's natural to feel uncomfortable. The fact that you notice it means you're already ahead of most people."
+This is a week where thoughtful conversation matters more than activities. Students may have strong reactions to the idea that someone is trying to change what they think or feel. Validate that reaction: "It's natural to feel uncomfortable. The fact that you notice it means you're already ahead of most people." When selecting examples, be particularly careful to avoid content that reflects your own political preferences — use historical or fictional examples to keep the focus on the *technique*, not the *position*.
 :::
 
 ---

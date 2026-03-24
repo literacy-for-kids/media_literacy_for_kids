@@ -10,7 +10,7 @@ A free, open **18-week media literacy curriculum** that teaches young learners t
 
 ## About the Curriculum
 
-This project provides an **18-week introduction to media literacy** designed for young learners (ages 7–11, with adult guidance). Each week includes two guided sessions and one independent creative session, each about 30 minutes.
+This project provides an **18-week introduction to media literacy** designed for young learners (ages 8–12, with adult guidance). Each week includes two guided sessions and one independent creative session, each about 30 minutes.
 
 Five core concepts thread through every lesson:
 

@@ -12,7 +12,7 @@ description: "Key Activity — Students explore a simulated feed from a complete
 ---
 
 :::info Caregiver Snapshot
-This is the key activity for Unit 4. Students experience what it's like to see the internet through someone else's eyes. Using a simulated or described "feed" from a person with completely different interests and perspectives, they see firsthand that the same platforms can build very different realities. The week ends with designing a "balanced feed" that represents what an algorithm *should* show if its goal were understanding rather than engagement.
+This is the key activity for Unit 4. Students experience what it's like to see the internet through someone else's eyes. Using paper-based simulated "feeds" from fictional people with completely different interests and perspectives, they see firsthand that the same platforms can build very different realities. The week ends with designing a "balanced feed" that represents what an algorithm *should* show if its goal were understanding rather than engagement.
 :::
 
 :::tip Quick Navigation

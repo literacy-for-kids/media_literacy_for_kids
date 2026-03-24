@@ -1,18 +1,18 @@
 ---
 sidebar_position: 5
-sidebar_label: "Week 5: Nothing Online Is Free"
-title: "Week 5 — Nothing Online Is Free"
-description: "Students explore how 'free' websites and apps actually make money by selling attention."
+sidebar_label: "Week 5: The Price of Free"
+title: "Week 5 — The Price of Free"
+description: "Students explore how 'free' websites and apps make money — and what that means for the content they create."
 ---
 
-# Week 5 — Nothing Online Is Free
+# Week 5 — The Price of Free
 
 *The Attention Economy — Part 1*
 
 ---
 
 :::info Caregiver Snapshot
-This week shifts from *how* media is made to *why* it's made. The big idea: if a website, app, or video is free, someone is still paying for it — and that someone is usually an advertiser who is paying for **your attention**. Students begin to see themselves not just as "users" but as the product being sold.
+This week shifts from *how* media is made to *why* it's made. The big idea: if a website, app, or video is free, someone is still paying for it — often an advertiser who is paying for **your attention**. Students begin to see themselves not just as "users" but as participants in a transaction they didn't realize was happening.
 :::
 
 :::tip Quick Navigation

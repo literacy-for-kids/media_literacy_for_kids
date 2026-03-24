@@ -59,13 +59,13 @@ Five mental models that students will return to throughout the curriculum:
 
 1. **All Media is Constructed** — Content doesn't just "happen." It is designed by someone with a specific goal. Every choice — from the camera angle to the music — is meant to produce a specific response.
 
-2. **The Incentive Dictates the Signal** — To understand a message, follow the money. If the content is free, your attention is the product. Students learn to ask whether a creator's goal is to inform, to sell, or to provoke.
+2. **The Incentive Dictates the Signal** — To understand a message, follow the money. If the content is free, ask what's paying for it — often, your attention is the product. Students learn to ask whether a creator's goal is to inform, to sell, or to provoke.
 
-3. **Algorithms Optimize for Engagement, Not Truth** — Digital platforms are designed to keep users watching. Algorithms push high-emotion content because it gets more clicks, regardless of accuracy.
+3. **Algorithms Optimize for Engagement, Not Truth** — Digital platforms tend to prioritize content that keeps users engaged. This can mean high-emotion content gets promoted over more accurate or balanced material.
 
 4. **Context is the Metadata of Truth** — A video clip or a quote without its original context can mean almost anything. You cannot judge information if you don't know where it came from.
 
-5. **Sharing is a "Write" Operation** — When you like, share, or comment, you aren't just watching — you are amplifying. Every share sends information further into the network.
+5. **Sharing is a "Write" Operation** (meaning: sharing changes the network, just like writing changes a document) — When you like, share, or comment, you aren't just watching — you are amplifying. Every share sends information further into the network.
 
 ---
 
@@ -89,7 +89,7 @@ Students apply what they discovered during the first session by making something
 
 ---
 
-### Independent Session (~30 minutes)
+### Independent Session (~20–30 minutes)
 
 A guided exploration session where the student practices skills on their own.
 
