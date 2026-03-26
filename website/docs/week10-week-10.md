@@ -32,9 +32,19 @@ This is the key activity week for Unit 3. Students learn **lateral reading** —
 | **Fact-check** | The process of investigating a specific claim to determine whether it's true, false, or misleading |
 | **Three-Tab Rule** | A rule of thumb: find the claim confirmed by at least three different, unrelated sources before believing it |
 
+:::note 🧒 Kid Version
+Last week you got your first checking tools. This week, you become a speed-checker! You'll trace claims back to where they started, just like following footprints. The goal isn't to prove everything wrong — it's to figure out what you actually know and what you still need to check.
+:::
+
 ## Connection
 
 **Last week** students got their basic verification toolkit (source, date, search). **This week** is the Unit 3 key activity: they learn **lateral reading** — the actual technique professional fact-checkers use — and apply it in a timed Fact-Check Sprint. **Next week** they extend verification to visual media: photos, screenshots, and video clips.
+
+:::tip 🔄 Bring Forward
+**From Week 9:** Students learned three verification tools. This week they practice using all three in combination — checking source, date, AND other sources together — because no single check is enough on its own.
+
+**From Week 2:** Remember "Who made this and why?" — that question is now essential for evaluating whether a source is trying to inform you or persuade you.
+:::
 
 ## Teacher Preparation
 
@@ -48,6 +58,10 @@ Prepare 3–4 claims for the Fact-Check Sprint. Each should be something the stu
 For Session 1, also prepare a brief demonstration of lateral reading: have a web browser open, and show how to open multiple tabs to compare what different sources say about the same topic.
 
 **Important**: test your claims in advance. Make sure the student can find relevant results with a basic search.
+:::
+
+:::tip ⚡ Quick Prep
+Search for 'viral facts that aren't true' and pick 2-3 examples. Misattributed quotes and 'did you know?' posts work great. Print or write them on cards. If you have no printer, just read them aloud.
 :::
 
 :::tip Teaching Mindset
@@ -114,6 +128,17 @@ Students can take a specific claim, trace it back toward its original source, an
 
 5. **Debrief** — Review all the claims. Reveal the actual truth behind each one. Ask: "Which one was hardest? What made it tricky? What would have happened if you had just believed it without checking?"
 
+:::info 🔍 The Verification Habit: Stop → Notice → Check → Compare → Decide
+This five-step process works for any piece of information:
+1. **Stop** — Don't react or share immediately
+2. **Notice** — What claims are being made? What feelings is it trying to create?
+3. **Check** — Where did this come from? When was it made? Is there a real source?
+4. **Compare** — What do other sources say about the same claim?
+5. **Decide** — What do I know, what don't I know yet, and what would help me find out more?
+
+Each check gives you a clue, not proof. The more clues you gather, the better your judgment.
+:::
+
 #### Reflection Questions
 
 - How did it feel to investigate something yourself instead of just trusting what someone told you?
@@ -172,6 +197,14 @@ After this week's sessions, the student should be able to:
 - They enjoy the detective-work feel of the Fact-Check Sprint
 - They are building confidence in their own ability to investigate
 - They show appropriate nuance ("uncertain" is a valid verdict)
+
+---
+
+## 🎯 Takeaway
+
+**Big idea:** Tracing a claim back to its original source is one of the most powerful things you can do to evaluate information.
+
+**Remember:** The further a claim travels from its original source, the more it can change. Go back to the beginning when you can.
 
 ---
 
