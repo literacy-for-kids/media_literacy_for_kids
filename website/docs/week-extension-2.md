@@ -30,9 +30,21 @@ This extension zooms in on **news** as a specific type of media. Students alread
 | **Source (journalism)** | A person, document, or organization that provides information to a reporter |
 | **Coverage** | How a news outlet reports on an event — including what they include, what they leave out, who they interview, and what tone they use |
 
+:::note 🧒 Kid Version
+News is a special type of media that tells people what's happening in the world. But remember — it's still made by people who choose what to include, who to talk to, and how to tell the story. This week you'll compare how different news sources cover the same event. You'll be surprised how different they can be — even when they're all telling the truth.
+:::
+
 ## Connection
 
 This extension builds on **every unit** in the course. Students apply construction awareness (Unit 1), persuasion detection (Unit 2), verification skills (Unit 3), and algorithmic thinking (Unit 4) to the specific world of news media. News is where media literacy meets civic life.
+
+:::tip 🔄 Bring Forward
+**From Weeks 1-4:** News is constructed media. Someone chose the headline, the quotes, the photos, and the tone — just like any other media. Use your construction-choice lens from Unit 1.
+
+**From Weeks 9-11:** Use your verification toolkit. Check the source. Check the date. Look for the same story elsewhere. These skills are exactly what news literacy requires.
+
+**From Week 13:** Filter bubbles affect news too. Algorithms may show you news that matches your interests or beliefs, while filtering out other perspectives.
+:::
 
 ## Teacher Preparation
 
@@ -43,6 +55,10 @@ Prepare the following:
 - 1 **news report** about the same topic as the opinion piece
 - A simple explanation of what a "source" means in journalism (a person, document, or organization that provides information to a reporter)
 - Optional: a short age-appropriate video about how a newsroom works (many outlets publish these)
+:::
+
+:::tip Quick Prep
+Search for any kid-friendly current event (animal rescue, science discovery, weather event) and find two different news articles about it. Print them or open them in two browser tabs. That's your core material. For the news vs. opinion exercise, look for any article labeled "Opinion" or "Editorial" — most news websites have these clearly marked.
 :::
 
 :::tip Teaching Mindset
@@ -184,6 +200,14 @@ After this week's sessions, the student should be able to:
 - They pay attention to the "what's missing" column, not just what's present
 - They use the Credibility Checklist naturally when evaluating articles
 - They resist labeling outlets as simply "good" or "bad" — they evaluate the specific article
+
+---
+
+## Takeaway
+
+**Big idea:** Different news sources make different choices about how to cover the same event — and reading more than one source gives you a more complete picture.
+
+**Remember:** The skill is in the comparison, not in memorizing which sources are "good" or "bad." Evaluate each article on its own merits.
 
 ---
 

@@ -44,6 +44,18 @@ The notebook is **not graded**. It is a thinking tool, not an assignment.
 
 ---
 
+## When to Use It
+
+The notebook is most powerful when it's used regularly — not just during lessons.
+
+- **During every lesson**: Add at least one entry per week using the week-by-week prompts below
+- **Between lessons**: Encourage the student to jot down things they notice about media during the week — a headline that caught their eye, an ad that surprised them, a recommendation that seemed odd
+- **Every 4-5 weeks**: Flip through the notebook together. Notice patterns. Celebrate growth. Ask: "What do you notice about how your thinking has changed?"
+- **During the final project (Weeks 15-18)**: The notebook becomes a reference tool — students can look back at earlier observations to inform their creation
+- **After the course**: The notebook is a complete portfolio of the student's media literacy journey
+
+---
+
 ## Recurring Sections
 
 Consider setting up these sections at the start (or add them as the course progresses):
@@ -103,6 +115,23 @@ These questions work with almost any piece of media. Encourage the student to us
 5. **What happens if I share this?**
 
 Write these on the inside front cover of the notebook or on a bookmark card the student keeps with it.
+
+---
+
+## Example Entries
+
+Here's what a few real notebook entries might look like:
+
+**Week 1 entry (Media Scavenger Hunt):**
+> "I found 10 pieces of media! The one that surprised me most was the tag on my T-shirt — someone designed that too. The creator chose to make the letters small and use a simple font. I think they wanted it to look clean and not too distracting."
+
+**Week 5 entry (Ad Detective):**
+> "I found an ad in my game that looked like a button I was supposed to press. It was disguised as part of the game! I'd rate it ⭐⭐⭐⭐ for how hidden it was. The technique was blending in with the game design."
+
+**Week 12 entry (Algorithm Journal):**
+> "My YouTube recommendations are all gaming videos and funny animal clips. I think it's because those are what I watch the most. What's missing: anything about science or cooking, even though I like those too. My algorithm thinks I am someone who only cares about gaming and cute animals."
+
+These are examples — the student's entries don't have to look exactly like this. Any honest observation counts.
 
 ---
 
