@@ -66,31 +66,36 @@ const roadmapSections = [
 
 const literacyLinks = [
   {
-    title: '🧠 Decision Literacy',
+    icon: '🧠',
+    title: 'Decision Literacy',
     description:
       'How to think clearly, evaluate choices, and understand consequences.',
     href: 'https://zcohen-nerd.github.io/decision_literacy_for_kids/',
   },
   {
-    title: '💻 Computer Literacy',
+    icon: '💻',
+    title: 'Computer Literacy',
     description:
       'How computers work and how to use them responsibly.',
     href: 'https://zcohen-nerd.github.io/computer_literacy_for_kids/',
   },
   {
-    title: '📰 Media Literacy',
+    icon: '📰',
+    title: 'Media Literacy',
     description:
       'How to evaluate information and recognize bias.',
     href: 'https://zcohen-nerd.github.io/media_literacy_for_kids/',
   },
   {
-    title: '💰 Financial Literacy',
+    icon: '💰',
+    title: 'Financial Literacy',
     description:
       'How money works and how to make responsible financial decisions.',
     href: 'https://zcohen-nerd.github.io/financial_literacy_for_kids/',
   },
   {
-    title: '🏛 Civic Literacy',
+    icon: '🏛',
+    title: 'Civic Literacy',
     description:
       'How societies organize themselves and how citizens shape their communities.',
     href: 'https://zcohen-nerd.github.io/civic_literacy_for_kids/',
@@ -116,10 +121,13 @@ function RoadmapCard({title, weeks, description}) {
   );
 }
 
-function LiteracyCard({title, description, href}) {
+function LiteracyCard({icon, title, description, href}) {
   return (
     <article className={styles.card}>
-      <Heading as="h3">{title}</Heading>
+      <Heading as="h3">
+        <span aria-hidden="true" className={styles.literacyIcon}>{icon}</span>
+        <span>{title}</span>
+      </Heading>
       <p>{description}</p>
       <Link className={styles.inlineLink} to={href}>
         Visit curriculum
