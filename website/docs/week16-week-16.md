@@ -31,9 +31,26 @@ This is the **building week.** The student has a Spec Sheet and gathered materia
 | **Self-audit** | Reviewing your own work using the same critical questions you'd apply to someone else's media |
 | **Revision** | Improving a draft by adding, removing, or changing elements based on reflection or feedback |
 
+:::note 🧒 Kid Version
+"This is building week! You take your plan and start making your project — a video, a poster, a podcast, or whatever you chose. And the coolest part? You'll check your OWN work using the same skills you've been using to check everyone else's media."
+:::
+
 ## Connection
 
 **Last week** students planned their project with a Spec Sheet. **This week** they build the first draft and then audit it using every media literacy principle from the course. The self-audit is the payoff of 14 weeks of analysis: now they apply those same lenses to their own creation. **Next week** they'll share their draft with a reviewer and refine it further.
+
+:::tip 🔄 Bring Forward
+**Self-audit tools from earlier weeks:** The self-audit in Session 2 explicitly reuses course tools:
+- **Purpose** (Week 2): Is my purpose clear?
+- **Construction choices** (Weeks 3-4): Are my choices intentional?
+- **Attention hooks** (Weeks 5-6): Am I using honest or manipulative hooks?
+- **Emotional techniques** (Week 8): Is my emotion proportional?
+- **Accuracy** (Weeks 9-11): Have I verified every claim?
+- **Context** (Week 11): Am I giving the full picture?
+- **Perspective** (Week 13): Am I only showing one side?
+
+This is the payoff of the entire course — students apply their analytical skills to their own creation.
+:::
 
 ## Teacher Preparation
 
@@ -46,6 +63,10 @@ Ensure the student has everything they need for their chosen format:
 - **Slides**: Computer with presentation software, images gathered
 
 Have the student's Spec Sheet visible and accessible throughout the sessions. It's their blueprint.
+:::
+
+:::info ⚡ Quick Prep
+Make sure the student has their Spec Sheet visible and the materials for their chosen format ready. That's it — they're driving the creative work this week. Your job is to ask good questions, not direct.
 :::
 
 :::tip Teaching Mindset
@@ -176,6 +197,14 @@ After this week's sessions, the student should be able to:
 - The self-audit produces genuine reflection, not "everything is fine"
 - The student identifies at least one area for improvement voluntarily
 - They can distinguish between "I like it" and "it serves my goal"
+
+---
+
+## 🎯 Takeaway
+
+> **Big idea:** Creating media intentionally means making every choice on purpose and being able to explain why.
+
+> **Remember:** Apply the same critical questions to your own work that you've been asking about everyone else's.
 
 ---
 

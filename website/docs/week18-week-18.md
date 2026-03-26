@@ -31,9 +31,23 @@ This is the final week. Students present their finished media project to an audi
 | **Noise** | Content designed primarily to grab attention, generate clicks, or provoke reactions — without caring about accuracy or value |
 | **Creator Reflection** | A personal document where you look back on what you learned, what you made, and how your thinking changed |
 
+:::note 🧒 Kid Version
+"This is it — your big moment! You share your finished project with an audience and then look back at everything you learned. You went from noticing media everywhere (Week 1) to creating your own responsible media. That's a big deal."
+:::
+
 ## Connection
 
 **Week 15** planned the project. **Week 16** built the draft. **Week 17** refined it through review and fact-checking. **This week** is the finale: students present their finished work to an audience, then reflect on the entire 18-week journey. Every skill from every unit comes together in this moment.
+
+:::tip 🔄 Bring Forward
+**From the entire course:** The Timeline Walk in Session 2 is the spiral review of all five units. Each concept should feel like an old friend by now:
+- Week 1's "all media is constructed" → Now visible in their own project
+- Week 5's "follow the incentive" → They chose their own incentive: to inform, to help, to share
+- Week 9's verification tools → They fact-checked their own work
+- Week 12's algorithmic awareness → They understand how their project might travel
+
+Encourage the student to reference specific activities and moments from earlier weeks.
+:::
 
 ## Teacher Preparation
 
@@ -47,6 +61,10 @@ This is the final week. Students present their finished media project to an audi
 - Prepare a way to display the project (screen, wall, stand, speaker)
 - Optional: create a simple "Creator Certificate" or award to give the student at the end
 - Have the student's Spec Sheet available — the audience might want to see it
+:::
+
+:::info ⚡ Quick Prep
+Clear a space. Gather one or more audience members. Have the student's finished project ready to display or perform. Optional: a simple hand-drawn certificate. The rest is celebration and conversation.
 :::
 
 :::tip Teaching Mindset
@@ -183,6 +201,14 @@ This is the end of the course. See the [Assessment Checkpoints](/docs/assessment
 - The Timeline Walk produces real memories and reflections, not blank stares
 - Their personal media rules are specific and authentic (not just repeating what they think you want to hear)
 - They feel a sense of accomplishment and closure
+
+---
+
+## 🎯 Takeaway
+
+> **Big idea:** Media literacy isn't just something you studied — it's a set of habits you now carry with you.
+
+> **Remember:** Not every question has an instant answer. The habit of asking, checking, comparing, and reflecting is what matters most.
 
 ---
 

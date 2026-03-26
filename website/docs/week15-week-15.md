@@ -32,9 +32,24 @@ This is the beginning of the final project. Over Weeks 15–18, students will cr
 | **Key message** | The single most important idea you want your audience to take away |
 | **Ethics checklist** | A set of questions to make sure your media is honest, accurate, fairly framed, and free of manipulation |
 
+:::note 🧒 Kid Version
+"You've spent 14 weeks learning how media works. Now it's your turn to make something! But instead of just jumping in, you'll make a plan first — called a Spec Sheet. It's like a recipe for your project: who it's for, what you want to say, and how you're going to say it."
+:::
+
 ## Connection
 
 **Units 1–4** taught students to analyze *other people's* media. **This week** they become creators themselves — and everything they've learned comes into play. Before building anything, they plan intentionally with a Spec Sheet. This is the beginning of the final project arc (Weeks 15–18). **Next week** they'll create their first draft.
+
+:::tip 🔄 Bring Forward
+**From the entire course:** This is where every earlier skill comes together. The Spec Sheet asks students to think about:
+- **Audience and purpose** (Week 2)
+- **Construction choices** (Week 3)
+- **Attention tactics — and whether to use them honestly** (Weeks 5-6)
+- **Accuracy and sourcing** (Weeks 9-11)
+- **Ethical responsibility** (all units)
+
+Encourage the student to flip through their Media Detective Notebook for inspiration.
+:::
 
 ## Teacher Preparation
 
@@ -50,6 +65,10 @@ Prepare the following:
   - Ethics Checklist (is it honestly sourced? Does it avoid clickbait? Is the emotion proportional?)
 - Examples of student-appropriate media projects for inspiration (a short public service announcement, a one-page informational poster, a 60-second video)
 - Art supplies, a device, or both — depending on the format the student chooses
+:::
+
+:::info ⚡ Quick Prep
+All you need is paper and a pen for the Spec Sheet. If you don't have time to find example projects for inspiration, skip that step — the student can describe their idea verbally and then write the plan.
 :::
 
 :::tip Teaching Mindset
@@ -185,9 +204,17 @@ After this week's sessions, the student should be able to:
 
 ---
 
+## 🎯 Takeaway
+
+> **Big idea:** A great media project starts with a clear plan — knowing who it's for, what you want to say, and what standards you'll hold yourself to.
+
+> **Remember:** You're not just any creator — you're a creator who understands how media works. That's your superpower.
+
+---
+
 ## Younger Learner Adaptation (Ages 6–8)
 
-- **Simplify the Spec Sheet**: Three sections are enough — What am I making? Who is it for? What's my message?
+- **Simplify the Spec Sheet**: Three sections are enough — What am I making? Who is it for? What's my message? For a quick template, the student can fold a piece of paper into thirds and write one section in each panel. Draw a picture in each panel too. This visual approach works well for younger learners and reluctant writers.
 - **Narrow format options**: A poster or short recorded video are most manageable at this age.
 - **Adult writes, student dictates**: The student provides the ideas; the adult fills in the template.
 - **Topic help**: Offer 3 specific options if brainstorming stalls: "something you know a lot about," "a problem you want to solve," "something that makes you happy."

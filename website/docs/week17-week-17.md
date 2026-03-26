@@ -31,9 +31,19 @@ This week the student takes their project through the same kind of critical revi
 | **Constructive feedback** | Feedback that identifies strengths AND suggests specific improvements — helpful, not hurtful |
 | **Fact-checking (your own work)** | Verifying that every claim, number, and description in your project is accurate before publishing |
 
+:::note 🧒 Kid Version
+"Have you ever asked a friend to read something you wrote to see if it makes sense? That's peer review. This week, someone else looks at your project and gives you honest feedback. Then you use that feedback to make your project even better."
+:::
+
 ## Connection
 
 **Last week** students built their first draft and self-audited it. **This week** they take it through external review: peer feedback, fact-checking, and revision. This mirrors real professional workflows — journalists, filmmakers, and writers all go through rounds of review. **Next week** is the final presentation: the student shares their finished project and reflects on the full 18-week journey.
+
+:::tip 🔄 Bring Forward
+**From Weeks 9-11:** The fact-checking session in Session 2 uses the exact same verification tools students learned: check the source, check the date, search for confirmation. Now they're checking their own claims — which often feels different (and harder) than checking someone else's.
+
+**From Week 4:** Just as the Re-Edit showed that presentation changes meaning, revision changes the impact of their own project.
+:::
 
 ## Teacher Preparation
 
@@ -46,6 +56,10 @@ This week the student takes their project through the same kind of critical revi
   - What was one thing that could be improved?
   - Did anything feel unclear, unfair, or exaggerated?
   - Would you trust this media? Why or why not?
+:::
+
+:::info ⚡ Quick Prep
+You (or another family member) are the reviewer. Print or copy the 5 feedback prompts from Session 1 onto a card. That's your entire prep.
 :::
 
 :::tip Teaching Mindset
@@ -75,6 +89,15 @@ Students can present their project to a reviewer, receive constructive feedback,
    - Start with positives: "What did you understand? What worked well?"
    - Then growth areas: "Was anything confusing? Did anything feel exaggerated or unfair?"
    - Then trust: "Would you trust this? Would you share it?"
+
+   **Sentence starters for reviewers** (especially helpful for younger reviewers or peers):
+   - "I understood that your message was about..."
+   - "The part that worked best for me was..."
+   - "I was confused by..."
+   - "I noticed you used [color/word/image] — I think that worked because..."
+   - "One thing that could make this stronger is..."
+   - "I wondered whether [claim] is accurate because..."
+   - "If I were in your audience, I would feel..."
 
 3. **Processing Feedback** — After the review, the student writes down:
    - 2 pieces of feedback they agree with and want to act on
@@ -175,6 +198,14 @@ After this week's sessions, the student should be able to:
 - They take fact-checking their own claims seriously
 - Their revision plan is specific ("I'll rewrite this sentence" not "I'll make it better")
 - They practice the presentation with real effort
+
+---
+
+## 🎯 Takeaway
+
+> **Big idea:** Feedback and revision are how good media becomes great media. Even professionals go through multiple rounds of review.
+
+> **Remember:** Fact-checking your own work is harder than fact-checking someone else's — but it's one of the most important things a responsible creator can do.
 
 ---
 
