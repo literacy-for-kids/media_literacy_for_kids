@@ -146,6 +146,15 @@ const config = {
               },
             ],
           },
+          {
+            title: 'Literacy for Kids',
+            items: [
+              {
+                label: 'Project Hub',
+                href: 'https://zcohen-nerd.github.io/literacy_for_kids/',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Zachary Cohen. Curriculum content is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. See the <a href="/media_literacy_for_kids/docs/license">license page</a> for attribution, sharing, and adaptation details.`,
       },

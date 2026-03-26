@@ -64,6 +64,39 @@ const roadmapSections = [
   },
 ];
 
+const literacyLinks = [
+  {
+    title: '🧠 Decision Literacy',
+    description:
+      'How to think clearly, evaluate choices, and understand consequences.',
+    href: 'https://zcohen-nerd.github.io/decision_literacy_for_kids/',
+  },
+  {
+    title: '💻 Computer Literacy',
+    description:
+      'How computers work and how to use them responsibly.',
+    href: 'https://zcohen-nerd.github.io/computer_literacy_for_kids/',
+  },
+  {
+    title: '📰 Media Literacy',
+    description:
+      'How to evaluate information and recognize bias.',
+    href: 'https://zcohen-nerd.github.io/media_literacy_for_kids/',
+  },
+  {
+    title: '💰 Financial Literacy',
+    description:
+      'How money works and how to make responsible financial decisions.',
+    href: 'https://zcohen-nerd.github.io/financial_literacy_for_kids/',
+  },
+  {
+    title: '🏛 Civic Literacy',
+    description:
+      'How societies organize themselves and how citizens shape their communities.',
+    href: 'https://zcohen-nerd.github.io/civic_literacy_for_kids/',
+  },
+];
+
 function FeatureCard({title, description}) {
   return (
     <article className={styles.card}>
@@ -79,6 +112,18 @@ function RoadmapCard({title, weeks, description}) {
       <p className={styles.eyebrow}>{weeks}</p>
       <Heading as="h3">{title}</Heading>
       <p>{description}</p>
+    </article>
+  );
+}
+
+function LiteracyCard({title, description, href}) {
+  return (
+    <article className={styles.card}>
+      <Heading as="h3">{title}</Heading>
+      <p>{description}</p>
+      <Link className={styles.inlineLink} to={href}>
+        Visit curriculum
+      </Link>
     </article>
   );
 }
@@ -153,6 +198,31 @@ export default function HomepageFeatures() {
           <div className={styles.roadmapGrid}>
             {roadmapSections.map((section, idx) => (
               <RoadmapCard key={idx} {...section} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className={styles.sectionAlt}>
+        <div className="container">
+          <Heading as="h2">Part of the Literacy for Kids Project</Heading>
+          <p className={styles.sectionLead}>
+            This curriculum is part of Literacy for Kids, a collection of open-source
+            curricula designed to help children ages 8–12 understand the systems that
+            shape the modern world.
+          </p>
+          <p className={styles.sectionLead}>
+            Each curriculum focuses on a different foundational life skill. You can
+            explore the full curriculum collection here:{' '}
+            <Link className={styles.inlineLink} to="https://zcohen-nerd.github.io/literacy_for_kids/">
+              Literacy for Kids Hub
+            </Link>
+            .
+          </p>
+          <Heading as="h3">Explore the Other Literacies</Heading>
+          <div className={styles.cardGrid}>
+            {literacyLinks.map((literacy) => (
+              <LiteracyCard key={literacy.href} {...literacy} />
             ))}
           </div>
         </div>

@@ -66,6 +66,15 @@
   margin-bottom: 0.65rem;
 }
 
+.inlineLink {
+  font-weight: 700;
+}
+
+.card .inlineLink {
+  display: inline-flex;
+  margin-top: 0.25rem;
+}
+
 .eyebrow {
   margin: 0 0 0.5rem;
   font-size: 0.8rem;
