@@ -33,9 +33,17 @@ This week shifts from *how* media is made to *why* it's made. The big idea: if a
 | **Sponsored content** | Media that looks like regular content but is paid for by an advertiser |
 | **Incentive** | What the creator gets out of making the content |
 
+:::note 🧒 Kid Version
+"Lots of apps and websites are free — but they still cost something. Instead of paying with money, you pay with your attention. Companies show you ads while you watch, play, or scroll, and that's how they make money. So the question is: if something is free, what's the real deal?"
+:::
+
 ## Connection
 
 **Last week** wrapped up Unit 1 — students proved through the Re-Edit that the same material can tell completely different stories. **This week** begins Unit 2: the Attention Economy. The focus shifts from *how* media is made to *why* it's made — specifically, how "free" content makes money by capturing your attention. This idea connects directly to construction: once you know *why* a creator wants your attention, you can better understand the choices they make. **Next week** dives into the most visible tool of the attention economy: clickbait.
+
+:::tip 🔄 Bring Forward
+**From Week 2:** Students learned to ask "What is the purpose of this media?" This week they add a new question: "Who is paying for this, and what do they get?" The purpose-detection skill from Week 2 is the foundation for understanding business models.
+:::
 
 ## Teacher Preparation
 
@@ -48,6 +56,10 @@ Prepare examples of "free" things that actually make money:
 - A website with pop-up ads and cookie consent banners
 
 Also prepare a simple comparison: a paid app (no ads) vs. a free app (with ads). This makes the trade-off concrete.
+:::
+
+:::tip ⏱️ Quick Prep (5 Minutes or Less)
+Open any free app on a phone or tablet and notice the ads. Or grab a free newspaper/magazine. Compare it to something you paid for (a book, a game with no ads). That contrast is the whole lesson.
 :::
 
 :::tip Teaching Mindset
@@ -67,7 +79,7 @@ Students can explain that "free" content is usually paid for by advertisers, and
 
 1. **The Free Riddle** — Ask: "YouTube is free. TikTok is free. Most news websites are free. Games on your phone are free. But these companies have huge offices and pay thousands of employees. Where does the money come from?" Let the student guess. Write down all ideas.
 
-2. **Follow the Money** — Introduce the concept: when something is free, your **attention** is the product. Companies pay the platform to put their ads in front of your eyes. The more time you spend watching, scrolling, or playing, the more ads the platform can show you, and the more money it makes.
+2. **Follow the Money** — Introduce the concept: when something is free, your **attention** is the product. This is a useful way to think about it, though the full picture is more complex — platforms also earn from data collection, premium upgrades, and other sources. For now, "attention as product" is a strong beginner model. Companies pay the platform to put their ads in front of your eyes. The more time you spend watching, scrolling, or playing, the more ads the platform can show you, and the more money it makes.
 
    Draw a simple diagram together:
    - **You** → spend time on free app → see ads
@@ -76,7 +88,7 @@ Students can explain that "free" content is usually paid for by advertisers, and
 
 3. **Paid vs. Free** — Show the comparison: a paid app (like a one-time-purchase game with no ads) vs. a free version (with ads, pop-ups, or "watch a video to earn coins"). Ask: "Why would a company give something away for free? What do they get in return?"
 
-4. **Anchor Concept** — Introduce the second core idea: *The incentive dictates the signal.* Explain: "Incentive" means "what the creator gets out of it." If the incentive is ad money, the creator needs to keep you watching as long as possible. That changes what kind of content they make.
+4. **Anchor Concept** — Introduce the second core idea: *The incentive dictates the signal.* Explain: "Incentive" means "what the creator gets out of it." If ad revenue is a major incentive, the creator is motivated to keep you watching. That can influence what kind of content they make and how they present it.
 
 #### Reflection Questions
 
@@ -163,6 +175,14 @@ Signs that learning is happening this week:
 - They can explain the "attention as product" concept in their own words
 - They distinguish between content and advertising even when the line is blurred
 - They don't feel guilty about using free apps but do feel more aware
+
+---
+
+## 🎯 Takeaway
+
+**Big idea:** When something is free, there's often another exchange happening — usually your attention for advertisers' money.
+
+**Remember:** Ask "Who pays for this, and what do they get?" about any free content you use.
 
 ---
 

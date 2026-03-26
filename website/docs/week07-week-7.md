@@ -31,9 +31,17 @@ This is the key activity week for Unit 2. Students conduct a focused experiment:
 | **Persuasion technique** | A specific method used to influence you — emotional appeals, celebrity endorsements, urgency, repetition |
 | **Product placement** | When a product appears inside other content (like a movie character using a specific brand) as hidden advertising |
 
+:::note 🧒 Kid Version
+"This week you become an ad detective. Your mission: count every time something tries to get your attention or convince you to want something. You might be surprised how many you find!"
+:::
+
 ## Connection
 
 **Last week** students learned to decode clickbait formulas. **This week** they broaden their lens and track *every* form of persuasion they encounter during a focused period of media. This is the Unit 2 key activity — a hands-on experiment that usually surprises students (and adults). **Next week** extends the idea further: what happens when media sells opinions, feelings, and behaviors instead of products?
+
+:::tip 🔄 Bring Forward
+**From Weeks 5-6:** Students learned about attention economics and clickbait. Now they apply that awareness in real time by tracking every persuasion attempt they encounter. Encourage them to use their "Who made this and why?" questions from Week 2 on each ad they find.
+:::
 
 ## Teacher Preparation
 
@@ -53,6 +61,10 @@ Choose which media the student will track during Session 2. Good options:
 - Using a free mobile game
 
 You may want to do the activity alongside the student — adults are often shocked at their own results.
+:::
+
+:::tip ⏱️ Quick Prep (5 Minutes or Less)
+You don't need anything except a timer and a notebook. The student tracks ads during any 30-minute block of media they'd normally use — TV, a game, a magazine, or a walk through a store.
 :::
 
 :::tip Teaching Mindset
@@ -167,6 +179,14 @@ After this week's sessions, the student should be able to:
 - They identify persuasion beyond just obvious ads
 - They develop a personal strategy ("Before I click, I'll ask...")
 - They show interest in comparing their results with someone else's
+
+---
+
+## 🎯 Takeaway
+
+**Big idea:** Persuasion attempts are everywhere — and counting them makes you more aware of how often media is trying to influence you.
+
+**Remember:** You don't have to avoid all ads. Just notice them so you're choosing consciously.
 
 ---
 
