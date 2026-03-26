@@ -146,8 +146,8 @@ By the end of the program, students should:
 - **Verify before trusting** — use tools and habits to check whether something is accurate
 - **Understand the algorithm** — know that their feed is curated, not neutral
 - **Share responsibly** — treat every like, share, and comment as an action with consequences
+- **Create with integrity** — build media that is honest, clear, and valuable to an audience
 
 The most important outcome is simple:
 
 **Students should feel empowered to think critically about media — not fearful of it, but equipped to navigate it.**
-- **Create with integrity** — build media that is honest, clear, and valuable to an audience
