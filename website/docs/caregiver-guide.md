@@ -48,7 +48,7 @@ The goal is for the student to practice thinking about media, not to find one sp
 
 ### No-Prep Fallback
 
-If you have zero prep time, you can still run a great session. Open the lesson page, look around the room for any piece of media (a book cover, a label on a water bottle, an ad on a screen), and follow the conversation prompts. The discussion questions work with almost any example. Done is better than perfect — and an imperfect example often sparks the best conversations.
+If you have zero prep time, you can still run a great session. Open the lesson page, look around the room for any piece of media, and follow the conversation prompts. For example, grab a water bottle and ask: "Who made this label? What do they want you to notice first? Why did they choose that color?" The discussion questions work with almost any example. Done is better than perfect — and an imperfect example often sparks the best conversations.
 
 ---
 
