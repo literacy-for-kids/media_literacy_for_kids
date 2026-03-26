@@ -32,9 +32,19 @@ Last week students learned how algorithms curate their feeds. This week they lea
 | **Confirmation bias** | Your brain's natural shortcut of preferring information that matches what you already believe |
 | **Feedback loop** | A cycle where your actions influence the algorithm, and the algorithm's output influences your actions, reinforcing the same pattern |
 
+:::note 🧒 Kid Version
+If you only ever heard one side of a story, you'd start to think that's the whole story. That's what a filter bubble can do — it keeps showing you things you already agree with, which makes it harder to hear different ideas. But here's the good news: once you know about it, you can pop the bubble by looking for different viewpoints on purpose.
+:::
+
 ## Connection
 
 **Last week** students learned how algorithms build personalized feeds based on engagement signals. **This week** explores what happens when that personalization goes too far: filter bubbles, echo chambers, and confirmation bias. They'll learn that the algorithm and their own brain work together to narrow their view. **Next week's** Feed Swap puts all of this into practice: students will step into someone else's algorithmic reality.
+
+:::tip 🔄 Bring Forward
+**From Week 12:** Students learned how algorithms curate feeds based on engagement. Now they explore what happens over time when that curation narrows: filter bubbles and echo chambers.
+
+**From Weeks 9-11:** Verification skills matter even more in a filter bubble. If you mostly see information that confirms what you already believe, you need to deliberately search for and check other perspectives. Use your Stop → Notice → Check → Compare → Decide habit here.
+:::
 
 ## Teacher Preparation
 
@@ -48,6 +58,10 @@ Prepare the following:
 - A quick story or scenario to illustrate confirmation bias (the lesson provides one below)
 
 Keep topics light and non-political. The concepts apply to everything — you don't need heated subjects to teach them.
+:::
+
+:::tip ⚡ Quick Prep
+You just need two simple sides of any low-stakes debate: "dogs vs. cats as pets" or "pizza vs. tacos" with a few supporting points for each side. Write them on paper. That's enough to demonstrate how filter bubbles form.
 :::
 
 :::tip Teaching Mindset
@@ -73,6 +87,8 @@ Students can explain what a filter bubble is, describe how algorithms create the
 
 4. **Real Examples** — Discuss: "This happens with much bigger topics than dogs and cats. People who only see one type of news start to think that everyone thinks the same way they do. They're surprised when they find out that lots of people think differently. The algorithm didn't show them the other side."
 
+   People are not trapped — they can search, compare, and choose. But without awareness, it's easy to stay inside a bubble without realizing it.
+
 #### Reflection Questions
 
 - Can you think of something you believed "everyone" agreed with, and then found out many people disagreed?
@@ -91,6 +107,8 @@ Students can define confirmation bias and recognize it as a natural tendency tha
 #### Activities
 
 1. **The Brain's Shortcut** — Explain: "Your brain has BILLIONS of things to think about every day. To save energy, it takes shortcuts. One of the biggest shortcuts is this: **your brain prefers information that matches what you already believe.** It feels good to see something that agrees with you. It feels uncomfortable to see something that disagrees. This shortcut has a name: **confirmation bias.**"
+
+   This isn't a flaw or a character weakness — it's how all human brains work. Everyone has confirmation bias, including adults, teachers, and experts. Knowing about it doesn't make you immune, but it does help you catch it in action.
 
 2. **The Detective Story** — Tell a short story: "Imagine a detective who decides 'the butler did it' before looking at any evidence. From that point on, she notices every clue that points to the butler and ignores every clue that doesn't. She's not lying — she genuinely believes the butler is guilty. But her conclusion is based on which evidence she *paid attention to*, not on ALL the evidence." Ask: "Is that good detective work? Why or why not?"
 
@@ -152,6 +170,14 @@ After this week's sessions, the student should be able to:
 - They find the Perspective Challenge genuinely uncomfortable (that's the point!)
 - They connect the feedback loop to their own online behavior
 - They begin to question "does everyone really think this?"
+
+---
+
+## 🎯 Takeaway
+
+**Big idea:** Filter bubbles and echo chambers can gradually narrow what you see, making the world seem simpler and more one-sided than it really is.
+
+**Remember:** People can still search, choose, compare, and break patterns. A filter bubble influences what you see more often — it doesn't control what you can think.
 
 ---
 

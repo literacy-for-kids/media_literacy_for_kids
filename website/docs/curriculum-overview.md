@@ -53,6 +53,8 @@ Five ideas thread through every unit. For a full explanation of each, see the [W
 4. **Context Changes Meaning**
 5. **Sharing Has Consequences**
 
+These are simplified models designed for ages 8–12. Each one captures an important pattern, but the real world is more complex. The curriculum uses these as starting points for inquiry, not as final answers.
+
 ### Final Project
 
 The program culminates in a student-created media project developed during Weeks **15–18**. Students plan, build, test, and present an honest media artifact with a clearly defined audience and purpose. See the [Final Project Rubric](/docs/final-project-rubric) for evaluation criteria.
@@ -71,6 +73,13 @@ Adjust pacing based on the learner's:
 If a concept clicks quickly, explore optional challenges or extensions. If a topic needs more time, slow down and revisit through discussion or hands-on activities.
 
 The ultimate goal is **critical thinking and confidence**, not rushing through content.
+
+### What Makes This Different
+
+- **This is not internet safety — it's a transferable thinking skill.** Internet safety programs focus on specific online dangers. This curriculum teaches a way of thinking that applies to any media — a news article, a billboard, a podcast, a textbook, or a social media post.
+- **It's not about fear — it's about empowerment.** The goal isn't to make kids afraid of media. It's to give them the tools and confidence to navigate it well.
+- **It includes creation, not just analysis.** Students don't just learn to critique — they build their own media projects, which deepens their understanding of how media works.
+- **It works across settings.** The curriculum is designed for classrooms, homeschool families, libraries, after-school programs, and co-ops. The structure adapts to whoever is facilitating.
 
 ### Assessment Approach
 
@@ -114,6 +123,8 @@ Each week below links to a detailed lesson page containing:
 
 ### Verification & Debugging — Weeks 9–11
 
+How to check information, trace claims, and evaluate visual media.
+
 | Week | Theme | Focus |
 |---|---|---|
 | [Week 9](./week09-week-9) | Is This Real? | Why false information spreads; introduction to verification tools |
@@ -121,6 +132,8 @@ Each week below links to a detailed lesson page containing:
 | [Week 11](./week11-week-11) | Spotting Fakes | Manipulated images, out-of-context media, and visual detection tools |
 
 ### The Algorithmic Echo — Weeks 12–14
+
+How recommendation systems shape what you see, and how to broaden your view.
 
 | Week | Theme | Focus |
 |---|---|---|

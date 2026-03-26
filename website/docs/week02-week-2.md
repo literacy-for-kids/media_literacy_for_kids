@@ -12,7 +12,7 @@ description: "Students explore the four main purposes behind media: to inform, e
 ---
 
 :::info Caregiver Snapshot
-Last week students discovered that media is everywhere and that someone made every piece of it. This week they dig into **why**. Every piece of media has a purpose — to inform, to entertain, to persuade, or to sell — and learning to spot the purpose is the first step toward reading media critically.
+Last week students discovered that media is everywhere and that someone made every piece of it. This week they dig into **why**. Every piece of media has at least one purpose — to inform, to entertain, to persuade, to sell — and many serve more than one purpose at once. Learning to spot the purpose is the first step toward reading media critically.
 :::
 
 :::tip Quick Navigation
@@ -33,6 +33,10 @@ Last week students discovered that media is everywhere and that someone made eve
 | **Persuade** | To try to change what someone thinks, feels, or does |
 | **Sell** | To get people to buy a product or service |
 
+:::note 🧒 Kid Version
+Everything someone makes has a reason behind it. A cereal box wants you to buy the cereal. A cartoon wants you to laugh. A poster might want you to think a certain way. This week, we figure out: what does this want me to do?
+:::
+
 ## Connection
 
 **Last week** students discovered that media is everywhere and that every piece of it was made by someone. **This week** they dig into the *why* — the purpose behind each piece of media. Understanding purpose is the second key to reading media critically, because it helps students ask "What does this creator want from me?" **Next week** they'll explore *how* creators use specific choices (colors, sounds, words, framing) to achieve their purpose.
@@ -47,6 +51,10 @@ Gather 8–10 varied media examples. Try to include at least two from each purpo
 - **Sell**: a toy commercial screenshot, a fast-food ad, a product box
 
 Print or display these so the student can handle and compare them easily.
+:::
+
+:::tip ⏱️ Quick Prep (5 Minutes or Less)
+Pull out the same examples from Week 1 and one new one (a magazine ad or a YouTube thumbnail). Ask "Why was this made?" — that's the core activity.
 :::
 
 :::tip Teaching Mindset
@@ -164,6 +172,14 @@ Signs that learning is happening this week:
 - They start asking "what's the purpose?" about media they encounter outside of lesson time
 - They can point to specific evidence (words, images, layout) to support their purpose identification
 - They express surprise or interest when a hidden purpose is revealed
+
+---
+
+## Takeaway
+
+**This week's big idea:** Every piece of media has a purpose — to inform, entertain, persuade, or sell — and often more than one at the same time.
+
+**Remember:** The first question to ask about any media: "What does this want me to do?"
 
 ---
 

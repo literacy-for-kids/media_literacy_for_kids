@@ -15,7 +15,7 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 
 | Term | Simple Definition |
 |------|-------------------|
-| **Media** | Anything created by someone to share a message, a feeling, or information with other people. Books, signs, videos, websites, and songs are all media. |
+| **Media** | Anything created by someone to share a message, a feeling, or information with other people. Books, signs, videos, websites, and songs are all media. *(Example: a YouTube video, a cereal box, a billboard, a song)* |
 | **Audience** | The people a piece of media is made for. A cereal box targets shoppers; a cartoon targets kids. |
 | **Creator** | The person or team that designs, writes, films, or produces a piece of media. |
 | **Constructed** | Built on purpose. All media is constructed — someone chose every word, image, color, and sound. |
@@ -36,8 +36,8 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 | **Attention economy** | The idea that human attention is valuable and limited, and many companies compete to capture as much of it as possible. |
 | **Business model** | How a company makes money. Free apps and websites often make money by showing ads. |
 | **Advertiser** | A company or person who pays to put a message (usually about a product or service) in front of an audience. |
-| **Sponsored content** | Media that looks like regular content but is actually paid for by an advertiser. |
-| **Clickbait** | A headline or thumbnail designed to make you click by triggering curiosity, shock, or strong emotion — often exaggerating or leaving out key information. |
+| **Sponsored content** | Media that looks like regular content but is actually paid for by an advertiser. *(Example: a social media post that looks like a personal recommendation but is actually paid for by a company)* |
+| **Clickbait** | A headline or thumbnail designed to make you click by triggering curiosity, shock, or strong emotion — often exaggerating or leaving out key information. *(Example: "You Won't BELIEVE What Happened Next!" — designed to make you click)* |
 | **Thumbnail** | The small preview image shown before you click on a video or article. Thumbnails are designed to grab attention. |
 | **Incentive** | What the creator gets out of making the content. If the incentive is ad revenue, the creator is motivated to keep you watching as long as possible. |
 | **Persuasion technique** | A specific method used to influence what you think, feel, or do — such as emotional appeals, celebrity endorsements, or urgency ("limited time!"). |
@@ -51,13 +51,13 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 
 | Term | Simple Definition |
 |------|-------------------|
-| **Misinformation** | False or inaccurate information shared by someone who doesn't realize it's wrong. They made a mistake. |
+| **Misinformation** | False or inaccurate information shared by someone who doesn't realize it's wrong. They made a mistake. *(Example: sharing a photo from 2019 labeled as "breaking news" from today — the person sharing it may not know it's old)* |
 | **Disinformation** | False information created or shared on purpose to deceive people. |
 | **Satire** | Content created as humor or commentary that imitates real news or media. Sometimes people share satire thinking it's real. |
 | **Verification** | The process of checking whether a piece of information is accurate and trustworthy. |
 | **Source** | Where a piece of information comes from — the author, publication, or organization behind it. |
 | **Lateral reading** | Instead of reading deeply on one website, opening new tabs to check what other sources say about the same claim. |
-| **Reverse image search** | Uploading an image to a search engine (like Google Images or TinEye) to find out where it originally appeared and whether it's been used in different contexts. |
+| **Reverse image search** | Uploading an image to a search engine (like Google Images or TinEye) to find out where it originally appeared and whether it's been used in different contexts. *(Example: uploading a photo to Google Images to see where it originally appeared and whether the caption is accurate)* |
 | **Out-of-context media** | A real photo, video, or quote used in a misleading way — placed alongside a different event, date, or story than the one it actually belongs to. |
 | **Manipulated image** | A photo or image that has been altered (cropped, edited, or combined with other images) to change its meaning. |
 | **Fact-check** | To investigate whether a specific claim is supported by reliable evidence. |
@@ -69,13 +69,13 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 
 | Term | Simple Definition |
 |------|-------------------|
-| **Algorithm** | A set of rules or instructions that a computer follows. On media platforms, algorithms decide which content to show each user. |
+| **Algorithm** | A set of rules or instructions that a computer follows. On media platforms, algorithms decide which content to show each user. *(Example: the system that decides which videos appear on your YouTube home page based on what you've watched before)* |
 | **Recommendation system** | A specific type of algorithm that suggests content based on what a user has watched, liked, or searched for in the past. |
 | **Engagement** | Any interaction with content — watching, liking, commenting, sharing, or clicking. Platforms measure engagement to decide what to promote. |
 | **Personalization** | When a platform tailors what it shows you based on your past behavior, location, or profile. |
-| **Filter bubble** | The limited, personalized view of information that forms when algorithms keep showing you content similar to what you've already engaged with — while filtering out other perspectives. |
-| **Echo chamber** | A situation where you mostly encounter opinions and information that agree with what you already believe, reinforcing those beliefs and making it harder to see other viewpoints. |
-| **Confirmation bias** | The natural human tendency to pay more attention to information that supports what we already believe and to dismiss information that challenges it. |
+| **Filter bubble** | The limited, personalized view of information that forms when algorithms keep showing you content similar to what you've already engaged with — while filtering out other perspectives. *(Example: if you only watch funny cat videos, the algorithm shows you more cats and fewer other topics — your view of the internet gradually narrows)* |
+| **Echo chamber** | A situation where you mostly encounter opinions and information that agree with what you already believe, reinforcing those beliefs and making it harder to see other viewpoints. *(Example: if everyone in your friend group agrees on something and you never hear a different opinion, you might start thinking everyone agrees)* |
+| **Confirmation bias** | The natural human tendency to pay more attention to information that supports what we already believe and to dismiss information that challenges it. *(Example: if you already think dogs are better than cats, you'll tend to notice and remember information that supports that belief)* |
 | **Feed** | The stream of content a platform shows you (your YouTube home page, your social media timeline, your "For You" page). Your feed is curated by the algorithm. |
 | **Engagement signal** | An action (like watching a full video, liking, commenting, or sharing) that tells the algorithm you're interested in that type of content. |
 
@@ -101,7 +101,7 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 | Term | Simple Definition |
 |------|-------------------|
 | **AI-generated content** | Images, text, audio, or video created by an artificial intelligence system rather than directly by a human. |
-| **Deepfake** | AI-generated video or audio that makes it look or sound like a real person said or did something they didn't. |
+| **Deepfake** | AI-generated video or audio that makes it look or sound like a real person said or did something they didn't. *(Example: a video that makes it look like a famous person said something they never actually said)* |
 | **Hallucination (AI)** | When an AI system generates information that sounds confident but is factually incorrect — it makes things up without knowing it. |
 | **Synthetic media** | Any media created or substantially modified using artificial intelligence or automated tools. |
 | **News literacy** | The ability to evaluate news content — understanding how journalism works, distinguishing news from opinion, and comparing sources. |

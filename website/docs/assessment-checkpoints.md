@@ -139,6 +139,27 @@ This happens naturally during the Week 18 presentation. The most important sign 
 
 ---
 
+## What Good Assessment Looks Like in This Curriculum
+
+The best evidence of learning in this curriculum is **habits and reasoning**, not memorized facts.
+
+### Strong signs of learning:
+- The student asks questions about media **unprompted** — "Who made this?" "Why am I seeing this?"
+- They can **explain their thinking** — not just "it's fake" but "I think this might be misleading because..."
+- They **use course vocabulary naturally** in conversation
+- They **compare and check** before forming strong opinions
+- They apply earlier skills to new situations (e.g., using Week 2's purpose questions while working on the final project)
+
+### What assessment is NOT in this curriculum:
+- A quiz or test
+- A grade
+- A judgment of the student's character or media habits
+- A way to catch students being "wrong"
+
+Assessment here is a **conversation** — a chance for the student to show what they're thinking and for the adult to understand where they are. If a student can explain their reasoning, ask good questions, and apply their skills to real media — they're succeeding.
+
+---
+
 :::tip Assessment Is a Conversation
 The best assessment in this curriculum happens when you simply talk with the student about media they encounter in real life. If they start asking "Who made this?" and "What are they trying to make me feel?" — unprompted, outside of lesson time — they've learned what matters most.
 :::

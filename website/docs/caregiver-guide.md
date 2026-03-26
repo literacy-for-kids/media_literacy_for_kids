@@ -25,6 +25,33 @@ The lessons assume one adult working with one student or a small group. They ada
 
 ---
 
+## Getting Ready for Each Lesson
+
+### Prep Time
+
+Most lessons need **5–10 minutes of preparation**. That usually means:
+
+- Reading the Caregiver Snapshot (2–3 sentences at the top of each week)
+- Glancing at the Key Vocabulary
+- Gathering one or two media examples
+
+### Finding Examples
+
+Many lessons ask you to bring in a real-world media example. If you can't find the perfect one, don't worry — everyday media works great:
+
+- Cereal boxes, snack packaging, and grocery store flyers
+- Book covers, magazine ads, and junk mail
+- App icons, website homepages, and movie posters
+- Posters, billboards, or signs you pass on a walk
+
+The goal is for the student to practice thinking about media, not to find one specific "right" example.
+
+### No-Prep Fallback
+
+If you have zero prep time, you can still run a great session. Open the lesson page, look around the room for any piece of media, and follow the conversation prompts. For example, grab a water bottle and ask: "Who made this label? What do they want you to notice first? Why did they choose that color?" The discussion questions work with almost any example. Done is better than perfect — and an imperfect example often sparks the best conversations.
+
+---
+
 ## What You'll Need
 
 ### Time
@@ -80,6 +107,15 @@ You are a **learning partner**, not a lecturer. The best sessions feel like conv
 - **Use the sample wording.** Many lessons include phrases like "You could say..." — these are tested language you can use or adapt.
 - **It's okay to say "I don't know."** Model curiosity: "That's a great question. Let's look it up together." This teaches the verification mindset better than any lesson.
 
+### Handling Uncertainty
+
+Media literacy is full of gray areas, and that's a feature, not a bug. Here's how to handle the moments when you're not sure of the answer:
+
+- **Say "I don't know — let's find out together."** This is one of the most powerful things you can model. It shows the student that checking and investigating is what smart people do.
+- **Think aloud.** When you're evaluating an example, narrate your process: "I'm not sure about this claim. Let me see who published it… and when… and whether other sources say the same thing."
+- **You're a facilitator, not a trivia judge.** Your job is to guide the conversation, not to have every answer memorized. The lessons give you the key points — your role is to help the student discover them.
+- **Not every question has one right answer.** Some media is genuinely ambiguous. That's okay. Help the student get comfortable saying, "I can see it both ways, but here's what I think and why."
+
 ### Pacing
 
 - **Don't rush.** If a concept resonates, spend extra time on it. Exploring deeply is better than covering every activity.
@@ -94,6 +130,24 @@ Many lessons ask you to gather real media examples (a cereal box, a headline, a 
 - **Preview screen-based examples.** Before showing a website, article, or video, check that the content (and ads) are age-appropriate.
 - **Avoid politically charged or emotionally distressing examples** unless the lesson specifically calls for them and you feel the student is ready.
 - **Evergreen over trending.** Use examples that will make sense weeks from now, not just today's viral post.
+
+### Keeping Examples Nonpolitical and Age-Appropriate
+
+For kids ages 8–12, the safest and most effective examples come from **consumer and commercial media** — the kind of media that's part of everyday life without being emotionally charged.
+
+**Great example categories:**
+- Food and snack packaging, restaurant menus, grocery store ads
+- Animal facts, nature documentaries, weather reports
+- Sports highlights, game ads, trading card designs
+- Movie trailers, book covers, toy commercials
+- App icons, video game packaging, theme park brochures
+
+**What to avoid:**
+- Culture-war topics, partisan politics, and hot-button social issues
+- Content designed to frighten or shock
+- Examples where adults themselves disagree strongly — these put the child in an uncomfortable position
+
+**If a sensitive topic comes up naturally,** redirect the conversation toward the *process* rather than the *conclusion*. For example: "That's an interesting topic. Let's focus on what we'd check and compare — what sources would you look at? What questions would you ask?" This keeps the learning on track without requiring you or the student to take a position on a charged issue.
 
 ### When Topics Feel Heavy
 
@@ -128,19 +182,81 @@ This is the default format. All activities work as written.
 
 ---
 
+## Working with Mixed Ages (8–12)
+
+This curriculum targets ages 8–12, which is a wide range. Here's how to adapt when working with different ages — or a mix.
+
+### Younger Learners (Ages 8–9)
+
+- Use **concrete, familiar examples**: cereal boxes, cartoon posters, picture book covers.
+- Let them **draw or talk** instead of writing when possible.
+- Keep vocabulary simple. Introduce terms, but don't expect mastery of definitions.
+- They may need more help connecting abstract ideas ("incentive," "algorithm") to everyday experiences. Use analogies: "It's like when the cafeteria puts the cookies at the front — they want you to notice them first."
+
+### Older Learners (Ages 11–12)
+
+- They can handle **more nuance and abstraction**: gray areas, competing claims, trade-offs.
+- Encourage **independent research and longer writing** when they're ready.
+- They'll engage more deeply with ethical questions: "Is it okay to use emotional music in an ad? When is it manipulative?"
+- Give them room to form and defend their own opinions.
+
+### Mixed-Age Groups
+
+- **Let older kids explain concepts to younger ones.** Teaching is one of the best ways to solidify understanding.
+- Use the same core activity for everyone, but **adjust the response format**: younger kids draw or sort, older kids write or debate.
+- During discussions, **ask younger kids first** so they aren't intimidated by more sophisticated answers.
+- Pair older and younger students for hands-on activities when possible.
+
+---
+
+## Troubleshooting
+
+### What if discussion stalls?
+
+Try offering a **specific, concrete example** instead of an open-ended question. Instead of "What do you think about this ad?" try "What's the first thing your eye goes to? Why do you think they made it that color?" The question **"What do you notice?"** is almost always a good restart.
+
+### What if they give one-word answers?
+
+Use follow-ups that invite more: **"Tell me more about that"** or **"What made you think that?"** You can also offer choices: "Do you think this is trying to make you laugh, or make you want to buy something?" Giving two options often unlocks a fuller response.
+
+### What if they rush to "it's fake!"?
+
+This is common — and it's actually a sign they're engaged. Redirect them to evidence: **"What makes you think that? What would you check to find out?"** The goal isn't to stop them from being skeptical — it's to help them back up their thinking with reasons and evidence instead of gut reactions.
+
+### What if you can't find a good example?
+
+Use what's already around you. A cereal box, a bumper sticker, a book cover, the label on a water bottle — all of these are media. The lessons are designed to work with everyday examples, not just perfect ones.
+
+### What if the child gets frustrated by ambiguity?
+
+Normalize it. **"Even experts disagree about this sometimes. The important thing isn't being right — it's knowing what questions to ask."** Some kids want clear yes-or-no answers, and media literacy often doesn't provide them. That discomfort is part of the learning. Be patient and acknowledge that it's genuinely hard.
+
+---
+
 ## The Media Detective Notebook
 
 Throughout the course, students keep a **Media Detective Notebook** — a journal or folder where they record observations, reflections, and artifacts from each week.
 
-This serves three purposes:
+### Why It Matters
+
+The notebook serves three purposes:
 
 1. **Makes learning visible.** The student can flip back and see how much they've learned.
 2. **Builds cumulative knowledge.** Later lessons reference ideas from earlier weeks.
-3. **Provides assessment evidence.** You can review the notebook to see what the student understands.
+3. **Provides the best evidence of learning.** You can review the notebook to see what the student understands — it's more meaningful than any quiz.
+
+### How to Use It
+
+- **Introduce it in Week 1.** Set it up together and let the student decorate or personalize the cover. Ownership matters — this is *their* detective notebook, not a school assignment.
+- **Add an entry every week.** Even a short one. Consistency builds the habit.
+- **Review it together every 4–5 weeks.** Flip through past entries and ask, "What do you notice about how your thinking has changed?" This is one of the most powerful reflection moments in the whole curriculum.
+- **Let the student make it their own.** Some kids will write paragraphs. Others will draw, paste in clippings, or use stickers. All of that is fine. The goal is regular reflection, not a polished product.
+
+### Setup
 
 The notebook doesn't need to be fancy. A composition book, a binder with loose paper, or a folder with worksheets all work. The key is that the student uses it consistently.
 
-See the [Media Detective Notebook](/docs/media-detective-notebook) page for setup instructions and a week-by-week guide.
+See the [Media Detective Notebook](/docs/media-detective-notebook) page for detailed setup instructions and a week-by-week guide.
 
 ---
 

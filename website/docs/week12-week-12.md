@@ -12,7 +12,7 @@ description: "Students learn what algorithms are and how 'liking' and watching c
 ---
 
 :::info Caregiver Snapshot
-This week introduces one of the most important concepts in modern media literacy: **the algorithm.** Students learn that the content they see online is not random — it's selected by a set of rules designed to show them things they'll click on. Every like, watch, and scroll teaches the algorithm more about them. The feed is not a mirror of the world; it's a mirror of what the platform thinks will keep them watching.
+This week introduces one of the most important concepts in modern media literacy: **the algorithm.** Students learn that the content they see online is not random — it's selected by a set of rules designed to show them content they're likely to engage with — based on what they've clicked, watched, and liked before. Every like, watch, and scroll teaches the algorithm more about them. The feed is not a mirror of the world; it's a mirror of what the platform thinks will keep them watching.
 :::
 
 :::tip Quick Navigation
@@ -32,9 +32,19 @@ This week introduces one of the most important concepts in modern media literacy
 | **Engagement signal** | Any action you take (like, comment, share, watch time) that tells the algorithm what to show you more of |
 | **Personalization** | When a platform customizes what you see based on your behavior, so that two people using the same app see different content |
 
+:::note 🧒 Kid Version
+Imagine a librarian who watches everything you read and only gives you more of the same kind of book. That's kind of what an algorithm does — it watches what you click, like, and watch, and then shows you more of that. It's not random. It's not showing you everything. It's showing you what it thinks will keep you interested.
+:::
+
 ## Connection
 
 **Units 1–3** taught students to see how media is built, paid for, and verified. **This week** asks a new question: *who decides what you see in the first place?* Students discover that algorithms curate their feeds based on engagement, not accuracy or value. **Next week** they explore what happens when that curation goes too far: filter bubbles and echo chambers.
+
+:::tip 🔄 Bring Forward
+**From Weeks 5-6:** Students learned about the attention economy and clickbait. Now they see the system behind it: algorithms use engagement signals (the same clicks and watch-time they studied) to decide what to show next. The attention economy is powered by algorithmic curation.
+
+**From Week 2:** "Who made this and why?" now includes a new question: "Who *chose to show me* this, and why?"
+:::
 
 ## Teacher Preparation
 
@@ -48,8 +58,12 @@ Prepare the following:
 **Note**: You don't need the student to be on social media for this lesson. Most kids understand the concept of "recommended videos" from YouTube, "For You" on TikTok, or "suggested" content in games.
 :::
 
+:::tip ⚡ Quick Prep
+Write 10 content topics on index cards (funny cats, soccer, cooking, science, scary stories, etc.). That's all you need for the Recommendation Game. No device required — the paper simulation teaches the concept perfectly.
+:::
+
 :::tip Teaching Mindset
-Many kids assume the internet shows everyone the same thing. The realization that their feed is personalized — and optimized for engagement rather than accuracy or value — is often a genuine surprise. Let that moment land. Don't rush past it.
+Many kids assume the internet shows everyone the same thing. The realization that their feed is personalized — and shaped by engagement signals rather than by what's most accurate or most valuable to the viewer — is often a genuine surprise. Let that moment land. Don't rush past it.
 :::
 
 ---
@@ -77,7 +91,7 @@ Students can explain what an algorithm is (a set of rules that decides what to s
 
 3. **The Recommendation Game** — On paper, simulate an algorithm. Create cards with different types of content: "Funny cat video," "Science documentary," "Soccer highlights," "Scary story," "Cooking tutorial." Give the student 10 cards and have them "watch" 5 by picking the ones they'd click on. Then remove the unclicked cards, double the topics they chose, and present a new round. And again. After 3 rounds, look at the feed: "It's all the same type of content now. How did that happen?"
 
-4. **Anchor Concept** — Introduce the third core concept: *Algorithms optimize for engagement, not truth.* Explain: "The algorithm doesn't care if something is true, healthy, or important. It cares about one thing: will you click? Will you stay? The more time you spend, the more ads the platform can show."
+4. **Anchor Concept** — Introduce the third core concept: *Algorithms shape what you see.* Explain: "Many recommendation systems are designed to keep you engaged — meaning they tend to show you content you're likely to click on, watch, or interact with. This often means emotional or exciting content gets promoted, while calmer or more accurate content may get less attention. This is a simplified model — platforms are complex, and some are working to promote quality content too — but it's a useful way to start understanding how your feed is built. The key idea: the algorithm doesn't choose what's true or important. It chooses what's likely to keep you watching."
 
 #### Reflection Questions
 
@@ -156,6 +170,14 @@ After this week's sessions, the student should be able to:
 - They show genuine surprise at how personalized their feed is
 - They ask questions like "Why am I seeing this?" or "What is the algorithm optimizing for?"
 - The Recommendation Game produces a convincing narrowing effect
+
+---
+
+## 🎯 Takeaway
+
+**Big idea:** The content you see online is selected by algorithms that respond to your behavior — not by someone choosing the best or most accurate content for you.
+
+**Remember:** Your feed is shaped by your clicks, but it doesn't have to define what you think. You can always search, explore, and choose to look beyond what's recommended.
 
 ---
 

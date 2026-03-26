@@ -32,9 +32,19 @@ Weeks 9–10 taught students to check text-based claims. This week focuses on **
 | **Staged media** | A real photo or video where the scene was set up on purpose to create a false impression |
 | **Reverse image search** | A tool that lets you upload an image and find where else it appears online, helping trace its origin |
 
+:::note 🧒 Kid Version
+Can you always trust a photo? Not always! A real photo can be used to tell a false story if someone changes the caption or the date. And some images are edited or even completely made up. This week you learn to look at images like a detective — checking for clues that something might not be what it seems.
+:::
+
 ## Connection
 
 **Weeks 9–10** taught students to verify text-based claims. **This week** extends those skills to **visual media** — photos, screenshots, and video clips. Students learn that "seeing it with your own eyes" is not always proof, and they build a personal Fake Spotter's Guide. **Next week** begins Unit 4: understanding algorithms and how automated systems shape what you see.
+
+:::tip 🔄 Bring Forward
+**From Weeks 9-10:** All the text-based verification tools still apply to images. Check the source. Check the date. Search for the same image elsewhere.
+
+**From Week 3:** Creator choices include visual choices. The same image with a different caption, crop, or context can tell a completely different story — just like the re-edit project from Week 4.
+:::
 
 ## Teacher Preparation
 
@@ -51,8 +61,12 @@ Prepare the following:
 **Age note**: Avoid graphic, violent, or politically charged examples. Stick to harmless or humorous misattributions — animals, weather events, sports, funny "fails."
 :::
 
+:::tip ⚡ Quick Prep
+Search 'misleading photo captions' or 'photos used out of context' for age-appropriate examples (animal photos, weather events, or funny misattributions work best). One good pair of a real photo with a false caption is enough to teach the whole lesson.
+:::
+
 :::tip Teaching Mindset
-The goal is to add *healthy skepticism* to visual media without making the student afraid. Emphasize: "Most photos are real. But some are used in tricky ways. You now have the tools to tell the difference."
+The goal is to build *careful observation habits* to visual media without making the student afraid. Emphasize: "Most photos are real. But some are used in misleading ways, and some have been altered. You now have tools to look more carefully — though even experts can't always tell for certain. The habit of checking is what matters most."
 :::
 
 ---
@@ -123,6 +137,17 @@ Students can examine a piece of visual media and apply a structured checklist to
    - ✅ Does anything look physically wrong? (shadows, edges, scale)
    - ✅ Are other trustworthy sources showing the same image with the same story?
 
+:::info 🔍 The Verification Habit: Stop → Notice → Check → Compare → Decide
+This five-step process works for any piece of information:
+1. **Stop** — Don't react or share immediately
+2. **Notice** — What claims are being made? What feelings is it trying to create?
+3. **Check** — Where did this come from? When was it made? Is there a real source?
+4. **Compare** — What do other sources say about the same claim?
+5. **Decide** — What do I know, what don't I know yet, and what would help me find out more?
+
+Each check gives you a clue, not proof. The more clues you gather, the better your judgment.
+:::
+
 #### Reflection Questions
 
 - Which type of visual deception is hardest to catch?
@@ -181,6 +206,14 @@ This is the end of Unit 3. See the [Assessment Checkpoints](/docs/assessment-che
 - They remember to check the caption, not just the image
 - They use reverse image search confidently
 - They show genuine pride in the Fake Spotter's Guide they created
+
+---
+
+## 🎯 Takeaway
+
+**Big idea:** "Seeing it with your own eyes" is not always enough — real images can be used to tell false stories, and some images are digitally altered.
+
+**Remember:** Check the caption, not just the image. Check the source, not just the visual. Your verification tools from earlier weeks work here too.
 
 ---
 

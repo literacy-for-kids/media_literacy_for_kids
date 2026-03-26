@@ -14,10 +14,12 @@ Welcome to the Media Literacy for Kids curriculum — an 18-week program that te
 
 :::tip Use This Page
 - Start with [The Big Idea](#the-big-idea) for the course philosophy.
+- See [Who This Is For](#who-this-is-for) to check if the curriculum is right for your setting.
+- Read [What This Is (and What It Isn't)](#what-this-is-and-what-it-isnt) for a clear picture of the approach.
 - Skim [Course at a Glance](#course-at-a-glance) to see the full program structure.
-- Jump to [What Each Week Includes](#what-each-week-includes) for session format.
-- Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
 - Visit [Core Concepts](#core-concepts) for the five mental models that thread through the course.
+- Jump to [What a Typical Week Looks Like](#what-a-typical-week-looks-like) for a quick sense of the rhythm.
+- Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
 :::
 
 :::info For Caregivers and Teachers
@@ -29,9 +31,9 @@ Welcome to the Media Literacy for Kids curriculum — an 18-week program that te
 
 ## The Big Idea
 
-Most kids (and adults) consume media as a passive, "read-only" operation. Something appears on a screen or a page, and they absorb it without thinking about where it came from, why it was made, or how it was designed to make them feel.
+Most kids (and adults) take in media passively. Something appears on a screen or a page, and they absorb it without thinking much about where it came from, why it was made, or what choices went into it.
 
-This curriculum shifts students into an active role. Instead of passively receiving information, they learn to ask questions about it:
+This curriculum helps students become active, curious media consumers — and creators. Instead of passively receiving information, they learn to ask thoughtful questions:
 
 - **Who made this, and why?**
 - **What choices did the creator make?**
@@ -39,7 +41,35 @@ This curriculum shifts students into an active role. Instead of passively receiv
 - **Is this accurate? How would I check?**
 - **What happens when I share this?**
 
-By the end of the program, students will see media not as a simple window into reality, but as a series of **designed artifacts** — built by people with specific goals, delivered through systems with their own incentives, and shaped by the choices of everyone who shares them.
+By the end of the program, students will understand that all media — from cereal boxes to news articles to social media posts — is made by people who make choices about what to include, leave out, and emphasize. That isn't a reason to distrust everything. It's a reason to pay attention, ask good questions, and think for themselves.
+
+---
+
+## Who This Is For
+
+This curriculum is designed for adults who want to help kids think critically about media — no special training required.
+
+- **Parents and caregivers** teaching at home
+- **Teachers** looking for a structured media literacy unit
+- **Homeschool educators** who want a ready-to-use curriculum
+- **Librarians** running youth programs
+- **After-school and club leaders** looking for meaningful enrichment activities
+
+You do not need a background in media, journalism, or technology. Every lesson tells you what to do, what to say, and what to look for. If you can have a conversation with a young person, you can teach this course.
+
+---
+
+## What This Is (and What It Isn't)
+
+It's worth saying clearly what this curriculum is about — and what it's not.
+
+**This is not about teaching kids to distrust everything.** The goal is thoughtful curiosity, not cynicism. Students learn to ask good questions, look for evidence, and think carefully — not to assume the worst about every message they encounter.
+
+**Media literacy includes both analysis and creation.** Students don't just critique media — they also build their own. The final unit is entirely about creating something honest and valuable. That balance matters: understanding how media works makes you a better creator, and creating media makes you a better analyst.
+
+**This is not an internet safety course.** Online safety is important, but this curriculum goes further. Media literacy is a transferable thinking skill that applies to everything — a billboard, a book cover, a news broadcast, a text message, a cereal box. The habits students build here work online and off.
+
+**The approach is empowering, not fear-based.** Every lesson is designed around the idea that young people are capable thinkers who can learn to navigate media confidently. We don't tell kids the world is full of tricks. We show them how to pay attention, ask questions, and make good decisions.
 
 ---
 
@@ -71,6 +101,18 @@ Five mental models that students return to throughout the curriculum:
 
 ---
 
+## What a Typical Week Looks Like
+
+Each week follows a simple, repeatable rhythm:
+
+1. **Guided Session 1** (~30 minutes) — You and the student explore a new concept together through conversation and real examples.
+2. **Guided Session 2** (~30 minutes) — The student goes deeper through a hands-on activity or small project.
+3. **Independent Session** (~20–30 minutes) — The student practices on their own with a guided challenge.
+
+That's about **80–90 minutes per week**, spread across two or three sittings. Examples are drawn from everyday life — cereal boxes, book covers, ads, apps, packaging — so no heavy tech setup is required. Most weeks need only basic supplies and a few minutes of prep.
+
+---
+
 ## What Each Week Includes
 
 Each week contains **three short sessions** designed to keep learning active and engaging.
@@ -96,6 +138,20 @@ Students apply what they discovered during the first session by making something
 A guided exploration session where the student practices skills on their own.
 
 The goal is **confidence, ownership, and thoughtful decision-making**, not perfection. The student might keep a journal, complete a challenge, or continue a project from the guided sessions.
+
+---
+
+## Flexible Settings
+
+This curriculum works in a variety of environments:
+
+- **At home with one child** — the default format. All activities work as written.
+- **With siblings or a small group** — discussions get richer with multiple perspectives. Let students compare observations and build on each other's ideas.
+- **In a classroom** — guided sessions work well as whole-class instruction with think-pair-share. Independent sessions become individual or partner work.
+- **In a library program** — the structured, low-prep format fits well into recurring youth programming.
+- **In an after-school club** — the hands-on activities (sorting games, scavenger hunts, design challenges) are a natural fit for shorter, higher-energy sessions.
+
+Minor adaptations are all that's needed. The [Caregiver & Educator Guide](/docs/caregiver-guide) includes specific tips for each setting.
 
 ---
 

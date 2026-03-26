@@ -32,9 +32,19 @@ This week marks a major shift. Units 1 and 2 taught the student to see how media
 | **Verification** | The process of checking whether a piece of information is accurate before trusting or sharing it |
 | **Source** | Where a piece of information originally came from — the author, publication, or organization |
 
+:::note 🧒 Kid Version
+Sometimes information that looks real turns out to be wrong — and sometimes it spreads really fast before anyone checks. The good news? You can learn to check things yourself. This week you get your first set of detective tools: check where it came from, check when it was made, and search for the same story somewhere else.
+:::
+
 ## Connection
 
 **Units 1 and 2** taught students to see how media is *constructed* and *paid for*. **This week** begins a new question: is this information even *true*? Students learn that false information spreads for different reasons and get their first three verification tools. **Next week** they'll level up to lateral reading and run a Fact-Check Sprint.
+
+:::tip 🔄 Bring Forward
+**From Weeks 1-4:** Students learned that all media is constructed — someone made choices about what to include and what to leave out. Now they apply that same lens to information: who made this claim? What choices did they make about what to include? What might be missing?
+
+**From Weeks 5-8:** Students learned to follow the incentive. Now ask: does the person sharing this have an incentive to get clicks, reactions, or shares? Could that incentive influence accuracy?
+:::
 
 ## Teacher Preparation
 
@@ -49,6 +59,10 @@ Prepare the following:
 - Optional: print screenshots so the student can examine them without being online
 
 Keep examples age-appropriate. Focus on non-political, non-scary content — misidentified animals, debunked "fun facts," recycled old stories.
+:::
+
+:::tip ⚡ Quick Prep
+No time to find perfect examples? Use this: search 'commonly believed myths' and pick 2-3 fun ones like 'goldfish have a 3-second memory' or 'you eat spiders in your sleep.' These make great practice examples for verification — and kids love them.
 :::
 
 :::tip Teaching Mindset
@@ -96,7 +110,7 @@ Students can use three basic verification techniques: checking the source, check
 
 #### Activities
 
-1. **Tool 1: Check the Source** — Ask: "Where did this come from?" Show a piece of information and trace it back. Who published it? Is there a real author name? Is the website well-known, or does it have a strange URL? Explain: "A real news story has a real journalist's name, a real publication, and a date. If any of those are missing, slow down."
+1. **Tool 1: Check the Source** — Ask: "Where did this come from?" Show a piece of information and trace it back. Who published it? Is there a real author name? Is the website well-known, or does it have a strange URL? Explain: "A real news story has a real journalist's name, a real publication, and a date. If any of those are missing, slow down." These are clues, not guarantees. Some legitimate sources may be missing one of these elements, and some unreliable sources may have all of them. Use these as starting points, not final verdicts.
 
    Practice: show 2–3 examples and have the student identify the source (or the lack of one).
 
@@ -104,7 +118,7 @@ Students can use three basic verification techniques: checking the source, check
 
    Practice: show 2 examples and have the student find the publication date.
 
-3. **Tool 3: Search for It Somewhere Else** — This is the most powerful tool for kids. Instead of just reading one source, search for the same claim using a search engine. Are other trustworthy sources reporting the same thing? If only one place is saying it, that's worth noting. If many reliable sources confirm it, it's more likely accurate.
+3. **Tool 3: Search for It Somewhere Else** — This is one of the most useful verification habits. Instead of just reading one source, search for the same claim using a search engine. Are other trustworthy sources reporting the same thing? If only one place is saying it, that's worth noting — though it doesn't automatically mean it's false. If many reliable sources confirm it, that increases your confidence. The goal is to gather clues, not to prove something with a single check.
 
    Practice together: take one claim from an example, type it into a search engine, and see what comes up. Discuss what you find.
 
@@ -112,6 +126,17 @@ Students can use three basic verification techniques: checking the source, check
    - ✅ **Who said it?** (Check the source)
    - ✅ **When was it published?** (Check the date)
    - ✅ **Who else is saying the same thing?** (Search for it)
+
+:::info 🔍 The Verification Habit: Stop → Notice → Check → Compare → Decide
+This five-step process works for any piece of information:
+1. **Stop** — Don't react or share immediately
+2. **Notice** — What claims are being made? What feelings is it trying to create?
+3. **Check** — Where did this come from? When was it made? Is there a real source?
+4. **Compare** — What do other sources say about the same claim?
+5. **Decide** — What do I know, what don't I know yet, and what would help me find out more?
+
+Each check gives you a clue, not proof. The more clues you gather, the better your judgment.
+:::
 
 #### Reflection Questions
 
@@ -170,6 +195,14 @@ After this week's sessions, the student should be able to:
 - They can tell the difference between a mistake (misinformation) and intentional deception (disinformation)
 - They understand that sharing unverified information makes them part of the chain
 - They approach verification as a habit, not a chore
+
+---
+
+## 🎯 Takeaway
+
+**Big idea:** Some information is wrong — sometimes by accident, sometimes on purpose. You have tools to check: source, date, and other sources.
+
+**Remember:** Each check gives you a clue, not proof. Combine them for a better picture.
 
 ---
 

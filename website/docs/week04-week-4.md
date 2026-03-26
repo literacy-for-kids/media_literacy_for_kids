@@ -31,6 +31,10 @@ This is the capstone week for Unit 1. Students put everything from Weeks 1–3 i
 | **Raw material** | The unedited content (photos, clips, sentences) before a creator makes choices about how to present it |
 | **Version** | One particular arrangement or presentation of a set of material |
 
+:::note 🧒 Kid Version
+Have you ever told the same story two different ways — once to make it funny and once to make it serious? That's what re-editing is. Same stuff, different choices, different feeling.
+:::
+
 ## Connection
 
 **Over the past three weeks**, students learned that all media is constructed (Week 1), that every piece has a purpose (Week 2), and that creators use "invisible choices" to shape how it feels (Week 3). **This week** brings it all together: students become the creator and prove — by doing it themselves — that the same material can tell completely different stories. This is the capstone of Unit 1. **Next week** begins Unit 2, where the focus shifts from *how* media is made to *why* — specifically, how "free" content makes money.
@@ -45,6 +49,10 @@ Choose a format that matches your student's age and resources:
 - **Video (most advanced)**: Record 5–6 short clips (10 seconds each) of ordinary things — a pet, a window, a street, food cooking. Students use a simple video editor (iMovie, CapCut, or even slide-show mode) to assemble them into two different sequences.
 
 The key requirement: **the raw material must be identical.** Only the arrangement, captions, and framing change.
+:::
+
+:::tip ⏱️ Quick Prep (5 Minutes or Less)
+All you need is paper, scissors, and some printed images or hand-drawn pictures. If you have old magazines, even better. The student will rearrange the same material to tell two different stories.
 :::
 
 :::tip Teaching Mindset
@@ -102,6 +110,8 @@ Students can construct two different media pieces from the same material and art
    - "Which one would get more attention on the internet? Why?"
 
 4. **The Big Takeaway** — Discuss: "You just proved something important. The same facts, the same images, the same footage can tell completely different stories depending on the choices the creator makes. This happens in real media every single day — on the news, on social media, in advertisements. Now you know how to see it."
+
+   > **A note on re-editing:** Re-editing isn't just about "tricking" people — creators make choices to match their audience, purpose, and context. A movie trailer and a movie review tell the same story differently because they have different goals.
 
 5. **Optional: Show Someone Else** — If another family member is available, show them just ONE version and ask what they think it's about. Then show the other version and watch their reaction change. This is a powerful moment for the student.
 
@@ -162,6 +172,14 @@ Signs that learning is happening this week:
 - They express surprise at how much the feeling changed even though the material was identical
 - When showing someone both versions, they enjoy the moment of "reveal"
 - They connect the activity to real media: "This is what editors do every day"
+
+---
+
+## Takeaway
+
+**This week's big idea:** The same material can tell completely different stories depending on how it's arranged.
+
+**Remember:** Presentation isn't decoration — it's part of the message.
 
 ---
 

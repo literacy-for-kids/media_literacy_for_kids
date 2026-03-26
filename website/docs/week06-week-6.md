@@ -2,7 +2,7 @@
 sidebar_position: 6
 sidebar_label: "Week 6: The Clickbait Machine"
 title: "Week 6 — The Clickbait Machine"
-description: "Students learn how headlines and thumbnails are engineered to exploit curiosity and drive clicks."
+description: "Students learn how headlines and thumbnails are designed to capture attention and curiosity and drive clicks."
 ---
 
 # Week 6 — The Clickbait Machine
@@ -12,7 +12,7 @@ description: "Students learn how headlines and thumbnails are engineered to expl
 ---
 
 :::info Caregiver Snapshot
-Last week students learned that free content is paid for by attention. This week they look at the **tool** platforms and creators use to capture that attention: clickbait. Students will learn that clickbait isn't random — it's a carefully designed hook that exploits how human curiosity works. They'll practice rewriting clickbait into honest headlines and even build their own.
+Last week students learned that free content is paid for by attention. This week they look at the **tool** platforms and creators use to capture that attention: clickbait. Students will learn that clickbait isn't random — it's a carefully designed hook that takes advantage of how human curiosity works. They'll practice rewriting clickbait into honest headlines and even build their own.
 :::
 
 :::tip Quick Navigation
@@ -31,9 +31,17 @@ Last week students learned that free content is paid for by attention. This week
 | **Curiosity gap** | The gap between what you know and what you want to know — clickbait exploits this by teasing without satisfying |
 | **Thumbnail** | The small preview image shown before you click on a video or article, designed to grab attention |
 
+:::note 🧒 Kid Version
+"Have you ever seen a headline like 'You Won't BELIEVE What Happened Next!'? That's clickbait — it's designed to make you SO curious that you have to click. Once you know the tricks, you can spot them and decide for yourself whether it's worth your time."
+:::
+
 ## Connection
 
 **Last week** students learned the big idea behind the attention economy: free content is paid for by attention. **This week** they examine the primary tool used to capture that attention: clickbait. They'll learn to decode clickbait formulas and practice rewriting them honestly. **Next week** they'll use their new awareness in a hands-on experiment: tracking every persuasion attempt in a block of media.
+
+:::tip 🔄 Bring Forward
+**From Week 3:** Students learned that creators make specific choices to shape how we feel. Clickbait is those same choices turned up to maximum: the colors, the words, the images are all chosen to trigger curiosity or emotion. Ask: "What construction choices make this headline hard to resist?"
+:::
 
 ## Teacher Preparation
 
@@ -47,6 +55,10 @@ Collect 8–10 clickbait headlines. You can find these on any news aggregator, Y
 Also prepare 3–4 **honest** headlines about the same topics for comparison. Example: "Woman Tests All-Pizza Diet for 30 Days and Shares Health Results."
 
 If possible, print or write these on cards so the student can sort and compare them physically.
+:::
+
+:::tip ⏱️ Quick Prep (5 Minutes or Less)
+Write 3-4 clickbait headlines on index cards or scraps of paper. You can make them up: "You Won't BELIEVE What This Dog Did!" works perfectly. No need to find real ones unless you want to.
 :::
 
 :::tip Teaching Mindset
@@ -77,6 +89,8 @@ Students can define clickbait, explain why it works (exploiting curiosity), and 
 3. **Real vs. Clickbait** — Show pairs of headlines about the same topic — one clickbait, one honest. Have the student identify which is which and explain what makes the clickbait version different. Ask: "Which one gives you more real information? Which one makes you more curious?"
 
 4. **Why It Matters** — Connect back to the attention economy: "Remember, platforms make money when you click. Clickbait is engineered to make you click. The headline's job is NOT to inform you — it's to make you curious enough to click so the platform can show you more ads."
+
+   Not every attention-grabbing headline is dishonest. Strong packaging is a normal part of communication. The issue is when a headline deliberately misleads or exaggerates to get clicks. Teach the student to notice the difference between strong and deceptive.
 
 #### Reflection Questions
 
@@ -159,6 +173,14 @@ After this week's sessions, the student should be able to:
 - They laugh at over-the-top clickbait instead of being drawn in
 - They can rewrite a clickbait headline honestly without help
 - They understand that clickbait is engineered, not accidental
+
+---
+
+## 🎯 Takeaway
+
+**Big idea:** Clickbait works by exploiting your natural curiosity — and once you see the formula, it loses much of its power.
+
+**Remember:** A headline that makes you desperate to click is doing its job. Pause and ask: "Is this informing me or just hooking me?"
 
 ---
 

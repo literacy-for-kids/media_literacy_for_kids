@@ -138,6 +138,23 @@ Every student who completes a final project — regardless of polish — has dem
 
 ---
 
+## Connecting the Rubric to Course Themes
+
+Each rubric category maps directly to skills developed throughout the course:
+
+| Rubric Category | Where It Comes From |
+|----------------|-------------------|
+| Clear Purpose and Audience | Weeks 1-2 (audience, purpose, "Who made this and why?") |
+| Intentional Construction Choices | Weeks 3-4 (construction choices, the Re-Edit) |
+| Accuracy and Honesty | Weeks 9-11 (verification, fact-checking, source evaluation) |
+| Ethical Media Practice | Weeks 5-8 (attention tactics, emotional selling, incentives) |
+| Application of Course Concepts | All units (spiral review of all five core concepts) |
+| Presentation and Communication | Week 18 (sharing, explaining, and defending creative choices) |
+
+When using the rubric, you can reference the specific weeks to remind the student of the skills they're applying.
+
+---
+
 :::tip Rubric as Reflection Tool
 The rubric is most powerful when the student uses it **before** and **after** creating their project. Before building, it sets expectations. After presenting, it prompts honest self-assessment. That reflection cycle is where the deepest learning happens.
 :::

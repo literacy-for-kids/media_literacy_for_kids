@@ -117,6 +117,43 @@ These work whenever you encounter media together — watching a show, passing a 
 
 ---
 
+## Prompts by Purpose
+
+Use these when you want to target a specific kind of thinking.
+
+### Noticing
+- *"What do you notice about this? Describe what you see before you decide what you think."*
+- *"What's the first thing your eyes go to? Why do you think the creator put that there?"*
+- *"Is there anything here that surprised you?"*
+
+### Comparing
+- *"How is this different from [another example]?"*
+- *"If two different people made this, what might they do differently?"*
+- *"What's the same across these two sources? What's different?"*
+
+### Checking
+- *"Where did this come from? How would you find out?"*
+- *"Is there anything here that you'd want to verify before believing?"*
+- *"What would you search for to check this claim?"*
+
+### Reflecting
+- *"How does this make you feel? Do you think that feeling was intended?"*
+- *"What would you do differently if you made this?"*
+- *"Has your opinion changed since we started discussing this? What changed it?"*
+
+### Creating
+- *"If you had to make something about this topic, what choices would you make?"*
+- *"Who is your audience? How does that change what you'd include?"*
+- *"What would make this more honest? More clear? More useful?"*
+
+### For Quieter Kids
+- *"You can write or draw your answer if you don't feel like talking right now."*
+- *"Would you rather point to the part that stood out to you?"*
+- *"Let's each write our answer down and then share."*
+- *"I'll go first, then you can agree, disagree, or add to what I said."*
+
+---
+
 ## Family Media Nights
 
 Once a month (or whenever it feels right), try a **Family Media Night**: watch, read, or listen to something together and discuss it using the core questions. Ideas:

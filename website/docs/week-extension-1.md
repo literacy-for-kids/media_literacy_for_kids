@@ -30,9 +30,19 @@ This extension explores one of the fastest-changing areas of media literacy: **A
 | **Hallucination** (AI) | When an AI generates information that sounds confident but is factually incorrect — it doesn't know it made a mistake |
 | **Artifact** (AI image) | A visual glitch in an AI-generated image, such as distorted hands, garbled text, or impossible geometry |
 
+:::note 🧒 Kid Version
+You know how someone can draw a picture that looks real? Now computers can do that too — they can make pictures, write text, and even create voices that seem real but aren't. This doesn't mean everything online is fake. It just means you need to use your detective skills: Where did this come from? What clues do I notice? Do I need to check this somewhere else?
+:::
+
 ## Connection
 
 This extension builds directly on the **verification toolkit** from Weeks 9–11. Students already know how to check sources, dates, and claims. Now they extend those skills to a new category of media: content created by artificial intelligence. The key insight is the same: "seeing it" is not enough — you need to verify it.
+
+:::tip 🔄 Bring Forward
+**From Weeks 9-11:** All your verification tools still apply — check the source, search for the image elsewhere, ask who benefits. AI-generated media is just a new category that your existing toolkit handles.
+
+**From Week 1:** "All media is constructed." AI-generated media is constructed too — but by a computer program trained on human-made examples, rather than directly by a person.
+:::
 
 ## Teacher Preparation
 
@@ -44,6 +54,10 @@ Prepare the following:
 - Optional: an example of AI-generated audio or video (a "deepfake" clip of a celebrity — keep it lighthearted, like a face-swapped movie scene)
 
 **Tech note**: AI changes fast. The specific tools and examples you use may differ from what's described here. Focus on the *concepts* — the specific tools will evolve, but the thinking framework will not.
+:::
+
+:::tip Quick Prep
+Visit whichfaceisreal.com and pick 3-4 image pairs — one real, one AI-generated. That's your core activity. No printing needed — just show them on a screen. If you want AI text, paste any topic into a free chatbot and compare the output to a human-written paragraph.
 :::
 
 :::tip Teaching Mindset
@@ -159,7 +173,7 @@ After this week's sessions, the student should be able to:
 
 1. **Name the types**: List the four kinds of AI-generated content (images, text, audio, video).
 2. **Spot the clues**: When looking at an image, check for common AI tells (hands, text, backgrounds).
-3. **Apply the verification extension**: Explain why "Ask: who benefits?" is the single most important question for AI-generated content.
+3. **Apply the verification extension**: Explain why "Ask: who benefits?" is one of the most important questions for AI-generated content — alongside checking the source and looking for visual clues.
 
 ---
 
@@ -170,6 +184,14 @@ After this week's sessions, the student should be able to:
 - They connect AI verification back to the existing toolkit (source, date, lateral reading)
 - They understand that AI can be wrong while sounding confident (hallucination)
 - They ask the "who benefits" question when encountering suspicious content
+
+---
+
+## Takeaway
+
+**Big idea:** AI can create media that looks and sounds convincing — but your verification habits are still your best tools.
+
+**Remember:** Approach AI-generated media with curiosity and caution, not panic. Ask where it came from, what clues you notice, and whether you need confirmation from another source.
 
 ---
 

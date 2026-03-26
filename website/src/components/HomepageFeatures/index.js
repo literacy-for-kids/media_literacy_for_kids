@@ -92,11 +92,12 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Introduction</Heading>
           <p className={styles.sectionLead}>
-            Most kids (and adults) consume media as a passive, read-only operation.
-            This curriculum shifts students into the role of <strong>analyst</strong>.
-            They learn to see media not as a window into reality, but as a series of
-            designed artifacts — built by people with specific goals, delivered through
-            systems with their own incentives.
+            Most kids (and adults) take in media without thinking about where it came from,
+            why it was made, or how it was designed to make them feel. This curriculum helps
+            young learners become thoughtful, active readers of the media around them.
+            They learn to notice the choices behind every message — who made it, why, and
+            what techniques were used — and to check information carefully before trusting
+            or sharing it.
           </p>
         </div>
       </section>
@@ -105,12 +106,31 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Core Concepts</Heading>
           <p className={styles.sectionLead}>
-            These five mental models move students from being "users" to being
-            "analysts" of the information they consume.
+            Five ideas that thread through every lesson, helping students move from
+            passive media consumers to thoughtful, curious questioners.
           </p>
           <div className={styles.cardGrid}>
             {features.map((feature, idx) => (
               <FeatureCard key={idx} {...feature} />
+            ))}
+          </div>
+        </div>
+      </section>
+
+      <section className={styles.section}>
+        <div className="container">
+          <Heading as="h2">Who This Is For</Heading>
+          <p className={styles.sectionLead}>
+            Designed for ages 8–12 and usable by any caring adult — no media expertise required.
+          </p>
+          <div className={styles.cardGrid}>
+            {[
+              { title: 'Parents & Caregivers', description: 'Work through lessons at home with one child or siblings. Sessions are designed for the kitchen table.' },
+              { title: 'Teachers', description: 'Supplement ELA, social studies, or digital citizenship instruction with a structured weekly program.' },
+              { title: 'Homeschool Educators', description: 'A ready-to-use unit with flexible pacing, built-in assessments, and standards-aligned outcomes.' },
+              { title: 'Librarians & Youth Leaders', description: 'Run a weekly after-school or summer program with hands-on activities that work in groups.' },
+            ].map((item, idx) => (
+              <FeatureCard key={idx} {...item} />
             ))}
           </div>
         </div>
@@ -142,8 +162,9 @@ export default function HomepageFeatures() {
         <div className="container">
           <Heading as="h2">Start Teaching Media Literacy</Heading>
           <p className={styles.sectionLead}>
-            Each week includes two guided sessions and one independent session.
-            No prior media expertise required — just curiosity and conversation.
+            Each week includes two guided sessions and one independent session — about
+            80–90 minutes total. No expertise required, minimal prep needed, and every
+            lesson works with everyday media you already have at home or in the classroom.
           </p>
           <div className={styles.ctaButtons}>
             <Link className="button button--primary button--lg" to="/docs/week01-week-1">

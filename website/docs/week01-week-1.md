@@ -32,6 +32,10 @@ This week is about **noticing**. Students discover that media is everywhere — 
 | **Creator** | The person or team that designs, writes, films, or produces a piece of media |
 | **Constructed** | Built on purpose — someone chose every word, image, color, and sound |
 
+:::note 🧒 Kid Version
+Media is anything that someone made to send a message — like a cereal box, a YouTube video, a poster, or a song. Even a T-shirt with words on it is media! This week, we're going to look around and notice all the media that's already around us.
+:::
+
 ## Connection
 
 This is the beginning of the journey. **This week** introduces the single most important idea in the entire course: all media is created by someone, on purpose. Students don't need any background knowledge — just curiosity and willingness to look at everyday things with fresh eyes. **Next week** builds on this by asking *why* creators make media — what their purpose is.
@@ -48,6 +52,10 @@ Gather a variety of media examples to show the student. Good options include:
 - A song lyric printout
 
 The more **variety** you have, the easier it will be for the student to see that "media" is much bigger than just "screens."
+:::
+
+:::tip ⏱️ Quick Prep (5 Minutes or Less)
+Grab any 3-4 objects from around your house: a cereal box, a book, a piece of mail, a T-shirt with a logo. That's all you need — the whole point is that media is already everywhere.
 :::
 
 :::tip Teaching Mindset
@@ -162,9 +170,15 @@ Signs that learning is happening this week:
 
 ---
 
-## Younger Learner Adaptation (Ages 6–8)
+## Takeaway
 
-- **Simplify the scavenger hunt**: Find 5 pieces of media instead of 10, and use drawing instead of writing
+**This week's big idea:** Media is everywhere, and someone made every piece of it on purpose.
+
+**Remember:** Whenever you see something — a sign, a video, a package — ask yourself: "Who made this?"
+
+---
+
+## Younger Learner Adaptation (Ages 6–8): Find 5 pieces of media instead of 10, and use drawing instead of writing
 - **Use the word "message"**: Instead of "media," start with "messages people make." Introduce "media" as the grown-up word after they grasp the concept
 - **Focus on Session 1**: The Media Walk and Sorting Game are the most accessible activities. Session 2's "Invisible Creator" can be done as a guided conversation rather than an independent exercise
 - **Provide sentence stems**: "This is media because ___." "I think someone made this to ___."

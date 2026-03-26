@@ -32,9 +32,17 @@ Weeks 5–7 focused on ads and clickbait — the commercial side of the attentio
 | **Bandwagon effect** | Making it seem like "everyone" already agrees, so you should too |
 | **Outrage hook** | Content designed to make you angry or shocked so you'll react and share without thinking |
 
+:::note 🧒 Kid Version
+"Not all ads sell products. Some try to sell you an idea, a feeling, or a way of thinking. A commercial might try to make you feel like you need something to be cool. A poster might try to make you worried about something. This week, we learn to notice when media is selling something you can't put in a shopping cart."
+:::
+
 ## Connection
 
 **Last week's** Ad Tracker showed students the sheer volume of persuasion in everyday media. **This week** explores the *deepest* layer: media that sells ideas, opinions, and feelings instead of products. This is where media literacy connects to civic thinking. Understanding emotional selling helps students ask: "Is this feeling based on solid information, or is someone trying to push my buttons?" **Next week** begins Unit 3: verification — learning to check whether information is actually true.
+
+:::tip 🔄 Bring Forward
+**From Weeks 2-3:** Students identified purpose and construction choices. This week they see those same techniques used to sell ideas and feelings, not just products. Ask: "What construction choices is this using? What feeling is it trying to create? How is this different from a product ad?"
+:::
 
 ## Teacher Preparation
 
@@ -49,8 +57,14 @@ Collect examples of media that sell ideas or emotions rather than physical produ
 Be selective and age-appropriate. The goal is to show that media can influence how people *think and feel*, not just what they *buy*. Avoid deeply partisan content — use clear, simple examples.
 :::
 
+:::tip ⏱️ Quick Prep (5 Minutes or Less)
+Find one example of media that sells a feeling or idea rather than a product: a public service announcement, a charity appeal, a "feel-good" viral video, or even a school poster. One good example is enough.
+:::
+
 :::tip Teaching Mindset
 This is a week where thoughtful conversation matters more than activities. Students may have strong reactions to the idea that someone is trying to change what they think or feel. Validate that reaction: "It's natural to feel uncomfortable. The fact that you notice it means you're already ahead of most people." When selecting examples, be particularly careful to avoid content that reflects your own political preferences — use historical or fictional examples to keep the focus on the *technique*, not the *position*.
+
+Be careful not to make this week feel ideological. Focus on the techniques of emotional persuasion, not on whether specific causes are right or wrong. The skill is recognizing when emotion is being used to influence you — regardless of the topic.
 :::
 
 ---
@@ -164,6 +178,14 @@ This is the end of Unit 2. See the [Assessment Checkpoints](/docs/assessment-che
 - They separate the emotion from the facts when analyzing an example
 - They understand the distinction between honest emotional media and manipulation
 - They connect this week back to the full Unit 2 arc
+
+---
+
+## 🎯 Takeaway
+
+**Big idea:** Media can sell ideas, feelings, and behaviors — not just products. Emotional persuasion deserves the same careful attention as any ad.
+
+**Remember:** When something makes you feel strongly, that's a signal to pause and think, not proof that the message is right or wrong.
 
 ---
 
