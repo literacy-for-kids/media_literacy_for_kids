@@ -81,6 +81,7 @@ const sidebars = {
         'assessment-checkpoints',
         'final-project-rubric',
         'discussion-prompts',
+        'outcomes',
       ],
     },
   ],
