@@ -32,6 +32,10 @@ Students now know that media is constructed and that it has a purpose. This week
 | **Framing** | How a creator presents information — what to include, what to leave out, and how to arrange it |
 | **Variable** | A single element a creator can change (color, words, music, angle) that shifts how the message feels |
 
+:::note 🧒 Kid Version
+The people who make media choose things like colors, words, music, and pictures very carefully — like picking ingredients in a recipe. Different choices make you feel different things. This week, we become detectives who notice those choices.
+:::
+
 ## Connection
 
 **Last week** students learned the four purposes behind media. **This week** they discover *how* creators achieve those purposes through specific choices — words, colors, music, camera angles, and more. These "invisible choices" are what make media feel the way it does. **Next week** they'll put all of this into practice with the Re-Edit project, building two different stories from the same material.
@@ -44,6 +48,10 @@ Prepare the following:
 - A printed paragraph or news headline that you can rewrite together.
 - Crayons, markers, or colored pencils and blank paper.
 - Optional: a phone or tablet to play short audio clips (happy music vs. tense music).
+:::
+
+:::tip ⏱️ Quick Prep (5 Minutes or Less)
+Find two versions of something — two different cereal boxes, two book covers, or two movie posters. If you can't find two, just describe how one thing would change if you changed its colors or words.
 :::
 
 :::tip Teaching Mindset
@@ -166,6 +174,14 @@ Signs that learning is happening this week:
 - During the mood board activity, they make intentional color and word choices to match a mood
 - They start commenting on construction choices in media they encounter outside lessons ("That music made it feel scary")
 - They understand that facts can stay the same while the feeling changes
+
+---
+
+## Takeaway
+
+**This week's big idea:** Creators make specific choices — colors, words, images, sounds, framing — that shape how we feel about their message.
+
+**Remember:** If something makes you feel a strong emotion, ask: "What choice did the creator make to cause that feeling?"
 
 ---
 
