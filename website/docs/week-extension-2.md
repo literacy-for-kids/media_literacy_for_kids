@@ -18,7 +18,21 @@ This extension zooms in on **news** as a specific type of media. Students alread
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **News reporting** | A type of writing that presents facts about events — what happened, who was involved, when, and where |
+| **Opinion / Editorial** | A type of writing that argues for a point of view about an event or topic |
+| **Source (journalism)** | A person, document, or organization that provides information to a reporter |
+| **Coverage** | How a news outlet reports on an event — including what they include, what they leave out, who they interview, and what tone they use |
+
+## Connection
+
+This extension builds on **every unit** in the course. Students apply construction awareness (Unit 1), persuasion detection (Unit 2), verification skills (Unit 3), and algorithmic thinking (Unit 4) to the specific world of news media. News is where media literacy meets civic life.
 
 ## Teacher Preparation
 
@@ -150,3 +164,51 @@ Choose a simple, current event (your adult can help you find one). Find **two di
 #### Setup
 
 Help the student select a current event and locate two articles from different outlets. Bookmarks or printed copies work best so the student can move between them freely. Provide the report template and a timer set for 25–30 minutes.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Distinguish news from opinion**: Look at any article and identify whether it's reporting facts or arguing a viewpoint.
+2. **Compare coverage**: Describe specific differences between two outlets' coverage of the same event.
+3. **Identify what's missing**: After reading one article, name something the other article included that the first left out.
+
+---
+
+## Caregiver Look-Fors
+
+- The student can explain the difference between news and opinion without prompting
+- They notice that different outlets make different construction choices about the same event
+- They pay attention to the "what's missing" column, not just what's present
+- They use the Credibility Checklist naturally when evaluating articles
+- They resist labeling outlets as simply "good" or "bad" — they evaluate the specific article
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Use simple, visual stories**: A weather event with photos, an animal rescue, a community celebration.
+- **Compare two versions verbally**: Read both articles aloud and discuss differences as a conversation rather than filling in a chart.
+- **Focus on headlines**: Younger learners can compare just the headlines of two articles about the same event. Even that reveals construction.
+- **Skip the formal report**: Replace with a family discussion: "We read two stories about the same thing. What was different?"
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Three-source comparison**: Add a third outlet and track how coverage varies even more.
+- **Tone analysis**: Identify specific words in each article that create a positive, negative, or neutral tone.
+- **Media ownership research**: Who owns the outlets they're reading? Does ownership influence coverage?
+- **Create their own news story**: Write a short news report about a school or family event, following the journalistic standards discussed in the lesson.
+
+---
+
+## Accessibility Options
+
+- **Verbal comparison**: The adult reads both articles aloud; the student discusses differences verbally.
+- **Highlight and compare**: Print both articles and physically highlight matching facts in one color and differences in another.
+- **Simplified chart**: Use just three columns (Same / Different / Missing) instead of the full comparison chart.
+- **Audio news**: If available, compare a radio/podcast news report with a written one. Same event, different format.
+- **Comic strip summary**: Draw a 4-panel summary of each article and compare the panels visually.

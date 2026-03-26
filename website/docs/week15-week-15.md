@@ -20,7 +20,21 @@ This is the beginning of the final project. Over Weeks 15–18, students will cr
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Spec Sheet** | A planning document that describes what you're building, who it's for, what it's meant to do, and what standards you'll hold yourself to |
+| **Audience** | The specific group of people your media is created for — their age, knowledge, and interests shape every choice |
+| **Key message** | The single most important idea you want your audience to take away |
+| **Ethics checklist** | A set of questions to make sure your media is honest, accurate, fairly framed, and free of manipulation |
+
+## Connection
+
+**Units 1–4** taught students to analyze *other people's* media. **This week** they become creators themselves — and everything they've learned comes into play. Before building anything, they plan intentionally with a Spec Sheet. This is the beginning of the final project arc (Weeks 15–18). **Next week** they'll create their first draft.
 
 ## Teacher Preparation
 
@@ -148,3 +162,50 @@ Write down one thing you're excited about and one thing you're nervous about.
 #### Setup
 
 Provide whatever materials match the student's chosen format: art supplies, a device with a camera or recording app, paper for sketching, or a computer for writing/slides. Set a timer for 25 minutes. Remind them: "Preparation today = easier building next week."
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Name the plan**: Describe their topic, format, audience, and goal without looking at the Spec Sheet.
+2. **Explain a choice**: Pick one construction choice from their Spec Sheet and explain why they're making it.
+3. **Pass the ethics check**: Answer every question on the Ethics Checklist honestly.
+
+---
+
+## Caregiver Look-Fors
+
+- The student genuinely owns their topic choice (they're not just picking the easiest option)
+- They can explain their audience and how it shapes their choices
+- The Spec Sheet is specific, not vague ("kids my age" is fine; "everyone" is too broad)
+- They take the Ethics Checklist seriously, not as a formality
+- They're excited to start building
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Simplify the Spec Sheet**: Three sections are enough — What am I making? Who is it for? What's my message?
+- **Narrow format options**: A poster or short recorded video are most manageable at this age.
+- **Adult writes, student dictates**: The student provides the ideas; the adult fills in the template.
+- **Topic help**: Offer 3 specific options if brainstorming stalls: "something you know a lot about," "a problem you want to solve," "something that makes you happy."
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Professional Spec Sheet**: Add sections for "Sources I'll use," "Counter-arguments I'll address," and "Tone and style."
+- **Audience research**: How would they *actually* reach their intended audience? Where would they publish? What platform?
+- **Historical comparison**: Show examples of professional spec documents (movie pitches, design briefs) to connect the exercise to real creative work.
+
+---
+
+## Accessibility Options
+
+- **Verbal Spec Sheet**: The student speaks their plan into a recording instead of writing.
+- **Visual Spec Sheet**: Draw each section as an image — sketch the audience, draw the format, illustrate the key message.
+- **Checklist as conversation**: Walk through the Ethics Checklist as a dialogue instead of a written exercise.
+- **Template with sentence starters**: Pre-fill the Spec Sheet with prompts like "My project is about ___" and "I chose this format because ___."
+- **Photo-based planning**: Take photos of materials, locations, or inspiration and arrange them as a visual plan.

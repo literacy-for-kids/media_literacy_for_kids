@@ -20,7 +20,20 @@ Last week students learned that free content is paid for by attention. This week
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Clickbait** | A headline or thumbnail designed to trigger curiosity, shock, or emotion — often exaggerating or leaving out key information |
+| **Curiosity gap** | The gap between what you know and what you want to know — clickbait exploits this by teasing without satisfying |
+| **Thumbnail** | The small preview image shown before you click on a video or article, designed to grab attention |
+
+## Connection
+
+**Last week** students learned the big idea behind the attention economy: free content is paid for by attention. **This week** they examine the primary tool used to capture that attention: clickbait. They'll learn to decode clickbait formulas and practice rewriting them honestly. **Next week** they'll use their new awareness in a hands-on experiment: tracking every persuasion attempt in a block of media.
 
 ## Teacher Preparation
 
@@ -126,3 +139,49 @@ Bonus: Write one completely made-up clickbait headline that's so over-the-top it
 #### Setup
 
 Provide a notebook or template with four columns: "Original Headline", "Pattern Used", "Honest Rewrite", "Curiosity Rating." The student can browse saved screenshots, flip through physical media, or recall headlines from memory. Set a timer for 20–25 minutes.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Define it**: Explain what clickbait is in their own words.
+2. **Spot the pattern**: Read a clickbait headline and name the formula it uses.
+3. **Rewrite it**: Take any clickbait headline and produce an honest alternative.
+
+---
+
+## Caregiver Look-Fors
+
+- The student points out clickbait unprompted when browsing or watching
+- They name specific patterns ("That's a mystery gap!")
+- They laugh at over-the-top clickbait instead of being drawn in
+- They can rewrite a clickbait headline honestly without help
+- They understand that clickbait is engineered, not accidental
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Use made-up headlines**: Real clickbait may reference topics too mature for younger kids. Write silly, age-appropriate examples.
+- **Focus on one pattern**: The "mystery gap" is the easiest to understand. Save the others for Session 2.
+- **Skip thumbnail design**: Focus on headline analysis verbally.
+- **Play a game**: "Is this clickbait or not?" as a yes/no card game.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Analyze real platforms**: Visit YouTube or a news aggregator and categorize every headline on the page.
+- **A/B testing discussion**: Explain that creators often test multiple headlines and use whichever gets more clicks. What does that optimization do over time?
+- **Design and defend**: Create the most effective clickbait headline possible, then explain why it works using psychology.
+
+---
+
+## Accessibility Options
+
+- **Verbal headline makeover**: Instead of writing, the student reads clickbait aloud and immediately says an honest rewrite.
+- **Partner game**: One person reads a clickbait headline, the other guesses the pattern.
+- **Drawing thumbnails**: Sketch clickbait vs. honest thumbnails instead of writing headlines.
+- **Audio recording**: Record rewritten headlines as a "news broadcast" instead of writing.

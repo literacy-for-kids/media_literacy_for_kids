@@ -20,7 +20,20 @@ This is the key activity week for Unit 2. Students conduct a focused experiment:
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Persuasion attempt** | Any time someone tries to influence what you think, feel, or do |
+| **Persuasion technique** | A specific method used to influence you — emotional appeals, celebrity endorsements, urgency, repetition |
+| **Product placement** | When a product appears inside other content (like a movie character using a specific brand) as hidden advertising |
+
+## Connection
+
+**Last week** students learned to decode clickbait formulas. **This week** they broaden their lens and track *every* form of persuasion they encounter during a focused period of media. This is the Unit 2 key activity — a hands-on experiment that usually surprises students (and adults). **Next week** extends the idea further: what happens when media sells opinions, feelings, and behaviors instead of products?
 
 ## Teacher Preparation
 
@@ -134,3 +147,50 @@ If you want a bonus challenge, try tracking the media someone else in your famil
 #### Setup
 
 Provide the same tracking sheet from Session 2 (or a fresh one), a journal or paper for the reflection questions, and access to a different media type. Set a timer for the tracking period, then allow extra time for the written reflection.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Count them**: Report a total number of persuasion attempts found in a block of media.
+2. **Sort them**: Categorize attempts into products, clicks, ideas, and feelings.
+3. **Reflect**: Name their personal "blind spot" — what kind of persuasion do they most easily miss?
+
+---
+
+## Caregiver Look-Fors
+
+- The student takes the tracking task seriously and records entries systematically
+- The total count surprises them (the shock of volume is a key learning moment)
+- They identify persuasion beyond just obvious ads
+- They develop a personal strategy ("Before I click, I'll ask...")
+- They show interest in comparing their results with someone else's
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Shorten the tracking window**: 10–15 minutes instead of 30. Count is less important than the awareness.
+- **Track together**: The adult and student track side by side, pointing things out as they go.
+- **Use tally marks**: Instead of writing descriptions, draw a mark for each persuasion attempt found.
+- **Focus on TV or magazines**: These are easier to track than fast-moving digital content.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Compare platforms**: Track two different media types (e.g., TV vs. a free game) and compare the density and type of persuasion.
+- **Calculate attention cost**: If the student watched 30 minutes and saw 20 ads at ~15 seconds each, how much of that time was actually ads?
+- **Research**: How much money does a 30-second Super Bowl ad cost? What does that tell us about the value of attention?
+
+---
+
+## Accessibility Options
+
+- **Tally chart**: Use simple tally marks instead of written descriptions. Discuss findings verbally afterward.
+- **Audio notes**: Use a recording device to verbally note each persuasion attempt as they spot it.
+- **Collaborative tracking**: The student identifies, the adult writes.
+- **Sorting afterward**: Place tokens or counters into labeled cups (product / click / idea / feeling) for each attempt.
+- **Visual timeline**: Draw a timeline of the media session and mark where each persuasion attempt appeared.

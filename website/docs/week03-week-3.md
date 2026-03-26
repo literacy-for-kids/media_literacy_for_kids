@@ -20,7 +20,21 @@ Students now know that media is constructed and that it has a purpose. This week
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Construction choices** | The specific decisions a creator makes: camera angle, color palette, word choice, music, layout |
+| **Tone** | The overall mood or feeling of a piece of media (serious, funny, scary, cheerful) |
+| **Framing** | How a creator presents information — what to include, what to leave out, and how to arrange it |
+| **Variable** | A single element a creator can change (color, words, music, angle) that shifts how the message feels |
+
+## Connection
+
+**Last week** students learned the four purposes behind media. **This week** they discover *how* creators achieve those purposes through specific choices — words, colors, music, camera angles, and more. These "invisible choices" are what make media feel the way it does. **Next week** they'll put all of this into practice with the Re-Edit project, building two different stories from the same material.
 
 ## Teacher Preparation
 
@@ -126,3 +140,56 @@ When you're done, compare them. Same topic, two completely different feelings �
 #### Setup
 
 Provide paper (two sheets), markers or crayons, scissors and old magazines if available for collage, and a flat workspace. A timer set for 25 minutes works well — suggest spending about 12 minutes on each mood board.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Name three variables**: List at least three "invisible choices" creators make (e.g., colors, words, music, camera angle, what's included/excluded).
+2. **Spot the choice**: Look at any piece of media and name one specific choice the creator made and how it affects the feeling.
+3. **Flip the tone**: Take a simple sentence and rewrite it to feel different by changing the word choices.
+
+:::tip What If They're Not There Yet?
+If the concept feels abstract, go back to the Color Experiment from Session 1. Drawing the same scene in two moods is often the moment this clicks.
+:::
+
+---
+
+## Caregiver Look-Fors
+
+Signs that learning is happening this week:
+
+- The student uses words like "tone," "mood," or "choices" when talking about media
+- They notice differences between two versions of the same content (two headlines, two covers, two trailers)
+- During the mood board activity, they make intentional color and word choices to match a mood
+- They start commenting on construction choices in media they encounter outside lessons ("That music made it feel scary")
+- They understand that facts can stay the same while the feeling changes
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Focus on colors and music**: These are the most concrete variables for young children. Save word choice and camera angles for older learners.
+- **Simplify the mood boards**: One drawing in happy colors, one in spooky colors. Skip the collage if cutting and pasting is frustrating.
+- **Use familiar media**: Compare the opening of a cheerful cartoon vs. a suspenseful one. "What makes this one feel different?"
+- **Act it out**: Say the same sentence ("The dog walked to the door") in a happy voice and then a scared voice. Which feels different?
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Analyze real media side-by-side**: Find two news articles about the same event from different outlets. Compare the headlines, photos, and opening sentences. What are the construction choices?
+- **Framing and omission**: Discuss how leaving something OUT is also a construction choice. What's missing from this ad? What did this article not mention?
+- **Create a "variable report"**: For one complex piece of media (a trailer, a magazine cover, an ad), catalog every construction choice they can identify.
+
+---
+
+## Accessibility Options
+
+- **Verbal mood boards**: Instead of drawing, describe two moods for the same topic aloud. "If I were making a happy version, I'd use..." 
+- **Music-first approach**: For students who connect with audio, play two different music clips and discuss how they change the mood of any scene.
+- **Acting it out**: Perform the same simple story twice with different "moods" using voice, body language, and pacing.
+- **Digital collage**: If drawing is difficult, use a device to find and arrange images with different moods.
+- **Sorting by mood**: Provide pre-made examples and have the student sort them by the mood they create rather than creating from scratch.

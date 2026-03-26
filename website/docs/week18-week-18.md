@@ -20,7 +20,20 @@ This is the final week. Students present their finished media project to an audi
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Signal** | Meaningful, honest, well-sourced content that adds real value to your audience |
+| **Noise** | Content designed primarily to grab attention, generate clicks, or provoke reactions — without caring about accuracy or value |
+| **Creator Reflection** | A personal document where you look back on what you learned, what you made, and how your thinking changed |
+
+## Connection
+
+**Week 15** planned the project. **Week 16** built the draft. **Week 17** refined it through review and fact-checking. **This week** is the finale: students present their finished work to an audience, then reflect on the entire 18-week journey. Every skill from every unit comes together in this moment.
 
 ## Teacher Preparation
 
@@ -146,3 +159,56 @@ When finished, put your reflection somewhere you'll find it in a year. It will b
 #### Setup
 
 Provide a journal, nice paper, or a lined notebook — something that feels slightly more special than scratch paper. This is a keepsake. Provide a comfortable, quiet space and a pen. Set a timer for 20–25 minutes. No devices needed — this is a thinking-and-writing session.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Present with confidence**: Share their project and explain their creative choices clearly.
+2. **Summarize the journey**: Name one thing they learned from each unit (construction, persuasion, verification, algorithms, creation).
+3. **Set personal rules**: Articulate at least 3 personal media rules they'll follow going forward.
+
+:::tip Unit 5 / Course Checkpoint
+This is the end of the course. See the [Assessment Checkpoints](/docs/assessment-checkpoints) page for the final unit and overall course reflection. See the [Final Project Rubric](/docs/final-project-rubric) for evaluating the completed project.
+:::
+
+---
+
+## Caregiver Look-Fors
+
+- The student presents with genuine pride and ownership
+- They can answer audience questions using media literacy vocabulary naturally
+- The Timeline Walk produces real memories and reflections, not blank stares
+- Their personal media rules are specific and authentic (not just repeating what they think you want to hear)
+- They feel a sense of accomplishment and closure
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Small, warm audience**: One or two supportive family members is perfect. Don't overwhelm.
+- **Shorten the Timeline Walk**: Hit the highlights — "What do you remember about ads? What about checking if something is true?" Don't labor through every week.
+- **Three rules, not five**: Simplify the "Five Tools for Life" to three memorable ones.
+- **Creator Reflection as drawing**: The student draws their favorite lesson, their project, and one rule they'll follow.
+- **Certificate moment**: A printed or hand-drawn certificate makes the ending feel real and special.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Formal Q&A**: After the presentation, hold a structured Q&A where the student defends their choices like a professional.
+- **Written reflection essay**: Expand the Creator Reflection into a 1-page essay with specific examples from the course.
+- **Teach it forward**: Challenge the student to run a mini-lesson from the course for a younger sibling or friend.
+- **Social media audit**: As a forward-looking exercise, analyze their own social media use through the lens of everything they learned.
+
+---
+
+## Accessibility Options
+
+- **Video reflection**: Record the Creator Reflection as a video diary instead of writing.
+- **Interview format**: The adult interviews the student with the reflection questions, recording the conversation.
+- **Scrapbook**: Create a visual scrapbook of the course journey with drawings, photos of activities, and short captions.
+- **Verbal presentation**: If formal presenting is difficult, the student shows their project in a casual, conversational format.
+- **Partner presentation**: The student and adult co-present, with the adult providing support as needed.

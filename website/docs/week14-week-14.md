@@ -20,7 +20,20 @@ This is the key activity for Unit 4. Students experience what it's like to see t
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Feed Swap** | An exercise where you experience a simulated feed built for someone with very different interests and perspectives |
+| **Information environment** | The total set of media, news, and content a person is exposed to — shaped by algorithms, choices, and access |
+| **Balanced feed** | An imagined feed designed for understanding and growth rather than pure engagement |
+
+## Connection
+
+**Week 12** taught students what algorithms do. **Week 13** showed how algorithms and confirmation bias create filter bubbles. **This week's** Feed Swap makes it real: students step into another person's algorithmic world and experience the contrast firsthand. This is the Unit 4 key activity. **Next week** begins the final unit: students shift from *reading* media to *creating* it.
 
 ## Teacher Preparation
 
@@ -131,3 +144,54 @@ After designing it, answer:
 #### Setup
 
 Provide paper, markers, and the simulated feeds from the guided sessions as reference. The student designs their own feed from scratch. Set a timer for 25 minutes.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Describe the contrast**: Explain what was different between the simulated feeds and why.
+2. **Identify the gap**: Name at least two topics or perspectives their own feed probably never shows them.
+3. **Design intentionally**: Create a balanced feed that includes variety, not just engagement favorites.
+
+:::tip Unit 4 Checkpoint
+This is the end of Unit 4. See the [Assessment Checkpoints](/docs/assessment-checkpoints) page for a unit-level reflection conversation.
+:::
+
+---
+
+## Caregiver Look-Fors
+
+- The student is genuinely surprised by how different the feeds are
+- They can articulate what their own bubble excludes
+- The Balanced Feed design includes real variety, not just "more of what I like"
+- They connect all three weeks of Unit 4 together (algorithm → bubble → contrast)
+- They express a desire to diversify their media diet
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Use just two feeds**: Three can be overwhelming. Alex and Sam provide clear contrast.
+- **Make it physical**: Spread feed cards on a table and let the student sort and compare by moving cards around.
+- **Simpler Balanced Feed**: Design 5 items instead of 10, using drawings or stickers.
+- **Family activity**: Each family member draws what they think their feed looks like. Compare and discuss.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Real feed analysis**: If the student has a supervised social media account, screenshot actual recommendations and compare with a parent's or sibling's.
+- **Algorithm redesign pitch**: Write a 1-paragraph pitch for how a social media platform *should* design its algorithm if the goal were understanding instead of engagement.
+- **Historical connection**: How did people get diverse information before algorithms? (Newspapers, town squares, libraries.) What's changed?
+
+---
+
+## Accessibility Options
+
+- **Verbal Feed Swap**: Instead of writing reactions, the student talks through each feed item aloud.
+- **Color-coded comparison**: Use colored stickers or highlighters to mark similar/different content across feeds.
+- **Audio balanced feed**: Record a description of the ideal feed instead of writing it.
+- **Collage**: Cut images from magazines to build the Balanced Feed as a physical collage.
+- **Simplified template**: Pre-draw the 10-item feed layout so the student only needs to fill in content ideas.

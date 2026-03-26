@@ -15,7 +15,7 @@ const features = [
       'To understand a message, follow the money. If the content is free, ask what\'s paying for it \u2014 often, your attention is the product being sold. Students learn to ask: is the creator trying to inform, to sell, or to provoke?',
   },
   {
-    title: 'Algorithms Optimize for Engagement, Not Truth',
+    title: 'Algorithms Tend to Optimize for Engagement',
     description:
       'Digital platforms tend to prioritize content that keeps users engaged. This can mean high-emotion content gets promoted over more accurate or balanced material \u2014 not through malice, but through the mechanics of engagement-based ranking.',
   },

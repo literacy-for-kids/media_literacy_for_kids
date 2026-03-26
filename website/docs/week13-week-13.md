@@ -20,7 +20,21 @@ Last week students learned how algorithms curate their feeds. This week they lea
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Filter bubble** | When an algorithm only shows you content you already like or agree with, blocking out other perspectives |
+| **Echo chamber** | An environment where you only hear ideas similar to your own, making them feel like "everyone thinks this" |
+| **Confirmation bias** | Your brain's natural shortcut of preferring information that matches what you already believe |
+| **Feedback loop** | A cycle where your actions influence the algorithm, and the algorithm's output influences your actions, reinforcing the same pattern |
+
+## Connection
+
+**Last week** students learned how algorithms build personalized feeds based on engagement signals. **This week** explores what happens when that personalization goes too far: filter bubbles, echo chambers, and confirmation bias. They'll learn that the algorithm and their own brain work together to narrow their view. **Next week's** Feed Swap puts all of this into practice: students will step into someone else's algorithmic reality.
 
 ## Teacher Preparation
 
@@ -118,3 +132,49 @@ Bonus: Ask someone in your family to do the same exercise with a different topic
 #### Setup
 
 Provide a journal or paper. This is a reflective exercise — a quiet space helps. No devices needed. Set a timer for 20 minutes.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Define it**: Explain what a filter bubble is and how it forms.
+2. **Name the bias**: Describe confirmation bias in their own words and give an example.
+3. **Draw the loop**: Sketch or explain the feedback loop between their actions and the algorithm.
+
+---
+
+## Caregiver Look-Fors
+
+- The student recognizes that their feed is not "the whole internet"
+- They can name confirmation bias and give a personal example
+- They find the Perspective Challenge genuinely uncomfortable (that's the point!)
+- They connect the feedback loop to their own online behavior
+- They begin to question "does everyone really think this?"
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Use the bubble drawing**: The visual is powerful. Have the student physically place stickers inside and outside the bubble.
+- **Simplify confirmation bias**: "Your brain likes hearing things it already agrees with. It's like only wanting to eat your favorite food and never trying anything new."
+- **Skip the Perspective Challenge writing**: Instead, do it as a verbal game: "Your favorite animal is dogs? Tell me one reason cats might be great."
+- **Dogs vs. Cats**: The two-feed exercise works perfectly at this age.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Real-world filter bubbles**: Discuss how filter bubbles affect communities, not just individuals. If a whole neighborhood sees the same feed, what happens to their shared understanding of the world?
+- **Social pressure connection**: How do echo chambers relate to peer pressure? If "everyone" in your social group shares the same content, does that feel different from the algorithm pushing it?
+- **Build a de-biasing plan**: Write three personal commitments for breaking out of their filter bubble (e.g., follow one account with a different perspective, search for the other side before forming an opinion).
+
+---
+
+## Accessibility Options
+
+- **Physical bubble**: Create a large paper circle and use sticky notes to place topics inside and outside the student's bubble.
+- **Verbal Perspective Challenge**: Skip writing; discuss opposing viewpoints conversationally.
+- **Drawing the loop**: Instead of writing, draw the feedback loop as a comic strip with 4 panels.
+- **Partner exercise**: Do the challenge exercise together — the adult argues the opposite side of a silly topic, modeling the process.

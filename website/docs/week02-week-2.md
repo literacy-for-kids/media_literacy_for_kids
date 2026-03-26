@@ -20,7 +20,22 @@ Last week students discovered that media is everywhere and that someone made eve
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Purpose** | The reason a piece of media exists — to inform, entertain, persuade, or sell |
+| **Inform** | To share facts or teach something |
+| **Entertain** | To make people laugh, feel excited, or enjoy a story |
+| **Persuade** | To try to change what someone thinks, feels, or does |
+| **Sell** | To get people to buy a product or service |
+
+## Connection
+
+**Last week** students discovered that media is everywhere and that every piece of it was made by someone. **This week** they dig into the *why* — the purpose behind each piece of media. Understanding purpose is the second key to reading media critically, because it helps students ask "What does this creator want from me?" **Next week** they'll explore *how* creators use specific choices (colors, sounds, words, framing) to achieve their purpose.
 
 ## Teacher Preparation
 
@@ -123,3 +138,56 @@ Challenge yourself to find at least one example where the purpose isn't obvious 
 #### Setup
 
 Provide a notebook or a simple four-column template: "What is it?", "Main Purpose", "Evidence", "Hidden Purpose?" The student can look at media around the house, flip through a magazine, or browse a bookshelf. If screen time is appropriate, they can also look at a few YouTube thumbnails or app store screenshots (without opening them — just analyzing the surface).
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Name the four purposes**: Without looking, list the four main purposes of media.
+2. **Match and explain**: Pick any piece of media and explain its main purpose using evidence ("I think this is trying to sell because...").
+3. **Spot the combo**: Find one example where two purposes overlap and explain how.
+
+:::tip What If They're Not There Yet?
+If the student mixes up "persuade" and "sell," that's fine — they're closely related. Focus on building the habit of asking "What does this want me to do?" rather than memorizing categories perfectly.
+:::
+
+---
+
+## Caregiver Look-Fors
+
+Signs that learning is happening this week:
+
+- The student correctly identifies purpose for most examples, not just the obvious ones
+- They notice that some media serves more than one purpose at the same time
+- They start asking "what's the purpose?" about media they encounter outside of lesson time
+- They can point to specific evidence (words, images, layout) to support their purpose identification
+- They express surprise or interest when a hidden purpose is revealed
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Simplify to three purposes**: Start with "teach, entertain, and sell." Add "persuade" once the first three are solid.
+- **Use familiar examples**: A favorite cartoon (entertain), a textbook page (teach), a toy ad (sell).
+- **Physical sorting**: Print or draw examples on cards and have the student physically sort them into labeled piles.
+- **Provide sentence stems**: "I think this is trying to ___ because ___." 
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Analyze social media**: Look at real social media posts (screenshots) and identify how purpose is often disguised — sponsored content that looks like personal recommendations, educational content that's really selling a course.
+- **Multiple purposes debate**: Choose a complex example (like a viral charity campaign) and debate which purpose is primary.
+- **Media creation**: Write the same paragraph four times — once to inform, once to entertain, once to persuade, and once to sell.
+
+---
+
+## Accessibility Options
+
+- **Verbal sorting**: Instead of writing, the student describes each example aloud and states its purpose.
+- **Color-coding**: Assign a color to each purpose (blue = inform, yellow = entertain, red = persuade, green = sell). The student marks or tags items with the appropriate color.
+- **Cut-and-sort**: Print examples on cards and physically sort them into purpose piles.
+- **Drawing**: Sketch a quick picture for each media example and draw a symbol for its purpose.
+- **Partner discussion**: The student and caregiver discuss each example together, with the student leading the purpose identification.

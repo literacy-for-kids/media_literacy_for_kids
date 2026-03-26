@@ -20,7 +20,20 @@ This week the student takes their project through the same kind of critical revi
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Peer review** | Sharing your work with another person to get constructive feedback before finalizing |
+| **Constructive feedback** | Feedback that identifies strengths AND suggests specific improvements — helpful, not hurtful |
+| **Fact-checking (your own work)** | Verifying that every claim, number, and description in your project is accurate before publishing |
+
+## Connection
+
+**Last week** students built their first draft and self-audited it. **This week** they take it through external review: peer feedback, fact-checking, and revision. This mirrors real professional workflows — journalists, filmmakers, and writers all go through rounds of review. **Next week** is the final presentation: the student shares their finished project and reflects on the full 18-week journey.
 
 ## Teacher Preparation
 
@@ -142,3 +155,50 @@ When your project is done, prepare for next week's presentation:
 #### Setup
 
 Provide all project materials and a quiet workspace. If the student is practicing a presentation, provide a mirror or a willing listener. Set a timer for 25 minutes — 15 for final revisions, 10 for presentation practice.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Accept and use feedback**: Describe one change they made based on someone else's feedback.
+2. **Fact-check their own work**: Walk through every factual claim in their project and explain how they verified it.
+3. **Prepare to present**: Deliver their project introduction clearly and confidently.
+
+---
+
+## Caregiver Look-Fors
+
+- The student receives feedback gracefully (they may need coaching — that's normal)
+- They make genuine revisions, not just surface tweaks
+- They take fact-checking their own claims seriously
+- Their revision plan is specific ("I'll rewrite this sentence" not "I'll make it better")
+- They practice the presentation with real effort
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Warm feedback first**: Start with 3 positive things before any suggestions. Young learners are more sensitive to critique.
+- **Simple feedback form**: "What did you like?" and "What was confusing?" is enough.
+- **Skip formal fact-checking**: Instead, ask: "Is everything in your project true? How do you know?"
+- **Practice the presentation as play**: Frame it as "show and tell" rather than a formal presentation.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Written feedback exchange**: If a peer is available, exchange written reviews using the full feedback form.
+- **Source citation**: Add a "Sources" section to the project listing where each fact came from.
+- **Professionalism standard**: Compare their revision process to how a real newsroom or studio works.
+
+---
+
+## Accessibility Options
+
+- **Verbal feedback session**: The reviewer speaks their feedback; the student listens and takes notes (or the adult takes notes for them).
+- **Recorded presentation practice**: Record the practice run so the student can watch/listen back and self-evaluate.
+- **Visual revision tracking**: Use colored sticky notes on the project to mark areas for change.
+- **Partner presentation**: The student presents alongside the adult, who provides support as needed.
+- **Focus on one revision**: If the full revision plan feels overwhelming, pick the single most important change and do it well.

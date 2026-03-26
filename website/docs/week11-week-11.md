@@ -20,7 +20,21 @@ Weeks 9–10 taught students to check text-based claims. This week focuses on **
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Out-of-context media** | A real image, video, or quote used with a false description, wrong date, or wrong location |
+| **Manipulated image** | A photo or graphic that has been digitally altered — things added, removed, or changed |
+| **Staged media** | A real photo or video where the scene was set up on purpose to create a false impression |
+| **Reverse image search** | A tool that lets you upload an image and find where else it appears online, helping trace its origin |
+
+## Connection
+
+**Weeks 9–10** taught students to verify text-based claims. **This week** extends those skills to **visual media** — photos, screenshots, and video clips. Students learn that "seeing it with your own eyes" is not always proof, and they build a personal Fake Spotter's Guide. **Next week** begins Unit 4: understanding algorithms and how automated systems shape what you see.
 
 ## Teacher Preparation
 
@@ -143,3 +157,54 @@ Decorate it, make it clear, and make it something you'd actually use.
 #### Setup
 
 Provide a sheet of paper or cardstock, markers or colored pens, and the student's checklist from Session 2 as a reference. This is a creative project — encourage the student to make it visually appealing. Set a timer for 25 minutes.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Name the three types**: Explain out-of-context, manipulated, and staged media in their own words.
+2. **Use reverse image search**: Demonstrate how to check where a photo came from.
+3. **Apply the checklist**: Examine an image and walk through the Fake Spotter's Checklist to reach a verdict.
+
+:::tip Unit 3 Checkpoint
+This is the end of Unit 3. See the [Assessment Checkpoints](/docs/assessment-checkpoints) page for a unit-level reflection conversation.
+:::
+
+---
+
+## Caregiver Look-Fors
+
+- The student pauses before accepting a dramatic image at face value
+- They can name the type of visual deception ("That's out-of-context media")
+- They remember to check the caption, not just the image
+- They use reverse image search confidently
+- They show genuine pride in the Fake Spotter's Guide they created
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Use obviously silly examples**: A photo of a cat with a caption saying it's a dog. A "quote" attributed to a cartoon character.
+- **Focus on out-of-context only**: Skip manipulated and staged for now — out-of-context is most common and easiest to grasp.
+- **Reverse image search as a group**: Adult demonstrates, student watches and helps interpret results.
+- **Simple guide**: The Fake Spotter's Guide can be a drawing with three things to check instead of a full written page.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Deepfake discussion**: Introduce the concept of AI-generated video and audio. What happens when you can't trust video evidence?
+- **Photo forensics**: Explore free online tools that analyze image metadata (when was it taken, what device, has it been edited).
+- **Create and debunk**: The student creates a deliberately misleading captioned image (using a real photo with a false caption), then writes the debunk explaining how someone could catch it.
+
+---
+
+## Accessibility Options
+
+- **Verbal detective**: Instead of a written guide, the student records a video or audio guide explaining how to spot fakes.
+- **Image sorting**: Print images on cards and physically sort them into "real," "out of context," and "manipulated" piles.
+- **Partner checklist**: Adult reads each checklist item aloud; student gives a thumbs up/down for each one.
+- **Large-print checklist**: Create the Fake Spotter's Guide in large print with simple icons for each step.
+- **Collage format**: Cut and paste examples from magazines instead of drawing or writing.

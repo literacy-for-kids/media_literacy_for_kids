@@ -20,7 +20,21 @@ This week introduces one of the most important concepts in modern media literacy
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Algorithm** | A set of rules that a platform uses to decide what content to show you, based on your past behavior |
+| **Feed** | The stream of posts, videos, or articles a platform shows you — curated by an algorithm, not randomly selected |
+| **Engagement signal** | Any action you take (like, comment, share, watch time) that tells the algorithm what to show you more of |
+| **Personalization** | When a platform customizes what you see based on your behavior, so that two people using the same app see different content |
+
+## Connection
+
+**Units 1–3** taught students to see how media is built, paid for, and verified. **This week** asks a new question: *who decides what you see in the first place?* Students discover that algorithms curate their feeds based on engagement, not accuracy or value. **Next week** they explore what happens when that curation goes too far: filter bubbles and echo chambers.
 
 ## Teacher Preparation
 
@@ -122,3 +136,49 @@ Today, fill out at least one journal entry. If possible, continue updating the j
 #### Setup
 
 Provide a journal or notebook with three columns: "What Was Recommended," "Why I Think It Was Chosen," "What's Missing." The student can make entries throughout the week. For today's session, have them make their first entry using whatever device and app is most frequently used. Set a timer for 20 minutes.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Define algorithm**: Explain what an algorithm does in their own words (no jargon — the librarian analogy is fine).
+2. **Name the signals**: List at least three engagement signals that teach the algorithm about them.
+3. **Spot the pattern**: Look at their own feed and explain why certain content appears there.
+
+---
+
+## Caregiver Look-Fors
+
+- The student uses the word "algorithm" naturally when talking about what they see online
+- They connect their own actions (watching, liking) to what shows up in their feed
+- They show genuine surprise at how personalized their feed is
+- They ask questions like "Why am I seeing this?" or "What is the algorithm optimizing for?"
+- The Recommendation Game produces a convincing narrowing effect
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Lean heavily on the librarian analogy**: It's concrete and memorable. Act it out with real books if possible.
+- **Simplify the Recommendation Game**: Use 5 cards instead of 10, and run only 2 rounds.
+- **Skip the Algorithm Journal for now**: Replace it with a single conversation: "What does YouTube always show you? Why?" That's the concept.
+- **Use a familiar app**: If the student plays a game with recommended content, use that as the example.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Compare platforms**: How do YouTube, TikTok, and a news app differ in how they build feeds? Which is most aggressive about engagement?
+- **Data collection discussion**: What data does the platform collect to build your profile? How do you feel about that?
+- **Experiment**: Over 3 days, deliberately interact with content outside their usual pattern and track how the feed changes.
+
+---
+
+## Accessibility Options
+
+- **Draw the algorithm**: Instead of writing the journal, draw what the algorithm "thinks" they like.
+- **Verbal journal entries**: Record observations as voice memos instead of writing.
+- **Physical Recommendation Game**: Use actual objects (toy figures, snack boxes, book covers) as content cards.
+- **Partner journal**: Adult and student keep the Algorithm Journal together, comparing observations.

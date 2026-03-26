@@ -20,7 +20,20 @@ This is the **building week.** The student has a Spec Sheet and gathered materia
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **First draft** | The initial version of a creative project — complete enough to review, but not yet polished |
+| **Self-audit** | Reviewing your own work using the same critical questions you'd apply to someone else's media |
+| **Revision** | Improving a draft by adding, removing, or changing elements based on reflection or feedback |
+
+## Connection
+
+**Last week** students planned their project with a Spec Sheet. **This week** they build the first draft and then audit it using every media literacy principle from the course. The self-audit is the payoff of 14 weeks of analysis: now they apply those same lenses to their own creation. **Next week** they'll share their draft with a reviewer and refine it further.
 
 ## Teacher Preparation
 
@@ -143,3 +156,50 @@ This Creator's Note will be useful next week when you present.
 #### Setup
 
 Provide all necessary materials for the student's format. Have the Spec Sheet visible. Set a timer for 25–30 minutes. The adult should be available for questions but let the student work independently as much as possible.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Show the draft**: Present a complete (if rough) first draft of their project.
+2. **Explain every choice**: Point to any element and explain why it's there, connected to the Spec Sheet.
+3. **Self-audit**: Identify at least one thing they improved after running the media literacy self-check.
+
+---
+
+## Caregiver Look-Fors
+
+- The student refers back to the Spec Sheet while building (not ignoring it)
+- Construction choices are intentional, not random
+- The self-audit produces genuine reflection, not "everything is fine"
+- The student identifies at least one area for improvement voluntarily
+- They can distinguish between "I like it" and "it serves my goal"
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Shorten build time**: 15 minutes is plenty for a poster or short recording.
+- **Simplify the self-audit**: Ask just three questions: "Is it honest?" "Does it say what you want?" "Would your audience understand it?"
+- **Adult as collaborator**: Work side by side, especially for technical tasks (recording, cutting, gluing).
+- **Celebrate the draft**: At this age, finishing a first draft is a major accomplishment. Mark it.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Full self-audit worksheet**: Write responses to each self-audit question, creating a paper trail of their critical thinking.
+- **Revision log**: Track every change made during revision and the reason for it.
+- **Style and tone check**: Does the project's voice match its audience? Is the tone consistent throughout?
+
+---
+
+## Accessibility Options
+
+- **Verbal self-audit**: The adult reads each self-audit question aloud; the student responds verbally.
+- **Dictation for writing projects**: The student speaks their draft while someone types.
+- **Chunked building**: Break production into 5-minute focused bursts with short breaks.
+- **Visual checklist**: A printed checklist with checkboxes for each self-audit question.
+- **Alternative formats**: If the chosen format is too difficult, it's OK to pivot — a poster is just as valid as a video.

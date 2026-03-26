@@ -20,7 +20,21 @@ This is the key activity week for Unit 3. Students learn **lateral reading** —
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Lateral reading** | A verification technique where you leave the page and check what *other* sources say, instead of reading one source deeply |
+| **Vertical reading** | Reading one source carefully from top to bottom — less reliable than lateral reading for judging accuracy |
+| **Fact-check** | The process of investigating a specific claim to determine whether it's true, false, or misleading |
+| **Three-Tab Rule** | A rule of thumb: find the claim confirmed by at least three different, unrelated sources before believing it |
+
+## Connection
+
+**Last week** students got their basic verification toolkit (source, date, search). **This week** is the Unit 3 key activity: they learn **lateral reading** — the actual technique professional fact-checkers use — and apply it in a timed Fact-Check Sprint. **Next week** they extend verification to visual media: photos, screenshots, and video clips.
 
 ## Teacher Preparation
 
@@ -138,3 +152,50 @@ If you want a challenge, present your report to someone in your family and see i
 #### Setup
 
 Provide a device with a web browser (supervised), a notebook or report template, and a quiet workspace. Pre-approve the claim if the student needs one. Set a timer for 25 minutes — 15 for research, 10 for writing.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Explain lateral reading**: Describe the difference between vertical and lateral reading and why lateral reading is more reliable.
+2. **Apply the Three-Tab Rule**: Given any claim, open multiple tabs and check what different sources say.
+3. **Write a verdict**: Produce a one-sentence evidence-based judgment about a claim's accuracy.
+
+---
+
+## Caregiver Look-Fors
+
+- The student naturally opens new tabs to check claims instead of trusting one source
+- They can narrate their thinking: "This source says X, but this other one says Y..."
+- They enjoy the detective-work feel of the Fact-Check Sprint
+- They are building confidence in their own ability to investigate
+- They show appropriate nuance ("uncertain" is a valid verdict)
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Adult-guided lateral reading**: The adult handles the browser while the student makes decisions ("Should we trust this? Let's check another tab.").
+- **Two-Tab Rule**: Simplify from three to two confirming sources.
+- **Visual comparison**: Print search results from two sources and physically place them side by side.
+- **Skip the formal report**: Replace the written Fact-Check Report with a verbal presentation to a family member.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Source quality ranking**: After lateral reading, rank the sources by reliability and explain why some are more trustworthy than others.
+- **Investigate a current claim**: Choose a claim currently circulating on social media and write a real fact-check report.
+- **Debrief on speed vs. depth**: When is a quick check sufficient? When do you need to dig deeper? Develop personal guidelines.
+
+---
+
+## Accessibility Options
+
+- **Verbal fact-check**: The student narrates their investigation process while the adult takes notes.
+- **Pre-opened tabs**: Set up the browser with tabs already open so the student focuses on comparing, not navigating.
+- **Paired sprint**: Run the sprint together — the student directs, the adult types and clicks.
+- **Audio report**: Record the Fact-Check Report as a voice memo instead of writing it.
+- **Graphic organizer**: Use a three-column chart (Source 1 / Source 2 / Source 3) for easy comparison.

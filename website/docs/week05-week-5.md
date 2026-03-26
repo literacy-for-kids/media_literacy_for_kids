@@ -20,7 +20,22 @@ This week shifts from *how* media is made to *why* it's made. The big idea: if a
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Attention economy** | The idea that human attention is valuable and limited, and companies compete to capture it |
+| **Business model** | How a company makes money. Free apps often make money by showing ads |
+| **Advertiser** | A company or person who pays to show messages (usually about products) to an audience |
+| **Sponsored content** | Media that looks like regular content but is paid for by an advertiser |
+| **Incentive** | What the creator gets out of making the content |
+
+## Connection
+
+**Last week** wrapped up Unit 1 — students proved through the Re-Edit that the same material can tell completely different stories. **This week** begins Unit 2: the Attention Economy. The focus shifts from *how* media is made to *why* it's made — specifically, how "free" content makes money by capturing your attention. This idea connects directly to construction: once you know *why* a creator wants your attention, you can better understand the choices they make. **Next week** dives into the most visible tool of the attention economy: clickbait.
 
 ## Teacher Preparation
 
@@ -126,3 +141,52 @@ Bonus: find one "ad" that isn't selling a physical product — it might be selli
 #### Setup
 
 Provide a notebook or a simple template with four columns. If the student wants to use screen-based media, have them work with a parent-approved website or app. Remind them: the goal is to *analyze*, not to get sucked into the content. Set a timer.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Explain the trade**: In their own words, explain how a free app makes money.
+2. **Spot the ad**: Point to a sponsored or disguised ad in a real feed or website.
+3. **Ask the question**: Given any free media, ask "Who is paying for this, and what do they get?"
+
+---
+
+## Caregiver Look-Fors
+
+Signs that learning is happening this week:
+
+- The student asks "Wait, how does this make money?" about free content
+- They identify ads in a social media feed — including ones designed to blend in
+- They can explain the "attention as product" concept in their own words
+- They distinguish between content and advertising even when the line is blurred
+- They don't feel guilty about using free apps but do feel more aware
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Start with tangible examples**: Compare a toy you buy at a store (you pay money) to a free game with ads (you pay with your attention).
+- **Simplify the diagram**: Draw it as "You watch → You see ads → Company gets money."
+- **Use physical ads**: Magazine ads and cereal boxes are easier to analyze than digital ones.
+- **Skip disguised ads**: Focus on obvious ads first. Sponsored posts and influencer partnerships can wait for older learners.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Data as product**: Discuss how platforms also collect user data (what you search, what you click) and how that data is valuable to advertisers.
+- **Influencer economics**: Explore how influencers are paid — sponsorships, affiliate links, free products — and what that means for their recommendations.
+- **Subscription vs. ad models**: Compare a paid, ad-free service (like a subscription app) to a free, ad-supported one. Which business model aligns better with the user's interests?
+
+---
+
+## Accessibility Options
+
+- **Verbal ad hunt**: Instead of writing, the student describes each ad found aloud while the caregiver keeps a tally.
+- **Ad collage**: Cut out ads from magazines and physically sort them by type (obvious vs. hidden).
+- **Drawing**: Sketch the Follow the Money diagram instead of writing it.
+- **Discussion-first**: Do the Ad Detective Journal as a guided conversation with the caregiver recording the student's observations.
+- **Star rating by hand**: Instead of writing about each ad, rate them by holding up fingers (1–5) for how hidden the ad was.

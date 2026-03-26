@@ -20,7 +20,21 @@ Weeks 5–7 focused on ads and clickbait — the commercial side of the attentio
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Emotional selling** | Using feelings (fear, excitement, outrage, nostalgia) to persuade instead of using facts |
+| **Propaganda** | Media designed to promote a particular viewpoint, often using emotional techniques and leaving out opposing information |
+| **Bandwagon effect** | Making it seem like "everyone" already agrees, so you should too |
+| **Outrage hook** | Content designed to make you angry or shocked so you'll react and share without thinking |
+
+## Connection
+
+**Last week's** Ad Tracker showed students the sheer volume of persuasion in everyday media. **This week** explores the *deepest* layer: media that sells ideas, opinions, and feelings instead of products. This is where media literacy connects to civic thinking. Understanding emotional selling helps students ask: "Is this feeling based on solid information, or is someone trying to push my buttons?" **Next week** begins Unit 3: verification — learning to check whether information is actually true.
 
 ## Teacher Preparation
 
@@ -126,3 +140,54 @@ Arrange your gallery cards on a table or wall. Step back and look at the collect
 #### Setup
 
 Provide index cards or small pieces of paper for the gallery cards, markers, and a surface to display them. The student can draw from memory, look around the house, or browse saved examples. Set a timer for 25 minutes.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Identify non-product selling**: Give an example of media that sells an idea, a behavior, or a feeling.
+2. **Name a technique**: Identify at least two emotional selling techniques by name.
+3. **Ask the key question**: In their own words, state the question they should ask when media triggers a strong feeling.
+
+:::tip Unit 2 Checkpoint
+This is the end of Unit 2. See the [Assessment Checkpoints](/docs/assessment-checkpoints) page for a unit-level reflection conversation.
+:::
+
+---
+
+## Caregiver Look-Fors
+
+- The student recognizes that not all "selling" involves products
+- They can name emotional techniques (outrage hook, bandwagon, etc.)
+- They separate the emotion from the facts when analyzing an example
+- They understand the distinction between honest emotional media and manipulation
+- They connect this week back to the full Unit 2 arc
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Focus on PSAs and simple examples**: A fire safety poster, a "share with others" cartoon message, a librarian poster encouraging reading.
+- **Skip outrage and propaganda**: These are abstract for younger learners. Focus on "selling a behavior" (be kind, recycle, brush your teeth).
+- **Make it personal**: "Can you make a poster that would convince your family to play a game tonight?" This is selling a behavior.
+- **Feeling check-in**: Use simple emotion words: "Does this make you feel happy, sad, scared, or excited?"
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Historical propaganda analysis**: Look at historical examples (WWII posters, public health campaigns) and identify the techniques.
+- **Current events connection**: How do modern platforms amplify emotional content? What does that mean for public discourse? (Keep this balanced and non-partisan.)
+- **Create a counter-ad**: Design a piece of media that uses reason and calm information to counter an emotional appeal.
+
+---
+
+## Accessibility Options
+
+- **Gallery as discussion**: Instead of creating written gallery cards, the student describes each example verbally and the caregiver records the key points.
+- **Acting it out**: Create a short skit that demonstrates an emotional selling technique.
+- **Sorting cards**: Pre-made cards with descriptions of media, sorted into "selling a product" vs. "selling an idea" vs. "selling a feeling."
+- **Drawing**: Sketch the emotional ad they designed in Session 2 instead of describing it in words.
+- **Emoji rating**: Use printed emoji faces to rate the emotional pull of each example instead of writing numbers.

@@ -20,7 +20,20 @@ This is the capstone week for Unit 1. Students put everything from Weeks 1–3 i
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Re-edit** | Taking the same raw material and arranging it differently to tell a different story |
+| **Raw material** | The unedited content (photos, clips, sentences) before a creator makes choices about how to present it |
+| **Version** | One particular arrangement or presentation of a set of material |
+
+## Connection
+
+**Over the past three weeks**, students learned that all media is constructed (Week 1), that every piece has a purpose (Week 2), and that creators use "invisible choices" to shape how it feels (Week 3). **This week** brings it all together: students become the creator and prove — by doing it themselves — that the same material can tell completely different stories. This is the capstone of Unit 1. **Next week** begins Unit 2, where the focus shifts from *how* media is made to *why* — specifically, how "free" content makes money.
 
 ## Teacher Preparation
 
@@ -123,3 +136,58 @@ If you have time, create a clean "title card" for your rule — decorate it, mak
 #### Setup
 
 Provide the student's two completed versions, a journal or paper, and something to write with. This session is quieter and more reflective. A comfortable, distraction-free spot helps. Set a timer for 20 minutes.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Show the difference**: Present both versions and explain what changed between them (not the material — the choices).
+2. **Name the variables**: Identify at least three construction choices they changed between versions.
+3. **Apply the insight**: In their own words, explain why seeing only one version of a story doesn't give you the full picture.
+
+:::tip Unit 1 Checkpoint
+This is the end of Unit 1. See the [Assessment Checkpoints](/docs/assessment-checkpoints) page for a unit-level reflection conversation you can have with the student.
+:::
+
+---
+
+## Caregiver Look-Fors
+
+Signs that learning is happening this week:
+
+- The student creates two noticeably different versions from the same material
+- They can articulate *what they changed* and *why* it created a different effect
+- They express surprise at how much the feeling changed even though the material was identical
+- When showing someone both versions, they enjoy the moment of "reveal"
+- They connect the activity to real media: "This is what editors do every day"
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Simplify the medium**: Use paper and scissors with printed pictures rather than digital tools. Physical manipulation is more accessible.
+- **Two moods, not two stories**: Instead of asking for two complete narratives, ask for the same pictures arranged to feel "happy" and then "scary" (or similar pair).
+- **Adult-assisted captioning**: The adult can write captions the student dictates.
+- **Fewer pieces**: Use 4–5 images instead of 8–10.
+- **Celebrate loudly**: This is a creative accomplishment. Make the "big reveal" moment feel special.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Video re-edit**: If resources allow, record short clips and use a simple editor to create two different sequences with different music or narration.
+- **Real-world parallel**: Find a real example of the same event covered differently by two outlets. Compare them to the student's own re-edit experience.
+- **Discuss ethics**: "If you were a news editor, how would you decide which version to publish? Is one more honest than the other?"
+- **Write about it**: A short paragraph reflecting on what it felt like to control the story.
+
+---
+
+## Accessibility Options
+
+- **Verbal storytelling**: Instead of building physical versions, the student tells two different stories from the same list of facts or images, narrated aloud.
+- **Collaborative building**: The student directs the adult to arrange the material ("Put that picture first, then this one"). Decision-making matters more than physical assembly.
+- **Digital tools**: Use a simple drag-and-drop app if fine motor tasks are challenging.
+- **Card sequencing**: Lay images on a table and simply reorder them for each version. No cutting or gluing required.
+- **Voice recording**: Record two different narrations over the same set of images.

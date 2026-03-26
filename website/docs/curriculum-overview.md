@@ -5,7 +5,7 @@ title: 18-Week Media Literacy Curriculum
 description: >
   Step-by-step media literacy roadmap that blends guided lessons with independent practice for young learners.
 sidebar_label: Curriculum Overview
-sidebar_position: 0
+sidebar_position: 1
 ---
 
 # 18-Week Media Literacy Curriculum
@@ -15,6 +15,7 @@ sidebar_position: 0
 :::tip Use This Page
 - Review [Curriculum Overview](#curriculum-overview) for pacing and teaching assumptions.
 - Use [Program at a Glance](#program-at-a-glance) to jump to a specific week quickly.
+- Check [Learning Ladder](#learning-ladder-how-skills-build-over-time) to see how concepts connect.
 - Check [Optional Extension](#optional-extension) for the bonus track.
 - Save [Independent Session Setup Tips](#independent-session-setup-tips) for caregiver logistics.
 :::
@@ -22,12 +23,13 @@ sidebar_position: 0
 :::info Planning Help
 - Use this page as your roadmap before the course starts or whenever you need to find the right lesson quickly.
 - The week-by-week table is the fastest way to jump into a teaching page.
+- If you are new to this curriculum, start with the [Caregiver & Educator Guide](/docs/caregiver-guide).
 :::
 
 ## Curriculum Overview
 
 ### Target Audience
-Young learners (ages 8–12).
+Young learners (ages 8–12, with adaptations for ages 6–8 and extensions for ages 11–13).
 Basic reading ability is helpful, but adult guidance is expected throughout.
 
 ### Weekly Structure
@@ -39,19 +41,21 @@ Each week contains:
 Guided sessions introduce concepts through conversation, real examples, and hands-on activities.
 Independent sessions reinforce skills through creative exploration, journaling, and purposeful practice.
 
+Across the curriculum, students are regularly asked to explain what they notice, compare different examples, evaluate claims, and create their own media — building from analysis toward creation.
+
 ### Core Concepts
 
 Five ideas thread through every unit. For a full explanation of each, see the [Welcome page](/docs/intro#core-concepts).
 
 1. **All Media is Constructed**
-2. **The Incentive Dictates the Signal**
-3. **Algorithms Optimize for Engagement, Not Truth**
-4. **Context is the Metadata of Truth**
-5. **Sharing is a "Write" Operation**
+2. **Follow the Incentive**
+3. **Algorithms Shape What You See**
+4. **Context Changes Meaning**
+5. **Sharing Has Consequences**
 
 ### Final Project
 
-The program culminates in a student-created media project developed during Weeks **15–18**. Students plan, build, test, and present an honest media artifact with a clearly defined audience and purpose.
+The program culminates in a student-created media project developed during Weeks **15–18**. Students plan, build, test, and present an honest media artifact with a clearly defined audience and purpose. See the [Final Project Rubric](/docs/final-project-rubric) for evaluation criteria.
 
 ### Flexibility & Adaptability
 
@@ -64,7 +68,18 @@ Adjust pacing based on the learner's:
 - curiosity
 - attention span
 
+If a concept clicks quickly, explore optional challenges or extensions. If a topic needs more time, slow down and revisit through discussion or hands-on activities.
+
 The ultimate goal is **critical thinking and confidence**, not rushing through content.
+
+### Assessment Approach
+
+This curriculum uses practical, lightweight assessment — no tests, no grades. Learning is tracked through:
+
+- **Weekly Quick Checks** — 2–3 items at the end of each lesson
+- **Caregiver Look-Fors** — observable signs in each week
+- **Unit Checkpoints** — reflection conversations at the end of each unit (see [Assessment Checkpoints](/docs/assessment-checkpoints))
+- **The Final Project** — the most authentic evidence of learning (see [Final Project Rubric](/docs/final-project-rubric))
 
 ---
 
@@ -73,9 +88,11 @@ The ultimate goal is **critical thinking and confidence**, not rushing through c
 Each week below links to a detailed lesson page containing:
 
 - learning objectives
+- key vocabulary
 - guided sessions with activities
 - independent activities
 - preparation notes
+- quick checks and adaptations
 
 ### The Anatomy of a Message — Weeks 1–4
 
@@ -101,7 +118,7 @@ Each week below links to a detailed lesson page containing:
 |---|---|---|
 | [Week 9](./week09-week-9) | Is This Real? | Why false information spreads; introduction to verification tools |
 | [Week 10](./week10-week-10) | The Fact-Check Sprint | Key Activity — tracing a viral claim back to its original source |
-| [Week 11](./week11-week-11) | Spotting Fakes | Manipulated images, out-of-context media, and the Context Test |
+| [Week 11](./week11-week-11) | Spotting Fakes | Manipulated images, out-of-context media, and visual detection tools |
 
 ### The Algorithmic Echo — Weeks 12–14
 
@@ -131,6 +148,55 @@ Each week below links to a detailed lesson page containing:
 
 ---
 
+## Learning Ladder: How Skills Build Over Time
+
+```mermaid
+flowchart TB
+  subgraph L1["Foundation"]
+    A["📰 What is Media?<br/>Week 1"]
+  end
+  subgraph L2["Deconstruction"]
+    B["🔍 Authorship & Purpose<br/>Week 2"]
+    C["🎨 Construction Choices<br/>Week 3"]
+    D["✂️ The Re-Edit<br/>Week 4"]
+  end
+  subgraph L3["Attention & Persuasion"]
+    E["💰 Business Models<br/>Week 5"]
+    F["🪝 Clickbait & Thumbnails<br/>Week 6"]
+    G["📊 Ad Tracking<br/>Week 7"]
+    H["💭 Emotional Selling<br/>Week 8"]
+  end
+  subgraph L4["Verification"]
+    I["❓ Is This Real?<br/>Week 9"]
+    J["🔎 Fact-Check Sprint<br/>Week 10"]
+    K["🕵️ Spotting Fakes<br/>Week 11"]
+  end
+  subgraph L5["Algorithms & Bias"]
+    L["⚙️ How Feeds Work<br/>Week 12"]
+    M["🔁 Echo Chambers<br/>Week 13"]
+    N["🔄 The Feed Swap<br/>Week 14"]
+  end
+  subgraph L6["Creation"]
+    O["📋 Project Planning<br/>Week 15"]
+    P["🛠 Building<br/>Week 16"]
+    Q["🧪 Testing & Refining<br/>Week 17"]
+    R["📡 Presentation<br/>Week 18"]
+  end
+  A --> B --> C --> D
+  D --> E --> F --> G --> H
+  H --> I --> J --> K
+  K --> L --> M --> N
+  N --> O --> P --> Q --> R
+```
+
+Each layer of the curriculum builds on the previous one. Students begin by learning that all media is constructed, then explore how media makes money, how to verify it, how algorithms shape it, and finally how to create it responsibly.
+
+The curriculum moves students from:
+
+**media awareness → media analysis → media verification → media creation**
+
+---
+
 ## Independent Session Setup Tips
 
 Independent sessions work best when the learner has **clear visual instructions and a structured environment**.
@@ -154,10 +220,27 @@ After each independent session, spend 1–2 minutes letting the learner explain 
 
 ---
 
+## Materials for Independent Sessions
+
+Helpful materials to prepare ahead of time:
+
+- [Media Detective Notebook](/docs/media-detective-notebook) (one per student)
+- Printed visual instruction cards (optional)
+- Troubleshooting "Help Card"
+- Achievement chart and stickers
+- Tool reference sheets for activities like reverse image search
+- Art supplies for creative activities
+
+See the full [Materials List](/docs/materials) for week-by-week preparation details.
+
+---
+
 ## Final Notes
 
 This curriculum is designed to introduce children to **media literacy as a practical, empowering skill**.
 
 Students will not just learn about media — they will learn to **question it, verify it, and eventually create it responsibly**.
 
-Most importantly, they will build **confidence navigating an information landscape that was not designed with their best interests in mind**.
+By the end of the program, students will understand not just how to consume media — but how the media system works and how to navigate it with confidence and integrity.
+
+Most importantly, they will build **confidence navigating an information landscape** — not through fear, but through understanding.

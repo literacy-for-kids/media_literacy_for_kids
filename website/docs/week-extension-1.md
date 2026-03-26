@@ -18,7 +18,21 @@ This extension explores one of the fastest-changing areas of media literacy: **A
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **AI-generated content** | Images, text, audio, or video created by a computer program rather than a human |
+| **Deepfake** | A video or audio recording where AI has replaced one person's face or voice with someone else's |
+| **Hallucination** (AI) | When an AI generates information that sounds confident but is factually incorrect — it doesn't know it made a mistake |
+| **Artifact** (AI image) | A visual glitch in an AI-generated image, such as distorted hands, garbled text, or impossible geometry |
+
+## Connection
+
+This extension builds directly on the **verification toolkit** from Weeks 9–11. Students already know how to check sources, dates, and claims. Now they extend those skills to a new category of media: content created by artificial intelligence. The key insight is the same: "seeing it" is not enough — you need to verify it.
 
 ## Teacher Preparation
 
@@ -136,3 +150,51 @@ After completing all 5, write a short reflection:
 #### Setup
 
 Prepare 5 images in advance (3 AI, 2 real — or the reverse). Print them or display them one at a time. Provide a notebook or report template. Set a timer for 25 minutes.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Name the types**: List the four kinds of AI-generated content (images, text, audio, video).
+2. **Spot the clues**: When looking at an image, check for common AI tells (hands, text, backgrounds).
+3. **Apply the verification extension**: Explain why "Ask: who benefits?" is the single most important question for AI-generated content.
+
+---
+
+## Caregiver Look-Fors
+
+- The student understands that AI-generated content is a form of construction, not magic
+- They check for visual tells without becoming paranoid about every photo
+- They connect AI verification back to the existing toolkit (source, date, lateral reading)
+- They understand that AI can be wrong while sounding confident (hallucination)
+- They ask the "who benefits" question when encountering suspicious content
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Focus on images only**: Skip text, audio, and video for now. AI faces are the most concrete and engaging.
+- **Use "Which Face Is Real?" as a game**: Make it a fun guessing game with a running score.
+- **Simplify the explanation**: "A computer looked at millions of real photos and learned to make new ones that look real but aren't real."
+- **Skip deepfakes**: The concept of face-swapped video can be unsettling for younger learners.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **AI ethics discussion**: Who owns AI-generated art? Is it fair to train AI on artists' work without permission? What about AI-generated music?
+- **Try it themselves**: If appropriate, let the student use an age-appropriate AI image generator and then analyze the output for artifacts.
+- **Misinformation scenario**: How could someone use AI-generated content to spread disinformation? Design a defense strategy.
+- **Policy research**: What are governments and tech companies doing about deepfakes and AI-generated misinformation?
+
+---
+
+## Accessibility Options
+
+- **Verbal detective**: Instead of writing the AI Detective Report, the student describes their observations aloud.
+- **Large-print comparison**: Display real and AI images at large size on a screen for detailed examination.
+- **Sorting game**: Print images on cards and physically sort into "Real" and "AI" piles.
+- **Confidence scale with props**: Use a physical scale (1–5 with numbered cards) instead of writing confidence ratings.
+- **Partner analysis**: Adult and student examine each image together, taking turns pointing out clues.

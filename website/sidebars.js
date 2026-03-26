@@ -4,6 +4,8 @@
 const sidebars = {
   curriculumSidebar: [
     'intro',
+    'caregiver-guide',
+    'curriculum-master',
     'license',
     {
       type: 'category',
@@ -68,8 +70,19 @@ const sidebars = {
         'week-extension-2',
       ],
     },
-    'curriculum-master',
-    'materials',
+    {
+      type: 'category',
+      label: 'Resources & Support',
+      description: 'Glossary, assessment tools, discussion prompts, and more',
+      items: [
+        'materials',
+        'glossary',
+        'media-detective-notebook',
+        'assessment-checkpoints',
+        'final-project-rubric',
+        'discussion-prompts',
+      ],
+    },
   ],
 };
 

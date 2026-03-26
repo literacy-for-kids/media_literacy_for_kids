@@ -20,7 +20,21 @@ This week marks a major shift. Units 1 and 2 taught the student to see how media
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
+- [Quick Check](#quick-check)
 :::
+
+## Key Vocabulary
+
+| Term | Definition |
+|------|------------|
+| **Misinformation** | False or inaccurate information shared by someone who doesn't realize it's wrong |
+| **Disinformation** | False information created and shared *on purpose* to mislead people |
+| **Verification** | The process of checking whether a piece of information is accurate before trusting or sharing it |
+| **Source** | Where a piece of information originally came from — the author, publication, or organization |
+
+## Connection
+
+**Units 1 and 2** taught students to see how media is *constructed* and *paid for*. **This week** begins a new question: is this information even *true*? Students learn that false information spreads for different reasons and get their first three verification tools. **Next week** they'll level up to lateral reading and run a Fact-Check Sprint.
 
 ## Teacher Preparation
 
@@ -136,3 +150,49 @@ Write a one-sentence explanation for each rating.
 #### Setup
 
 Pre-select four items: one clearly reliable, one clearly false or misleading, one outdated, and one ambiguous. Print them out or have them ready on a device. Provide the student's verification card, a notebook, and colored pens or pencils for the trust ratings. Set a timer for 25 minutes.
+
+---
+
+## Quick Check
+
+After this week's sessions, the student should be able to:
+
+1. **Name the types**: Explain the difference between misinformation and disinformation.
+2. **Use the tools**: Demonstrate all three verification steps (check the source, check the date, search for it).
+3. **Rate a claim**: Given a piece of information, assign a trust rating (green / yellow / red) and explain why.
+
+---
+
+## Caregiver Look-Fors
+
+- The student uses the verification card without prompting when encountering new information
+- They ask "where did this come from?" naturally
+- They can tell the difference between a mistake (misinformation) and intentional deception (disinformation)
+- They understand that sharing unverified information makes them part of the chain
+- They approach verification as a habit, not a chore
+
+---
+
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Simplify to two categories**: "Oops, they didn't know" (misinformation) vs. "They did it on purpose" (disinformation). Skip the formal terms at first.
+- **Use the Telephone Game heavily**: Younger learners learn best from experiential activities.
+- **Pre-verify together**: Instead of independent verification, walk through each tool together.
+- **Use familiar claims**: "Goldfish have a 3-second memory" or "You eat 8 spiders a year in your sleep" — fun claims they may have heard before.
+
+---
+
+## Older Learner Extension (Ages 11–13)
+
+- **Speed verification challenge**: How fast can you verify a claim using all three tools? Track times to build fluency.
+- **Trace the chain**: For one piece of misinformation, try to find the *original* source where it first appeared. How far back can you go?
+- **Create a misinformation case study**: Document one false claim — who created it, how it spread, and what damage it caused.
+
+---
+
+## Accessibility Options
+
+- **Traffic light cards**: Use physical green, yellow, and red cards for trust ratings instead of writing.
+- **Verbal verification**: The student dictates their findings while the adult writes them down.
+- **Simplified verification card**: Large-print, three-step card with icons (magnifying glass = check source; calendar = check date; three arrows = search for it).
+- **Team verification**: Adult and student verify together, taking turns on each step.

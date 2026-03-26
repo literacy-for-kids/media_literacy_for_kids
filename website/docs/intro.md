@@ -2,7 +2,7 @@
 sidebar_position: 0
 sidebar_label: "Welcome"
 title: "Media Literacy for Kids"
-description: "An 18-week curriculum for navigating the information landscape and filtering the signal from the noise."
+description: "An 18-week curriculum that helps young learners think critically about the media they see, hear, read, and share every day."
 slug: /intro
 ---
 
@@ -17,11 +17,13 @@ Welcome to the Media Literacy for Kids curriculum — an 18-week program that te
 - Skim [Course at a Glance](#course-at-a-glance) to see the full program structure.
 - Jump to [What Each Week Includes](#what-each-week-includes) for session format.
 - Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
+- Visit [Core Concepts](#core-concepts) for the five mental models that thread through the course.
 :::
 
 :::info For Caregivers and Teachers
 - You do not need to read the full site in order. Start here, then move into the current week you are teaching.
 - Each weekly page is designed to be skimmed quickly: review the caregiver snapshot, teach one session at a time, and come back later for the rest.
+- If you are new to teaching, read the [Caregiver & Educator Quick-Start Guide](/docs/caregiver-guide) before your first session.
 - Use this page when you want the big-picture philosophy, not when you need minute-by-minute teaching directions.
 :::
 
@@ -37,7 +39,7 @@ This curriculum shifts students into an active role. Instead of passively receiv
 - **Is this accurate? How would I check?**
 - **What happens when I share this?**
 
-By the end of the program, students will see media not as a simple window into reality, but as a series of **designed artifacts** — built by people with specific goals, delivered through systems with their own incentives, and amplified by the choices of everyone who shares them.
+By the end of the program, students will see media not as a simple window into reality, but as a series of **designed artifacts** — built by people with specific goals, delivered through systems with their own incentives, and shaped by the choices of everyone who shares them.
 
 ---
 
@@ -55,17 +57,17 @@ By the end of the program, students will see media not as a simple window into r
 
 ## Core Concepts
 
-Five mental models that students will return to throughout the curriculum:
+Five mental models that students return to throughout the curriculum:
 
-1. **All Media is Constructed** — Content doesn't just "happen." It is designed by someone with a specific goal. Every choice — from the camera angle to the music — is meant to produce a specific response.
+1. **All Media is Constructed** — Content doesn't just "happen." Every piece of media is designed by someone who chose what to include, what to leave out, and how to present it. From the camera angle to the word choice to the background music, each element is a deliberate decision.
 
-2. **The Incentive Dictates the Signal** — To understand a message, follow the money. If the content is free, ask what's paying for it — often, your attention is the product. Students learn to ask whether a creator's goal is to inform, to sell, or to provoke.
+2. **Follow the Incentive** — To understand a message, ask what the creator gets out of it. If the content is free, ask what pays for it — in many cases, advertisers are paying for your attention. Understanding the incentive helps students ask whether a creator's goal is to inform, to sell, or to provoke.
 
-3. **Algorithms Optimize for Engagement, Not Truth** — Digital platforms tend to prioritize content that keeps users engaged. This can mean high-emotion content gets promoted over more accurate or balanced material.
+3. **Algorithms Shape What You See** — Digital platforms use algorithms to decide which content to show each user. These systems tend to prioritize content that keeps people engaged — which can mean that emotional or sensational material gets promoted over calmer, more accurate content. The feed is curated, not neutral.
 
-4. **Context is the Metadata of Truth** — A video clip or a quote without its original context can mean almost anything. You cannot judge information if you don't know where it came from.
+4. **Context Changes Meaning** — A photo, a quote, or a video clip taken out of its original context can tell a very different story. Knowing where information came from, when it was created, and what was happening around it is essential for understanding what it actually means.
 
-5. **Sharing is a "Write" Operation** (meaning: sharing changes the network, just like writing changes a document) — When you like, share, or comment, you aren't just watching — you are amplifying. Every share sends information further into the network.
+5. **Sharing Has Consequences** — When you like, share, or comment on something, you aren't just watching — you are sending it further into the network. Every share is an action that amplifies a message and connects your name to it.
 
 ---
 
@@ -97,6 +99,27 @@ The goal is **confidence, ownership, and thoughtful decision-making**, not perfe
 
 ---
 
+## How Learning Happens
+
+Lessons are designed around **guided exploration** rather than rigid instructions. Students are encouraged to:
+
+- try things and experiment
+- ask questions and notice patterns
+- compare different examples
+- explain their reasoning
+- evaluate media with growing sophistication
+- create and revise their own work
+
+Reflection questions throughout the curriculum build awareness:
+
+- *What surprised you?*
+- *Why do you think the creator made that choice?*
+- *What might be missing from this?*
+
+Across the course, students move beyond simple recall by analyzing media, evaluating claims, justifying their judgments, and creating intentional media of their own.
+
+---
+
 ## Getting Started
 
 :::tip Start Here
@@ -105,7 +128,12 @@ Begin with **[Week 1](/docs/week01-week-1)** and progress through each week sequ
 
 Each week builds on the previous one, gradually expanding the student's toolkit for understanding media. The first few weeks focus on the basics of how media is made, then the curriculum moves into the economics, the technology, and finally the student's own role as a creator.
 
-Use the sidebar to navigate through the lessons.
+**Before your first session:**
+1. Read this page (you're almost done)
+2. Skim the [Caregiver & Educator Guide](/docs/caregiver-guide) for teaching tips
+3. Check the [Materials List](/docs/materials) for Week 1
+4. Set up a [Media Detective Notebook](/docs/media-detective-notebook) for the student
+5. Use the sidebar to navigate to [Week 1](/docs/week01-week-1)
 
 ---
 
@@ -118,4 +146,8 @@ By the end of the program, students should:
 - **Verify before trusting** — use tools and habits to check whether something is accurate
 - **Understand the algorithm** — know that their feed is curated, not neutral
 - **Share responsibly** — treat every like, share, and comment as an action with consequences
+
+The most important outcome is simple:
+
+**Students should feel empowered to think critically about media — not fearful of it, but equipped to navigate it.**
 - **Create with integrity** — build media that is honest, clear, and valuable to an audience
