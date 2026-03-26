@@ -31,9 +31,19 @@ This is the key activity for Unit 4. Students experience what it's like to see t
 | **Information environment** | The total set of media, news, and content a person is exposed to — shaped by algorithms, choices, and access |
 | **Balanced feed** | An imagined feed designed for understanding and growth rather than pure engagement |
 
+:::note 🧒 Kid Version
+This week you'll look at pretend feeds made for different pretend people — and see how different they are. It's like putting on someone else's glasses and seeing a different version of the internet. Then you'll think about what your ideal feed would look like if YOU got to design it.
+:::
+
 ## Connection
 
 **Week 12** taught students what algorithms do. **Week 13** showed how algorithms and confirmation bias create filter bubbles. **This week's** Feed Swap makes it real: students step into another person's algorithmic world and experience the contrast firsthand. This is the Unit 4 key activity. **Next week** begins the final unit: students shift from *reading* media to *creating* it.
+
+:::tip 🔄 Bring Forward
+**From Weeks 12-13:** Students understand algorithms and filter bubbles. Now they experience the difference firsthand by looking at feeds designed for other people.
+
+**From Week 3:** Creator choices shape how a message feels. Algorithms make a similar kind of choice by deciding what you see — and what you don't. The "invisible choices" are now made by software, not just by human creators.
+:::
 
 ## Teacher Preparation
 
@@ -45,6 +55,10 @@ Create 2–3 simulated "feeds" on paper. Each feed is a list of 10 posts/videos/
 - **Jordan, age 10**: Loves cooking, watches baking shows, follows food accounts. Feed: cake decorating video, recipe for easy cookies, restaurant review, kitchen gadget ad, "5-Minute Meals for Kids," baking competition clip, funny cooking fail, pizza-making tutorial, smoothie recipe, food photography tips.
 
 Write or draw each feed on separate sheets. Make them look slightly different visually if possible.
+:::
+
+:::tip ⚡ Quick Prep
+Write out 2 simple pretend feeds on paper: 10 items each for two fictional characters with different interests (e.g., a sports fan and a science enthusiast). No printing needed — handwritten cards or a list on paper works fine.
 :::
 
 :::tip Teaching Mindset
@@ -104,10 +118,15 @@ Students can experience a different perspective's information environment and ar
    - "Did you discover anything you would have never found in your own feed?"
    - "Was any of it annoying, confusing, or boring? Why?"
    - "If you lived in this feed every day, what would you know a lot about? What would you know nothing about?"
+   - "How did it feel to see content chosen for someone else? What assumptions did you start making about that person based on their feed? What does that tell you about what YOUR feed might make others assume about you?"
 
 4. **What Got Lost** — The most important question: "In YOUR feed, what important things might the algorithm be hiding from you? What topics, perspectives, or types of information are probably outside your bubble?"
 
 5. **Unit 4 Review** — Recap: "Algorithms build your feed based on engagement (Week 12). Over time, this creates a filter bubble where you only see things you already agree with (Week 13). Different people see completely different versions of reality (this week). And none of these feeds show the full picture. Now that you know this — what are you going to do about it?"
+
+:::note 🖨️ Printable-Friendly
+This activity works just as well on paper. Write 10 items on index cards for each fictional character's feed. No screens needed.
+:::
 
 #### Reflection Questions
 
@@ -168,6 +187,14 @@ This is the end of Unit 4. See the [Assessment Checkpoints](/docs/assessment-che
 - The Balanced Feed design includes real variety, not just "more of what I like"
 - They connect all three weeks of Unit 4 together (algorithm → bubble → contrast)
 - They express a desire to diversify their media diet
+
+---
+
+## 🎯 Takeaway
+
+**Big idea:** Different people see very different versions of the internet based on their behavior, location, and interests — and most people don't realize it.
+
+**Remember:** Repeated exposure shapes expectations and assumptions. If you want a fuller picture, you have to look beyond your feed on purpose.
 
 ---
 
