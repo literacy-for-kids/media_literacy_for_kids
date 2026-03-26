@@ -183,7 +183,7 @@ Every lesson includes **Accessibility Options** with alternatives: verbal respon
 ## Getting Started
 
 1. Read the [Welcome](/docs/intro) page for the course philosophy and core concepts.
-2. Skim the [Curriculum Overview](/docs/curriculum-master) to see the full sequence.
+2. Skim the [Curriculum Overview](/docs/curriculum-overview) to see the full sequence.
 3. Check the [Materials List](/docs/materials) for Week 1.
 4. Set up a [Media Detective Notebook](/docs/media-detective-notebook) for the student.
 5. Open [Week 1](/docs/week01-week-1) and begin.
