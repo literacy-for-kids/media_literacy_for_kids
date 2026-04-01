@@ -18,14 +18,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://zcohen-nerd.github.io',
+  url: 'https://literacy-for-kids.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it should match your repo name
   baseUrl: '/media_literacy_for_kids/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'zcohen-nerd', // Usually your GitHub org/user name.
+  organizationName: 'literacy-for-kids', // Usually your GitHub org/user name.
   projectName: 'media_literacy_for_kids', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
@@ -51,23 +51,9 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/zcohen-nerd/media_literacy_for_kids/tree/main/website/',
+            'https://github.com/literacy-for-kids/media_literacy_for_kids/tree/main/website/',
         },
-        blog: {
-          showReadingTime: true,
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/zcohen-nerd/media_literacy_for_kids/tree/main/website/',
-          // Useful options to enforce blogging best practices
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -116,10 +102,9 @@ const config = {
             position: 'left',
             label: 'Curriculum',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           ...sharedNavbarItems,
           {
-            href: 'https://github.com/zcohen-nerd/media_literacy_for_kids',
+            href: 'https://github.com/literacy-for-kids/media_literacy_for_kids',
             label: 'GitHub',
             position: 'right',
           },
