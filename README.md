@@ -7,7 +7,7 @@
 A free, open **18-week media literacy curriculum** that teaches young learners to see media not as a window into reality, but as a series of designed artifacts — built by people, delivered by algorithms, and amplified by sharing.
 
 🌐 **View the curriculum website:**  
-https://zcohen-nerd.github.io/media_literacy_for_kids/
+https://literacy-for-kids.github.io/media_literacy_for_kids/
 
 ---
 
