@@ -5,6 +5,11 @@
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
 import {themes as prismThemes} from 'prism-react-renderer';
+import {createRequire} from 'node:module';
+
+const require = createRequire(import.meta.url);
+const sharedNavbarItems = require('literacy-site-theme/navbarItems');
+const footerConfig = require('literacy-site-theme/footerConfig');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -70,6 +75,29 @@ const config = {
     ],
   ],
 
+  themes: ['literacy-site-theme'],
+
+  plugins: [
+    function transpileLiteracyTheme() {
+      const themePath = require.resolve('literacy-site-theme');
+      const themeDir = require('path').dirname(themePath);
+      return {
+        name: 'transpile-literacy-theme',
+        configureWebpack(config) {
+          config.module.rules.push({
+            test: /\.[jt]sx?$/i,
+            include: [themeDir],
+            type: 'javascript/auto',
+            use: config.module.rules
+              .find((rule) => String(rule.test) === '/\\.[jt]sx?$/i')
+              ?.use ?? [],
+          });
+          return {};
+        },
+      };
+    },
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -89,6 +117,7 @@ const config = {
             label: 'Curriculum',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          ...sharedNavbarItems,
           {
             href: 'https://github.com/zcohen-nerd/media_literacy_for_kids',
             label: 'GitHub',
@@ -96,68 +125,7 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Curriculum',
-            items: [
-              {
-                label: 'Get Started',
-                to: '/docs/intro',
-              },
-              {
-                label: 'Week 1',
-                to: '/docs/week01-week-1',
-              },
-              {
-                label: 'License',
-                to: '/docs/license',
-              },
-            ],
-          },
-          {
-            title: 'License',
-            items: [
-              {
-                label: 'CC BY-NC-SA 4.0',
-                href: 'https://creativecommons.org/licenses/by-nc-sa/4.0/',
-              },
-              {
-                label: 'License Summary',
-                to: '/docs/license',
-              },
-              {
-                label: 'Source Repository',
-                href: 'https://github.com/zcohen-nerd/media_literacy_for_kids',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'GitHub Discussions',
-                href: 'https://github.com/zcohen-nerd/media_literacy_for_kids/discussions',
-              },
-              {
-                label: 'Issues',
-                href: 'https://github.com/zcohen-nerd/media_literacy_for_kids/issues',
-              },
-            ],
-          },
-          {
-            title: 'Literacy for Kids',
-            items: [
-              {
-                label: 'Project Hub',
-                href: 'https://zcohen-nerd.github.io/literacy_for_kids/',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} Zachary Cohen. Curriculum content is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. See the <a href="/media_literacy_for_kids/docs/license">license page</a> for attribution, sharing, and adaptation details.`,
-      },
+      footer: footerConfig,
       prism: {
         theme: prismThemes.github,
         darkTheme: prismThemes.dracula,
