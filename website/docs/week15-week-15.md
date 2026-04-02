@@ -98,6 +98,8 @@ Students can select a topic, format, and audience for their final project, and e
 
    Write all ideas down without judging. Aim for at least 5 options.
 
+   For inspiration, review the [Project Exemplars](/docs/final-project-exemplars) page — it shows four sample projects across different formats. These are models, not scripts to copy. They show what a strong, honest project looks like.
+
 3. **Choose a Format** — What kind of media will it be? Options (adjust based on student's age and resources):
    - A **short video** (60–120 seconds) — filmed on a phone or tablet
    - A **poster or infographic** — hand-drawn or digital
@@ -141,6 +143,7 @@ Students can complete a project Spec Sheet that documents their creative intent,
      - Am I using emotion honestly — or am I using it to manipulate?
      - Am I giving my audience the full picture, or leaving out important context?
      - Would I be proud if someone analyzed my project the way I've been analyzing media all semester?
+     - Run through [The Media Checkpoint](/docs/media-checkpoint) questions 1–7 as if you were the audience. Does your project hold up?
 
 3. **Peer Preview** — If another family member is available, have the student explain their Spec Sheet to them. Can the listener understand the plan? Do they have questions? This practice in explaining intent is valuable.
 
@@ -206,9 +209,9 @@ After this week's sessions, the student should be able to:
 
 ## 🎯 Takeaway
 
-> **Big idea:** A great media project starts with a clear plan — knowing who it's for, what you want to say, and what standards you'll hold yourself to.
+**Big idea:** A great media project starts with a clear plan — knowing who it's for, what you want to say, and what standards you'll hold yourself to.
 
-> **Remember:** You're not just any creator — you're a creator who understands how media works. That's your superpower.
+**Remember:** You're not just any creator — you're a creator who understands how media works. That's your superpower.
 
 ---
 

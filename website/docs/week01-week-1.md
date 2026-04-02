@@ -48,13 +48,17 @@ Gather a variety of media examples to show the student. Good options include:
 - A page from a picture book
 - A short clip from a kids' TV show (30 seconds is enough)
 - A screenshot of a website or app home screen
+- A video thumbnail or game notification screen
 - A billboard photo or magazine ad
+- A meme or screenshot someone might share in a group chat
 - A song lyric printout
 
 The more **variety** you have, the easier it will be for the student to see that "media" is much bigger than just "screens."
+
+**If this is the very first session**, take 5 minutes to complete the "Before" section of the [Self-Assessment](/docs/self-assessment) together. It only takes a few minutes and gives you a powerful comparison point at the end of the course.
 :::
 
-:::tip ⏱️ Quick Prep (5 Minutes or Less)
+:::tip ⚡ Quick Prep
 Grab any 3-4 objects from around your house: a cereal box, a book, a piece of mail, a T-shirt with a logo. That's all you need — the whole point is that media is already everywhere.
 :::
 
@@ -75,7 +79,7 @@ Students can identify at least five different types of media and explain that "m
 
 1. **The Big Question** — Ask: "What do you think the word *media* means?" Let the student share freely. Write down their ideas without correcting anything yet.
 
-2. **The Media Walk** — Walk around the room (or house) together. Point to objects and ask: "Is this media?" Try a cereal box, a poster, a book, a clock, a plain rock, a T-shirt with words on it. Each time, discuss: *Does this carry a message? Did someone design it?*
+2. **The Media Walk** — Walk around the room (or house) together. Point to objects and ask: "Is this media?" Try a cereal box, a poster, a book, a clock, a plain rock, a T-shirt with words on it, a video thumbnail on a screen, a game notification. Each time, discuss: *Does this carry a message? Did someone design it?*
 
 3. **Sorting Game** — Lay out the examples you gathered. Have the student sort them into two piles: "This is media" and "This is NOT media." Talk through any tricky ones together. (A plain cup? Probably not media. A cup with a brand logo? That's media.)
 
@@ -102,12 +106,12 @@ Students understand that every piece of media was created by a real person (or t
 
 2. **Two Boxes, One Cereal** — Show the student two different packages for similar products (or draw/describe two imaginary ones). One might be bright and fun with a cartoon character; the other might be plain and earthy with words like "natural" and "whole grain." Ask: "These are both selling cereal. Why do they look so different?" Guide the conversation toward the idea that **different choices create different feelings**.
 
-3. **The Creator Questions** — Introduce three questions the student can ask about any piece of media:
-   - **Who made this?**
-   - **What did they want me to feel, think, or do?**
+3. **The Creator Questions** — Introduce three questions the student can ask about any piece of media. These are the first three questions of **The Media Checkpoint** — a routine they'll build on throughout the entire course:
+   - **What am I looking at?** (What type of media is this?)
+   - **Who made this, and why?**
    - **What choices did they make?**
 
-   Practice using these three questions on 2–3 of the media examples from Session 1.
+   Practice using these three questions on 2–3 of the media examples from Session 1. See the [Media Checkpoint](/docs/media-checkpoint) page for the full seven-question routine.
 
 4. **Anchor Concept** — Introduce the first core idea: *All media is constructed.* Explain: "Constructed" means built on purpose. Just like a building doesn't appear by accident, a video or a poster or a website doesn't either. Someone designed it.
 
@@ -170,16 +174,18 @@ Signs that learning is happening this week:
 
 ---
 
-## Takeaway
+## 🎯 Takeaway
 
-**This week's big idea:** Media is everywhere, and someone made every piece of it on purpose.
+**Big idea:** Media is everywhere, and someone made every piece of it on purpose.
 
 **Remember:** Whenever you see something — a sign, a video, a package — ask yourself: "Who made this?"
 
 ---
 
-## Younger Learner Adaptation (Ages 6–8): Find 5 pieces of media instead of 10, and use drawing instead of writing
-- **Use the word "message"**: Instead of "media," start with "messages people make." Introduce "media" as the grown-up word after they grasp the concept
+## Younger Learner Adaptation (Ages 6–8)
+
+- **Reduce scope**: Find 5 pieces of media instead of 10, and use drawing instead of writing.
+- **Use the word "message"**: Instead of "media," start with "messages people make." Introduce "media" as the grown-up word after they grasp the concept.
 - **Focus on Session 1**: The Media Walk and Sorting Game are the most accessible activities. Session 2's "Invisible Creator" can be done as a guided conversation rather than an independent exercise
 - **Provide sentence stems**: "This is media because ___." "I think someone made this to ___."
 
@@ -187,9 +193,9 @@ Signs that learning is happening this week:
 
 ## Older Learner Extension (Ages 11–13)
 
-- **Go deeper on construction**: Ask the student to analyze a social media post, a YouTube thumbnail, or an app notification screen. What choices are visible? What choices are hidden?
-- **Introduce the term "designed artifact"**: Everything they encounter digitally was designed by someone — including the layout of their phone screen
-- **Research challenge**: Find three pieces of media for the same product or topic and compare the different choices each creator made
+- **Go deeper on construction**: Ask the student to analyze a short-form video thumbnail, a game's item shop screen, a recommended video page, or an app notification screen. What choices are visible? What choices are hidden?
+- **Introduce the term "designed artifact"**: Everything they encounter digitally was designed by someone — including the layout of their phone screen, the order of their video feed, and the notification that pulled them back into an app.
+- **Research challenge**: Find three pieces of media for the same product or topic and compare the different choices each creator made.
 
 ---
 

@@ -38,7 +38,7 @@ Can you always trust a photo? Not always! A real photo can be used to tell a fal
 
 ## Connection
 
-**Weeks 9–10** taught students to verify text-based claims. **This week** extends those skills to **visual media** — photos, screenshots, and video clips. Students learn that "seeing it with your own eyes" is not always proof, and they build a personal Fake Spotter's Guide. **Next week** begins Unit 4: understanding algorithms and how automated systems shape what you see.
+**Weeks 9–10** taught students to verify text-based claims and compare how different sources cover the same story. **This week** extends those skills to **visual media** — photos, screenshots, and video clips. Students learn that "seeing it with your own eyes" is not always proof, and they build a personal Fake Spotter's Guide. **Next week** begins Unit 4: understanding algorithms and how automated systems shape what you see.
 
 :::tip 🔄 Bring Forward
 **From Weeks 9-10:** All the text-based verification tools still apply to images. Check the source. Check the date. Search for the same image elsewhere.
@@ -62,7 +62,7 @@ Prepare the following:
 :::
 
 :::tip ⚡ Quick Prep
-Search 'misleading photo captions' or 'photos used out of context' for age-appropriate examples (animal photos, weather events, or funny misattributions work best). One good pair of a real photo with a false caption is enough to teach the whole lesson.
+Search 'misleading photo captions' or 'photos used out of context' for examples matching the age-appropriate categories above. One good pair of a real photo with a false caption is enough.
 :::
 
 :::tip Teaching Mindset
@@ -89,6 +89,8 @@ Students understand that a real photo or video can still be used to spread false
 
    Show one example of each and have the student identify the type.
 
+   **News images note:** Out-of-context media is especially common with news photos. A real crowd photo from 2019 might be reshared in 2026 to support a completely different story. A dramatic weather photo from one country might be labeled as a different country. When evaluating any image attached to a news claim, apply the same source-comparison skills from Week 10: check whether other outlets are using the same image for the same story.
+
 3. **Reverse Image Search** — Demonstrate how to check where a photo came from:
    - Right-click the image (or use the camera icon in Google Images)
    - Search for it
@@ -98,6 +100,8 @@ Students understand that a real photo or video can still be used to spread false
    Walk through an example together. Show how the same image might appear on many sites with different captions.
 
 4. **Anchor Concept** — Revisit the fourth core concept: *Context is the metadata of truth.* Explain: "A photo without its real context is like a sentence without the rest of the paragraph. You don't have enough information to know what it really means."
+
+5. **Media Checkpoint Connection** — Question 6 of [The Media Checkpoint](/docs/media-checkpoint) — *What am I missing?* — applies powerfully to images. A photo shows you one frozen moment. It can't show you what happened before, after, or just outside the frame. That missing context is often where the truth lives.
 
 #### Reflection Questions
 
@@ -137,15 +141,8 @@ Students can examine a piece of visual media and apply a structured checklist to
    - ✅ Does anything look physically wrong? (shadows, edges, scale)
    - ✅ Are other trustworthy sources showing the same image with the same story?
 
-:::info 🔍 The Verification Habit: Stop → Notice → Check → Compare → Decide
-This five-step process works for any piece of information:
-1. **Stop** — Don't react or share immediately
-2. **Notice** — What claims are being made? What feelings is it trying to create?
-3. **Check** — Where did this come from? When was it made? Is there a real source?
-4. **Compare** — What do other sources say about the same claim?
-5. **Decide** — What do I know, what don't I know yet, and what would help me find out more?
-
-Each check gives you a clue, not proof. The more clues you gather, the better your judgment.
+:::tip 🔍 Verification Habit Reminder
+Keep using the five-step process from Week 9: **Stop → Notice → Check → Compare → Decide.** This week, the *Notice* step is especially important — look for visual clues that something might be out of context or altered.
 :::
 
 #### Reflection Questions
@@ -214,6 +211,12 @@ This is the end of Unit 3. See the [Assessment Checkpoints](/docs/assessment-che
 **Big idea:** "Seeing it with your own eyes" is not always enough — real images can be used to tell false stories, and some images are digitally altered.
 
 **Remember:** Check the caption, not just the image. Check the source, not just the visual. Your verification tools from earlier weeks work here too.
+
+---
+
+:::info Spiral Task Opportunity
+After completing Unit 3, students are ready for **Spiral Performance Task 3: The Source Detective**. See the [Spiral Performance Tasks](/docs/assessment-checkpoints#spiral-performance-tasks) section for details. This task asks students to apply Media Checkpoint questions 1–6 to a piece of media, including a trust rating and source comparison.
+:::
 
 ---
 

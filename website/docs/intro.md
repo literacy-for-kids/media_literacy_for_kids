@@ -18,6 +18,7 @@ Welcome to the Media Literacy for Kids curriculum — an 18-week program that te
 - Read [What This Is (and What It Isn't)](#what-this-is-and-what-it-isnt) for a clear picture of the approach.
 - Skim [Course at a Glance](#course-at-a-glance) to see the full program structure.
 - Visit [Core Concepts](#core-concepts) for the five mental models that thread through the course.
+- Learn [The Media Checkpoint](#the-media-checkpoint) — the seven-question analysis routine used throughout the course.
 - Jump to [What a Typical Week Looks Like](#what-a-typical-week-looks-like) for a quick sense of the rhythm.
 - Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
 :::
@@ -36,12 +37,13 @@ Most kids (and adults) take in media passively. Something appears on a screen or
 This curriculum helps students become active, curious media consumers — and creators. Instead of passively receiving information, they learn to ask thoughtful questions:
 
 - **Who made this, and why?**
-- **What choices did the creator make?**
-- **What is this trying to make me feel, think, or do?**
-- **Is this accurate? How would I check?**
-- **What happens when I share this?**
+- **What choices did the creator make — and what did they leave out?**
+- **How is this designed to make me feel?**
+- **What's the evidence? How would I check?**
+- **What am I missing — other perspectives, other sources, other context?**
+- **What's my next move — trust it, question it, check it, or let it go?**
 
-By the end of the program, students will understand that all media — from cereal boxes to news articles to social media posts — is made by people who make choices about what to include, leave out, and emphasize. That isn't a reason to distrust everything. It's a reason to pay attention, ask good questions, and think for themselves.
+By the end of the program, students will understand that all media — from cereal boxes to news articles to short-form videos to game item shops — is made by people who make choices about what to include, leave out, and emphasize. That isn't a reason to distrust everything. It's a reason to pay attention, ask good questions, and think for themselves.
 
 ---
 
@@ -91,13 +93,29 @@ Five mental models that students return to throughout the curriculum:
 
 1. **All Media is Constructed** — Content doesn't just "happen." Every piece of media is designed by someone who chose what to include, what to leave out, and how to present it. From the camera angle to the word choice to the background music, each element is a deliberate decision.
 
-2. **Follow the Incentive** — To understand a message, ask what the creator gets out of it. If the content is free, ask what pays for it — in many cases, advertisers are paying for your attention. Understanding the incentive helps students ask whether a creator's goal is to inform, to sell, or to provoke.
+2. **Follow the Incentive** — To understand a message, ask what the creator gets out of it. If the content is free, ask what pays for it — in many cases, advertisers are paying for your attention. Understanding the incentive helps students ask whether a creator's goal is to inform, to sell, or to provoke. Important: an incentive is a clue, not a conviction. Just because someone profits from content doesn't mean the content is dishonest — but it's always worth knowing.
 
-3. **Algorithms Shape What You See** — Digital platforms use algorithms to decide which content to show each user. These systems tend to prioritize content that keeps people engaged — which can mean that emotional or sensational material gets promoted over calmer, more accurate content. The feed is curated, not neutral.
+3. **Algorithms Shape What You See** — Digital platforms use algorithms — sets of rules that sort, recommend, and prioritize content — to decide what to show each user. These systems tend to promote content that keeps people engaged, which can mean emotional or sensational material gets amplified. Algorithms aren't magic and aren't automatically "bad" — they're tools. But understanding how they work gives you more control over what you see.
 
 4. **Context Changes Meaning** — A photo, a quote, or a video clip taken out of its original context can tell a very different story. Knowing where information came from, when it was created, and what was happening around it is essential for understanding what it actually means.
 
 5. **Sharing Has Consequences** — When you like, share, or comment on something, you aren't just watching — you are sending it further into the network. Every share is an action that amplifies a message and connects your name to it.
+
+---
+
+## The Media Checkpoint
+
+Throughout the course, students build a habit of asking seven questions about any piece of media they encounter. We call this **The Media Checkpoint** — a simple routine that becomes more powerful over time as students add new skills:
+
+1. **What am I looking at?** — What type of media is this?
+2. **Who made it, and why?** — Who is behind this, and what's their goal?
+3. **What choices shaped it?** — What was included, left out, or emphasized?
+4. **How does it want me to feel?** — What emotions is it designed to trigger?
+5. **What's the evidence?** — Is this supported by facts, sources, or just vibes?
+6. **What am I missing?** — Other perspectives, context, or information I haven't seen?
+7. **What's my next move?** — Trust it, question it, check it, share it, or let it go?
+
+Students begin with questions 1–3 in the first unit and progressively add the rest as new skills are introduced. By the end of the course, these questions should feel automatic. See the [Media Checkpoint](/docs/media-checkpoint) page for the full reference.
 
 ---
 
@@ -109,7 +127,7 @@ Each week follows a simple, repeatable rhythm:
 2. **Guided Session 2** (~30 minutes) — The student goes deeper through a hands-on activity or small project.
 3. **Independent Session** (~20–30 minutes) — The student practices on their own with a guided challenge.
 
-That's about **80–90 minutes per week**, spread across two or three sittings. Examples are drawn from everyday life — cereal boxes, book covers, ads, apps, packaging — so no heavy tech setup is required. Most weeks need only basic supplies and a few minutes of prep.
+That's about **80–90 minutes per week**, spread across two or three sittings. Examples are drawn from everyday life — cereal boxes, book covers, video thumbnails, game notifications, short-form video feeds, ads, apps, packaging — so no heavy tech setup is required. Most weeks need only basic supplies and a few minutes of prep.
 
 ---
 
@@ -187,9 +205,12 @@ Each week builds on the previous one, gradually expanding the student's toolkit 
 **Before your first session:**
 1. Read this page (you're almost done)
 2. Skim the [Caregiver & Educator Guide](/docs/caregiver-guide) for teaching tips
-3. Check the [Materials List](/docs/materials) for Week 1
-4. Set up a [Media Detective Notebook](/docs/media-detective-notebook) for the student
-5. Use the sidebar to navigate to [Week 1](/docs/week01-week-1)
+3. Complete the [Pre-Course Self-Assessment](/docs/self-assessment) with your student
+4. Check the [Materials List](/docs/materials) for Week 1
+5. Set up a [Media Detective Notebook](/docs/media-detective-notebook) for the student
+6. Use the sidebar to navigate to [Week 1](/docs/week01-week-1)
+
+**For a deeper look at the curriculum's philosophy and design choices**, see the [Educator Rationale](/docs/educator-rationale).
 
 ---
 

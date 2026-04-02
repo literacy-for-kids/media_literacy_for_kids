@@ -36,7 +36,7 @@ You know how someone can draw a picture that looks real? Now computers can do th
 
 ## Connection
 
-This extension builds directly on the **verification toolkit** from Weeks 9–11. Students already know how to check sources, dates, and claims. Now they extend those skills to a new category of media: content created by artificial intelligence. The key insight is the same: "seeing it" is not enough — you need to verify it.
+This extension adds AI-generated content to students' existing verification practice. The key insight is the same as Weeks 9–11: "seeing it" is not enough — you need to verify it.
 
 :::tip 🔄 Bring Forward
 **From Weeks 9-11:** All your verification tools still apply — check the source, search for the image elsewhere, ask who benefits. AI-generated media is just a new category that your existing toolkit handles.
@@ -56,7 +56,7 @@ Prepare the following:
 **Tech note**: AI changes fast. The specific tools and examples you use may differ from what's described here. Focus on the *concepts* — the specific tools will evolve, but the thinking framework will not.
 :::
 
-:::tip Quick Prep
+:::tip ⚡ Quick Prep
 Visit whichfaceisreal.com and pick 3-4 image pairs — one real, one AI-generated. That's your core activity. No printing needed — just show them on a screen. If you want AI text, paste any topic into a free chatbot and compare the output to a human-written paragraph.
 :::
 
@@ -127,6 +127,7 @@ Students can identify common signs of AI-generated images and apply their existi
    - ✅ **Look for tells** — check hands, text, backgrounds, symmetry
    - ✅ **Check the context** — is there a real event, date, or location connected to this image?
    - ✅ **Ask: who benefits?** — If this image is fake, who benefits from people believing it's real?
+   - ✅ **Run [The Media Checkpoint](/docs/media-checkpoint)** — all 7 questions apply to AI-generated content, especially question 5 (*What's the evidence?*) and question 1 (*What am I looking at?* — now includes "is this AI-generated?")
 
 4. **AI Text Detection** — Show two paragraphs about the same topic: one written by a human, one by AI. Can the student tell which is which? Discuss: AI text often sounds "correct but empty" — it uses the right words but may lack personal experience, specific examples, or a genuine voice. (Acknowledge: this is getting harder to detect, which is why verification of *claims* matters more than detecting the *author*.)
 
@@ -187,7 +188,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Takeaway
+## 🎯 Takeaway
 
 **Big idea:** AI can create media that looks and sounds convincing — but your verification habits are still your best tools.
 

@@ -40,7 +40,7 @@ This is the key activity week for Unit 2. Students conduct a focused experiment:
 **Last week** students learned to decode clickbait formulas. **This week** they broaden their lens and track *every* form of persuasion they encounter during a focused period of media. This is the Unit 2 key activity — a hands-on experiment that usually surprises students (and adults). **Next week** extends the idea further: what happens when media sells opinions, feelings, and behaviors instead of products?
 
 :::tip 🔄 Bring Forward
-**From Weeks 5-6:** Students learned about attention economics and clickbait. Now they apply that awareness in real time by tracking every persuasion attempt they encounter. Encourage them to use their "Who made this and why?" questions from Week 2 on each ad they find.
+**From Weeks 5-6:** Students now apply attention-economy awareness in real time. Encourage them to use their "Who made this and why?" questions from Week 2 on each ad they find.
 :::
 
 ## Teacher Preparation
@@ -63,7 +63,7 @@ Choose which media the student will track during Session 2. Good options:
 You may want to do the activity alongside the student — adults are often shocked at their own results.
 :::
 
-:::tip ⏱️ Quick Prep (5 Minutes or Less)
+:::tip ⚡ Quick Prep
 You don't need anything except a timer and a notebook. The student tracks ads during any 30-minute block of media they'd normally use — TV, a game, a magazine, or a walk through a store.
 :::
 
@@ -87,13 +87,16 @@ Students can define "persuasion attempt" broadly — including ads for products,
    - Selling a **click** (clickbait, thumbnails, notifications)
    - Selling an **idea** (you should think this, believe this, vote for this)
    - Selling a **feeling** (feel scared, feel outraged, feel inspired)
-   - Selling **time** (keep watching, keep scrolling, play one more level)
+   - Selling **time** (keep watching, keep scrolling, play one more level, daily login streaks)
+   - Selling **status** (limited-edition skins, battle pass tiers, "only 2 hours left!" event countdowns in games)
 
-2. **Practice Round** — Show the student 5 quick examples and have them identify what's being "sold" in each one. A cereal commercial (product). A clickbait headline (click). A political yard sign (idea). A "you have 3 unread notifications" prompt (time). A charity poster showing a sad puppy (feeling). Discuss how the technique differs for each.
+2. **Practice Round** — Show the student 5 quick examples and have them identify what's being "sold" in each one. A cereal commercial (product). A clickbait headline (click). A political yard sign (idea). A "you have 3 unread notifications" prompt (time). A charity poster showing a sad puppy (feeling). A game offering "Buy 500 gems for $4.99 — BEST VALUE!" (product + urgency). Discuss how the technique differs for each.
 
 3. **Build the Tracker** — Create the tracking sheet together. Review the columns. Do a practice entry together using one of the examples above.
 
 4. **Set the Rules** — Decide together: what media will they track? How long? (Aim for at least 30 minutes of focused tracking.) The student should try to catch EVERYTHING — even small things like colored price tags in a store or auto-play prompts on a video.
+
+5. **Media Checkpoint Connection** — Remind students that [The Media Checkpoint](/docs/media-checkpoint) questions apply to every persuasion attempt they find. For the trickiest ones, run through questions 1–4: *What am I looking at? Who made it, and why? What choices shaped it? How does it want me to feel?*
 
 #### Reflection Questions
 
@@ -201,7 +204,8 @@ After this week's sessions, the student should be able to:
 
 ## Older Learner Extension (Ages 11–13)
 
-- **Compare platforms**: Track two different media types (e.g., TV vs. a free game) and compare the density and type of persuasion.
+- **Compare platforms**: Track two different media types (e.g., TV vs. a free game vs. a short-form video app) and compare the density and type of persuasion.
+- **Gaming persuasion audit**: Analyze a free-to-play game specifically — track cosmetics prompts, loot-box or gacha mechanics, battle-pass nudges, "limited time" events, and "watch an ad for a reward" offers. How many persuasion attempts happen in a single 20-minute session?
 - **Calculate attention cost**: If the student watched 30 minutes and saw 20 ads at ~15 seconds each, how much of that time was actually ads?
 - **Research**: How much money does a 30-second Super Bowl ad cost? What does that tell us about the value of attention?
 

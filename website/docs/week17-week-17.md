@@ -203,9 +203,9 @@ After this week's sessions, the student should be able to:
 
 ## 🎯 Takeaway
 
-> **Big idea:** Feedback and revision are how good media becomes great media. Even professionals go through multiple rounds of review.
+**Big idea:** Feedback and revision are how good media becomes great media. Even professionals go through multiple rounds of review.
 
-> **Remember:** Fact-checking your own work is harder than fact-checking someone else's — but it's one of the most important things a responsible creator can do.
+**Remember:** Fact-checking your own work is harder than fact-checking someone else's — but it's one of the most important things a responsible creator can do.
 
 ---
 

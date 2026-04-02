@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24
+sidebar_position: 23
 sidebar_label: "Media Detective Notebook"
 title: "Media Detective Notebook"
 description: "Setup guide and week-by-week prompts for the student's recurring learning journal."
@@ -104,17 +104,19 @@ Use these prompts to guide what goes into the notebook each week. They align wit
 
 ---
 
-## Five Reusable Question Stems
+## The Media Checkpoint
 
-These questions work with almost any piece of media. Encourage the student to use them throughout the notebook:
+These seven questions work with almost any piece of media. Encourage the student to use them throughout the notebook. Write them on the inside front cover or on a bookmark card the student keeps with it. See the [full Media Checkpoint page](/docs/media-checkpoint) for details.
 
-1. **Who made this, and what was their goal?**
-2. **What choices did the creator make — and what did they leave out?**
-3. **How is this designed to make me feel?**
-4. **Is this accurate? How could I check?**
-5. **What happens if I share this?**
+1. **What am I looking at?** — What type of media is this?
+2. **Who made it, and why?** — Who's behind this, and what's their goal?
+3. **What choices shaped it?** — What was included, left out, or emphasized?
+4. **How does it want me to feel?** — What emotions is it designed to trigger?
+5. **What's the evidence?** — Is this supported by facts, sources, or just vibes?
+6. **What am I missing?** — Other perspectives, context, or information I haven't seen?
+7. **What's my next move?** — Trust it, question it, check it, share it, or let it go?
 
-Write these on the inside front cover of the notebook or on a bookmark card the student keeps with it.
+Students start with questions 1–3 in Unit 1 and progressively add the rest. By the end of the course, the full routine should feel natural.
 
 ---
 
@@ -141,6 +143,7 @@ These are examples — the student's entries don't have to look exactly like thi
 - **Review together periodically.** Every 4–5 weeks, flip through the notebook with the student. Notice growth. Celebrate observations.
 - **Let the student personalize it.** Stickers, drawings, color coding — if it helps the student engage, encourage it.
 - **Use it for assessment.** The notebook is the best evidence of learning in this curriculum. If you want to show someone what the student has learned, the notebook tells the story.
+- **Include the self-assessment.** Tape or copy the [Pre/Post Self-Assessment](/docs/self-assessment) into the notebook so the student can see their growth at a glance.
 - **Offer alternatives.** If the student prefers voice memos, drawings, or typed entries, those all count. The medium matters less than the thinking.
 
 ---

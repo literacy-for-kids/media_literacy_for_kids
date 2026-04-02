@@ -116,6 +116,18 @@ Media literacy is full of gray areas, and that's a feature, not a bug. Here's ho
 - **You're a facilitator, not a trivia judge.** Your job is to guide the conversation, not to have every answer memorized. The lessons give you the key points — your role is to help the student discover them.
 - **Not every question has one right answer.** Some media is genuinely ambiguous. That's okay. Help the student get comfortable saying, "I can see it both ways, but here's what I think and why."
 
+### Epistemic Guardrails — Nuance That Matters
+
+As you teach, keep these important nuances in mind. They help students develop accurate mental models rather than oversimplified ones:
+
+- **Emotions in media aren't automatically manipulative.** A movie soundtrack, a charity appeal, or a news photo can make you feel something — and that's often honest and appropriate. The question isn't "does this make me feel something?" but "is the feeling proportional and based on real information?"
+- **Incentives explain choices, but they don't prove dishonesty.** A creator who earns money from content isn't automatically untrustworthy. Understanding the incentive helps you ask better questions — it doesn't give you the final answer.
+- **Algorithms are systems, not villains.** Algorithms sort, recommend, and prioritize based on signals. They're powerful tools, not magic or inherently "bad." Understanding how they work gives students agency.
+- **Perspectives differ, but evidence still matters.** Different people can reasonably interpret the same event differently. That doesn't mean all interpretations are equally supported. "Everyone has their own truth" is not the same as "everyone has their own facts."
+- **Being open-minded doesn't mean treating all claims as equal.** Students should consider multiple viewpoints, but they should also learn that some claims are better supported by evidence than others. Fairness means giving ideas a hearing — not pretending all ideas are equally credible.
+
+These guardrails appear naturally throughout the curriculum. You don't need to give a speech about them — just keep them in mind and gently redirect when a conversation starts to oversimplify.
+
 ### Pacing
 
 - **Don't rush.** If a concept resonates, spend extra time on it. Exploring deeply is better than covering every activity.
@@ -124,12 +136,13 @@ Media literacy is full of gray areas, and that's a feature, not a bug. Here's ho
 
 ### Choosing Examples
 
-Many lessons ask you to gather real media examples (a cereal box, a headline, a video clip). Tips:
+Many lessons ask you to gather real media examples (a cereal box, a headline, a video clip, a thumbnail). Tips:
 
 - **Use what's already in your home.** Packaging, mail, books, posters, and apps all work.
+- **Include media kids actually encounter.** Video thumbnails, game notifications, creator/influencer content, recommended videos, memes, and group chat screenshots are all fair game and often more engaging than traditional examples.
 - **Preview screen-based examples.** Before showing a website, article, or video, check that the content (and ads) are age-appropriate.
 - **Avoid politically charged or emotionally distressing examples** unless the lesson specifically calls for them and you feel the student is ready.
-- **Evergreen over trending.** Use examples that will make sense weeks from now, not just today's viral post.
+- **Evergreen over trending.** Use examples that will make sense weeks from now, not just today's viral post. Describe situations generically ("a short video where someone reviews a product") rather than naming specific creators or brands that may not age well.
 
 ### Keeping Examples Nonpolitical and Age-Appropriate
 
@@ -233,6 +246,24 @@ Normalize it. **"Even experts disagree about this sometimes. The important thing
 
 ---
 
+## The Media Checkpoint
+
+Throughout the course, students use a consistent seven-question routine called **The Media Checkpoint** to analyze any piece of media:
+
+1. **What am I looking at?**
+2. **Who made it, and why?**
+3. **What choices shaped it?**
+4. **How does it want me to feel?**
+5. **What's the evidence?**
+6. **What am I missing?**
+7. **What's my next move?**
+
+Students start with questions 1–3 in the first unit and add more as the course progresses. By the end, the routine should feel automatic. Post these questions somewhere visible — on the fridge, next to the computer, or inside the notebook cover.
+
+See the [Media Checkpoint](/docs/media-checkpoint) page for the full reference and tips.
+
+---
+
 ## The Media Detective Notebook
 
 Throughout the course, students keep a **Media Detective Notebook** — a journal or folder where they record observations, reflections, and artifacts from each week.
@@ -257,6 +288,20 @@ The notebook serves three purposes:
 The notebook doesn't need to be fancy. A composition book, a binder with loose paper, or a folder with worksheets all work. The key is that the student uses it consistently.
 
 See the [Media Detective Notebook](/docs/media-detective-notebook) page for detailed setup instructions and a week-by-week guide.
+
+---
+
+## Differentiation at a Glance
+
+Every weekly lesson includes differentiation in three areas. Here's what to look for:
+
+| Support Type | What It Provides | Who It's For |
+|---|---|---|
+| **Younger Learner Adaptation** | Simpler vocabulary, concrete examples, drawing or verbal responses, shorter tasks | Ages 6–8, or older students who need scaffolding |
+| **Older Learner Extension** | More nuance, real-world research, independent investigation, longer writing | Ages 11–13, or younger students ready for a challenge |
+| **Accessibility Options** | Alternative response formats — verbal, drawing, sorting, partner discussion, photos | Any student who needs a different way in |
+
+You don't need to use all three every week. Pick the one that fits your student, or mix and match as needed. The core concepts are the same for everyone — only the depth, complexity, and response format change.
 
 ---
 
@@ -300,8 +345,11 @@ Every lesson includes **Accessibility Options** with alternatives: verbal respon
 
 1. Read the [Welcome](/docs/intro) page for the course philosophy and core concepts.
 2. Skim the [Curriculum Overview](/docs/curriculum-overview) to see the full sequence.
-3. Check the [Materials List](/docs/materials) for Week 1.
-4. Set up a [Media Detective Notebook](/docs/media-detective-notebook) for the student.
-5. Open [Week 1](/docs/week01-week-1) and begin.
+3. Complete the [Pre-Course Self-Assessment](/docs/self-assessment) with your student.
+4. Check the [Materials List](/docs/materials) for Week 1.
+5. Set up a [Media Detective Notebook](/docs/media-detective-notebook) for the student.
+6. Open [Week 1](/docs/week01-week-1) and begin.
+
+**Want to understand the pedagogical reasoning?** See the [Educator Rationale](/docs/educator-rationale) for the curriculum's philosophy, sequence logic, and developmental assumptions.
 
 You're ready. The lessons will guide you from here.

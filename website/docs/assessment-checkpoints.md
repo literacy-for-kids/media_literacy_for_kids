@@ -13,14 +13,18 @@ This curriculum uses **practical, lightweight assessment** — no tests, no grad
 
 ## How Assessment Works in This Curriculum
 
-Assessment happens in four ways:
+Assessment happens in six ways:
 
 1. **Weekly Quick Checks** — 2–3 quick questions or tasks at the end of each lesson page
 2. **Caregiver Look-Fors** — observable signs of understanding during each week's activities
-3. **Unit Checkpoints** — reflection prompts at the end of each unit (see below)
-4. **The Final Project** — the strongest, most authentic evidence of learning (see [Final Project Rubric](/docs/final-project-rubric))
+3. **Spiral Performance Tasks** — milestone activities at key intervals that ask students to apply multiple skills to a single media artifact (see [below](#spiral-performance-tasks))
+4. **Unit Checkpoints** — reflection prompts at the end of each unit (see below)
+5. **Pre/Post Self-Assessment** — a habit-and-confidence reflection at the start and end of the course (see [Self-Assessment & Reflection](/docs/self-assessment))
+6. **The Final Project** — the strongest, most authentic evidence of learning (see [Final Project Rubric](/docs/final-project-rubric) and [Project Exemplars](/docs/final-project-exemplars))
 
 None of these require formal grading. They are conversation starters and thinking prompts.
+
+The [Media Checkpoint](/docs/media-checkpoint) — a seven-question analysis routine — runs through all assessments as a consistent framework.
 
 ---
 
@@ -73,7 +77,9 @@ Ask the student:
 By the end of Unit 3, the student should be able to:
 
 - [x] Explain the difference between misinformation (accidental) and disinformation (intentional)
+- [x] Distinguish between news reporting, opinion, advertising, and entertainment
 - [x] Use three verification strategies: check the source, check the date, search for the same claim elsewhere
+- [x] Compare how different sources cover the same event and explain why coverage differs
 - [x] Identify at least 2 examples of out-of-context or manipulated media
 - [x] Use reverse image search or describe how it works
 - [x] Make an evidence-based trust rating for a piece of information
@@ -83,10 +89,10 @@ By the end of Unit 3, the student should be able to:
 Ask the student:
 
 1. *"If I showed you a surprising headline right now, what would you do before sharing it?"*
-2. *"What are three things you'd check to decide if something online is reliable?"*
-3. *"Can you think of a time when a true photo could be misleading?"*
+2. *"What's the difference between a news report and an opinion piece? How can you tell?"*
+3. *"If two sources cover the same event but emphasize different things, does that mean one is lying?"*
 
-**What you're listening for:** The student has a **verification habit**, not just knowledge. They describe a process (check → search → compare) rather than just saying "I'd Google it." They understand that context can change meaning.
+**What you're listening for:** The student has a **verification habit**, not just knowledge. They describe a process (check → search → compare) rather than just saying "I'd Google it." They understand that different coverage doesn't automatically mean bias or dishonesty — it reflects the construction choices each source made. They can distinguish between types of content without needing to label sources as "good" or "bad."
 
 ---
 
@@ -136,6 +142,77 @@ This happens naturally during the Week 18 presentation. The most important sign 
 - **Small group / classroom**: Use checkpoints as discussion prompts for the whole group.
 - **Portfolio assessment**: Pair checkpoints with the [Media Detective Notebook](/docs/media-detective-notebook) for a complete picture of learning.
 - **If a student struggles**: Don't re-test. Instead, revisit the concept through conversation, a new example, or a quick hands-on activity. Understanding builds over time.
+
+---
+
+## Spiral Performance Tasks
+
+Spiral performance tasks are milestone activities at key points in the course where students apply **multiple previously learned skills** to a single piece of media. They are cumulative by design — each one asks the student to use tools from earlier weeks, not just the current unit.
+
+### Spiral Task 1: The Full Breakdown (After Week 4)
+
+**When:** After completing Unit 1 (The Anatomy of a Message)
+
+**Task:** Choose one piece of media the student hasn't analyzed before — a poster, video thumbnail, magazine ad, or product package. Run the first three questions of the [Media Checkpoint](/docs/media-checkpoint) on it:
+
+1. *What am I looking at?* (Identify the type of media — Week 1)
+2. *Who made it, and why?* (Identify the creator and purpose — Week 2)
+3. *What choices shaped it?* (Name at least three construction choices and explain how each affects the message — Week 3)
+
+Then: *If you re-edited this with a completely different mood or purpose, what would you change?* (Week 4)
+
+**What you're looking for:** The student can analyze a single artifact using all four weeks of skills together, not just the most recent one.
+
+### Spiral Task 2: Follow the Money (After Week 8)
+
+**When:** After completing Unit 2 (The Attention Economy)
+
+**Task:** Find a piece of free online content — a video, an app screen, a social media-style feed, or a game notification. Apply the full Media Checkpoint (questions 1–4):
+
+1. *What am I looking at?*
+2. *Who made it, and why? Who is paying for it?* (Follow the incentive — Week 5)
+3. *What choices shaped it?* (Identify clickbait patterns, emotional hooks, or disguised ads — Weeks 6–7)
+4. *How does it want me to feel?* (Is it selling a product, an idea, or a feeling? — Week 8)
+
+Bonuses: *Is there a hidden ad or persuasion attempt?* *How obvious or disguised is it?*
+
+**What you're looking for:** The student integrates incentive thinking with construction analysis. They don't just say "this is an ad" — they explain the business model, the technique, and the emotional angle.
+
+### Spiral Task 3: The Source Detective (After Week 11)
+
+**When:** After completing Unit 3 (Verification & Debugging)
+
+**Task:** Present the student with a surprising claim, headline, or image (prepare one in advance). Have them run the full Media Checkpoint (questions 1–6):
+
+1. *What am I looking at?* (What type of content is this — news, opinion, entertainment, ad?)
+2. *Who made it, and why?*
+3. *What choices shaped it?*
+4. *How does it want me to feel?* (Is the emotional pull proportional to the evidence?)
+5. *What's the evidence?* (Check the source, check the date, search for other sources — Weeks 9–10)
+6. *What am I missing?* (Is this image in context? Is there another side? — Week 11)
+
+Then give a trust rating: 🟢 reliable, 🟡 uncertain, or 🔴 unreliable — and explain why.
+
+**What you're looking for:** The student uses verification tools from Unit 3 *alongside* the construction and incentive thinking from Units 1–2. Their trust rating is based on evidence, not gut feeling.
+
+### Spiral Task 4: The Pre-Project Warm-Up (Week 14 or early Week 15)
+
+**When:** After the Algorithmic Echo unit, before major project work begins
+
+**Task:** Choose a piece of media that's relevant to the student's likely project topic area. Run the complete Media Checkpoint (all 7 questions). Additionally:
+
+- *If this appeared in your feed, why might the algorithm have shown it to you?* (Weeks 12–14)
+- *If this appeared in someone else's feed — someone who doesn't share your interests or views — would they see it? Would they react the same way?*
+- *If you were going to create something better than this on the same topic, what would you do differently?*
+
+**What you're looking for:** The student connects algorithmic thinking to everything else. They can analyze a media artifact from construction through incentives through verification through algorithmic context — and then pivot to thinking about what *they* would create.
+
+### How to Use Spiral Tasks
+
+- These are **conversation-based activities**, not worksheets. They work best as a 10–15 minute discussion.
+- You can embed them into the last session of the relevant week, or do them as a standalone mini-session between units.
+- Record the student's responses in the [Media Detective Notebook](/docs/media-detective-notebook) as milestone entries.
+- If a student struggles with a spiral task, it reveals which earlier skill needs reinforcement — and that's valuable information.
 
 ---
 

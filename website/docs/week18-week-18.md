@@ -138,9 +138,11 @@ Students can reflect on the full 18-week journey, identify how their thinking ha
    4. Context is the metadata of truth → *"Always look for the full story."*
    5. Sharing is a write operation → *"When I share, I'm responsible."*
 
-   Write these on a card the student can keep.
+   Write these on a card the student can keep. Then add one more: **"When in doubt, run The Media Checkpoint."** If the student remembers nothing else from the course, the [seven questions](/docs/media-checkpoint) are the tools that stay with them.
 
 4. **Looking Forward** — Ask: "How will you use these skills going forward? What will you do differently?" Let the student set their own intentions. There's no quiz, no grade — just a kid who now understands media better than most adults.
+
+5. **Post-Course Self-Assessment** — If the student completed the [Pre/Post Self-Assessment](/docs/self-assessment) at the beginning of the course, now is the time to complete Part 2 (After) and Part 3 (Comparison). This gives the student a concrete way to see how their habits and confidence have changed. If they didn't complete it earlier, they can still fill out both parts now from memory — "before" based on how they remember thinking at the start.
 
 #### Reflection Questions
 
@@ -206,9 +208,9 @@ This is the end of the course. See the [Assessment Checkpoints](/docs/assessment
 
 ## 🎯 Takeaway
 
-> **Big idea:** Media literacy isn't just something you studied — it's a set of habits you now carry with you.
+**Big idea:** Media literacy isn't just something you studied — it's a set of habits you now carry with you.
 
-> **Remember:** Not every question has an instant answer. The habit of asking, checking, comparing, and reflecting is what matters most.
+**Remember:** Not every question has an instant answer. The habit of asking, checking, comparing, and reflecting is what matters most.
 
 ---
 

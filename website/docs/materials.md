@@ -88,6 +88,8 @@ Plus: journal or paper for reflection
 ### Week 9: Is This Real?
 
 - 3–4 examples of information that looks real but isn't (corrected headline, satirical post shared as real, old story reshared as current, out-of-context photo)
+- 1 clearly labeled opinion/editorial piece and 1 news report on the same topic (for content-type identification activity)
+- 2–3 additional examples representing different content types: news, opinion, advertising, entertainment
 - Computer or tablet with a web browser
 - Optional: printed screenshots of examples
 - Card stock for Verification Card
@@ -96,6 +98,8 @@ Plus: journal or paper for reflection
 ### Week 10: The Fact-Check Sprint (Key Activity)
 
 - 3–4 pre-tested claims for investigation (viral "did you know?" facts, misattributed quotes, misleading statistics, wrong-context photos)
+- 2 news articles about the **same event** from different outlets (non-controversial, kid-friendly — for source comparison activity)
+- Comparison chart template (rows: headline, lead sentence, sources quoted, details included, details left out, overall tone)
 - Device with web browser (supervised)
 - Timer
 - Report template (sections: Claim, Source, Search, Verdict, Evidence)
@@ -175,13 +179,14 @@ Plus: Spec Sheet visible and accessible
 - Optional: AI-generated audio or lighthearted deepfake video example
 - Notebook or report template for AI Detective activity
 
-### Extension 2: News Literacy Deep Dive
+### Extension 2: Journalism Deep Dive
 
-- 2–3 news articles about the **same event** from different outlets (non-controversial, kid-friendly)
-- 1 clearly labeled opinion/editorial piece
-- 1 news report about the same topic as the opinion piece
+- Short video or article explaining how a newsroom works (editorial roles, fact-checking process)
+- 1 example of a published correction or retraction (to illustrate accountability)
+- 3 news articles about the **same event** from different outlets (non-controversial, kid-friendly — upgraded from the two-source comparison in Week 10)
 - Comparison chart template (6 rows × 3 source columns — see lesson)
-- Report template for Source Comparison Report
+- Blank credibility framework template (8-item checklist — see lesson)
+- Report template for Credibility Framework Report
 
 ---
 

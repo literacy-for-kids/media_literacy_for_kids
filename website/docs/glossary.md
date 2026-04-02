@@ -39,11 +39,11 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 | **Sponsored content** | Media that looks like regular content but is actually paid for by an advertiser. *(Example: a social media post that looks like a personal recommendation but is actually paid for by a company)* |
 | **Clickbait** | A headline or thumbnail designed to make you click by triggering curiosity, shock, or strong emotion — often exaggerating or leaving out key information. *(Example: "You Won't BELIEVE What Happened Next!" — designed to make you click)* |
 | **Thumbnail** | The small preview image shown before you click on a video or article. Thumbnails are designed to grab attention. |
-| **Incentive** | What the creator gets out of making the content. If the incentive is ad revenue, the creator is motivated to keep you watching as long as possible. |
+| **Incentive** | What the creator gets out of making the content. If the incentive is ad revenue, the creator is motivated to keep you watching as long as possible. An incentive is a clue that helps you ask better questions — but having an incentive does not automatically make someone dishonest. |
 | **Persuasion technique** | A specific method used to influence what you think, feel, or do — such as emotional appeals, celebrity endorsements, or urgency ("limited time!"). |
 | **Product placement** | When a product appears inside other media (like a character drinking a specific brand of soda in a movie) as a form of hidden advertising. |
-| **Emotional selling** | Using feelings — like fear, excitement, nostalgia, or outrage — to persuade someone, rather than using facts. |
-| **Propaganda** | Media that is designed to promote a particular point of view, often using emotional techniques and leaving out information that doesn't support the message. |
+| **Emotional selling** | Using feelings — like fear, excitement, nostalgia, or outrage — to persuade someone, rather than using facts. Not all emotion in media is manipulation — honest media can make you feel things too. The key question is whether the emotion is proportional to the facts and used honestly. |
+| **Propaganda** | Media that is designed to promote a particular point of view, often using emotional techniques and leaving out information that doesn't support the message. Propaganda ranges from wartime posters to modern social media campaigns. |
 
 ---
 
@@ -62,6 +62,10 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 | **Manipulated image** | A photo or image that has been altered (cropped, edited, or combined with other images) to change its meaning. |
 | **Fact-check** | To investigate whether a specific claim is supported by reliable evidence. |
 | **Trust rating** | A judgment about how reliable a piece of information seems, based on checking the source, date, and other sources. |
+| **News reporting** | Writing or media that presents facts about events — who, what, when, where, and how. News reporting aims to describe what happened, not to argue for a particular opinion. |
+| **Opinion/editorial** | Writing that argues for a specific point of view about an event or topic. Labeled as "opinion," "editorial," "commentary," or "column." An opinion piece is not the same as news reporting — it's one person's argument, and it's meant to be recognized as such. |
+| **Coverage** | How a news outlet reports on an event — including what they include, what they leave out, who they interview, and what tone they use. Different outlets can cover the same event differently because of the choices they make. |
+| **Sourcing** | Where information in a news story comes from — named people, documents, data, or organizations. Strong sourcing means the information can be traced and verified. Weak or anonymous sourcing means you should look for additional confirmation. |
 
 ---
 
@@ -69,13 +73,13 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 
 | Term | Simple Definition |
 |------|-------------------|
-| **Algorithm** | A set of rules or instructions that a computer follows. On media platforms, algorithms decide which content to show each user. *(Example: the system that decides which videos appear on your YouTube home page based on what you've watched before)* |
+| **Algorithm** | A set of rules or instructions that a computer follows. On media platforms, algorithms decide which content to show each user. Algorithms are tools — they aren't magic, and they aren't automatically "bad." But understanding how they work helps you make more intentional choices about what you consume. *(Example: the system that decides which videos appear on your YouTube home page based on what you've watched before)* |
 | **Recommendation system** | A specific type of algorithm that suggests content based on what a user has watched, liked, or searched for in the past. |
 | **Engagement** | Any interaction with content — watching, liking, commenting, sharing, or clicking. Platforms measure engagement to decide what to promote. |
 | **Personalization** | When a platform tailors what it shows you based on your past behavior, location, or profile. |
 | **Filter bubble** | The limited, personalized view of information that forms when algorithms keep showing you content similar to what you've already engaged with — while filtering out other perspectives. *(Example: if you only watch funny cat videos, the algorithm shows you more cats and fewer other topics — your view of the internet gradually narrows)* |
 | **Echo chamber** | A situation where you mostly encounter opinions and information that agree with what you already believe, reinforcing those beliefs and making it harder to see other viewpoints. *(Example: if everyone in your friend group agrees on something and you never hear a different opinion, you might start thinking everyone agrees)* |
-| **Confirmation bias** | The natural human tendency to pay more attention to information that supports what we already believe and to dismiss information that challenges it. *(Example: if you already think dogs are better than cats, you'll tend to notice and remember information that supports that belief)* |
+| **Confirmation bias** | The natural human tendency to pay more attention to information that supports what we already believe and to dismiss information that challenges it. Everyone has confirmation bias — including you. Recognizing it is the first step to managing it. *(Example: if you already think dogs are better than cats, you'll tend to notice and remember information that supports that belief)* |
 | **Feed** | The stream of content a platform shows you (your YouTube home page, your social media timeline, your "For You" page). Your feed is curated by the algorithm. |
 | **Engagement signal** | An action (like watching a full video, liking, commenting, or sharing) that tells the algorithm you're interested in that type of content. |
 
@@ -103,11 +107,13 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 | **AI-generated content** | Images, text, audio, or video created by an artificial intelligence system rather than directly by a human. |
 | **Deepfake** | AI-generated video or audio that makes it look or sound like a real person said or did something they didn't. *(Example: a video that makes it look like a famous person said something they never actually said)* |
 | **Hallucination (AI)** | When an AI system generates information that sounds confident but is factually incorrect — it makes things up without knowing it. |
+| **Artifact (AI image)** | A visual glitch in an AI-generated image, such as distorted hands, garbled text, or impossible geometry. |
 | **Synthetic media** | Any media created or substantially modified using artificial intelligence or automated tools. |
-| **News literacy** | The ability to evaluate news content — understanding how journalism works, distinguishing news from opinion, and comparing sources. |
-| **Editorial** | A piece of writing that expresses the opinion of the publication's editors, not just reporting facts. |
-| **Opinion piece** | An article that argues for a specific viewpoint. Labeled as "opinion," "editorial," "commentary," or "column." |
+| **Editorial independence** | When a newsroom makes decisions about what to cover and how to cover it without being controlled by advertisers, owners, or outside pressure. |
 | **Credibility** | How trustworthy and reliable a source of information is, based on its track record, transparency, and methods. |
+| **Credibility framework** | A personal set of criteria for evaluating whether a specific article or outlet deserves your trust — based on evidence, not memorized lists. |
+| **Newsroom** | The team of reporters, editors, and producers who create a news outlet's content. |
+| **Correction / Retraction** | When a news outlet publicly fixes or withdraws an error — a sign of accountability, not weakness. |
 
 ---
 

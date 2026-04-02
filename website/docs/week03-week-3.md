@@ -50,7 +50,7 @@ Prepare the following:
 - Optional: a phone or tablet to play short audio clips (happy music vs. tense music).
 :::
 
-:::tip ⏱️ Quick Prep (5 Minutes or Less)
+:::tip ⚡ Quick Prep
 Find two versions of something — two different cereal boxes, two book covers, or two movie posters. If you can't find two, just describe how one thing would change if you changed its colors or words.
 :::
 
@@ -86,6 +86,9 @@ Students can identify at least three types of choices creators make (words, colo
    - Music/sounds (fast, slow, loud, quiet)
    - Camera angle (close up, far away, looking up, looking down)
    - What's included and what's left out
+   - Pacing and timing (quick cuts vs. slow shots, short clips vs. long)
+
+5. **Media Checkpoint Connection** — This week adds real depth to question 3 of [The Media Checkpoint](/docs/media-checkpoint): *What choices shaped it?* Students can now answer this with specific, concrete examples — naming the variables that make a message feel the way it does.
 
 #### Reflection Questions
 
@@ -177,9 +180,9 @@ Signs that learning is happening this week:
 
 ---
 
-## Takeaway
+## 🎯 Takeaway
 
-**This week's big idea:** Creators make specific choices — colors, words, images, sounds, framing — that shape how we feel about their message.
+**Big idea:** Creators make specific choices — colors, words, images, sounds, framing — that shape how we feel about their message.
 
 **Remember:** If something makes you feel a strong emotion, ask: "What choice did the creator make to cause that feeling?"
 
@@ -196,9 +199,9 @@ Signs that learning is happening this week:
 
 ## Older Learner Extension (Ages 11–13)
 
-- **Analyze real media side-by-side**: Find two news articles about the same event from different outlets. Compare the headlines, photos, and opening sentences. What are the construction choices?
-- **Framing and omission**: Discuss how leaving something OUT is also a construction choice. What's missing from this ad? What did this article not mention?
-- **Create a "variable report"**: For one complex piece of media (a trailer, a magazine cover, an ad), catalog every construction choice they can identify.
+- **Analyze real media side-by-side**: Find two articles, posts, or videos about the same event from different creators. Compare the headlines, photos, thumbnails, and opening lines. What are the construction choices?
+- **Framing and omission**: Discuss how leaving something OUT is also a construction choice. What's missing from this ad? What did this article not mention? What would change if the thumbnail showed a different frame from the video?
+- **Create a "variable report"**: For one complex piece of media (a trailer, a video thumbnail, a magazine cover, an ad), catalog every construction choice they can identify.
 
 ---
 

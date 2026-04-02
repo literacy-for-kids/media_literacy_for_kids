@@ -93,6 +93,10 @@ Students can explain what an algorithm is (a set of rules that decides what to s
 
 4. **Anchor Concept** — Introduce the third core concept: *Algorithms shape what you see.* Explain: "Many recommendation systems are designed to keep you engaged — meaning they tend to show you content you're likely to click on, watch, or interact with. This often means emotional or exciting content gets promoted, while calmer or more accurate content may get less attention. This is a simplified model — platforms are complex, and some are working to promote quality content too — but it's a useful way to start understanding how your feed is built. The key idea: the algorithm doesn't choose what's true or important. It chooses what's likely to keep you watching."
 
+   **Epistemic guardrail:** Algorithms are systems — not magic, not automatically bad. They're designed by people to accomplish a goal (usually engagement). Some algorithmic recommendations are genuinely helpful: they surface music you love, tutorials you need, or news you care about. The issue isn't that algorithms exist — it's that their goal (keep watching) and *your* goal (be well-informed, make good choices) aren't always the same. Understanding the system gives you more control, not less.
+
+5. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Every question in the checkpoint still applies — but now add a new layer. Before you even start analyzing a piece of media, ask: *Why am I seeing this in the first place?* The algorithm chose to show it to you. That's a construction choice too — made by software instead of a person.
+
 #### Reflection Questions
 
 - Before today, did you think about *why* you see certain videos or posts?
@@ -194,6 +198,7 @@ After this week's sessions, the student should be able to:
 
 - **Compare platforms**: How do YouTube, TikTok, and a news app differ in how they build feeds? Which is most aggressive about engagement?
 - **Data collection discussion**: What data does the platform collect to build your profile? How do you feel about that?
+- **Helpful vs. unhelpful recommendations**: Find three recommendations that were genuinely useful and three that felt like time-wasters. What's the difference? Can you tell when the algorithm is serving *your* goals vs. the platform's goals?
 - **Experiment**: Over 3 days, deliberately interact with content outside their usual pattern and track how the feed changes.
 
 ---

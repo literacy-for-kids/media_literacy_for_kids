@@ -124,6 +124,8 @@ Students can experience a different perspective's information environment and ar
 
 5. **Unit 4 Review** — Recap: "Algorithms build your feed based on engagement (Week 12). Over time, this creates a filter bubble where you only see things you already agree with (Week 13). Different people see completely different versions of reality (this week). And none of these feeds show the full picture. Now that you know this — what are you going to do about it?"
 
+6. **Media Checkpoint Connection** — Return to [The Media Checkpoint](/docs/media-checkpoint). Students should now be able to use all seven questions confidently. From this point forward, question 7 — *What's my next move?* — includes algorithmic awareness: "If I share this, who will the algorithm show it to? If I engage with this, what will the algorithm show me *next*?"
+
 :::note 🖨️ Printable-Friendly
 This activity works just as well on paper. Write 10 items on index cards for each fictional character's feed. No screens needed.
 :::
@@ -176,6 +178,10 @@ After this week's sessions, the student should be able to:
 
 :::tip Unit 4 Checkpoint
 This is the end of Unit 4. See the [Assessment Checkpoints](/docs/assessment-checkpoints) page for a unit-level reflection conversation.
+:::
+
+:::info Spiral Task Opportunity
+Around Weeks 14–15, students are ready for **Spiral Performance Task 4: The Pre-Project Warm-Up**. See the [Spiral Performance Tasks](/docs/assessment-checkpoints#spiral-performance-tasks) section for details. This task asks students to apply all 7 Media Checkpoint questions to a piece of media, including algorithmic thinking and a pivot to creation.
 :::
 
 ---

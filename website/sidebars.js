@@ -64,7 +64,7 @@ const sidebars = {
     {
       type: 'category',
       label: 'Optional Extension',
-      description: 'Bonus: AI-Generated Media & News Literacy',
+      description: 'Bonus: AI-Generated Media & Journalism Deep Dive',
       items: [
         'week-extension-1',
         'week-extension-2',
@@ -82,6 +82,10 @@ const sidebars = {
         'final-project-rubric',
         'discussion-prompts',
         'outcomes',
+        'media-checkpoint',
+        'educator-rationale',
+        'final-project-exemplars',
+        'self-assessment',
       ],
     },
     {

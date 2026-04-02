@@ -1,5 +1,5 @@
 ---
-sidebar_position: 26
+sidebar_position: 27
 sidebar_label: "Final Project Rubric"
 title: "Final Project Rubric"
 description: "A practical, kid-friendly rubric for evaluating the final media project (Weeks 15–18)."
@@ -13,7 +13,7 @@ This rubric helps students and caregivers evaluate the final media project creat
 
 ## How to Use This Rubric
 
-1. **Before building** (Week 15): Share the rubric so the student knows what "excellent" looks like.
+1. **Before building** (Week 15): Share the rubric so the student knows what "excellent" looks like. Review the [Project Exemplars](/docs/final-project-exemplars) alongside this rubric to see how the categories apply to real projects.
 2. **During peer review** (Week 17): Use it as a feedback guide.
 3. **After presenting** (Week 18): Review it together as a final reflection.
 

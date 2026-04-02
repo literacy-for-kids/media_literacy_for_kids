@@ -31,6 +31,8 @@ This is the key activity week for Unit 3. Students learn **lateral reading** —
 | **Vertical reading** | Reading one source carefully from top to bottom — less reliable than lateral reading for judging accuracy |
 | **Fact-check** | The process of investigating a specific claim to determine whether it's true, false, or misleading |
 | **Three-Tab Rule** | A rule of thumb: find the claim confirmed by at least three different, unrelated sources before believing it |
+| **Coverage** | How a news outlet reports on an event — including what they include, what they leave out, who they interview, and what tone they use |
+| **Sourcing** | The practice of identifying and citing where information came from — who the reporter talked to, what documents they used |
 
 :::note 🧒 Kid Version
 Last week you got your first checking tools. This week, you become a speed-checker! You'll trace claims back to where they started, just like following footprints. The goal isn't to prove everything wrong — it's to figure out what you actually know and what you still need to check.
@@ -38,7 +40,7 @@ Last week you got your first checking tools. This week, you become a speed-check
 
 ## Connection
 
-**Last week** students got their basic verification toolkit (source, date, search). **This week** is the Unit 3 key activity: they learn **lateral reading** — the actual technique professional fact-checkers use — and apply it in a timed Fact-Check Sprint. **Next week** they extend verification to visual media: photos, screenshots, and video clips.
+**Last week** students got their basic verification toolkit (source, date, search) and learned to distinguish between news reporting and opinion. **This week** is the Unit 3 key activity: they learn **lateral reading** — the actual technique professional fact-checkers use — and apply it in a timed Fact-Check Sprint. They also compare how different sources cover the same story to see construction choices in action. **Next week** they extend verification to visual media: photos, screenshots, and video clips.
 
 :::tip 🔄 Bring Forward
 **From Week 9:** Students learned three verification tools. This week they practice using all three in combination — checking source, date, AND other sources together — because no single check is enough on its own.
@@ -54,6 +56,8 @@ Prepare 3–4 claims for the Fact-Check Sprint. Each should be something the stu
 - A misattributed quote (a quote credited to the wrong person)
 - A real statistic taken out of context
 - A photo used to illustrate the wrong story
+
+Also prepare **2 news articles about the same event** from different outlets. Choose a non-controversial, kid-friendly story (weather event, science discovery, animal rescue, community event). Print them or have them ready in side-by-side tabs. This will be used for the Source Comparison activity.
 
 For Session 1, also prepare a brief demonstration of lateral reading: have a web browser open, and show how to open multiple tabs to compare what different sources say about the same topic.
 
@@ -128,15 +132,24 @@ Students can take a specific claim, trace it back toward its original source, an
 
 5. **Debrief** — Review all the claims. Reveal the actual truth behind each one. Ask: "Which one was hardest? What made it tricky? What would have happened if you had just believed it without checking?"
 
-:::info 🔍 The Verification Habit: Stop → Notice → Check → Compare → Decide
-This five-step process works for any piece of information:
-1. **Stop** — Don't react or share immediately
-2. **Notice** — What claims are being made? What feelings is it trying to create?
-3. **Check** — Where did this come from? When was it made? Is there a real source?
-4. **Compare** — What do other sources say about the same claim?
-5. **Decide** — What do I know, what don't I know yet, and what would help me find out more?
+6. **Source Comparison: Same Story, Different Choices** — Present the two news articles about the same event. Read key sections together and compare using a simple chart:
 
-Each check gives you a clue, not proof. The more clues you gather, the better your judgment.
+   | Question | Source A | Source B |
+   |----------|----------|----------|
+   | What's the headline? | | |
+   | Who is quoted or interviewed? | | |
+   | What facts are included? | | |
+   | What's the overall tone? | | |
+   | What's left out or barely mentioned? | | |
+
+   The most important column is the last one. "Every story has to leave things out — you can't include everything. But *what* gets left out changes the story you end up telling." Ask: "Could someone read only one of these and get a misleading impression? Does reading both give you a fuller picture?"
+
+   **Important nuance:** Differences between sources don't automatically mean one is wrong or biased. Coverage choices are often driven by space, audience, or emphasis — not deception. The skill is noticing the differences and using them to build a more complete picture, not jumping to accusations of bias.
+
+7. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Question 6 (*What am I missing?*) is the star this week. Lateral reading and source comparison are *how* you answer that question. When you read only one source, you're trusting one set of construction choices. When you compare, you find what each source left out.
+
+:::tip 🔍 Verification Habit Reminder
+Keep using the five-step process from Week 9: **Stop → Notice → Check → Compare → Decide.** This week, the *Compare* step gets a major upgrade — lateral reading and source comparison are how you do it well.
 :::
 
 #### Reflection Questions
@@ -187,6 +200,7 @@ After this week's sessions, the student should be able to:
 1. **Explain lateral reading**: Describe the difference between vertical and lateral reading and why lateral reading is more reliable.
 2. **Apply the Three-Tab Rule**: Given any claim, open multiple tabs and check what different sources say.
 3. **Write a verdict**: Produce a one-sentence evidence-based judgment about a claim's accuracy.
+4. **Compare coverage**: Describe specific differences between two outlets' coverage of the same event and explain what each source left out.
 
 ---
 
@@ -220,6 +234,7 @@ After this week's sessions, the student should be able to:
 ## Older Learner Extension (Ages 11–13)
 
 - **Source quality ranking**: After lateral reading, rank the sources by reliability and explain why some are more trustworthy than others.
+- **Three-source comparison**: Add a third outlet to the source comparison and track how coverage varies even more across three accounts of the same event.
 - **Investigate a current claim**: Choose a claim currently circulating on social media and write a real fact-check report.
 - **Debrief on speed vs. depth**: When is a quick check sufficient? When do you need to dig deeper? Develop personal guidelines.
 

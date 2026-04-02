@@ -1,5 +1,5 @@
 ---
-sidebar_position: 28
+sidebar_position: 29
 sidebar_label: "Learning Outcomes & Alignment"
 title: "Learning Outcomes & Standards Alignment"
 description: "Skills, competencies, and standards connections for the Media Literacy for Kids curriculum."
@@ -19,9 +19,12 @@ By the end of this 18-week program, students will be able to:
 2. **Identify purpose, audience, and construction choices** — recognize that all media is built with specific tools, framings, and intentions.
 3. **Understand persuasion and attention tactics** — spot clickbait, emotional appeals, and business models behind "free" content.
 4. **Evaluate sources and verify information** — use lateral reading, reverse image search, and source-tracing to check claims.
-5. **Recognize how algorithms shape information exposure** — explain how recommendation systems work and why feeds feel personalized.
-6. **Create media responsibly with clear intent** — plan, build, test, and present an original media project with a defined audience and ethical awareness.
-7. **Reflect on personal media habits** — think honestly about their own consumption, sharing, and emotional responses to media.
+5. **Distinguish between content types** — identify news reporting, opinion, advertising, and entertainment and evaluate each appropriately.
+6. **Compare coverage across sources** — analyze how different outlets report the same event and identify what each includes and omits.
+7. **Recognize how algorithms shape information exposure** — explain how recommendation systems work and why feeds feel personalized.
+8. **Create media responsibly with clear intent** — plan, build, test, and present an original media project with a defined audience and ethical awareness.
+9. **Apply the Media Checkpoint routine** — use a structured 7-question analysis process independently when encountering any piece of media.
+10. **Reflect on personal media habits** — track changes in their own thinking through pre/post self-assessment and ongoing reflection.
 
 These are transferable thinking skills. They apply to news articles, YouTube videos, social media posts, advertisements, podcasts, textbooks, and any other media students encounter now or in the future.
 
@@ -38,7 +41,7 @@ This curriculum connects to multiple standards frameworks. The mapping below is 
 | Identifying main idea and supporting details | Weeks 1–4: analyzing what a message is really saying vs. what it looks like on the surface |
 | Analyzing author's purpose and point of view | Weeks 2–4: who made this, why, and what choices did they make? |
 | Evaluating the reasoning and evidence in arguments | Weeks 8–11: separating opinion from evidence, checking claims |
-| Comparing multiple accounts of the same event | Week 10 (Fact-Check Sprint), Week 13 (Echo Chamber), Extension Week 2 (News Literacy) |
+| Comparing multiple accounts of the same event | Week 10 (Fact-Check Sprint + Source Comparison), Week 13 (Echo Chamber), Extension Week 2 (Journalism Deep Dive) |
 | Analyzing how visual elements contribute to meaning | Weeks 3–4: camera angles, color, layout, music, framing |
 
 ### Speaking & Listening / Discussion Skills
@@ -77,7 +80,7 @@ This curriculum connects to multiple standards frameworks. The mapping below is 
 | 9–11 | Misinformation and civic life | Scientific claims in media | Statistics in misleading graphics | Manipulated images | Source evaluation, reading laterally |
 | 12–14 | Filter bubbles and diverse perspectives | How recommendation algorithms work | Data patterns in feeds | — | Comparing accounts, perspective-taking |
 | 15–18 | Ethical communication | — | Audience feedback and iteration | Media production and design | Writing, presenting, peer review |
-| Extensions | AI in society, journalism ethics | AI image generation | — | AI-generated visuals | News literacy, editorial vs. opinion |
+| Extensions | AI in society, journalism ethics, editorial independence | AI image generation | — | AI-generated visuals | News literacy, credibility frameworks |
 
 ---
 
@@ -93,8 +96,8 @@ This curriculum connects to multiple standards frameworks. The mapping below is 
 | 6 | Identifying clickbait and attention engineering | ELA: evaluating reasoning; Digital Citizenship: persuasion tactics |
 | 7 | Tracking persuasion attempts across media | Math/Data: counting and categorizing; ELA: claims vs. evidence |
 | 8 | Recognizing emotional and ideological selling | ELA: evaluating arguments; Speaking & Listening: evaluating claims |
-| 9 | Understanding why false information spreads | Digital Citizenship: source evaluation; ELA: evidence and reasoning |
-| 10 | Tracing claims back to original sources | ELA: comparing accounts; Digital Citizenship: credibility evaluation |
+| 9 | Understanding why false info spreads; distinguishing news, opinion, advertising, entertainment | ELA: evidence and reasoning; Digital Citizenship: source evaluation |
+| 10 | Tracing claims; comparing coverage across sources | ELA: comparing accounts; Digital Citizenship: credibility evaluation |
 | 11 | Detecting manipulated images and out-of-context media | Visual Literacy: image manipulation; Digital Citizenship: verification |
 | 12 | Explaining how recommendation algorithms work | Digital Citizenship: algorithmic curation; Science: systems thinking |
 | 13 | Recognizing filter bubbles and confirmation bias | Social Studies: diverse perspectives; ELA: comparing accounts |
@@ -114,6 +117,6 @@ This curriculum connects to multiple standards frameworks. The mapping below is 
 
 **For curriculum mapping:** The Standards Alignment tables show where this program overlaps with ELA, speaking and listening, digital citizenship, and visual literacy standards. Use the Cross-Curricular Connections table to find integration points with other subjects.
 
-**For administrator or board approval:** Share this page alongside the [Curriculum Overview](/docs/curriculum-overview) and the [Assessment Checkpoints](/docs/assessment-checkpoints) to show that the program develops clearly defined, standards-connected skills through structured, age-appropriate activities.
+**For administrator or board approval:** Share this page alongside the [Curriculum Overview](/docs/curriculum-overview), the [Assessment Checkpoints](/docs/assessment-checkpoints), and the [Educator Rationale](/docs/educator-rationale) to show that the program develops clearly defined, standards-connected skills through structured, age-appropriate activities.
 
 **For homeschool documentation:** The skills map and standards tables can serve as evidence of standards coverage for portfolio reviews or reporting requirements.

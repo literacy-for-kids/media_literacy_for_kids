@@ -51,7 +51,7 @@ Choose a format that matches your student's age and resources:
 The key requirement: **the raw material must be identical.** Only the arrangement, captions, and framing change.
 :::
 
-:::tip ⏱️ Quick Prep (5 Minutes or Less)
+:::tip ⚡ Quick Prep
 All you need is paper, scissors, and some printed images or hand-drawn pictures. If you have old magazines, even better. The student will rearrange the same material to tell two different stories.
 :::
 
@@ -109,11 +109,13 @@ Students can construct two different media pieces from the same material and art
    - "Which one do you trust more? Why?"
    - "Which one would get more attention on the internet? Why?"
 
-4. **The Big Takeaway** — Discuss: "You just proved something important. The same facts, the same images, the same footage can tell completely different stories depending on the choices the creator makes. This happens in real media every single day — on the news, on social media, in advertisements. Now you know how to see it."
+4. **The Big Takeaway** — Discuss: "You just proved something important. The same facts, the same images, the same footage can tell completely different stories depending on the choices the creator makes. This happens in real media every single day — in news coverage, on video feeds, in short-form content, in advertisements. Now you know how to see it."
 
-   > **A note on re-editing:** Re-editing isn't just about "tricking" people — creators make choices to match their audience, purpose, and context. A movie trailer and a movie review tell the same story differently because they have different goals.
+   > **A note on re-editing:** Re-editing isn't just about "tricking" people — creators make choices to match their audience, purpose, and context. A movie trailer and a movie review tell the same story differently because they have different goals. A short video clip and a full interview tell the same person's story differently because of what was included and left out.
 
 5. **Optional: Show Someone Else** — If another family member is available, show them just ONE version and ask what they think it's about. Then show the other version and watch their reaction change. This is a powerful moment for the student.
+
+6. **Spiral Task Opportunity** — This is a natural moment for [Spiral Performance Task 1](/docs/assessment-checkpoints#spiral-performance-tasks) if you'd like to do a cumulative check-in. Grab a fresh piece of media the student hasn't analyzed and ask them to run the first three questions of the Media Checkpoint on it, then describe how they'd re-edit it. This takes about 10 minutes and shows whether Unit 1's skills are clicking together.
 
 #### Reflection Questions
 
@@ -175,9 +177,9 @@ Signs that learning is happening this week:
 
 ---
 
-## Takeaway
+## 🎯 Takeaway
 
-**This week's big idea:** The same material can tell completely different stories depending on how it's arranged.
+**Big idea:** The same material can tell completely different stories depending on how it's arranged.
 
 **Remember:** Presentation isn't decoration — it's part of the message.
 

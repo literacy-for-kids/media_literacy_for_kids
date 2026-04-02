@@ -50,15 +50,16 @@ This week shifts from *how* media is made to *why* it's made. The big idea: if a
 :::info Before You Begin
 Prepare examples of "free" things that actually make money:
 - A screenshot of a YouTube video with ads visible (banner ad, pre-roll marker, sponsored link)
-- A free mobile game that has in-app purchases or reward-video prompts
+- A free mobile game that has in-app purchases, reward-video prompts, or a battle pass
 - A social media feed with "Sponsored" posts mixed in with regular content
-- A free newspaper or magazine supported by ads
+- A creator's video with a visible "Thanks to today's sponsor..." segment
 - A website with pop-up ads and cookie consent banners
+- A free-to-play game with a cosmetics shop or loot-box mechanic
 
 Also prepare a simple comparison: a paid app (no ads) vs. a free app (with ads). This makes the trade-off concrete.
 :::
 
-:::tip ⏱️ Quick Prep (5 Minutes or Less)
+:::tip ⚡ Quick Prep
 Open any free app on a phone or tablet and notice the ads. Or grab a free newspaper/magazine. Compare it to something you paid for (a book, a game with no ads). That contrast is the whole lesson.
 :::
 
@@ -90,6 +91,8 @@ Students can explain that "free" content is usually paid for by advertisers, and
 
 4. **Anchor Concept** — Introduce the second core idea: *The incentive dictates the signal.* Explain: "Incentive" means "what the creator gets out of it." If ad revenue is a major incentive, the creator is motivated to keep you watching. That can influence what kind of content they make and how they present it.
 
+   **Important nuance:** An incentive is a *clue*, not a *conviction*. Just because a creator earns ad revenue doesn't mean their content is dishonest or bad. Many creators do good work *and* earn money from it. The point isn't to distrust everyone who has an incentive — it's to *notice* the incentive so you can think about whether it might have shaped the content.
+
 #### Reflection Questions
 
 - If you were running a free app, how would you make money?
@@ -116,7 +119,9 @@ Students can distinguish between content and advertising, even when advertising 
 
    For each one, show an example (real or described) and ask: "Is this person sharing because they love this product, or because they're being paid?"
 
-3. **The "Why Is This Free?" Test** — Practice a new habit. Pick 3–4 things the student uses (a game, a website, a show). For each one, ask: "Is this free? If yes, who is paying, and what are they getting?" Not everything has a hidden motive — public libraries are free and publicly funded. But the question is always worth asking.
+3. **The "Why Is This Free?" Test** — Practice a new habit. Pick 3–4 things the student uses (a game, a website, a short-form video app, a creator's channel). For each one, ask: "Is this free? If yes, who is paying, and what are they getting?" Not everything has a hidden motive — public libraries are free and publicly funded. But the question is always worth asking.
+
+5. **Media Checkpoint Connection** — Link this week's learning to [The Media Checkpoint](/docs/media-checkpoint). Focus on question 2: *Who made it, and why?* From this week forward, "why" includes the business model. Ask: "Now that you know about attention economics, does question 2 feel different than it did in Week 1?"
 
 4. **Design an Honest Ad** — Have the student design a short ad (drawn on paper, or described aloud) that is completely transparent. It should say: "This is an ad. We are trying to sell you [product]. Here is why we think you should buy it: [reason]." Compare this to the "disguised" ads they found. Which is more honest? Which would work better at actually selling?
 
@@ -199,6 +204,7 @@ Signs that learning is happening this week:
 
 - **Data as product**: Discuss how platforms also collect user data (what you search, what you click) and how that data is valuable to advertisers.
 - **Influencer economics**: Explore how influencers are paid — sponsorships, affiliate links, free products — and what that means for their recommendations.
+- **Gaming monetization deep dive**: Analyze a free-to-play game's monetization: battle passes, cosmetics shops, loot boxes, "watch an ad for a reward" prompts. How do each of these turn attention or time into money?
 - **Subscription vs. ad models**: Compare a paid, ad-free service (like a subscription app) to a free, ad-supported one. Which business model aligns better with the user's interests?
 
 ---

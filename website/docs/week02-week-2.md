@@ -53,7 +53,7 @@ Gather 8–10 varied media examples. Try to include at least two from each purpo
 Print or display these so the student can handle and compare them easily.
 :::
 
-:::tip ⏱️ Quick Prep (5 Minutes or Less)
+:::tip ⚡ Quick Prep
 Pull out the same examples from Week 1 and one new one (a magazine ad or a YouTube thumbnail). Ask "Why was this made?" — that's the core activity.
 :::
 
@@ -84,7 +84,9 @@ Students can name the four main purposes of media (inform, entertain, persuade, 
 
 3. **The Sorting Challenge** — Spread out your media examples. Have the student sort each one by its **main** purpose. Talk through every decision. When there's overlap (a funny ad both entertains and sells), celebrate the observation: "You just found a combo! That's what good analysts do."
 
-4. **The Tricky Ones** — Deliberately show an example where the purpose is disguised. A "fun quiz" on social media that's actually collecting data. A YouTube video that's helpful but is also sponsored. Ask: "What is this *really* trying to do?"
+4. **The Tricky Ones** — Deliberately show an example where the purpose is disguised. A "fun quiz" on social media that's actually collecting data. A video that's helpful but is also sponsored. A creator who seems to be sharing a personal favorite but is actually being paid. A game that offers a "free reward" in exchange for watching an ad. Ask: "What is this *really* trying to do?"
+
+5. **Media Checkpoint Update** — Remind the student about [The Media Checkpoint](/docs/media-checkpoint) from Week 1. Now they've leveled up: they can answer question 2 (*Who made it, and why?*) with much more depth, because they understand the four purposes.
 
 #### Reflection Questions
 
@@ -175,9 +177,9 @@ Signs that learning is happening this week:
 
 ---
 
-## Takeaway
+## 🎯 Takeaway
 
-**This week's big idea:** Every piece of media has a purpose — to inform, entertain, persuade, or sell — and often more than one at the same time.
+**Big idea:** Every piece of media has a purpose — to inform, entertain, persuade, or sell — and often more than one at the same time.
 
 **Remember:** The first question to ask about any media: "What does this want me to do?"
 
@@ -194,8 +196,8 @@ Signs that learning is happening this week:
 
 ## Older Learner Extension (Ages 11–13)
 
-- **Analyze social media**: Look at real social media posts (screenshots) and identify how purpose is often disguised — sponsored content that looks like personal recommendations, educational content that's really selling a course.
-- **Multiple purposes debate**: Choose a complex example (like a viral charity campaign) and debate which purpose is primary.
+- **Analyze real-world media**: Look at screenshots of short-form videos, creator recommendation posts, game item shops, or app store listings and identify how purpose is often disguised — sponsored content that looks like personal recommendations, educational content that's really selling a course, or gaming content that's really advertising cosmetic items.
+- **Multiple purposes debate**: Choose a complex example (like a viral charity campaign or an influencer "try this product" video) and debate which purpose is primary.
 - **Media creation**: Write the same paragraph four times — once to inform, once to entertain, once to persuade, and once to sell.
 
 ---

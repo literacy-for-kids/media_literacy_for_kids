@@ -119,7 +119,7 @@ Students can audit their own work using the media literacy principles from the c
 
 #### Activities
 
-1. **The Self-Audit** — Walk the student through a media literacy self-check on their own project, using the same questions they've been asking about OTHER people's media all semester:
+1. **The Self-Audit** — Walk the student through a media literacy self-check on their own project. Start with [The Media Checkpoint](/docs/media-checkpoint) — pretend you're a stranger encountering this media for the first time and answer all 7 questions. Then go deeper with the course-specific lenses:
    - **Construction** (Week 1–4): What choices did I make? Are they intentional?
    - **Purpose** (Week 2): Is my purpose clear? Would the audience know what I'm trying to do?
    - **Attention hooks** (Week 5–6): Did I use any clickbait or engagement tricks? If so, are they honest or manipulative?
@@ -202,9 +202,9 @@ After this week's sessions, the student should be able to:
 
 ## 🎯 Takeaway
 
-> **Big idea:** Creating media intentionally means making every choice on purpose and being able to explain why.
+**Big idea:** Creating media intentionally means making every choice on purpose and being able to explain why.
 
-> **Remember:** Apply the same critical questions to your own work that you've been asking about everyone else's.
+**Remember:** Apply the same critical questions to your own work that you've been asking about everyone else's.
 
 ---
 

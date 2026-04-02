@@ -87,8 +87,14 @@ This curriculum uses practical, lightweight assessment — no tests, no grades. 
 
 - **Weekly Quick Checks** — 2–3 items at the end of each lesson
 - **Caregiver Look-Fors** — observable signs in each week
+- **Spiral Performance Tasks** — milestone activities at key intervals where students apply multiple skills to a single media artifact (see [Assessment Checkpoints](/docs/assessment-checkpoints))
 - **Unit Checkpoints** — reflection conversations at the end of each unit (see [Assessment Checkpoints](/docs/assessment-checkpoints))
-- **The Final Project** — the most authentic evidence of learning (see [Final Project Rubric](/docs/final-project-rubric))
+- **Pre/Post Self-Assessment** — a simple reflection tool at the start and end of the course (see [Self-Assessment](/docs/self-assessment))
+- **The Final Project** — the most authentic evidence of learning (see [Final Project Rubric](/docs/final-project-rubric) and [Project Exemplars](/docs/final-project-exemplars))
+
+### The Media Checkpoint
+
+A seven-question analysis routine — [The Media Checkpoint](/docs/media-checkpoint) — runs through the entire course as a recurring thinking tool. Students begin with the first few questions in Week 1 and progressively add the rest, building toward automatic media analysis habits.
 
 ---
 
@@ -123,12 +129,12 @@ Each week below links to a detailed lesson page containing:
 
 ### Verification & Debugging — Weeks 9–11
 
-How to check information, trace claims, and evaluate visual media.
+How to check information, trace claims, evaluate sources, and understand the difference between reporting, opinion, and entertainment.
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Week 9](./week09-week-9) | Is This Real? | Why false information spreads; introduction to verification tools |
-| [Week 10](./week10-week-10) | The Fact-Check Sprint | Key Activity — tracing a viral claim back to its original source |
+| [Week 9](./week09-week-9) | Is This Real? | Why false information spreads; types of content (news, opinion, entertainment, advertising); introduction to verification tools |
+| [Week 10](./week10-week-10) | The Fact-Check Sprint | Key Activity — tracing a viral claim back to its original source; comparing how different sources cover the same event |
 | [Week 11](./week11-week-11) | Spotting Fakes | Manipulated images, out-of-context media, and visual detection tools |
 
 ### The Algorithmic Echo — Weeks 12–14
@@ -157,7 +163,7 @@ How recommendation systems shape what you see, and how to broaden your view.
 | Week | Theme | Focus |
 |---|---|---|
 | [Extension Week 1](./week-extension-1) | AI-Generated Media | Deepfakes, AI images, synthetic text — how to detect and think about AI-produced content |
-| [Extension Week 2](./week-extension-2) | News Literacy Deep Dive | Journalism ethics, editorial vs. opinion, comparing sources on the same story |
+| [Extension Week 2](./week-extension-2) | Journalism Deep Dive | How newsrooms work, editorial independence, advanced source comparison, and building a personal credibility framework |
 
 ---
 

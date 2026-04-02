@@ -54,17 +54,15 @@ Collect examples of media that sell ideas or emotions rather than physical produ
 - A "feel-good" viral video that has a subtle brand message
 - A charity appeal that uses emotional images
 
-Be selective and age-appropriate. The goal is to show that media can influence how people *think and feel*, not just what they *buy*. Avoid deeply partisan content — use clear, simple examples.
+The goal is to show that media can influence how people *think and feel*, not just what they *buy*.
 :::
 
-:::tip ⏱️ Quick Prep (5 Minutes or Less)
+:::tip ⚡ Quick Prep
 Find one example of media that sells a feeling or idea rather than a product: a public service announcement, a charity appeal, a "feel-good" viral video, or even a school poster. One good example is enough.
 :::
 
 :::tip Teaching Mindset
-This is a week where thoughtful conversation matters more than activities. Students may have strong reactions to the idea that someone is trying to change what they think or feel. Validate that reaction: "It's natural to feel uncomfortable. The fact that you notice it means you're already ahead of most people." When selecting examples, be particularly careful to avoid content that reflects your own political preferences — use historical or fictional examples to keep the focus on the *technique*, not the *position*.
-
-Be careful not to make this week feel ideological. Focus on the techniques of emotional persuasion, not on whether specific causes are right or wrong. The skill is recognizing when emotion is being used to influence you — regardless of the topic.
+Students may have strong reactions to the idea that someone is trying to change what they think or feel. Validate that reaction: "It's natural to feel uncomfortable. The fact that you notice it means you're already ahead of most people." Focus on the *techniques* of emotional persuasion, not on whether specific causes are right or wrong — use historical or fictional examples to keep the focus on the technique, not the position.
 :::
 
 ---
@@ -88,6 +86,8 @@ Students can identify media that is designed to change opinions, feelings, or be
 3. **The Emotion Test** — Pick one emotional example (a charity ad with sad music and images, or an outrage-bait post). Ask: "How does this make you feel?" Then: "Now, separate the feeling from the facts. What are the actual facts being presented? Are the facts strong enough to stand on their own without the emotional push? Or is the emotion doing most of the work?"
 
 4. **Good vs. Manipulative** — Important nuance: not all emotional media is bad. A fire safety PSA that scares kids into being careful with matches might save lives. A charity ad that makes you sad might lead to real help for real people. The question isn't "does this use emotion?" but "is the emotion honest and proportional, or is it manipulating me to react without thinking?"
+
+   **Epistemic guardrail:** Feeling something while consuming media is normal and human. Emotion is not automatic evidence of manipulation. A news story about a natural disaster that makes you feel sad isn't "selling sadness" — it's *reporting something sad*. The critical question is whether the emotion is *proportional to the facts*. If the facts are strong and the emotion matches, that's honest media doing its job. If the emotion is cranked up while the facts are thin, that's a red flag.
 
 #### Reflection Questions
 
@@ -119,6 +119,8 @@ Students can name specific techniques used to sell ideas and emotions, and pract
 3. **Build an Emotional Ad** — The student designs a fictional piece of media that sells an idea or emotion using the techniques they just learned. Topic ideas: "convince people that recess should be longer" or "make people feel worried about a made-up problem." After building it, ask: "How does it feel to be the one designing the manipulation? Does it change how you'll react when you see it in real life?"
 
 4. **Unit 2 Review** — Recap the full unit: "Free content is paid for by attention (Week 5). Clickbait is the hook (Week 6). Ads are everywhere (Week 7). And the biggest sell isn't always a product — it can be an idea, a feeling, or a behavior (Week 8). Your new superpower: you can see all of it."
+
+5. **Media Checkpoint Connection** — Return to [The Media Checkpoint](/docs/media-checkpoint). Students should now feel confident with questions 1–4. For this week's examples, question 4 (*How does it want me to feel?*) is the star — but pair it with question 5 (*What's the evidence?*). When media makes you feel strongly, that's the moment to check: is the feeling supported by solid evidence, or is the emotion doing all the heavy lifting?
 
 #### Reflection Questions
 
@@ -169,6 +171,10 @@ After this week's sessions, the student should be able to:
 This is the end of Unit 2. See the [Assessment Checkpoints](/docs/assessment-checkpoints) page for a unit-level reflection conversation.
 :::
 
+:::info Spiral Task Opportunity
+After completing Unit 2, students are ready for **Spiral Performance Task 2: Follow the Money**. See the [Spiral Performance Tasks](/docs/assessment-checkpoints#spiral-performance-tasks) section for details. This task asks students to analyze a piece of media using Media Checkpoint questions 1–4 plus incentive thinking from this unit.
+:::
+
 ---
 
 ## Caregiver Look-Fors
@@ -200,8 +206,9 @@ This is the end of Unit 2. See the [Assessment Checkpoints](/docs/assessment-che
 
 ## Older Learner Extension (Ages 11–13)
 
-- **Historical propaganda analysis**: Look at historical examples (WWII posters, public health campaigns) and identify the techniques.
+- **Historical propaganda analysis**: Look at historical examples (WWII posters, public health campaigns) and identify the techniques. Is the emotion proportional to the facts in each case?
 - **Current events connection**: How do modern platforms amplify emotional content? What does that mean for public discourse? (Keep this balanced and non-partisan.)
+- **The proportionality test**: Find a piece of media that uses strong emotion. Separate the facts from the feeling. Ask: "If I removed all the emotional elements, would the facts alone still be compelling?" This is one of the strongest epistemic habits in the course.
 - **Create a counter-ad**: Design a piece of media that uses reason and calm information to counter an emotional appeal.
 
 ---

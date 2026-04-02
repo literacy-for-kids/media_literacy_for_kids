@@ -31,19 +31,21 @@ This week marks a major shift. Units 1 and 2 taught the student to see how media
 | **Disinformation** | False information created and shared *on purpose* to mislead people |
 | **Verification** | The process of checking whether a piece of information is accurate before trusting or sharing it |
 | **Source** | Where a piece of information originally came from — the author, publication, or organization |
+| **News reporting** | A type of media that presents facts about events — what happened, who was involved, when, and where |
+| **Opinion / editorial** | A type of media that argues for a point of view about an event or topic |
 
 :::note 🧒 Kid Version
-Sometimes information that looks real turns out to be wrong — and sometimes it spreads really fast before anyone checks. The good news? You can learn to check things yourself. This week you get your first set of detective tools: check where it came from, check when it was made, and search for the same story somewhere else.
+Sometimes information that looks real turns out to be wrong — and sometimes it spreads really fast before anyone checks. But not all media is trying to do the same thing: some reports facts (news), some argues an opinion, some entertains, and some sells you something. Knowing which type you're looking at is the first step. The good news? You can learn to check things yourself. This week you get your first set of detective tools: check where it came from, check when it was made, and search for the same story somewhere else.
 :::
 
 ## Connection
 
-**Units 1 and 2** taught students to see how media is *constructed* and *paid for*. **This week** begins a new question: is this information even *true*? Students learn that false information spreads for different reasons and get their first three verification tools. **Next week** they'll level up to lateral reading and run a Fact-Check Sprint.
+**Units 1 and 2** taught students to see how media is *constructed* and *paid for*. **This week** begins a new question: is this information even *true*? Students learn that false information spreads for different reasons, get their first three verification tools, and learn to distinguish between different *types* of content — news reporting, opinion, advertising, and entertainment. Understanding the type of media you're looking at is the foundation for evaluating it fairly. **Next week** they'll level up to lateral reading, compare how different sources cover the same story, and run a Fact-Check Sprint.
 
 :::tip 🔄 Bring Forward
-**From Weeks 1-4:** Students learned that all media is constructed — someone made choices about what to include and what to leave out. Now they apply that same lens to information: who made this claim? What choices did they make about what to include? What might be missing?
+**From Weeks 1-4:** Apply the same construction lens to information claims: who made this claim? What did they include or leave out? What might be missing?
 
-**From Weeks 5-8:** Students learned to follow the incentive. Now ask: does the person sharing this have an incentive to get clicks, reactions, or shares? Could that incentive influence accuracy?
+**From Weeks 5-8:** Follow the incentive. Does the person sharing this have an incentive to get clicks, reactions, or shares? Could that incentive influence accuracy?
 :::
 
 ## Teacher Preparation
@@ -55,6 +57,7 @@ Prepare the following:
   - A viral social media post that turned out to be a joke or satire
   - An old news story reshared as if it's current
   - A real photo used out of context (e.g., labeled as one event but actually from a different one)
+- 1 clearly labeled **opinion or editorial** piece alongside 1 **news report** about the same or a similar topic. Look for the words "Opinion," "Editorial," or "Commentary" in the header of the opinion piece.
 - A computer or tablet with a web browser (for demonstrating verification tools)
 - Optional: print screenshots so the student can examine them without being online
 
@@ -93,11 +96,24 @@ Students can name at least three reasons false information spreads and explain w
 
 4. **Show the Examples** — Present your prepared examples one at a time. For each one, reveal the truth behind it. Ask: "How could you have figured out this wasn't accurate without someone telling you?"
 
+5. **What Kind of Content Is This?** — Before you can evaluate information, it helps to know what *type* of media you're looking at. Not all media is trying to do the same thing:
+   - **News reporting** presents facts — what happened, who was involved, when, where. It aims to inform.
+   - **Opinion / editorial** argues a point of view — "here's what I think and why you should agree."
+   - **Advertising** sells something — a product, a service, or a brand.
+   - **Entertainment** aims to amuse, engage, or tell a story — it's not claiming to be factual.
+
+   Show the news report and opinion piece you prepared. Ask: "What's different about these? Which one is presenting facts, and which one is arguing a viewpoint?" Point out labels: many outlets mark opinion content with words like *Opinion, Editorial, Commentary, Column, Op-Ed.* The problem is that on social media, those labels often get stripped away.
+
+   **Important nuance:** These categories aren't always clean. Advertising can look like entertainment (a funny commercial). Opinion can appear alongside news (a social media post quoting a news story and adding commentary). The skill is noticing *which type you're dealing with* so you know what kind of evaluation it deserves.
+
+6. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Question 1 (*What am I looking at?*) now includes identifying whether something is news, opinion, advertising, or entertainment. Question 5 (*What's the evidence?*) takes on new importance: when media claims to be reporting facts, you can ask *what sources and evidence support those claims?*
+
 #### Reflection Questions
 
 - Have you ever believed something that turned out to be wrong? What happened?
 - Why do you think people share things without checking if they're true?
 - Which is worse — sharing something false because you didn't check, or sharing something false on purpose? Why?
+- Can you think of a time when you confused opinion for news — or vice versa? What made it tricky?
 
 ---
 
@@ -185,6 +201,7 @@ After this week's sessions, the student should be able to:
 1. **Name the types**: Explain the difference between misinformation and disinformation.
 2. **Use the tools**: Demonstrate all three verification steps (check the source, check the date, search for it).
 3. **Rate a claim**: Given a piece of information, assign a trust rating (green / yellow / red) and explain why.
+4. **Identify content types**: Distinguish between news reporting, opinion, advertising, and entertainment when looking at a piece of media.
 
 ---
 
@@ -219,6 +236,7 @@ After this week's sessions, the student should be able to:
 
 - **Speed verification challenge**: How fast can you verify a claim using all three tools? Track times to build fluency.
 - **Trace the chain**: For one piece of misinformation, try to find the *original* source where it first appeared. How far back can you go?
+- **News vs. opinion deep dive**: Find three articles on the same topic. Classify each as news reporting, opinion, or a mix. What labels (or lack of labels) does each outlet use? How easy or hard is it to tell the difference?
 - **Create a misinformation case study**: Document one false claim — who created it, how it spread, and what damage it caused.
 
 ---

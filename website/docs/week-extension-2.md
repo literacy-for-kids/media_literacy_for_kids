@@ -1,16 +1,16 @@
 ---
 sidebar_position: 20
-sidebar_label: "Extension: News Literacy"
-title: "Extension Week 2 — News Literacy Deep Dive"
-description: "Students explore how professional news works, the difference between news and opinion, and how to compare coverage of the same story across multiple sources."
+sidebar_label: "Extension: Journalism Deep Dive"
+title: "Extension Week 2 — Journalism Deep Dive"
+description: "Students explore how professional newsrooms work, what editorial independence means, and how to build a personal credibility framework for evaluating any source."
 ---
 
-# Extension Week 2 — News Literacy Deep Dive
+# Extension Week 2 — Journalism Deep Dive
 
 ---
 
 :::info Caregiver Snapshot
-This extension zooms in on **news** as a specific type of media. Students already know that all media is constructed and that verification matters — now they apply those ideas to the media type that most directly shapes what people believe about the world. They'll learn about journalism ethics, the difference between news reporting and opinion, and how comparing sources on the same story reveals what each source chose to include — and chose to leave out.
+In Weeks 9–10, students learned to distinguish news from opinion, compare sources, and apply verification tools. This extension goes **deeper into how journalism actually works**: how newsrooms make decisions, what editorial independence means, and how students can build a personal credibility framework for evaluating any news source on its own merits — rather than memorizing a list of "good" or "bad" outlets.
 :::
 
 :::tip Quick Navigation
@@ -25,98 +25,97 @@ This extension zooms in on **news** as a specific type of media. Students alread
 
 | Term | Definition |
 |------|------------|
-| **News reporting** | A type of writing that presents facts about events — what happened, who was involved, when, and where |
-| **Opinion / Editorial** | A type of writing that argues for a point of view about an event or topic |
-| **Source (journalism)** | A person, document, or organization that provides information to a reporter |
-| **Coverage** | How a news outlet reports on an event — including what they include, what they leave out, who they interview, and what tone they use |
+| **Editorial independence** | The principle that newsroom decisions about what to report and how to report it should be free from pressure by advertisers, owners, or political interests |
+| **Sourcing** | The practice of identifying and citing where information came from — who the reporter talked to, what documents they used |
+| **Credibility framework** | A personal set of criteria for evaluating whether a specific article or outlet deserves your trust — based on evidence, not memorized lists |
+| **Newsroom** | The team of reporters, editors, and producers who create a news outlet's content |
+| **Correction / Retraction** | When a news outlet publicly fixes or withdraws an error — a sign of accountability, not weakness |
 
 :::note 🧒 Kid Version
-News is a special type of media that tells people what's happening in the world. But remember — it's still made by people who choose what to include, who to talk to, and how to tell the story. This week you'll compare how different news sources cover the same event. You'll be surprised how different they can be — even when they're all telling the truth.
+In Weeks 9–10 you learned to tell news from opinion and to compare how different sources cover the same story. Now you go backstage: how does a newsroom actually decide what to cover? What keeps reporters honest? And how can you build your own system for deciding which sources to trust — without needing someone else to hand you a list?
 :::
 
 ## Connection
 
-This extension builds on **every unit** in the course. Students apply construction awareness (Unit 1), persuasion detection (Unit 2), verification skills (Unit 3), and algorithmic thinking (Unit 4) to the specific world of news media. News is where media literacy meets civic life.
+This extension goes deeper into how journalism actually works. Students move from *evaluating individual articles* (Weeks 9–10) to understanding *the system that produces them* — drawing on construction awareness (Unit 1), attention economics (Unit 2), and algorithmic thinking (Unit 4).
 
 :::tip 🔄 Bring Forward
-**From Weeks 1-4:** News is constructed media. Someone chose the headline, the quotes, the photos, and the tone — just like any other media. Use your construction-choice lens from Unit 1.
+**From Weeks 9–10:** Students can distinguish news from opinion, compare two sources on the same story, and apply the Three-Tab Rule. This extension assumes those skills are solid and goes deeper.
 
-**From Weeks 9-11:** Use your verification toolkit. Check the source. Check the date. Look for the same story elsewhere. These skills are exactly what news literacy requires.
+**From Week 5:** Follow the money. News outlets have business models too — ads, subscriptions, donations, or government funding. Those incentives shape coverage choices, but they don't automatically corrupt them. The skill is noticing the incentive and evaluating the work.
 
-**From Week 13:** Filter bubbles affect news too. Algorithms may show you news that matches your interests or beliefs, while filtering out other perspectives.
+**From Week 13:** Filter bubbles affect news consumption. Algorithms serve you news that matches your existing interests and beliefs, which means your "news diet" may be narrower than you think.
 :::
 
 ## Teacher Preparation
 
 :::info Before You Begin
 Prepare the following:
-- 2–3 news articles about the **same event** from different outlets. Choose a non-controversial, kid-friendly current event (weather event, science discovery, local community story, animal rescue). Print them or have them ready to display side by side.
-- 1 clearly labeled **opinion or editorial** piece (look for "Opinion," "Editorial," or "Commentary" in the header)
-- 1 **news report** about the same topic as the opinion piece
-- A simple explanation of what a "source" means in journalism (a person, document, or organization that provides information to a reporter)
-- Optional: a short age-appropriate video about how a newsroom works (many outlets publish these)
+- A brief explanation or short age-appropriate video about how a newsroom works (many outlets publish "behind the scenes" or "how we report" content)
+- 1 example of a **correction or retraction** from a news outlet (most major outlets have a corrections page — find a simple, non-controversial example)
+- 3 news articles about the **same event** from different outlets (non-controversial, kid-friendly — weather event, science discovery, community story). This should be a **three-source comparison**, building on the two-source work from Week 10.
+- A blank "Personal Credibility Framework" template (the lesson builds one in Session 2)
 :::
 
-:::tip Quick Prep
-Search for any kid-friendly current event (animal rescue, science discovery, weather event) and find two different news articles about it. Print them or open them in two browser tabs. That's your core material. For the news vs. opinion exercise, look for any article labeled "Opinion" or "Editorial" — most news websites have these clearly marked.
+:::tip ⚡ Quick Prep
+Search for "how a newsroom works" for a short, age-appropriate explainer video. Find one example of a published correction from any major outlet. Reuse or expand the two-source comparison from Week 10 by adding a third source. That's your core material.
 :::
 
 :::tip Teaching Mindset
-The goal is NOT to label certain news outlets as "good" or "bad." Avoid naming specific outlets as trustworthy or untrustworthy. Instead, teach the *process*: how to evaluate any source by applying the same skills used throughout this course. The skill is in the comparison, not in memorizing a "good list."
+The goal is NOT to label certain news outlets as "good" or "bad." Avoid naming specific outlets as trustworthy or untrustworthy. Instead, teach the *process*: how to evaluate any source by applying criteria the student develops themselves. The skill is in the evaluation framework, not in memorizing a list.
 :::
 
 ---
 
 ## Guided Session 1
-### How News Gets Made
+### How a Newsroom Actually Works
 
 #### Learning Goal
 
-Students can describe the basic steps of how a news story is produced and identify the key differences between news reporting and opinion content.
+Students can describe the basic structure of a newsroom, explain what editorial independence means, and understand why corrections are a sign of accountability.
 
 #### Activities
 
-1. **What Even IS "News"?** — Ask: "When someone says 'the news,' what do they mean?" Collect answers. Then define: "News is a type of media that's supposed to inform people about things that are happening. But remember — it's still media. It's still constructed. Someone still made choices about what to include, who to talk to, and how to tell the story."
+1. **Behind the Scenes** — Ask: "You know that news is constructed media — someone makes choices about what to include. But *who* makes those choices, and what rules do they follow?" Introduce the newsroom:
+   - **Reporters** investigate and write stories. They talk to sources, check documents, and gather facts.
+   - **Editors** review the reporter's work — checking accuracy, improving clarity, and deciding what's important enough to publish.
+   - **The editorial team** decides which stories the outlet covers at all. Not every event becomes news — someone decides what's newsworthy.
 
-2. **The News Assembly Line** — Walk through how a news story is typically produced:
-   - **Something happens** (the event)
-   - **A reporter investigates** — they talk to people who were there (sources), check documents, and gather facts
-   - **An editor reviews** — they check accuracy, decide what's important, and shape the final story
-   - **The story is published** — in a newspaper, website, TV broadcast, or social media post
-   - **The audience reads/watches** — and decides what to think about it
+   Key insight: "At every step, there are checks. A reporter doesn't just publish whatever they want — editors review the work. This doesn't guarantee perfection, but it adds a layer of accountability that a random social media post doesn't have."
 
-   Key insight: "At every step, someone is making choices. The reporter chooses who to interview. The editor chooses what goes in the headline. The outlet chooses which stories to cover at all."
+2. **Editorial Independence** — Introduce the concept: "Editorial independence means that the newsroom's decisions about what to report and how to report it should be free from pressure by advertisers, owners, or outside interests. If a car company runs ads in a newspaper, the editorial team should still be able to publish a critical review of that car company's product."
 
-3. **News vs. Opinion** — Show the two pieces you prepared (one news report, one opinion). Read key sections aloud. Ask: "What's different about these?"
+   Ask: "Why does this matter? What would happen if advertisers could control which stories got published?" Connect to Week 5 (follow the money): news outlets have business models too — ads, subscriptions, donations, or government funding. Those incentives are *clues*, not convictions. An outlet funded by subscriptions and an outlet funded by ads can both do rigorous journalism. The question is whether the business model pressures the editorial decisions.
 
-   Introduce the distinction:
-   - **News reporting** tries to answer: *What happened? Who was involved? When and where?* It aims to present facts and let the reader decide what to think.
-   - **Opinion/Editorial** starts with: *Here's what I think about what happened, and here's why you should agree with me.* It argues for a point of view.
+3. **When Newsrooms Get It Wrong** — Show the correction or retraction example. Explain: "Newsrooms make mistakes. The question is: what do they do about it? A correction or retraction — where the outlet publicly says 'we got this wrong, here's the truth' — is actually a *good* sign. It means the outlet has accountability mechanisms."
 
-   Both are valid types of writing. But they serve different purposes — and problems arise when people **mistake opinion for news**.
+   Ask: "Would you trust a source more or less if they publicly corrected a mistake? Why? What about a source that never corrects anything — does that mean they're always right, or that they don't check?"
 
-4. **The Label Hunt** — Look at several articles together. Can students find the labels? Many outlets label opinion content — look for words like: Opinion, Editorial, Commentary, Analysis, Column, Op-Ed, Perspective. "If the label is there, the outlet is telling you: this is someone's viewpoint, not straight reporting. The problem is that on social media, the labels often get stripped away."
+4. **Local vs. National vs. Social** — Compare the layers of news students might encounter:
+   - **Local news** covers your city or region — school board decisions, weather, community events
+   - **National/international outlets** cover bigger stories — elections, wars, science breakthroughs
+   - **Social media** shares fragments of both — often stripped of labels, context, and attribution
+
+   Ask: "Where do you get most of your information about the world? Is it from reporters who investigated, or from posts that someone shared?"
 
 #### Reflection Questions
 
-- Who decides what events become "news"? Does everything that happens become a news story?
-- What choices does a reporter make when writing a news story?
-- Why is it important to know whether you're reading news or opinion?
+- Does knowing how a newsroom works change how you feel about news? Why?
+- Why is editorial independence important? What could go wrong without it?
+- Is a news outlet that publishes corrections more or less trustworthy than one that never does?
 
 ---
 
 ## Guided Session 2
-### Same Story, Different Choices
+### Building a Personal Credibility Framework
 
 #### Learning Goal
 
-Students can compare coverage of the same event across multiple outlets and identify the construction choices each source made.
+Students can evaluate a news source using a structured set of criteria they develop themselves, and apply advanced three-source comparison skills.
 
 #### Activities
 
-1. **The Setup** — Present the articles you prepared: 2–3 news reports about the same event from different outlets. "These are all about the same thing that happened. Let's see what's the same — and what's different."
-
-2. **Side-by-Side Comparison** — Read (or summarize) each article. Use a comparison chart with these columns:
+1. **Three-Source Comparison** — In Week 10, students compared two sources on the same story. Now add a third. Present the three articles you prepared. Use an expanded comparison chart:
 
    | Question | Source A | Source B | Source C |
    |----------|----------|----------|----------|
@@ -124,62 +123,74 @@ Students can compare coverage of the same event across multiple outlets and iden
    | Who is quoted or interviewed? | | | |
    | What facts are included? | | | |
    | What photos or images are used? | | | |
-   | What's the overall feeling or tone? | | | |
+   | What's the overall tone? | | | |
    | What's left out or barely mentioned? | | | |
 
-   Fill in the chart together. This is the core activity — take your time with it.
+   Discuss: "With three sources, you can see patterns that two sources can't reveal. If Sources A and B agree but C doesn't, that's worth investigating. If all three include the same core facts but differ on emphasis, that tells you about construction choices rather than accuracy."
 
-3. **The "Left Out" Column** — The most important column is the last one. "Every story has to leave things out — you can't include everything. But *what* gets left out changes the story you end up telling." Look for differences: Does one article focus on a specific person while another focuses on data? Does one include a quote that changes the meaning? Does one leave out important context?
+2. **Why Coverage Differs** — Discuss the reasons sources cover the same event differently:
+   - **Audience** — who the outlet is writing for shapes what they emphasize
+   - **Space and time** — a short article and a long investigation will include different amounts of detail
+   - **Editorial judgment** — what one editor considers the most important angle may differ from another's
+   - **Sources available** — one reporter may have talked to different people than another
 
-4. **Construction Choices Revisited** — Connect back to Weeks 1–3: "Remember: all media is constructed. Now you can see the construction happening — same event, different choices, different stories. None of these articles is 'wrong.' But each one gives you an *incomplete* picture. That's why reading more than one source matters."
+   **Important nuance:** Difference doesn't automatically mean bias. Coverage choices are often driven by legitimate editorial judgment, not deception. The skill is noticing the differences and asking *why* — without jumping to accusations.
 
-5. **The Credibility Checklist** — Build a simple checklist students can use to evaluate any news source:
+3. **Build Your Credibility Framework** — Instead of memorizing a list of "good" or "bad" outlets, build a personal framework for evaluating *any* source. Create the framework together:
+
+   **The Personal Credibility Checklist:**
    - ✅ Does the article name its sources? (Who did they talk to?)
-   - ✅ Does it separate facts from opinions?
-   - ✅ Is it clear who published it and who wrote it?
+   - ✅ Does it separate facts from opinion clearly?
+   - ✅ Is it clear who published it, who wrote it, and when?
    - ✅ Does it provide enough context to understand the event?
-   - ✅ Does it link to or mention where its information came from?
-   - ✅ Is the tone informative or is it trying to make you feel a specific emotion?
+   - ✅ Does the outlet publish corrections when it makes mistakes?
+   - ✅ Is the tone informative, or is it trying to trigger an emotional reaction?
+   - ✅ Are the claims supported by evidence I can check?
+   - ✅ Does the writing acknowledge complexity, or does it present everything as simple and one-sided?
+
+   Practice: apply the checklist to each of the three articles. Which ones score highest? Does the tool help you make a judgment that feels *earned* rather than based on someone else's recommendation?
+
+4. **Media Checkpoint Connection** — Return to [The Media Checkpoint](/docs/media-checkpoint). All seven questions apply to news. But in journalism contexts, question 5 (*What's the evidence?*) and question 6 (*What am I missing?*) carry extra weight. News that cites sources, links evidence, and acknowledges what it doesn't know is doing its job well.
 
 #### Reflection Questions
 
-- Which differences between the articles surprised you most?
-- Could someone read only one of these articles and get a "wrong" impression of what happened? How?
-- How many sources do you think you should check before forming an opinion about a news event?
+- Which differences between the three articles surprised you most?
+- How does the credibility framework differ from just asking a friend "is this outlet good?"
+- Could someone read only one of these articles and get a misleading impression? How?
 
 ---
 
 ## Independent Session
-### Source Comparison Report
+### Credibility Framework Report
 
 #### Instruction
 
-Choose a simple, current event (your adult can help you find one). Find **two different news articles** about the same event from two different sources. Then create a **Source Comparison Report**:
+Choose a simple, current event (your adult can help you find one). Find **three different news articles** about the same event from three different sources. Then create a **Credibility Framework Report**:
 
 **For Each Article:**
 1. **Source name**: Who published this? (Outlet name, author if available)
 2. **Headline**: What's the headline?
 3. **Key facts**: List the 3 most important facts mentioned
 4. **Sources quoted**: Who did the reporter talk to?
-5. **Tone**: Does this feel neutral and informative, or does it seem to push a feeling? Explain.
-6. **What's missing**: After reading the *other* article, what did THIS one leave out?
+5. **Credibility score**: Apply your Personal Credibility Checklist. How many criteria does this article meet? (Out of 8)
+6. **What's missing**: After reading the *other* articles, what did THIS one leave out?
 
-**After Both:**
-7. **The Overlap**: What facts appeared in BOTH articles? (These are probably the most reliable facts.)
-8. **The Differences**: What was different between the two? Why might each source have made these choices?
-9. **Your Verdict**: If you could only read ONE of these articles, which one gives a more complete picture? Why?
+**After All Three:**
+7. **The Overlap**: What facts appeared in all three articles? (These are probably the most reliable facts.)
+8. **The Differences**: What was different? Why might each source have made these choices?
+9. **Your Verdict**: Which article scored highest on your credibility framework? Why?
 10. **Your Media Rule**: Write one rule about consuming news that you'll follow from now on.
 
 #### Skills Reinforced
 
-- Source comparison and lateral reading
-- Identifying construction choices in professional media
-- Distinguishing fact from opinion and tone from content
+- Advanced multi-source comparison
+- Applying a self-built credibility framework
+- Distinguishing editorial judgment from bias
 - Building personal standards for news consumption
 
 #### Setup
 
-Help the student select a current event and locate two articles from different outlets. Bookmarks or printed copies work best so the student can move between them freely. Provide the report template and a timer set for 25–30 minutes.
+Help the student select a current event and locate three articles from different outlets. Bookmarks or printed copies work best so the student can move between them freely. Provide the credibility checklist and report template. Set a timer for 25–30 minutes.
 
 ---
 
@@ -187,45 +198,45 @@ Help the student select a current event and locate two articles from different o
 
 After this week's sessions, the student should be able to:
 
-1. **Distinguish news from opinion**: Look at any article and identify whether it's reporting facts or arguing a viewpoint.
-2. **Compare coverage**: Describe specific differences between two outlets' coverage of the same event.
-3. **Identify what's missing**: After reading one article, name something the other article included that the first left out.
+1. **Explain editorial independence**: Describe what it means and why it matters for trustworthy journalism.
+2. **Apply the credibility framework**: Evaluate any news article using the criteria they developed, rather than relying on someone else's list.
+3. **Compare three sources**: Conduct an advanced source comparison and explain why coverage differs without defaulting to "bias."
 
 ---
 
 ## Caregiver Look-Fors
 
-- The student can explain the difference between news and opinion without prompting
-- They notice that different outlets make different construction choices about the same event
-- They pay attention to the "what's missing" column, not just what's present
-- They use the Credibility Checklist naturally when evaluating articles
+- The student can explain editorial independence and why corrections are a good sign
+- They apply their personal credibility framework to new articles without prompting
+- They notice that different outlets make different construction choices without jumping to accusations of bias
+- They pay attention to sourcing — asking "who did the reporter talk to?"
 - They resist labeling outlets as simply "good" or "bad" — they evaluate the specific article
 
 ---
 
-## Takeaway
+## 🎯 Takeaway
 
-**Big idea:** Different news sources make different choices about how to cover the same event — and reading more than one source gives you a more complete picture.
+**Big idea:** Understanding how newsrooms work — and building your own credibility framework — gives you tools to evaluate any source on its own merits.
 
-**Remember:** The skill is in the comparison, not in memorizing which sources are "good" or "bad." Evaluate each article on its own merits.
+**Remember:** The skill is in the evaluation, not in memorizing which sources are "good" or "bad." Your credibility framework travels with you everywhere.
 
 ---
 
 ## Younger Learner Adaptation (Ages 6–8)
 
 - **Use simple, visual stories**: A weather event with photos, an animal rescue, a community celebration.
-- **Compare two versions verbally**: Read both articles aloud and discuss differences as a conversation rather than filling in a chart.
-- **Focus on headlines**: Younger learners can compare just the headlines of two articles about the same event. Even that reveals construction.
-- **Skip the formal report**: Replace with a family discussion: "We read two stories about the same thing. What was different?"
+- **Compare two versions verbally**: Read both articles aloud and discuss differences as a conversation. Save the three-source comparison for older learners.
+- **Skip editorial independence**: Focus on the idea that "different reporters make different choices" — the concept is enough at this age.
+- **Simplified credibility check**: Ask just three questions: "Does this tell me where they got the information? Does it seem fair? Would I want to know more?"
 
 ---
 
 ## Older Learner Extension (Ages 11–13)
 
-- **Three-source comparison**: Add a third outlet and track how coverage varies even more.
-- **Tone analysis**: Identify specific words in each article that create a positive, negative, or neutral tone.
-- **Media ownership research**: Who owns the outlets they're reading? Does ownership influence coverage?
-- **Create their own news story**: Write a short news report about a school or family event, following the journalistic standards discussed in the lesson.
+- **Four-source comparison**: Add a fourth outlet — or include an international source covering the same event. How does geography change coverage?
+- **Media ownership research**: Who owns the outlets they're reading? Does ownership structure (public, corporate, nonprofit) correlate with any patterns in coverage?
+- **Editorial independence case study**: Research a case where a newsroom's editorial independence was tested — an advertiser complaining about coverage, an owner pressuring a story, or a reporter being fired for their reporting. What happened?
+- **Create their own news story**: Write a short news report about a school or family event, following the journalistic standards discussed in the lesson. Then write an opinion piece about the same event. Compare the two.
 
 ---
 

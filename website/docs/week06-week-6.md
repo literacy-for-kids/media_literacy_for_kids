@@ -51,13 +51,15 @@ Collect 8–10 clickbait headlines. You can find these on any news aggregator, Y
 - "Doctors HATE This One Simple Trick"
 - "This Photo Is NOT What It Seems"
 - "She Ate Only Pizza for 30 Days. The Results Were Shocking."
+- A YouTube thumbnail with a shocked face, red arrow, and all-caps text
+- A short-form video title like "Wait for it… 😱" or "I can't believe this actually worked"
 
 Also prepare 3–4 **honest** headlines about the same topics for comparison. Example: "Woman Tests All-Pizza Diet for 30 Days and Shares Health Results."
 
 If possible, print or write these on cards so the student can sort and compare them physically.
 :::
 
-:::tip ⏱️ Quick Prep (5 Minutes or Less)
+:::tip ⚡ Quick Prep
 Write 3-4 clickbait headlines on index cards or scraps of paper. You can make them up: "You Won't BELIEVE What This Dog Did!" works perfectly. No need to find real ones unless you want to.
 :::
 
@@ -91,6 +93,8 @@ Students can define clickbait, explain why it works (exploiting curiosity), and 
 4. **Why It Matters** — Connect back to the attention economy: "Remember, platforms make money when you click. Clickbait is engineered to make you click. The headline's job is NOT to inform you — it's to make you curious enough to click so the platform can show you more ads."
 
    Not every attention-grabbing headline is dishonest. Strong packaging is a normal part of communication. The issue is when a headline deliberately misleads or exaggerates to get clicks. Teach the student to notice the difference between strong and deceptive.
+
+5. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint), question 4: *How does it want me to feel?* Clickbait is a masterclass in engineering feelings — usually curiosity, outrage, or FOMO. When you notice one of those feelings spiking, that's a signal to pause and ask: "Is this designed to inform me or just to hook me?"
 
 #### Reflection Questions
 
@@ -195,9 +199,9 @@ After this week's sessions, the student should be able to:
 
 ## Older Learner Extension (Ages 11–13)
 
-- **Analyze real platforms**: Visit YouTube or a news aggregator and categorize every headline on the page.
-- **A/B testing discussion**: Explain that creators often test multiple headlines and use whichever gets more clicks. What does that optimization do over time?
-- **Design and defend**: Create the most effective clickbait headline possible, then explain why it works using psychology.
+- **Analyze real platforms**: Visit YouTube or a news aggregator and categorize every headline on the page. Include short-form video titles and thumbnails — how do creators use the first frame and caption to hook viewers in under 2 seconds?
+- **A/B testing discussion**: Explain that creators often test multiple headlines and thumbnails, keeping whichever gets more clicks. What does that optimization do over time?
+- **Design and defend**: Create the most effective clickbait headline AND thumbnail combo possible, then explain why it works using psychology.
 
 ---
 

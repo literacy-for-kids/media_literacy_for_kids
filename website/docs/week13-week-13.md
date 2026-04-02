@@ -41,9 +41,7 @@ If you only ever heard one side of a story, you'd start to think that's the whol
 **Last week** students learned how algorithms build personalized feeds based on engagement signals. **This week** explores what happens when that personalization goes too far: filter bubbles, echo chambers, and confirmation bias. They'll learn that the algorithm and their own brain work together to narrow their view. **Next week's** Feed Swap puts all of this into practice: students will step into someone else's algorithmic reality.
 
 :::tip 🔄 Bring Forward
-**From Week 12:** Students learned how algorithms curate feeds based on engagement. Now they explore what happens over time when that curation narrows: filter bubbles and echo chambers.
-
-**From Weeks 9-11:** Verification skills matter even more in a filter bubble. If you mostly see information that confirms what you already believe, you need to deliberately search for and check other perspectives. Use your Stop → Notice → Check → Compare → Decide habit here.
+**From Weeks 9-11:** Verification skills matter even more in a filter bubble. If you mostly see information that confirms what you already believe, you need to deliberately seek out and check other perspectives. Use your Stop → Notice → Check → Compare → Decide habit here.
 :::
 
 ## Teacher Preparation
@@ -118,6 +116,10 @@ Students can define confirmation bias and recognize it as a natural tendency tha
    - You believe X → You click on X → Algorithm shows more X → You believe X even more → ...
 
 4. **The Challenge Exercise** — Give the student a statement they probably agree with (keep it light: "Pizza is the best food"). Ask: "Now, try to think of the BEST argument AGAINST this. Not a silly argument — the strongest, most reasonable one you can come up with." This is hard! Acknowledge that. Explain: "This discomfort is confirmation bias pushing back. It wants you to stay comfortable. Fighting it takes effort — but it's worth it."
+
+   **Epistemic guardrail:** Seeking other perspectives is a strength, not a weakness. But being open-minded doesn't mean treating all claims as equally valid. Some claims have strong evidence; others don't. "Everyone has their own truth" sounds fair, but it can be misleading — facts exist independently of opinion. The skill is distinguishing between *perspectives* (which can legitimately differ) and *facts* (which can be checked). You can respect someone's viewpoint while still asking: "What's the evidence?"
+
+5. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Question 6 — *What am I missing?* — is the antidote to filter bubbles and confirmation bias. When you feel certain you're right, that's exactly when you should ask: "What perspective haven't I considered? What evidence might challenge my view?"
 
 #### Reflection Questions
 
@@ -194,6 +196,7 @@ After this week's sessions, the student should be able to:
 
 - **Real-world filter bubbles**: Discuss how filter bubbles affect communities, not just individuals. If a whole neighborhood sees the same feed, what happens to their shared understanding of the world?
 - **Social pressure connection**: How do echo chambers relate to peer pressure? If "everyone" in your social group shares the same content, does that feel different from the algorithm pushing it?
+- **Evidence vs. opinion exercise**: Find a claim that many people in a social group treat as obvious fact. Search for the actual evidence. Is the claim well-supported, or has it been amplified by repetition more than by evidence? (Keep examples non-partisan.)
 - **Build a de-biasing plan**: Write three personal commitments for breaking out of their filter bubble (e.g., follow one account with a different perspective, search for the other side before forming an opinion).
 
 ---

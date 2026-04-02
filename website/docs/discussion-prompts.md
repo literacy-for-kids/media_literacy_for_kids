@@ -1,5 +1,5 @@
 ---
-sidebar_position: 27
+sidebar_position: 28
 sidebar_label: "Discussion Prompts"
 title: "Discussion Prompts & Family Conversation Starters"
 description: "Reusable discussion prompts for weekly lessons, family conversations, and media encounters."
@@ -11,15 +11,17 @@ Great media literacy doesn't just happen during lessons. The most powerful learn
 
 ---
 
-## The Five Core Questions
+## The Media Checkpoint
 
-These five questions work with almost any piece of media. Post them on the fridge, write them in the front of the Media Detective Notebook, or memorize them as a family.
+These seven questions work with any piece of media. Post them on the fridge, write them inside the front cover of the Media Detective Notebook, or memorize them as a family. See the [full Media Checkpoint page](/docs/media-checkpoint) for details.
 
-1. **Who made this, and what was their goal?**
-2. **What choices did the creator make — and what did they leave out?**
-3. **How is this designed to make me feel?**
-4. **Is this accurate? How could I check?**
-5. **What happens if I share this?**
+1. **What am I looking at?** — What type of media is this?
+2. **Who made it, and why?** — Who's behind this, and what's their goal?
+3. **What choices shaped it?** — What was included, left out, or emphasized?
+4. **How does it want me to feel?** — What emotions is it designed to trigger?
+5. **What's the evidence?** — Is this supported by facts, sources, or just vibes?
+6. **What am I missing?** — Other perspectives, context, or information I haven't seen?
+7. **What's my next move?** — Trust it, question it, check it, share it, or let it go?
 
 ---
 
@@ -59,7 +61,9 @@ Use these during or after each week's lessons, or anytime during the week when r
 |------|--------|
 | 9 | *"If someone told you something surprising, what would you check first?"* |
 | 9 | *"What's the difference between making a mistake and trying to trick someone?"* |
+| 9 | *"If you see a short video that calls itself 'news,' how would you figure out if it's actually reporting, someone's opinion, an ad, or entertainment?"* |
 | 10 | *"I saw this claim online today: [example]. How would you verify it?"* |
+| 10 | *"If two sources describe the same event differently, does that mean one of them is lying? What else could explain the difference?"* |
 | 10 | *"How long does it take to check whether something is true? Is it worth the time?"* |
 | 11 | *"Can a real photo be misleading? How?"* |
 | 11 | *"If you couldn't trust your eyes, what else would you use to check something?"* |
@@ -107,13 +111,17 @@ These work whenever you encounter media together — watching a show, passing a 
 - *"Is there an ad hiding in here somewhere?"*
 - *"How would you check if this is true?"*
 - *"What's missing from this — what are they NOT telling you?"*
+- *"Someone in a group chat sends you a screenshot of a wild claim. What's your first move?"*
+- *"Is this a news story, someone's opinion, or an ad? How can you tell?"*
 
 ### For Older Learners (Ages 10–13)
 - *"What's the business model behind this? Who's making money?"*
 - *"How would this look different if someone with a different perspective made it?"*
-- *"Is this using emotion to persuade you? What kind?"*
+- *"Is this using emotion to persuade you? Is the emotion proportional to the facts, or is it doing all the work?"*
 - *"Would this pass a fact-check? What would you check first?"*
 - *"If the algorithm showed this to millions of people, what effect would it have?"*
+- *"Is this a news report or an opinion piece? What clues tell you?"*
+- *"If someone says 'everyone knows this is true,' what does that actually tell you? Is that evidence?"*
 
 ---
 
@@ -159,10 +167,11 @@ Use these when you want to target a specific kind of thinking.
 Once a month (or whenever it feels right), try a **Family Media Night**: watch, read, or listen to something together and discuss it using the core questions. Ideas:
 
 - Watch a commercial break together and count the persuasion techniques
-- Read a news article together and practice verification
+- Read a news article together and practice verification — then find a second article about the same event and compare what each one includes, emphasizes, and leaves out
 - Look at the "recommended" section of a platform and discuss why those items were chosen
 - Compare two different sources covering the same story
 - Watch a trailer and predict what the movie is about vs. what it's actually about
+- Find a short video or post that someone shared and run the full Media Checkpoint on it together
 
 The goal isn't to turn every media experience into a lesson — it's to build a family habit of **noticing and questioning** that becomes second nature over time.
 
