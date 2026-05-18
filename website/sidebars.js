@@ -1,9 +1,13 @@
 // @ts-check
 
-import {createRequire} from 'module';
+import {createRequire} from 'node:module';
 
 const require = createRequire(import.meta.url);
 const {hub, curricula} = require('literacy-site-theme/ecosystem');
+const currentSiteHref = new URL(
+  '/media_literacy_for_kids/',
+  'https://literacy-for-kids.github.io',
+).href;
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
@@ -99,7 +103,7 @@ const sidebars = {
       items: [
         {type: 'link', label: hub.label, href: hub.href},
         ...curricula
-          .filter((c) => c.href !== 'https://literacy-for-kids.github.io/media_literacy_for_kids/')
+          .filter((c) => c.href !== currentSiteHref)
           .map((c) => ({
             type: 'link',
             label: c.label,
