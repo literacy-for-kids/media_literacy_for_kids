@@ -1,13 +1,11 @@
 // @ts-check
 
 import {createRequire} from 'node:module';
+import config from './docusaurus.config.js';
 
 const require = createRequire(import.meta.url);
 const {hub, curricula} = require('literacy-site-theme/ecosystem');
-const currentSiteHref = new URL(
-  '/media_literacy_for_kids/',
-  'https://literacy-for-kids.github.io',
-).href;
+const currentSiteHref = new URL(config.baseUrl, config.url).href;
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
