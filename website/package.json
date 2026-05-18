@@ -17,9 +17,9 @@
   "dependencies": {
     "@docusaurus/core": "3.5.2",
     "@docusaurus/preset-classic": "3.5.2",
-    "literacy-site-theme": "github:literacy-for-kids/literacy_site_template",
     "@mdx-js/react": "^3.0.0",
     "clsx": "^2.0.0",
+    "literacy-site-theme": "github:literacy-for-kids/literacy_site_template#4da0d32fd0b998a3dd144d690b37a609b7812c97",
     "prism-react-renderer": "^2.3.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
