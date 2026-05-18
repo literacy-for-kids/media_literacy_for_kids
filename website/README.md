@@ -7,7 +7,7 @@ This website contains an 18-week Media Literacy Curriculum designed for kids. It
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (version 18.0 or above)
+- [Node.js](https://nodejs.org/) (version 20.0 or above)
 - npm (comes with Node.js)
 
 ### Local Development
