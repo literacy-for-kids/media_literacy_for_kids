@@ -69,7 +69,7 @@ website/
 
 ### Prerequisites
 
-- [Node.js](https://nodejs.org/) (version 18.0 or above)
+- [Node.js](https://nodejs.org/) (version 20.0 or above)
 - npm (comes with Node.js)
 
 ### Local Development
