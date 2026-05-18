@@ -1,6 +1,7 @@
 # Media Literacy for Kids
 
-![License](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green)
+![Content License](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-green)
+![Code License](https://img.shields.io/badge/code-MIT-blue)
 ![Built with Docusaurus](https://img.shields.io/badge/site-Docusaurus-blue)
 ![Curriculum Length](https://img.shields.io/badge/program-18%20weeks-orange)
 
@@ -91,6 +92,8 @@ npm run build
 
 ## License
 
-This curriculum is licensed under the [Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+This project uses dual licensing:
+- Code (JavaScript, CSS, configuration, build scripts): [MIT License](LICENSE-CODE)
+- Curriculum content (Markdown documents under `website/docs/`): [CC BY-NC-SA 4.0](LICENSE-CONTENT)
 
-See the [LICENSE](LICENSE) file for full details.
+You are free to use, adapt, and share the curriculum content for non-commercial purposes, with attribution, and under the same license. The site code can be reused under MIT.
