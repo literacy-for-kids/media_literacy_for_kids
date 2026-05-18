@@ -13,7 +13,7 @@ const sidebars = {
   curriculumSidebar: [
     'intro',
     'caregiver-guide',
-    'curriculum-master',
+    'curriculum-overview',
     'license',
     {
       type: 'category',
