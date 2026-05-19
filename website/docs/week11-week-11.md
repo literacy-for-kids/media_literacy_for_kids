@@ -1,11 +1,11 @@
 ---
 sidebar_position: 11
 sidebar_label: "Week 11: Spotting Fakes"
-title: "Week 11 — Spotting Fakes"
+title: "Week 11: Spotting Fakes"
 description: "Students learn to identify manipulated images, out-of-context media, and deceptive framing."
 ---
 
-# Week 11 — Spotting Fakes
+# Week 11: Spotting Fakes
 
 *Verification & Debugging — Part 3*
 

@@ -1,11 +1,11 @@
 ---
 sidebar_position: 5
 sidebar_label: "Week 5: The Price of Free"
-title: "Week 5 — The Price of Free"
+title: "Week 5: The Price of Free"
 description: "Students explore how 'free' websites and apps make money — and what that means for the content they create."
 ---
 
-# Week 5 — The Price of Free
+# Week 5: The Price of Free
 
 *The Attention Economy — Part 1*
 

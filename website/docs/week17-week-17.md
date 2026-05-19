@@ -1,11 +1,11 @@
 ---
 sidebar_position: 17
 sidebar_label: "Week 17: Testing and Refining"
-title: "Week 17 — Testing and Refining"
+title: "Week 17: Testing and Refining"
 description: "Students share drafts for peer review, revise based on feedback, and fact-check their own work."
 ---
 
-# Week 17 — Testing and Refining
+# Week 17: Testing and Refining
 
 *Intentional Production — Phase 3*
 

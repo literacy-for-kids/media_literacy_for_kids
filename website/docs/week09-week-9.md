@@ -1,11 +1,11 @@
 ---
 sidebar_position: 9
 sidebar_label: "Week 9: Is This Real?"
-title: "Week 9 — Is This Real?"
+title: "Week 9: Is This Real?"
 description: "Students learn why false information spreads and get their first verification tools."
 ---
 
-# Week 9 — Is This Real?
+# Week 9: Is This Real?
 
 *Verification & Debugging — Part 1*
 

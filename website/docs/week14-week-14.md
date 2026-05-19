@@ -1,11 +1,11 @@
 ---
 sidebar_position: 14
 sidebar_label: "Week 14: The Feed Swap"
-title: "Week 14 — The Feed Swap"
+title: "Week 14: The Feed Swap"
 description: "Key Activity — Students explore a simulated feed from a completely different perspective."
 ---
 
-# Week 14 — The Feed Swap
+# Week 14: The Feed Swap
 
 *The Algorithmic Echo — Part 3 (Key Activity)*
 

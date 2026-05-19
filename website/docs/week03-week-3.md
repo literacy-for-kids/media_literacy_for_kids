@@ -1,11 +1,11 @@
 ---
 sidebar_position: 3
 sidebar_label: "Week 3: The Invisible Choices"
-title: "Week 3 — The Invisible Choices"
+title: "Week 3: The Invisible Choices"
 description: "Students discover how camera angles, colors, music, and word choice change the way a story feels."
 ---
 
-# Week 3 — The Invisible Choices
+# Week 3: The Invisible Choices
 
 *The Anatomy of a Message — Part 3*
 

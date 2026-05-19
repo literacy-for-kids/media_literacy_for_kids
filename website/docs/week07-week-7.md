@@ -1,11 +1,11 @@
 ---
 sidebar_position: 7
 sidebar_label: "Week 7: The Ad Tracker"
-title: "Week 7 — The Ad Tracker"
+title: "Week 7: The Ad Tracker"
 description: "Key Activity — Students count every persuasion attempt they encounter in an hour of media."
 ---
 
-# Week 7 — The Ad Tracker
+# Week 7: The Ad Tracker
 
 *The Attention Economy — Part 3 (Key Activity)*
 

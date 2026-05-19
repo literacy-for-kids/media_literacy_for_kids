@@ -1,11 +1,11 @@
 ---
 sidebar_position: 6
 sidebar_label: "Week 6: The Clickbait Machine"
-title: "Week 6 — The Clickbait Machine"
+title: "Week 6: The Clickbait Machine"
 description: "Students learn how headlines and thumbnails are designed to capture attention and curiosity and drive clicks."
 ---
 
-# Week 6 — The Clickbait Machine
+# Week 6: The Clickbait Machine
 
 *The Attention Economy — Part 2*
 

@@ -1,11 +1,11 @@
 ---
 sidebar_position: 2
 sidebar_label: "Week 2: Who Made This and Why?"
-title: "Week 2 — Who Made This and Why?"
+title: "Week 2: Who Made This and Why?"
 description: "Students explore the four main purposes behind media: to inform, entertain, persuade, or sell."
 ---
 
-# Week 2 — Who Made This and Why?
+# Week 2: Who Made This and Why?
 
 *The Anatomy of a Message — Part 2*
 

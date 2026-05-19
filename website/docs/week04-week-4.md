@@ -1,11 +1,11 @@
 ---
 sidebar_position: 4
 sidebar_label: "Week 4: The Re-Edit"
-title: "Week 4 — The Re-Edit"
+title: "Week 4: The Re-Edit"
 description: "Key Activity — Students take the same material and edit it two different ways to tell two completely different stories."
 ---
 
-# Week 4 — The Re-Edit
+# Week 4: The Re-Edit
 
 *The Anatomy of a Message — Part 4 (Unit Project)*
 

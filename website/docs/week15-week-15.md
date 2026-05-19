@@ -1,11 +1,11 @@
 ---
 sidebar_position: 15
 sidebar_label: "Week 15: The Spec Sheet"
-title: "Week 15 — The Spec Sheet"
+title: "Week 15: The Spec Sheet"
 description: "Students plan their final media project: audience, goal, format, and ethical choices."
 ---
 
-# Week 15 — The Spec Sheet
+# Week 15: The Spec Sheet
 
 *Intentional Production — Phase 1*
 

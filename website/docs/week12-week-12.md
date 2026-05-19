@@ -1,11 +1,11 @@
 ---
 sidebar_position: 12
 sidebar_label: "Week 12: How Does My Feed Know Me?"
-title: "Week 12 — How Does My Feed Know Me?"
+title: "Week 12: How Does My Feed Know Me?"
 description: "Students learn what algorithms are and how 'liking' and watching changes what gets shown next."
 ---
 
-# Week 12 — How Does My Feed Know Me?
+# Week 12: How Does My Feed Know Me?
 
 *The Algorithmic Echo — Part 1*
 
