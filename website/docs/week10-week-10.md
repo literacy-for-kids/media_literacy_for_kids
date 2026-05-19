@@ -1,11 +1,11 @@
 ---
 sidebar_position: 10
 sidebar_label: "Week 10: The Fact-Check Sprint"
-title: "Week 10 — The Fact-Check Sprint"
+title: "Week 10: The Fact-Check Sprint"
 description: "Key Activity — Students trace a viral claim back to its original source using lateral reading."
 ---
 
-# Week 10 — The Fact-Check Sprint
+# Week 10: The Fact-Check Sprint
 
 *Verification & Debugging — Part 2 (Key Activity)*
 

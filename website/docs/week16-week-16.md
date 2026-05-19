@@ -1,11 +1,11 @@
 ---
 sidebar_position: 16
 sidebar_label: "Week 16: Building Your Message"
-title: "Week 16 — Building Your Message"
+title: "Week 16: Building Your Message"
 description: "Students create the first draft of their media project, applying everything they've learned."
 ---
 
-# Week 16 — Building Your Message
+# Week 16: Building Your Message
 
 *Intentional Production — Phase 2*
 

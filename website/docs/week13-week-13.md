@@ -1,11 +1,11 @@
 ---
 sidebar_position: 13
 sidebar_label: "Week 13: The Echo Chamber"
-title: "Week 13 — The Echo Chamber"
+title: "Week 13: The Echo Chamber"
 description: "Students explore filter bubbles, confirmation bias, and why our brains prefer familiar ideas."
 ---
 
-# Week 13 — The Echo Chamber
+# Week 13: The Echo Chamber
 
 *The Algorithmic Echo — Part 2*
 

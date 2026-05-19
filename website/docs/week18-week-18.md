@@ -1,11 +1,11 @@
 ---
 sidebar_position: 18
 sidebar_label: "Week 18: The Signal Broadcast"
-title: "Week 18 — The Signal Broadcast"
+title: "Week 18: The Signal Broadcast"
 description: "Final presentations and course reflection — students share their projects and look back at the full journey."
 ---
 
-# Week 18 — The Signal Broadcast
+# Week 18: The Signal Broadcast
 
 *Intentional Production — Final Presentation & Reflection*
 

@@ -1,11 +1,11 @@
 ---
 sidebar_position: 8
 sidebar_label: "Week 8: Selling Ideas"
-title: "Week 8 — Selling Ideas"
+title: "Week 8: Selling Ideas"
 description: "Students explore how media sells opinions, feelings, and behaviors — not just products."
 ---
 
-# Week 8 — Selling Ideas
+# Week 8: Selling Ideas
 
 *The Attention Economy — Part 4*
 
