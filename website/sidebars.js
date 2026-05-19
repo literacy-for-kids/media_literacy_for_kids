@@ -12,7 +12,6 @@ const sidebars = {
     'intro',
     'caregiver-guide',
     'curriculum-overview',
-    'license',
     {
       type: 'category',
       label: 'The Anatomy of a Message',
@@ -108,6 +107,7 @@ const sidebars = {
           })),
       ],
     },
+    'license',
   ],
 };
 
