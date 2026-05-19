@@ -197,7 +197,7 @@ Across the course, students move beyond simple recall by analyzing media, evalua
 ## Getting Started
 
 :::tip Start Here
-Begin with **[Week 1](/docs/week01-week-1)** and progress through each week sequentially.
+Begin with **[Week 1](/docs/week1)** and progress through each week sequentially.
 :::
 
 Each week builds on the previous one, gradually expanding the student's toolkit for understanding media. The first few weeks focus on the basics of how media is made, then the curriculum moves into the economics, the technology, and finally the student's own role as a creator.
@@ -208,7 +208,7 @@ Each week builds on the previous one, gradually expanding the student's toolkit 
 3. Complete the [Pre-Course Self-Assessment](/docs/self-assessment) with your student
 4. Check the [Materials List](/docs/materials) for Week 1
 5. Set up a [Media Detective Notebook](/docs/media-detective-notebook) for the student
-6. Use the sidebar to navigate to [Week 1](/docs/week01-week-1)
+6. Use the sidebar to navigate to [Week 1](/docs/week1)
 
 **For a deeper look at the curriculum's philosophy and design choices**, see the [Educator Rationale](/docs/educator-rationale).
 

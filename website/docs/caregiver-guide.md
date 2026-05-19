@@ -348,7 +348,7 @@ Every lesson includes **Accessibility Options** with alternatives: verbal respon
 3. Complete the [Pre-Course Self-Assessment](/docs/self-assessment) with your student.
 4. Check the [Materials List](/docs/materials) for Week 1.
 5. Set up a [Media Detective Notebook](/docs/media-detective-notebook) for the student.
-6. Open [Week 1](/docs/week01-week-1) and begin.
+6. Open [Week 1](/docs/week1) and begin.
 
 **Want to understand the pedagogical reasoning?** See the [Educator Rationale](/docs/educator-rationale) for the curriculum's philosophy, sequence logic, and developmental assumptions.
 

@@ -191,7 +191,7 @@ export default function HomepageFeatures() {
             lesson works with everyday media you already have at home or in the classroom.
           </p>
           <div className={styles.ctaButtons}>
-            <Link className="button button--primary button--lg" to="/docs/week01-week-1">
+            <Link className="button button--primary button--lg" to="/docs/week1">
               Begin Week 1
             </Link>
           </div>
