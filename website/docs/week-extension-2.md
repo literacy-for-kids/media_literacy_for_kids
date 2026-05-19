@@ -1,11 +1,11 @@
 ---
 sidebar_position: 20
-sidebar_label: "Extension: Journalism Deep Dive"
-title: "Extension Week 2 — Journalism Deep Dive"
+sidebar_label: "Optional: Journalism Deep Dive"
+title: "Optional Week 2: Journalism Deep Dive"
 description: "Students explore how professional newsrooms work, what editorial independence means, and how to build a personal credibility framework for evaluating any source."
 ---
 
-# Extension Week 2 — Journalism Deep Dive
+# Optional Week 2: Journalism Deep Dive
 
 ---
 

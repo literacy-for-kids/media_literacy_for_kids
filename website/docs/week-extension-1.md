@@ -1,11 +1,11 @@
 ---
 sidebar_position: 19
-sidebar_label: "Extension: AI-Generated Media"
-title: "Extension Week 1 — AI-Generated Media"
+sidebar_label: "Optional: AI-Generated Media"
+title: "Optional Week 1: AI-Generated Media"
 description: "Students learn what AI-generated content is, how to spot it, and why it matters for media literacy."
 ---
 
-# Extension Week 1 — AI-Generated Media
+# Optional Week 1: AI-Generated Media
 
 ---
 
