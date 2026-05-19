@@ -68,7 +68,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Optional Extension',
+      label: 'Optional: Extensions',
       description: 'Bonus: AI-Generated Media & Journalism Deep Dive',
       items: [
         'week-extension-1',
