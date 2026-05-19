@@ -112,7 +112,7 @@ Each week below links to a detailed lesson page containing:
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Week 1](./week01-week-1) | What IS Media? | Identifying media in daily life; understanding that all media is made by someone |
+| [Week 1](/docs/week1) | What IS Media? | Identifying media in daily life; understanding that all media is made by someone |
 | [Week 2](./week02-week-2) | Who Made This and Why? | Authorship and purpose — informing, entertaining, persuading, selling |
 | [Week 3](./week03-week-3) | The Invisible Choices | How camera angles, colors, music, and words change how a story feels |
 | [Week 4](./week04-week-4) | The Re-Edit | Key Activity — editing the same material two ways to tell two different stories |
