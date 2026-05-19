@@ -31,7 +31,7 @@ The lessons assume one adult working with one student or a small group. They ada
 
 Most lessons need **5–10 minutes of preparation**. That usually means:
 
-- Reading the Caregiver Snapshot (2–3 sentences at the top of each week)
+- Reading the Facilitator Snapshot (2–3 sentences at the top of each week)
 - Glancing at the Key Vocabulary
 - Gathering one or two media examples
 
@@ -76,7 +76,7 @@ Every weekly lesson page has the same structure:
 
 | Section | What It Does | Time |
 |---------|-------------|------|
-| **Caregiver Snapshot** | A 2–3 sentence summary of the week's big idea — read this first | 1 min |
+| **Facilitator Snapshot** | A 2–3 sentence summary of the week's big idea — read this first | 1 min |
 | **Key Vocabulary** | Terms introduced this week, with simple definitions | Preview before teaching |
 | **Connection** | How this week connects to last week and next week | 1 min |
 | **Teacher Preparation** | What to gather and the right teaching mindset | 5–10 min (before the session) |
@@ -84,7 +84,7 @@ Every weekly lesson page has the same structure:
 | **Guided Session 2** | Second lesson — hands-on activity or deeper exploration | ~30 min |
 | **Independent Session** | Student practices on their own | ~20–30 min |
 | **Quick Check** | 2–3 lightweight ways to see if the student understood | 5 min |
-| **Caregiver Look-Fors** | Observable signs that learning is happening | Ongoing |
+| **Facilitator Look-Fors** | Observable signs that learning is happening | Ongoing |
 | **Younger/Older Adaptations** | Adjustments for different ages | Use as needed |
 | **Accessibility Options** | Alternative ways to participate for different learning styles | Use as needed |
 
@@ -310,7 +310,7 @@ You don't need to use all three every week. Pick the one that fits your student,
 This curriculum does not use tests or grades. Instead, it offers several lightweight ways to check understanding:
 
 - **Quick Checks** at the end of each weekly page (2–3 questions or tasks)
-- **Caregiver Look-Fors** — observable signs that learning is happening
+- **Facilitator Look-Fors** — observable signs that learning is happening
 - **Reflection questions** built into every session
 - **Periodic checkpoints** at the end of each unit (see [Assessment Checkpoints](/docs/assessment-checkpoints))
 - **The final project** — the strongest evidence of understanding

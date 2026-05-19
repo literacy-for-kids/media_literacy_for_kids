@@ -11,7 +11,7 @@ description: "Students learn why false information spreads and get their first v
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This week marks a major shift. Units 1 and 2 taught the student to see how media is built and paid for. Now we ask: **is this information even true?** Students learn that false information spreads for different reasons (mistakes, jokes, deliberate manipulation), and they get their first toolkit of verification habits: checking the source, checking the date, and searching for the same claim from other places.
 :::
 
@@ -48,7 +48,7 @@ Sometimes information that looks real turns out to be wrong — and sometimes it
 **From Weeks 5-8:** Follow the incentive. Does the person sharing this have an incentive to get clicks, reactions, or shares? Could that incentive influence accuracy?
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare the following:
@@ -205,7 +205,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student uses the verification card without prompting when encountering new information
 - They ask "where did this come from?" naturally

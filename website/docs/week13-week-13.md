@@ -11,7 +11,7 @@ description: "Students explore filter bubbles, confirmation bias, and why our br
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 Last week students learned how algorithms curate their feeds. This week they learn what happens when that curation goes too far: **filter bubbles** and **echo chambers.** A filter bubble is when the algorithm only shows you things you already agree with. An echo chamber is when that narrow feed reinforces the same ideas over and over until they feel like "everyone thinks this." Students also learn about **confirmation bias** — our brain's built-in tendency to favor information that matches what we already believe.
 :::
 
@@ -44,7 +44,7 @@ If you only ever heard one side of a story, you'd start to think that's the whol
 **From Weeks 9-11:** Verification skills matter even more in a filter bubble. If you mostly see information that confirms what you already believe, you need to deliberately seek out and check other perspectives. Use your Stop → Notice → Check → Compare → Decide habit here.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare the following:
@@ -165,7 +165,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student recognizes that their feed is not "the whole internet"
 - They can name confirmation bias and give a personal example

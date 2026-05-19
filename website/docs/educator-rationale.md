@@ -118,7 +118,7 @@ Every weekly lesson includes adaptations for younger learners (ages 6–8), exte
 The curriculum uses lightweight, practical assessment — no tests, no grades, no high-stakes moments. Assessment is built around:
 
 - **Weekly Quick Checks** — Can the student explain this week's key idea in their own words and apply it to a new example?
-- **Caregiver Look-Fors** — Observable signs that thinking habits are developing (asking questions unprompted, noticing media in everyday life, using course vocabulary naturally)
+- **Facilitator Look-Fors** — Observable signs that thinking habits are developing (asking questions unprompted, noticing media in everyday life, using course vocabulary naturally)
 - **Unit Checkpoint Conversations** — Brief structured conversations at the end of each unit, focused on reasoning and application, not recall
 - **Spiral Performance Tasks** — Milestone activities at key intervals where students apply *multiple* skills from different weeks to a single media artifact
 - **The Final Project** — The most authentic assessment: students plan, build, test, and present an original media project using everything they've learned

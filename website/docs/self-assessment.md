@@ -44,7 +44,7 @@ For each statement below, circle or write the response that feels most true for 
 
 ### Open Questions (Before)
 
-Write a few sentences for each — or discuss them with your caregiver.
+Write a few sentences for each — or discuss them with your facilitator.
 
 1. **What does "media literacy" mean to you right now?** (It's okay if you're not sure — just take your best guess.)
 
@@ -101,7 +101,7 @@ After you've completed both sections, put them side by side (or flip back and fo
 - **What's your most important media habit going forward?** Write it down as a personal rule — something you'll keep doing even without the curriculum reminding you.
 
 :::tip The Reflection Conversation
-This comparison works best as a conversation, not a solitary writing exercise. Sit down with your caregiver or a learning partner and talk through what changed. Hearing yourself explain your own growth is one of the most powerful learning moments in the entire course.
+This comparison works best as a conversation, not a solitary writing exercise. Sit down with your facilitator or a learning partner and talk through what changed. Hearing yourself explain your own growth is one of the most powerful learning moments in the entire course.
 :::
 
 ---

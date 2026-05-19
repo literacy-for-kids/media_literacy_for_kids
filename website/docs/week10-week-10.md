@@ -11,7 +11,7 @@ description: "Key Activity — Students trace a viral claim back to its original
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This is the key activity week for Unit 3. Students learn **lateral reading** — the technique that professional fact-checkers use. Instead of spending a long time reading one source and deciding if it's trustworthy, you open new tabs and see what OTHER sources say about it. Then students run a "Fact-Check Sprint": given a claim, they race to trace it back to its origin and determine whether it holds up.
 :::
 
@@ -48,7 +48,7 @@ Last week you got your first checking tools. This week, you become a speed-check
 **From Week 2:** Remember "Who made this and why?" — that question is now essential for evaluating whether a source is trying to inform you or persuade you.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare 3–4 claims for the Fact-Check Sprint. Each should be something the student can investigate with a web search. Good types:
@@ -204,7 +204,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student naturally opens new tabs to check claims instead of trusting one source
 - They can narrate their thinking: "This source says X, but this other one says Y..."

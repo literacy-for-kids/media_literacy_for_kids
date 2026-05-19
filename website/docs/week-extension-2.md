@@ -9,7 +9,7 @@ description: "Students explore how professional newsrooms work, what editorial i
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 In Weeks 9–10, students learned to distinguish news from opinion, compare sources, and apply verification tools. This extension goes **deeper into how journalism actually works**: how newsrooms make decisions, what editorial independence means, and how students can build a personal credibility framework for evaluating any news source on its own merits — rather than memorizing a list of "good" or "bad" outlets.
 :::
 
@@ -47,7 +47,7 @@ This extension goes deeper into how journalism actually works. Students move fro
 **From Week 13:** Filter bubbles affect news consumption. Algorithms serve you news that matches your existing interests and beliefs, which means your "news diet" may be narrower than you think.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare the following:
@@ -204,7 +204,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student can explain editorial independence and why corrections are a good sign
 - They apply their personal credibility framework to new articles without prompting

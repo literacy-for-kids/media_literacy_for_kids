@@ -11,7 +11,7 @@ description: "Students share drafts for peer review, revise based on feedback, a
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This week the student takes their project through the same kind of critical review they've been applying to other people's media all semester. They share their draft with someone else, receive constructive feedback, and make revisions. They also fact-check their own claims. The goal is to produce something the student can stand behind with confidence.
 :::
 
@@ -45,7 +45,7 @@ This week the student takes their project through the same kind of critical revi
 **From Week 4:** Just as the Re-Edit showed that presentation changes meaning, revision changes the impact of their own project.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Ensure the student's draft is in a state that can be shared (doesn't have to be perfect — but should be complete enough to give meaningful feedback on)
@@ -191,7 +191,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student receives feedback gracefully (they may need coaching — that's normal)
 - They make genuine revisions, not just surface tweaks

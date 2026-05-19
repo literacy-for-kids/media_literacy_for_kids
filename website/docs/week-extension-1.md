@@ -9,7 +9,7 @@ description: "Students learn what AI-generated content is, how to spot it, and w
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This extension explores one of the fastest-changing areas of media literacy: **AI-generated content.** Students learn that artificial intelligence can now create realistic images, text, audio, and video — and that these creations are becoming harder to distinguish from human-made media. The goal isn't to scare students, but to extend their verification toolkit to include a new category of content they'll increasingly encounter.
 :::
 
@@ -44,7 +44,7 @@ This extension adds AI-generated content to students' existing verification prac
 **From Week 1:** "All media is constructed." AI-generated media is constructed too — but by a computer program trained on human-made examples, rather than directly by a person.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare the following:
@@ -178,7 +178,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student understands that AI-generated content is a form of construction, not magic
 - They check for visual tells without becoming paranoid about every photo

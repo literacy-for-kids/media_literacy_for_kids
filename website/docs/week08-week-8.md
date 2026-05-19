@@ -11,7 +11,7 @@ description: "Students explore how media sells opinions, feelings, and behaviors
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 Weeks 5–7 focused on ads and clickbait — the commercial side of the attention economy. This week goes deeper: media doesn't just sell products. It also sells **ideas, opinions, and emotions**. A video that makes you angry about something is "selling" outrage. A post that makes you feel like everyone agrees with a certain opinion is "selling" conformity. This is where media literacy moves beyond consumer awareness and into civic thinking.
 :::
 
@@ -44,7 +44,7 @@ Weeks 5–7 focused on ads and clickbait — the commercial side of the attentio
 **From Weeks 2-3:** Students identified purpose and construction choices. This week they see those same techniques used to sell ideas and feelings, not just products. Ask: "What construction choices is this using? What feeling is it trying to create? How is this different from a product ad?"
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Collect examples of media that sell ideas or emotions rather than physical products:
@@ -177,7 +177,7 @@ After completing Unit 2, students are ready for **Spiral Performance Task 2: Fol
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student recognizes that not all "selling" involves products
 - They can name emotional techniques (outrage hook, bandwagon, etc.)
@@ -215,7 +215,7 @@ After completing Unit 2, students are ready for **Spiral Performance Task 2: Fol
 
 ## Accessibility Options
 
-- **Gallery as discussion**: Instead of creating written gallery cards, the student describes each example verbally and the caregiver records the key points.
+- **Gallery as discussion**: Instead of creating written gallery cards, the student describes each example verbally and the facilitator records the key points.
 - **Acting it out**: Create a short skit that demonstrates an emotional selling technique.
 - **Sorting cards**: Pre-made cards with descriptions of media, sorted into "selling a product" vs. "selling an idea" vs. "selling a feeling."
 - **Drawing**: Sketch the emotional ad they designed in Session 2 instead of describing it in words.

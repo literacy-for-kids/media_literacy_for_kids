@@ -11,7 +11,7 @@ description: "Students create the first draft of their media project, applying e
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This is the **building week.** The student has a Spec Sheet and gathered materials. Now they create their first draft. The sessions are structured to provide guidance and checkpoints, but the student drives the creative work. The adult's role is to ask good questions ("How does this choice connect to your goal?") rather than direct the project.
 :::
 
@@ -52,7 +52,7 @@ This is the **building week.** The student has a Spec Sheet and gathered materia
 This is the payoff of the entire course — students apply their analytical skills to their own creation.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Ensure the student has everything they need for their chosen format:
@@ -190,7 +190,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student refers back to the Spec Sheet while building (not ignoring it)
 - Construction choices are intentional, not random

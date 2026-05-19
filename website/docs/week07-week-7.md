@@ -11,7 +11,7 @@ description: "Key Activity — Students count every persuasion attempt they enco
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This is the key activity week for Unit 2. Students conduct a focused experiment: tracking every single time someone tries to **sell them something** during a set period of media consumption. "Selling" doesn't just mean products — it includes selling ideas, feelings, behaviors, and clicks. The results are usually surprising, even to adults.
 :::
 
@@ -43,7 +43,7 @@ This is the key activity week for Unit 2. Students conduct a focused experiment:
 **From Weeks 5-6:** Students now apply attention-economy awareness in real time. Encourage them to use their "Who made this and why?" questions from Week 2 on each ad they find.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare a tracking sheet or help the student create one. Columns should include:
@@ -175,7 +175,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student takes the tracking task seriously and records entries systematically
 - The total count surprises them (the shock of volume is a key learning moment)

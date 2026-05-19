@@ -11,7 +11,7 @@ description: "Students learn how headlines and thumbnails are designed to captur
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 Last week students learned that free content is paid for by attention. This week they look at the **tool** platforms and creators use to capture that attention: clickbait. Students will learn that clickbait isn't random — it's a carefully designed hook that takes advantage of how human curiosity works. They'll practice rewriting clickbait into honest headlines and even build their own.
 :::
 
@@ -43,7 +43,7 @@ Last week students learned that free content is paid for by attention. This week
 **From Week 3:** Students learned that creators make specific choices to shape how we feel. Clickbait is those same choices turned up to maximum: the colors, the words, the images are all chosen to trigger curiosity or emotion. Ask: "What construction choices make this headline hard to resist?"
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Collect 8–10 clickbait headlines. You can find these on any news aggregator, YouTube, or social media. Good examples include:
@@ -170,7 +170,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student points out clickbait unprompted when browsing or watching
 - They name specific patterns ("That's a mystery gap!")

@@ -12,7 +12,7 @@ slug: /week1
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This week is about **noticing**. Students discover that media is everywhere — books, signs, websites, packaging, shows, songs — and that none of it appeared by accident. Someone made every piece of it. That single idea ("someone made this on purpose") is the foundation for the entire course.
 :::
 
@@ -41,7 +41,7 @@ Media is anything that someone made to send a message — like a cereal box, a Y
 
 This is the beginning of the journey. **This week** introduces the single most important idea in the entire course: all media is created by someone, on purpose. Students don't need any background knowledge — just curiosity and willingness to look at everyday things with fresh eyes. **Next week** builds on this by asking *why* creators make media — what their purpose is.
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Gather a variety of media examples to show the student. Good options include:
@@ -163,7 +163,7 @@ If the student struggles, don't re-teach. Instead, pick up a cereal box or a boo
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 Signs that learning is happening this week:
 
@@ -204,10 +204,10 @@ Signs that learning is happening this week:
 
 Not every student learns best through writing. Here are alternative ways to participate this week:
 
-- **Verbal response**: The student narrates their scavenger hunt findings aloud instead of writing. A caregiver can jot notes if desired.
+- **Verbal response**: The student narrates their scavenger hunt findings aloud instead of writing. A facilitator can jot notes if desired.
 - **Drawing**: Sketch each piece of media found and circle the creator's key choice.
 - **Sorting activity**: Instead of writing, use physical objects or printed images and sort them into "media" / "not media" piles.
-- **Partner talk**: Discuss each scavenger hunt find with the caregiver as they go, rather than recording independently.
+- **Partner talk**: Discuss each scavenger hunt find with the facilitator as they go, rather than recording independently.
 - **Photo hunt**: Use a camera or tablet to photograph media examples, then review and discuss them together.
 
 ## Preview of Next Week

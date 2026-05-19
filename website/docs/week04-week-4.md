@@ -11,7 +11,7 @@ description: "Key Activity — Students take the same material and edit it two d
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This is the capstone week for Unit 1. Students put everything from Weeks 1–3 into practice by doing the work of a media creator. They take the same raw material — photos, sentences, drawings, or video clips — and produce **two different versions** that tell two completely different stories. This hands-on experience makes the idea of "construction" real in a way that discussion alone cannot.
 :::
 
@@ -39,7 +39,7 @@ Have you ever told the same story two different ways — once to make it funny a
 
 **Over the past three weeks**, students learned that all media is constructed (Week 1), that every piece has a purpose (Week 2), and that creators use "invisible choices" to shape how it feels (Week 3). **This week** brings it all together: students become the creator and prove — by doing it themselves — that the same material can tell completely different stories. This is the capstone of Unit 1. **Next week** begins Unit 2, where the focus shifts from *how* media is made to *why* — specifically, how "free" content makes money.
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Choose a format that matches your student's age and resources:
@@ -165,7 +165,7 @@ This is the end of Unit 1. See the [Assessment Checkpoints](/docs/assessment-che
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 Signs that learning is happening this week:
 

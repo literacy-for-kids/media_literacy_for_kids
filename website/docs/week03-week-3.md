@@ -11,7 +11,7 @@ description: "Students discover how camera angles, colors, music, and word choic
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 Students now know that media is constructed and that it has a purpose. This week they look at **how** those choices work. The same story can feel scary or funny, serious or silly, depending on the colors, music, camera angles, and words the creator chooses. This is the week where students start to see media as an *engineered experience*.
 :::
 
@@ -40,7 +40,7 @@ The people who make media choose things like colors, words, music, and pictures 
 
 **Last week** students learned the four purposes behind media. **This week** they discover *how* creators achieve those purposes through specific choices — words, colors, music, camera angles, and more. These "invisible choices" are what make media feel the way it does. **Next week** they'll put all of this into practice with the Re-Edit project, building two different stories from the same material.
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare the following:
@@ -168,7 +168,7 @@ If the concept feels abstract, go back to the Color Experiment from Session 1. D
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 Signs that learning is happening this week:
 

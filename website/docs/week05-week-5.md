@@ -11,7 +11,7 @@ description: "Students explore how 'free' websites and apps make money — and w
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This week shifts from *how* media is made to *why* it's made. The big idea: if a website, app, or video is free, someone is still paying for it — often an advertiser who is paying for **your attention**. Students begin to see themselves not just as "users" but as participants in a transaction they didn't realize was happening.
 :::
 
@@ -45,7 +45,7 @@ This week shifts from *how* media is made to *why* it's made. The big idea: if a
 **From Week 2:** Students learned to ask "What is the purpose of this media?" This week they add a new question: "Who is paying for this, and what do they get?" The purpose-detection skill from Week 2 is the foundation for understanding business models.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare examples of "free" things that actually make money:
@@ -171,7 +171,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 Signs that learning is happening this week:
 
@@ -211,10 +211,10 @@ Signs that learning is happening this week:
 
 ## Accessibility Options
 
-- **Verbal ad hunt**: Instead of writing, the student describes each ad found aloud while the caregiver keeps a tally.
+- **Verbal ad hunt**: Instead of writing, the student describes each ad found aloud while the facilitator keeps a tally.
 - **Ad collage**: Cut out ads from magazines and physically sort them by type (obvious vs. hidden).
 - **Drawing**: Sketch the Follow the Money diagram instead of writing it.
-- **Discussion-first**: Do the Ad Detective Journal as a guided conversation with the caregiver recording the student's observations.
+- **Discussion-first**: Do the Ad Detective Journal as a guided conversation with the facilitator recording the student's observations.
 - **Star rating by hand**: Instead of writing about each ad, rate them by holding up fingers (1–5) for how hidden the ad was.
 
 ## Preview of Next Week
