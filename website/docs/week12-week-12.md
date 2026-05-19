@@ -209,3 +209,7 @@ After this week's sessions, the student should be able to:
 - **Verbal journal entries**: Record observations as voice memos instead of writing.
 - **Physical Recommendation Game**: Use actual objects (toy figures, snack boxes, book covers) as content cards.
 - **Partner journal**: Adult and student keep the Algorithm Journal together, comparing observations.
+
+## Preview of Next Week
+
+Next week, students explore the Echo Chamber — learning how filter bubbles and confirmation bias work together to surround us with ideas we already agree with, narrowing what we see and hear.

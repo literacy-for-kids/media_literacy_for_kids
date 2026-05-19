@@ -207,3 +207,7 @@ After this week's sessions, the student should be able to:
 - **Verbal Perspective Challenge**: Skip writing; discuss opposing viewpoints conversationally.
 - **Drawing the loop**: Instead of writing, draw the feedback loop as a comic strip with 4 panels.
 - **Partner exercise**: Do the challenge exercise together — the adult argues the opposite side of a silly topic, modeling the process.
+
+## Preview of Next Week
+
+Next week is the Feed Swap — students explore a simulated feed built for a completely different person and experience what it feels like to see the world through a perspective very different from their own.

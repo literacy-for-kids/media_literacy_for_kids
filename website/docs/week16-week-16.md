@@ -232,3 +232,7 @@ After this week's sessions, the student should be able to:
 - **Chunked building**: Break production into 5-minute focused bursts with short breaks.
 - **Visual checklist**: A printed checklist with checkboxes for each self-audit question.
 - **Alternative formats**: If the chosen format is too difficult, it's OK to pivot — a poster is just as valid as a video.
+
+## Preview of Next Week
+
+Next week, students share their drafts for peer review, revise based on feedback, and fact-check their own work — making sure their final message is clear, honest, and ready to share.

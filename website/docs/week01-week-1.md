@@ -209,3 +209,7 @@ Not every student learns best through writing. Here are alternative ways to part
 - **Sorting activity**: Instead of writing, use physical objects or printed images and sort them into "media" / "not media" piles.
 - **Partner talk**: Discuss each scavenger hunt find with the caregiver as they go, rather than recording independently.
 - **Photo hunt**: Use a camera or tablet to photograph media examples, then review and discuss them together.
+
+## Preview of Next Week
+
+Next week, students investigate the four main purposes behind media — to inform, entertain, persuade, or sell — and sort real examples to discover that almost every piece of media has a hidden goal.

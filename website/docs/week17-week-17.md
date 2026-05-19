@@ -233,3 +233,7 @@ After this week's sessions, the student should be able to:
 - **Visual revision tracking**: Use colored sticky notes on the project to mark areas for change.
 - **Partner presentation**: The student presents alongside the adult, who provides support as needed.
 - **Focus on one revision**: If the full revision plan feels overwhelming, pick the single most important change and do it well.
+
+## Preview of Next Week
+
+Next week is the Signal Broadcast — students present their finished media projects to an audience, explain the choices they made, and reflect on what it means to be a thoughtful and responsible media creator.

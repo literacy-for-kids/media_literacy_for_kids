@@ -228,3 +228,7 @@ Around Weeks 14–15, students are ready for **Spiral Performance Task 4: The Pr
 - **Audio balanced feed**: Record a description of the ideal feed instead of writing it.
 - **Collage**: Cut images from magazines to build the Balanced Feed as a physical collage.
 - **Simplified template**: Pre-draw the 10-item feed layout so the student only needs to fill in content ideas.
+
+## Preview of Next Week
+
+Next week, Phase 5 begins: students plan their final media project from scratch — defining their audience, goal, format, and ethical choices before a single piece of content is created.

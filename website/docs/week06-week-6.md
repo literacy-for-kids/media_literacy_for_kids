@@ -211,3 +211,7 @@ After this week's sessions, the student should be able to:
 - **Partner game**: One person reads a clickbait headline, the other guesses the pattern.
 - **Drawing thumbnails**: Sketch clickbait vs. honest thumbnails instead of writing headlines.
 - **Audio recording**: Record rewritten headlines as a "news broadcast" instead of writing.
+
+## Preview of Next Week
+
+Next week is the Ad Tracker challenge — students count every persuasion attempt they encounter in a single hour of media, logging the techniques used and building an eye for how often they're being sold to.

@@ -244,3 +244,7 @@ After completing Unit 3, students are ready for **Spiral Performance Task 3: The
 - **Partner checklist**: Adult reads each checklist item aloud; student gives a thumbs up/down for each one.
 - **Large-print checklist**: Create the Fake Spotter's Guide in large print with simple icons for each step.
 - **Collage format**: Cut and paste examples from magazines instead of drawing or writing.
+
+## Preview of Next Week
+
+Next week, students investigate how algorithms learn their preferences and change what content gets shown to them — running an Algorithm Journal experiment to catch their own feed in the act.

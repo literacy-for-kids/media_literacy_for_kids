@@ -220,3 +220,7 @@ After completing Unit 2, students are ready for **Spiral Performance Task 2: Fol
 - **Sorting cards**: Pre-made cards with descriptions of media, sorted into "selling a product" vs. "selling an idea" vs. "selling a feeling."
 - **Drawing**: Sketch the emotional ad they designed in Session 2 instead of describing it in words.
 - **Emoji rating**: Use printed emoji faces to rate the emotional pull of each example instead of writing numbers.
+
+## Preview of Next Week
+
+Next week, students tackle the core question of the information age: is this real? — getting their first verification tools and practicing the steps professionals use to check a claim before sharing it.

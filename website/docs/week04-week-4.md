@@ -211,3 +211,7 @@ Signs that learning is happening this week:
 - **Digital tools**: Use a simple drag-and-drop app if fine motor tasks are challenging.
 - **Card sequencing**: Lay images on a table and simply reorder them for each version. No cutting or gluing required.
 - **Voice recording**: Record two different narrations over the same set of images.
+
+## Preview of Next Week
+
+Next week, students follow the money behind 'free' websites and apps — mapping how platforms make money from users' attention and what that means for the content those platforms create and promote.
