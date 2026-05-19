@@ -20,7 +20,7 @@ This is the capstone week for Unit 1. Students put everything from Weeks 1–3 i
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -151,7 +151,7 @@ Provide the student's two completed versions, a journal or paper, and something 
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

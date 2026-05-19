@@ -20,7 +20,7 @@ Weeks 9–10 taught students to check text-based claims. This week focuses on **
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -182,7 +182,7 @@ Provide a sheet of paper or cardstock, markers or colored pens, and the student'
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

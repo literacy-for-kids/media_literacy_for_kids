@@ -20,7 +20,7 @@ Last week students discovered that media is everywhere and that someone made eve
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -151,7 +151,7 @@ Provide a notebook or a simple four-column template: "What is it?", "Main Purpos
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 
