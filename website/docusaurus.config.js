@@ -109,7 +109,7 @@ const config = {
             items: [
               {label: 'Hub', href: hub.href},
               ...curricula.map((c) => ({
-                label: c.label.replace(/ Literacy$/, ''),
+                label: c.label.replace(' Literacy', ''),
                 href: c.href,
               })),
             ],
