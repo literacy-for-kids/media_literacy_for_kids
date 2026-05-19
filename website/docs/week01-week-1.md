@@ -3,6 +3,7 @@ sidebar_position: 1
 sidebar_label: "Week 1: What IS Media?"
 title: "Week 1 — What IS Media?"
 description: "Students discover that media is everywhere and that every piece of it was made by someone."
+slug: /week1
 ---
 
 # Week 1 — What IS Media?
