@@ -11,7 +11,7 @@ description: "Students plan their final media project: audience, goal, format, a
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This is the beginning of the final project. Over Weeks 15–18, students will create their own piece of media — a short video, a blog post, a poster, a podcast episode, or another format they choose. This week is all about **planning**. Before building anything, students write a "Spec Sheet" that defines their audience, their goal, their format, and the ethical standards they'll hold themselves to. Every lesson from Weeks 1–14 comes into play here.
 :::
 
@@ -51,7 +51,7 @@ This is the beginning of the final project. Over Weeks 15–18, students will cr
 Encourage the student to flip through their Media Detective Notebook for inspiration.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare the following:
@@ -197,7 +197,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student genuinely owns their topic choice (they're not just picking the easiest option)
 - They can explain their audience and how it shapes their choices

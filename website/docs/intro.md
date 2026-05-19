@@ -25,7 +25,7 @@ Welcome to the Media Literacy for Kids curriculum — an 18-week program that te
 
 :::info For Caregivers and Teachers
 - You do not need to read the full site in order. Start here, then move into the current week you are teaching.
-- Each weekly page is designed to be skimmed quickly: review the caregiver snapshot, teach one session at a time, and come back later for the rest.
+- Each weekly page is designed to be skimmed quickly: review the facilitator snapshot, teach one session at a time, and come back later for the rest.
 - If you are new to teaching, read the [Caregiver & Educator Quick-Start Guide](/docs/caregiver-guide) before your first session.
 - Use this page when you want the big-picture philosophy, not when you need minute-by-minute teaching directions.
 :::

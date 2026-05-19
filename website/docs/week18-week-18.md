@@ -11,7 +11,7 @@ description: "Final presentations and course reflection — students share their
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This is the final week. Students present their finished media project to an audience (even if that audience is just one family member), answer questions, and then reflect on everything they've learned across the entire 18-week course. This week should feel like a **celebration and a showcase**, not a test. The student has built real media literacy skills — this is their moment to demonstrate them.
 :::
 
@@ -49,7 +49,7 @@ This is the final week. Students present their finished media project to an audi
 Encourage the student to reference specific activities and moments from earlier weeks.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 - Confirm the student's project is complete and presentation-ready
@@ -196,7 +196,7 @@ This is the end of the course. See the [Assessment Checkpoints](/docs/assessment
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student presents with genuine pride and ownership
 - They can answer audience questions using media literacy vocabulary naturally

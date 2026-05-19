@@ -11,7 +11,7 @@ description: "Students learn to identify manipulated images, out-of-context medi
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 Weeks 9–10 taught students to check text-based claims. This week focuses on **visual media** — photos, screenshots, and video clips. Students learn that real images can be used to tell false stories (out-of-context media), that photos can be digitally altered, and that "seeing it with your own eyes" is not always proof. They build a personal checklist for spotting fakes.
 :::
 
@@ -46,7 +46,7 @@ Can you always trust a photo? Not always! A real photo can be used to tell a fal
 **From Week 3:** Creator choices include visual choices. The same image with a different caption, crop, or context can tell a completely different story — just like the re-edit project from Week 4.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare the following:
@@ -196,7 +196,7 @@ This is the end of Unit 3. See the [Assessment Checkpoints](/docs/assessment-che
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student pauses before accepting a dramatic image at face value
 - They can name the type of visual deception ("That's out-of-context media")

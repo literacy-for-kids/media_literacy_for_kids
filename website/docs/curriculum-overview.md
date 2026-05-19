@@ -16,7 +16,7 @@ sidebar_position: 1
 - Use [Program at a Glance](#program-at-a-glance) to jump to a specific week quickly.
 - Check [Learning Ladder](#learning-ladder-how-skills-build-over-time) to see how concepts connect.
 - Check [Optional Extension](#optional-extension) for the bonus track.
-- Save [Independent Session Setup Tips](#independent-session-setup-tips) for caregiver logistics.
+- Save [Independent Session Setup Tips](#independent-session-setup-tips) for facilitator logistics.
 :::
 
 :::info Planning Help
@@ -85,7 +85,7 @@ The ultimate goal is **critical thinking and confidence**, not rushing through c
 This curriculum uses practical, lightweight assessment — no tests, no grades. Learning is tracked through:
 
 - **Weekly Quick Checks** — 2–3 items at the end of each lesson
-- **Caregiver Look-Fors** — observable signs in each week
+- **Facilitator Look-Fors** — observable signs in each week
 - **Spiral Performance Tasks** — milestone activities at key intervals where students apply multiple skills to a single media artifact (see [Assessment Checkpoints](/docs/assessment-checkpoints))
 - **Unit Checkpoints** — reflection conversations at the end of each unit (see [Assessment Checkpoints](/docs/assessment-checkpoints))
 - **Pre/Post Self-Assessment** — a simple reflection tool at the start and end of the course (see [Self-Assessment](/docs/self-assessment))

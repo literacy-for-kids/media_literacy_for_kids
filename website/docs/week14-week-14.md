@@ -11,7 +11,7 @@ description: "Key Activity — Students explore a simulated feed from a complete
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This is the key activity for Unit 4. Students experience what it's like to see the internet through someone else's eyes. Using paper-based simulated "feeds" from fictional people with completely different interests and perspectives, they see firsthand that the same platforms can build very different realities. The week ends with designing a "balanced feed" that represents what an algorithm *should* show if its goal were understanding rather than engagement.
 :::
 
@@ -45,7 +45,7 @@ This week you'll look at pretend feeds made for different pretend people — and
 **From Week 3:** Creator choices shape how a message feels. Algorithms make a similar kind of choice by deciding what you see — and what you don't. The "invisible choices" are now made by software, not just by human creators.
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Create 2–3 simulated "feeds" on paper. Each feed is a list of 10 posts/videos/articles that a specific fictional person would see. Example characters:
@@ -186,7 +186,7 @@ Around Weeks 14–15, students are ready for **Spiral Performance Task 4: The Pr
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student is genuinely surprised by how different the feeds are
 - They can articulate what their own bubble excludes

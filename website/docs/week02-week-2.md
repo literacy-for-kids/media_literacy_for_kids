@@ -11,7 +11,7 @@ description: "Students explore the four main purposes behind media: to inform, e
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 Last week students discovered that media is everywhere and that someone made every piece of it. This week they dig into **why**. Every piece of media has at least one purpose — to inform, to entertain, to persuade, to sell — and many serve more than one purpose at once. Learning to spot the purpose is the first step toward reading media critically.
 :::
 
@@ -41,7 +41,7 @@ Everything someone makes has a reason behind it. A cereal box wants you to buy t
 
 **Last week** students discovered that media is everywhere and that every piece of it was made by someone. **This week** they dig into the *why* — the purpose behind each piece of media. Understanding purpose is the second key to reading media critically, because it helps students ask "What does this creator want from me?" **Next week** they'll explore *how* creators use specific choices (colors, sounds, words, framing) to achieve their purpose.
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Gather 8–10 varied media examples. Try to include at least two from each purpose category:
@@ -165,7 +165,7 @@ If the student mixes up "persuade" and "sell," that's fine — they're closely r
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 Signs that learning is happening this week:
 
@@ -208,7 +208,7 @@ Signs that learning is happening this week:
 - **Color-coding**: Assign a color to each purpose (blue = inform, yellow = entertain, red = persuade, green = sell). The student marks or tags items with the appropriate color.
 - **Cut-and-sort**: Print examples on cards and physically sort them into purpose piles.
 - **Drawing**: Sketch a quick picture for each media example and draw a symbol for its purpose.
-- **Partner discussion**: The student and caregiver discuss each example together, with the student leading the purpose identification.
+- **Partner discussion**: The student and facilitator discuss each example together, with the student leading the purpose identification.
 
 ## Preview of Next Week
 

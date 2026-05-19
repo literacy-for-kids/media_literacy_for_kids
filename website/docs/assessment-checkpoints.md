@@ -16,7 +16,7 @@ This curriculum uses **practical, lightweight assessment** — no tests, no grad
 Assessment happens in six ways:
 
 1. **Weekly Quick Checks** — 2–3 quick questions or tasks at the end of each lesson page
-2. **Caregiver Look-Fors** — observable signs of understanding during each week's activities
+2. **Facilitator Look-Fors** — observable signs of understanding during each week's activities
 3. **Spiral Performance Tasks** — milestone activities at key intervals that ask students to apply multiple skills to a single media artifact (see [below](#spiral-performance-tasks))
 4. **Unit Checkpoints** — reflection prompts at the end of each unit (see below)
 5. **Pre/Post Self-Assessment** — a habit-and-confidence reflection at the start and end of the course (see [Self-Assessment & Reflection](/docs/self-assessment))

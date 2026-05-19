@@ -11,7 +11,7 @@ description: "Students learn what algorithms are and how 'liking' and watching c
 
 ---
 
-:::info Caregiver Snapshot
+:::info Facilitator Snapshot
 This week introduces one of the most important concepts in modern media literacy: **the algorithm.** Students learn that the content they see online is not random — it's selected by a set of rules designed to show them content they're likely to engage with — based on what they've clicked, watched, and liked before. Every like, watch, and scroll teaches the algorithm more about them. The feed is not a mirror of the world; it's a mirror of what the platform thinks will keep them watching.
 :::
 
@@ -46,7 +46,7 @@ Imagine a librarian who watches everything you read and only gives you more of t
 **From Week 2:** "Who made this and why?" now includes a new question: "Who *chose to show me* this, and why?"
 :::
 
-## Teacher Preparation
+## Facilitator Preparation
 
 :::info Before You Begin
 Prepare the following:
@@ -167,7 +167,7 @@ After this week's sessions, the student should be able to:
 
 ---
 
-## Caregiver Look-Fors
+## Facilitator Look-Fors
 
 - The student uses the word "algorithm" naturally when talking about what they see online
 - They connect their own actions (watching, liking) to what shows up in their feed
