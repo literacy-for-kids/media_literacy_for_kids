@@ -20,7 +20,7 @@ This is the key activity week for Unit 2. Students conduct a focused experiment:
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -165,7 +165,7 @@ Provide the same tracking sheet from Session 2 (or a fresh one), a journal or pa
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

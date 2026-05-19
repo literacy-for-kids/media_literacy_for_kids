@@ -20,7 +20,7 @@ This week marks a major shift. Units 1 and 2 taught the student to see how media
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -194,7 +194,7 @@ Pre-select four items: one clearly reliable, one clearly false or misleading, on
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

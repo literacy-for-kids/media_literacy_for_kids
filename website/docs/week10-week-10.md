@@ -20,7 +20,7 @@ This is the key activity week for Unit 3. Students learn **lateral reading** —
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -193,7 +193,7 @@ Provide a device with a web browser (supervised), a notebook or report template,
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

@@ -18,7 +18,7 @@ In Weeks 9–10, students learned to distinguish news from opinion, compare sour
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -194,7 +194,7 @@ Help the student select a current event and locate three articles from different
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

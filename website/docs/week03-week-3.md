@@ -20,7 +20,7 @@ Students now know that media is constructed and that it has a purpose. This week
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -154,7 +154,7 @@ Provide paper (two sheets), markers or crayons, scissors and old magazines if av
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

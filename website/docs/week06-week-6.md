@@ -20,7 +20,7 @@ Last week students learned that free content is paid for by attention. This week
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -160,7 +160,7 @@ Provide a notebook or template with four columns: "Original Headline", "Pattern 
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

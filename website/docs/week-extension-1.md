@@ -18,7 +18,7 @@ This extension explores one of the fastest-changing areas of media literacy: **A
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -168,7 +168,7 @@ Prepare 5 images in advance (3 AI, 2 real — or the reverse). Print them or dis
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

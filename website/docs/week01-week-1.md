@@ -21,7 +21,7 @@ This week is about **noticing**. Students discover that media is everywhere — 
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -149,7 +149,7 @@ Provide the student with a notebook, a sheet of paper, or a simple printout with
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

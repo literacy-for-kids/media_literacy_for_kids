@@ -20,7 +20,7 @@ This week shifts from *how* media is made to *why* it's made. The big idea: if a
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -161,7 +161,7 @@ Provide a notebook or a simple template with four columns. If the student wants 
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 

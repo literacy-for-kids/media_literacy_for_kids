@@ -20,7 +20,7 @@ Weeks 5–7 focused on ads and clickbait — the commercial side of the attentio
 - [Guided Session 1](#guided-session-1)
 - [Guided Session 2](#guided-session-2)
 - [Independent Session](#independent-session)
-- [Quick Check](#quick-check)
+- [Check for Understanding](#check-for-understanding)
 :::
 
 ## Key Vocabulary
@@ -159,7 +159,7 @@ Provide index cards or small pieces of paper for the gallery cards, markers, and
 
 ---
 
-## Quick Check
+## Check for Understanding
 
 After this week's sessions, the student should be able to:
 
