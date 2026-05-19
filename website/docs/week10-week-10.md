@@ -247,3 +247,7 @@ After this week's sessions, the student should be able to:
 - **Paired sprint**: Run the sprint together — the student directs, the adult types and clicks.
 - **Audio report**: Record the Fact-Check Report as a voice memo instead of writing it.
 - **Graphic organizer**: Use a three-column chart (Source 1 / Source 2 / Source 3) for easy comparison.
+
+## Preview of Next Week
+
+Next week, students learn to spot manipulated images, out-of-context media, and deceptive framing — building a Fake Spotter's Guide they can use on any piece of suspicious content.

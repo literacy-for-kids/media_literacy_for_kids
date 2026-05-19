@@ -212,3 +212,7 @@ Signs that learning is happening this week:
 - **Acting it out**: Perform the same simple story twice with different "moods" using voice, body language, and pacing.
 - **Digital collage**: If drawing is difficult, use a device to find and arrange images with different moods.
 - **Sorting by mood**: Provide pre-made examples and have the student sort them by the mood they create rather than creating from scratch.
+
+## Preview of Next Week
+
+Next week is the Re-Edit activity: students take the same set of facts or images and edit them two completely different ways to tell two completely different stories, experiencing first-hand how editorial choices control meaning.

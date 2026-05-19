@@ -216,3 +216,7 @@ Signs that learning is happening this week:
 - **Drawing**: Sketch the Follow the Money diagram instead of writing it.
 - **Discussion-first**: Do the Ad Detective Journal as a guided conversation with the caregiver recording the student's observations.
 - **Star rating by hand**: Instead of writing about each ad, rate them by holding up fingers (1–5) for how hidden the ad was.
+
+## Preview of Next Week
+
+Next week, students investigate the Clickbait Machine — learning exactly how headlines and thumbnails are engineered to capture attention and drive clicks, and practicing rewriting them with honesty instead of hype.

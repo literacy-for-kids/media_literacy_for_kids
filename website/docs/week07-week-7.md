@@ -218,3 +218,7 @@ After this week's sessions, the student should be able to:
 - **Collaborative tracking**: The student identifies, the adult writes.
 - **Sorting afterward**: Place tokens or counters into labeled cups (product / click / idea / feeling) for each attempt.
 - **Visual timeline**: Draw a timeline of the media session and mark where each persuasion attempt appeared.
+
+## Preview of Next Week
+
+Next week, students explore how media sells ideas, feelings, and behaviors — not just products — and create their own emotional ad to understand how those techniques work from the inside.

@@ -239,3 +239,7 @@ After this week's sessions, the student should be able to:
 - **Checklist as conversation**: Walk through the Ethics Checklist as a dialogue instead of a written exercise.
 - **Template with sentence starters**: Pre-fill the Spec Sheet with prompts like "My project is about ___" and "I chose this format because ___."
 - **Photo-based planning**: Take photos of materials, locations, or inspiration and arrange them as a visual plan.
+
+## Preview of Next Week
+
+Next week, students create the first full draft of their media project — applying everything they've learned about purpose, framing, persuasion, and ethics to build something real and original.

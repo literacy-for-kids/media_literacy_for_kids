@@ -209,3 +209,7 @@ Signs that learning is happening this week:
 - **Cut-and-sort**: Print examples on cards and physically sort them into purpose piles.
 - **Drawing**: Sketch a quick picture for each media example and draw a symbol for its purpose.
 - **Partner discussion**: The student and caregiver discuss each example together, with the student leading the purpose identification.
+
+## Preview of Next Week
+
+Next week, students discover the invisible choices that shape every piece of media — how camera angles, colors, music, and word choice change the way a story feels — even when the facts stay the same.

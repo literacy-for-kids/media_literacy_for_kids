@@ -247,3 +247,7 @@ After this week's sessions, the student should be able to:
 - **Verbal verification**: The student dictates their findings while the adult writes them down.
 - **Simplified verification card**: Large-print, three-step card with icons (magnifying glass = check source; calendar = check date; three arrows = search for it).
 - **Team verification**: Adult and student verify together, taking turns on each step.
+
+## Preview of Next Week
+
+Next week is the Fact-Check Sprint — students trace a viral claim all the way back to its original source using lateral reading, a technique used by professional fact-checkers worldwide.
