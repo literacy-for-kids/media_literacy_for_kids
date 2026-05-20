@@ -328,7 +328,7 @@ If a student can explain an idea in their own words, apply it to a new example, 
 Units 1–2 build essential foundations. Weeks 1–8 should be done in order. After that, Units 3 and 4 can be reordered if needed, though the planned sequence works best. The final project (Weeks 15–18) should come last.
 
 **What if my child is younger than 8?**
-Every lesson includes a **Younger Learner Adaptation** section. For very young learners (ages 6–7), focus on guided sessions, use verbal responses instead of writing, and simplify vocabulary. The core ideas are accessible to younger kids — the activities just need to be lighter.
+Every lesson includes a **Younger Learner Adaptation** section. For very young learners (ages 6–8), focus on guided sessions, use verbal responses instead of writing, and simplify vocabulary. The core ideas are accessible to younger kids — the activities just need to be lighter.
 
 **What if my child is older than 12?**
 Every lesson includes an **Older Learner Extension** section. Older students can handle more nuance, real-world examples, and independent research. They'll also engage more deeply with the ethical dimensions of the curriculum.

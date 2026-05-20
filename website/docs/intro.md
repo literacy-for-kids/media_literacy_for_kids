@@ -59,6 +59,8 @@ This curriculum is designed for adults who want to help kids think critically ab
 
 You do not need a background in media, journalism, or technology. Every lesson tells you what to do, what to say, and what to look for. If you can have a conversation with a young person, you can teach this course.
 
+Every lesson includes a **Younger Learner Adaptation** section (ages 6–8) for facilitators working with children below the standard starting age, as well as extension activities for older learners (ages 11–13).
+
 ---
 
 ## What This Is (and What It Isn't)
