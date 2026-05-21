@@ -121,6 +121,10 @@ export default function HomepageFeatures() {
             <li>📰 <strong>Media Literacy</strong> — understanding information systems and evaluating sources</li>
             <li>💰 <strong>Financial Literacy</strong> — understanding money and financial decisions</li>
             <li>🏛 <strong>Civic Literacy</strong> — understanding governance and communities</li>
+            <li>🧩 <strong>Emotional & Social Literacy</strong> — understanding self and social dynamics</li>
+            <li>⚖️ <strong>Legal Literacy</strong> — understanding rules and agreements</li>
+            <li>🌍 <strong>Environmental Systems Literacy</strong> — understanding Earth systems</li>
+            <li>🩺 <strong>Health Systems Literacy</strong> — understanding the body</li>
           </ul>
           <EcosystemLinks />
         </div>
