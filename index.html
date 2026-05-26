@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Media Literacy for Kids</title>
+    <meta
+      name="description"
+      content="A free, open 18-week media literacy curriculum for kids."
+    />
+    <style>
+      :root {
+        color-scheme: light;
+        font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+          sans-serif;
+        line-height: 1.5;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: grid;
+        place-items: center;
+        background: linear-gradient(180deg, #eef6ff 0%, #ffffff 100%);
+        color: #183153;
+      }
+
+      main {
+        box-sizing: border-box;
+        width: min(720px, calc(100% - 2rem));
+        padding: 3rem;
+        border-radius: 24px;
+        background: rgba(255, 255, 255, 0.96);
+        box-shadow: 0 24px 48px rgba(24, 49, 83, 0.12);
+        text-align: center;
+      }
+
+      h1 {
+        margin: 0 0 1rem;
+        font-size: clamp(2rem, 5vw, 3rem);
+      }
+
+      p {
+        margin: 0 0 1rem;
+        font-size: 1.05rem;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1rem;
+        margin-top: 2rem;
+      }
+
+      a {
+        display: inline-block;
+        padding: 0.85rem 1.3rem;
+        border-radius: 999px;
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .primary {
+        background: #3578e5;
+        color: #fff;
+      }
+
+      .secondary {
+        border: 1px solid #3578e5;
+        color: #3578e5;
+      }
+    </style>
+    <script>
+      const canonicalSite = 'https://literacy-for-kids.github.io/media_literacy_for_kids/';
+      const currentLocation = `${window.location.origin}${window.location.pathname}`.replace(
+        /\/?$/,
+        '/',
+      );
+
+      const isLocalPreview =
+        window.location.protocol === 'file:' ||
+        ['127.0.0.1', 'localhost'].includes(window.location.hostname);
+
+      if (!isLocalPreview && currentLocation !== canonicalSite) {
+        window.location.replace(canonicalSite);
+      }
+    </script>
+  </head>
+  <body>
+    <main>
+      <h1>Media Literacy for Kids</h1>
+      <p>
+        This repository’s website lives at the curriculum site below. If you are not
+        redirected automatically, use the link to launch it.
+      </p>
+      <div class="actions">
+        <a class="primary" href="https://literacy-for-kids.github.io/media_literacy_for_kids/">
+          Open the curriculum website
+        </a>
+        <a class="secondary" href="https://github.com/literacy-for-kids/media_literacy_for_kids">
+          View the repository
+        </a>
+      </div>
+    </main>
+  </body>
+</html>
