@@ -39,9 +39,9 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --exclude-path './website/build/404.html'
-            --exclude '^/media_literacy_for_kids/'
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
-            ./website/build
+            ./README.md
+            ./website/README.md
+            './website/docs/**/*.md'
           fail: true
