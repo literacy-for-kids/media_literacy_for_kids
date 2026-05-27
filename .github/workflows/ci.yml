@@ -47,7 +47,7 @@ jobs:
         with:
           workingDirectory: ./website
           args: >-
-            --exclude '^/docs($|/|#)'
+            --root-dir .
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
             ./README.md
