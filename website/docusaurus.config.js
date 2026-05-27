@@ -28,7 +28,7 @@ const config = {
   organizationName: 'literacy-for-kids', // Usually your GitHub org/user name.
   projectName: 'media_literacy_for_kids', // Usually your repo name.
   deploymentBranch: 'gh-pages',
-  trailingSlash: false,
+  trailingSlash: true,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
