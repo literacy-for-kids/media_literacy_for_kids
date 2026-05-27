@@ -39,6 +39,7 @@ jobs:
       - uses: lycheeverse/lychee-action@v2
         with:
           args: >-
+            --exclude 'file://'
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
             ./README.md
@@ -48,6 +49,7 @@ jobs:
           workingDirectory: ./website
           args: >-
             --root-dir .
+            --exclude 'file://'
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
             ./README.md
