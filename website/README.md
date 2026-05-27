@@ -134,4 +134,4 @@ Update `docusaurus.config.js` to modify:
 
 ## License
 
-This curriculum is available under the [CC BY-NC-SA 4.0 license](../LICENSE).
+This curriculum is available under the [CC BY-NC-SA 4.0 license](../LICENSE-CONTENT).

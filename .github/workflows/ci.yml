@@ -42,6 +42,14 @@ jobs:
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
             ./README.md
-            ./website/README.md
-            './website/docs/**/*.md'
+          fail: true
+      - uses: lycheeverse/lychee-action@v2
+        with:
+          workingDirectory: ./website
+          args: >-
+            --root-dir "$(pwd)"
+            --exclude 'https://shields.io'
+            --exclude 'https://camo.githubusercontent.com'
+            ./README.md
+            './docs/**/*.md'
           fail: true
