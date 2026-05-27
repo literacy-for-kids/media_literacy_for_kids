@@ -113,18 +113,18 @@ Each week below links to a detailed lesson page containing:
 | Week | Theme | Focus |
 |---|---|---|
 | [Week 1](/docs/week1) | What IS Media? | Identifying media in daily life; understanding that all media is made by someone |
-| [Week 2](./week02-week-2) | Who Made This and Why? | Authorship and purpose — informing, entertaining, persuading, selling |
-| [Week 3](./week03-week-3) | The Invisible Choices | How camera angles, colors, music, and words change how a story feels |
-| [Week 4](./week04-week-4) | The Re-Edit | Key Activity — editing the same material two ways to tell two different stories |
+| [Week 2](/docs/week02-week-2) | Who Made This and Why? | Authorship and purpose — informing, entertaining, persuading, selling |
+| [Week 3](/docs/week03-week-3) | The Invisible Choices | How camera angles, colors, music, and words change how a story feels |
+| [Week 4](/docs/week04-week-4) | The Re-Edit | Key Activity — editing the same material two ways to tell two different stories |
 
 ### The Attention Economy — Weeks 5–8
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Week 5](./week05-week-5) | The Price of Free | Business models behind free content — if it's free, ask what's paying for it |
-| [Week 6](./week06-week-6) | The Clickbait Machine | How headlines and thumbnails are engineered to exploit curiosity |
-| [Week 7](./week07-week-7) | The Ad Tracker | Key Activity — counting every persuasion attempt in an hour of media |
-| [Week 8](./week08-week-8) | Selling Ideas | When media sells opinions, feelings, or behaviors instead of products |
+| [Week 5](/docs/week05-week-5) | The Price of Free | Business models behind free content — if it's free, ask what's paying for it |
+| [Week 6](/docs/week06-week-6) | The Clickbait Machine | How headlines and thumbnails are engineered to exploit curiosity |
+| [Week 7](/docs/week07-week-7) | The Ad Tracker | Key Activity — counting every persuasion attempt in an hour of media |
+| [Week 8](/docs/week08-week-8) | Selling Ideas | When media sells opinions, feelings, or behaviors instead of products |
 
 ### Verification & Debugging — Weeks 9–11
 
@@ -132,9 +132,9 @@ How to check information, trace claims, evaluate sources, and understand the dif
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Week 9](./week09-week-9) | Is This Real? | Why false information spreads; types of content (news, opinion, entertainment, advertising); introduction to verification tools |
-| [Week 10](./week10-week-10) | The Fact-Check Sprint | Key Activity — tracing a viral claim back to its original source; comparing how different sources cover the same event |
-| [Week 11](./week11-week-11) | Spotting Fakes | Manipulated images, out-of-context media, and visual detection tools |
+| [Week 9](/docs/week09-week-9) | Is This Real? | Why false information spreads; types of content (news, opinion, entertainment, advertising); introduction to verification tools |
+| [Week 10](/docs/week10-week-10) | The Fact-Check Sprint | Key Activity — tracing a viral claim back to its original source; comparing how different sources cover the same event |
+| [Week 11](/docs/week11-week-11) | Spotting Fakes | Manipulated images, out-of-context media, and visual detection tools |
 
 ### The Algorithmic Echo — Weeks 12–14
 
@@ -142,18 +142,18 @@ How recommendation systems shape what you see, and how to broaden your view.
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Week 12](./week12-week-12) | How Does My Feed Know Me? | What algorithms are and how "liking" changes what gets shown next |
-| [Week 13](./week13-week-13) | The Echo Chamber | Filter bubbles, confirmation bias, and why our brains prefer familiar ideas |
-| [Week 14](./week14-week-14) | The Feed Swap | Key Activity — exploring a simulated feed from a completely different perspective |
+| [Week 12](/docs/week12-week-12) | How Does My Feed Know Me? | What algorithms are and how "liking" changes what gets shown next |
+| [Week 13](/docs/week13-week-13) | The Echo Chamber | Filter bubbles, confirmation bias, and why our brains prefer familiar ideas |
+| [Week 14](/docs/week14-week-14) | The Feed Swap | Key Activity — exploring a simulated feed from a completely different perspective |
 
 ### Intentional Production — Weeks 15–18
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Week 15](./week15-week-15) | The Spec Sheet | Planning a media project — audience, goal, format, and ethics |
-| [Week 16](./week16-week-16) | Building Your Message | First draft — writing, recording, or designing the project |
-| [Week 17](./week17-week-17) | Testing and Refining | Peer review, revision, and fact-checking your own work |
-| [Week 18](./week18-week-18) | The Signal Broadcast | Final presentations and course reflection |
+| [Week 15](/docs/week15-week-15) | The Spec Sheet | Planning a media project — audience, goal, format, and ethics |
+| [Week 16](/docs/week16-week-16) | Building Your Message | First draft — writing, recording, or designing the project |
+| [Week 17](/docs/week17-week-17) | Testing and Refining | Peer review, revision, and fact-checking your own work |
+| [Week 18](/docs/week18-week-18) | The Signal Broadcast | Final presentations and course reflection |
 
 ---
 
@@ -161,8 +161,8 @@ How recommendation systems shape what you see, and how to broaden your view.
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Extension Week 1](./week-extension-1) | AI-Generated Media | Deepfakes, AI images, synthetic text — how to detect and think about AI-produced content |
-| [Extension Week 2](./week-extension-2) | Journalism Deep Dive | How newsrooms work, editorial independence, advanced source comparison, and building a personal credibility framework |
+| [Extension Week 1](/docs/week-extension-1) | AI-Generated Media | Deepfakes, AI images, synthetic text — how to detect and think about AI-produced content |
+| [Extension Week 2](/docs/week-extension-2) | Journalism Deep Dive | How newsrooms work, editorial independence, advanced source comparison, and building a personal credibility framework |
 
 ---
 
