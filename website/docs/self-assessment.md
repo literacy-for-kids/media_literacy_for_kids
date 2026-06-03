@@ -36,11 +36,14 @@ For each statement below, circle or write the response that feels most true for 
 | When I see something online or on a screen, I think about who made it and why. | ○ | ○ | ○ | ○ |
 | When I hear a surprising fact or claim, I check if it's true before I believe it. | ○ | ○ | ○ | ○ |
 | I notice when something is trying to sell me a product or an idea. | ○ | ○ | ○ | ○ |
+| I notice when money, sponsorship, or popularity may be shaping a message. | ○ | ○ | ○ | ○ |
 | I think about how media is designed to make me feel a certain way. | ○ | ○ | ○ | ○ |
 | I compare more than one source when I want to know if something is true. | ○ | ○ | ○ | ○ |
+| I think about what signals may be shaping what shows up in my feed. | ○ | ○ | ○ | ○ |
 | I pause and think before I share, forward, or repost something. | ○ | ○ | ○ | ○ |
 | I think about what information might be missing from something I read or watch. | ○ | ○ | ○ | ○ |
 | I feel confident that I can tell the difference between facts and opinions. | ○ | ○ | ○ | ○ |
+| If I use outside facts, images, ideas, or AI help in a project, I know I should give credit. | ○ | ○ | ○ | ○ |
 
 ### Open Questions (Before)
 
@@ -69,11 +72,14 @@ Use the same scale. Be honest — growth isn't about getting "Almost Always" on 
 | When I see something online or on a screen, I think about who made it and why. | ○ | ○ | ○ | ○ |
 | When I hear a surprising fact or claim, I check if it's true before I believe it. | ○ | ○ | ○ | ○ |
 | I notice when something is trying to sell me a product or an idea. | ○ | ○ | ○ | ○ |
+| I notice when money, sponsorship, or popularity may be shaping a message. | ○ | ○ | ○ | ○ |
 | I think about how media is designed to make me feel a certain way. | ○ | ○ | ○ | ○ |
 | I compare more than one source when I want to know if something is true. | ○ | ○ | ○ | ○ |
+| I think about what signals may be shaping what shows up in my feed. | ○ | ○ | ○ | ○ |
 | I pause and think before I share, forward, or repost something. | ○ | ○ | ○ | ○ |
 | I think about what information might be missing from something I read or watch. | ○ | ○ | ○ | ○ |
 | I feel confident that I can tell the difference between facts and opinions. | ○ | ○ | ○ | ○ |
+| If I use outside facts, images, ideas, or AI help in a project, I know I should give credit. | ○ | ○ | ○ | ○ |
 
 ### Open Questions (After)
 
@@ -88,6 +94,50 @@ Use the same scale. Be honest — growth isn't about getting "Almost Always" on 
 5. **Was there a specific moment during the course when something "clicked" — when you saw media differently for the first time?** Describe it.
 
 6. **What's one thing about media that you're still curious about or want to learn more about?**
+
+---
+
+## Phase Reflection Check-Ins
+
+Use these short prompts at the end of each phase if you want a lighter way to notice growth before Week 18.
+
+### Weeks 1–4: Anatomy of a Message
+
+What kinds of media did I start noticing that I used to ignore?
+
+### Weeks 5–8: Attention Economy
+
+When did I notice that money, sponsorship, popularity, or attention goals might be shaping a message?
+
+### Weeks 9–11: Verification and Debugging
+
+What did I check before trusting or sharing something surprising?
+
+### Weeks 12–14: Algorithms and Feeds
+
+What signals might be shaping my feed, and what did I do to widen my view on purpose?
+
+### Weeks 15–18: Intentional Media Creation
+
+How did I make my final media project more honest, better supported, more clearly credited, or easier for my audience to use?
+
+---
+
+## Honest Media Project Checklist
+
+Before publishing or presenting, check:
+
+- Who is my audience?
+- What do I want my audience to think, feel, or do?
+- What claims am I making?
+- What evidence or examples support those claims?
+- Did I clearly separate facts, opinions, and feelings?
+- Did I give credit for outside facts, images, ideas, or AI help?
+- Did I avoid exaggerating?
+- Did I avoid hiding important context?
+- Is my design readable?
+- Are images, captions, audio, or layout choices accessible for my audience?
+- Would I feel okay explaining every choice I made?
 
 ---
 
@@ -114,3 +164,4 @@ This comparison works best as a conversation, not a solitary writing exercise. S
 - **Facilitate the comparison.** Don't just hand back the "Before" page. Sit together, read the old answers aloud, and talk about what changed. The conversation is the assessment.
 - **For younger learners:** Read each statement aloud and let them point to their answer. For open questions, have a conversation and write or record their responses.
 - **Keep both in the notebook.** These pages become part of the Media Detective Notebook — permanent evidence of growth that the student can revisit and feel proud of.
+- **Use the phase check-ins and project checklist when helpful.** They keep reflection practical between the beginning and the end of the course.

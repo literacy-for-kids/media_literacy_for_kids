@@ -52,10 +52,11 @@ This week the student takes their project through the same kind of critical revi
 - Arrange a "reviewer" — another family member, a friend, or the adult themselves can play this role. If another student is doing the curriculum, a peer review is ideal.
 - Prepare a simple feedback form with prompts:
   - What was the main message? (Did the reviewer understand it?)
-  - What was the strongest part?
-  - What was one thing that could be improved?
-  - Did anything feel unclear, unfair, or exaggerated?
-  - Would you trust this media? Why or why not?
+   - Who does this seem to be for? (Did the audience feel clear?)
+   - What was the strongest part?
+   - What evidence felt strong, and what still needed support or clarification?
+   - Did anything feel unclear, unfair, exaggerated, or missing important context?
+   - Was anything hard to read, hear, or follow? Did anything need clearer credit?
 :::
 
 :::info ⚡ Quick Prep
@@ -87,16 +88,19 @@ Students can present their project to a reviewer, receive constructive feedback,
 
 2. **Reviewer Feedback** — The reviewer fills out the feedback form (or answers the prompts verbally). Guide the conversation to stay constructive:
    - Start with positives: "What did you understand? What worked well?"
-   - Then growth areas: "Was anything confusing? Did anything feel exaggerated or unfair?"
-   - Then trust: "Would you trust this? Would you share it?"
+   - Then growth areas: "Was anything confusing? Did anything need better evidence, clearer credit, or better design?"
+   - Then trust: "Would you trust this? Would you share it? Why or why not?"
 
    **Sentence starters for reviewers** (especially helpful for younger reviewers or peers):
    - "I understood that your message was about..."
+   - "This seems like it is for..."
    - "The part that worked best for me was..."
    - "I was confused by..."
    - "I noticed you used [color/word/image] — I think that worked because..."
    - "One thing that could make this stronger is..."
    - "I wondered whether [claim] is accurate because..."
+   - "I wasn't sure where [fact/image/idea] came from."
+   - "One thing that would make this easier to follow is..."
    - "If I were in your audience, I would feel..."
 
 3. **Processing Feedback** — After the review, the student writes down:
@@ -128,11 +132,16 @@ Students can revise their project based on feedback and verify the accuracy of t
    - Check the date
    - Search for confirmation from other sources
    - If using images, verify they're being used in the correct context
+   - If using outside facts, images, ideas, or AI help, decide exactly how you'll credit them
 
-2. **The Ethics Re-Check** — Revisit the Spec Sheet's Ethics Checklist:
-   - Is every fact accurate? (You just checked.)
+2. **The Project Re-Check** — Revisit the Honest Media Project Checklist:
+   - Is the audience clear?
+   - Are the claims supported with evidence or examples?
+   - Did we clearly separate facts, opinions, and feelings?
+   - Is every outside fact, image, idea, or AI help clearly credited?
    - Is emotion used honestly, not manipulatively?
    - Is the full picture presented, or is important context missing?
+   - Is the design readable, hearable, and easy to follow?
    - Would you be proud if someone analyzed this with the tools from this course?
 
 3. **Make the Revisions** — The student implements their revision plan from Session 1. This might involve:
@@ -143,6 +152,7 @@ Students can revise their project based on feedback and verify the accuracy of t
    - Strengthening the opening or closing
 
 4. **Final Read-Through** — The student reads, watches, or listens to their project one more time from start to finish. Ask: "Is this ready? Are you proud of it? Does it say what you want it to say?"
+   Ask one more round of project questions too: "Is every important claim supported? Is every borrowed element credited? Is it easy for your audience to use?"
 
 #### Reflection Questions
 
@@ -167,6 +177,7 @@ When your project is done, prepare for next week's presentation:
    - "I made it for ______ (audience)."
    - "I want them to ______ (goal)."
    - "The most important thing I want them to take away is ______."
+   - "One important thing I checked, credited, or revised was ______."
 3. **Prepare for questions** — Think of 2–3 questions someone might ask about your project. How would you answer them?
 
 #### Skills Reinforced
@@ -186,8 +197,8 @@ Provide all project materials and a quiet workspace. If the student is practicin
 After this week's sessions, the student should be able to:
 
 1. **Accept and use feedback**: Describe one change they made based on someone else's feedback.
-2. **Fact-check their own work**: Walk through every factual claim in their project and explain how they verified it.
-3. **Prepare to present**: Deliver their project introduction clearly and confidently.
+2. **Fact-check their own work**: Walk through every factual claim in their project and explain how they verified it or credited it.
+3. **Prepare to present**: Deliver their project introduction clearly and confidently, including one choice they revised or credited.
 
 ---
 
@@ -196,6 +207,7 @@ After this week's sessions, the student should be able to:
 - The student receives feedback gracefully (they may need coaching — that's normal)
 - They make genuine revisions, not just surface tweaks
 - They take fact-checking their own claims seriously
+- They fix missing credits, vague evidence, or hard-to-follow design when those issues are spotted
 - Their revision plan is specific ("I'll rewrite this sentence" not "I'll make it better")
 - They practice the presentation with real effort
 
@@ -205,7 +217,7 @@ After this week's sessions, the student should be able to:
 
 **Big idea:** Feedback and revision are how good media becomes great media. Even professionals go through multiple rounds of review.
 
-**Remember:** Fact-checking your own work is harder than fact-checking someone else's — but it's one of the most important things a responsible creator can do.
+**Remember:** Fact-checking your own work is harder than fact-checking someone else's — and so is giving clear credit, fixing missing context, and making sure your audience can actually use what you made.
 
 ---
 

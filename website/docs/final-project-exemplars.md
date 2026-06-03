@@ -26,7 +26,7 @@ A student creates a series of three posters about hidden advertising in everyday
 | **Format** | Three printed or hand-drawn posters (11×17 or similar) |
 | **Audience** | Other kids at school, ages 8–12 |
 | **Core message** | Ads don't always look like ads — here are three disguised types and how to spot them |
-| **Evidence/sources** | Each poster includes a real-world example (described generically, not brand-specific), a "how to spot it" checklist, and a note about where the student learned this information |
+| **Evidence/sources** | Each poster includes a real-world example (described generically, not brand-specific), a "how to spot it" checklist, and a note about where the student learned this information or where any icons/images came from |
 
 ### What Makes It Strong
 
@@ -45,12 +45,13 @@ A student creates a series of three posters about hidden advertising in everyday
 
 | Rubric Category | How This Project Meets It |
 |---|---|
-| Clear Purpose & Audience | Defined audience (school kids), clear informational goal |
-| Intentional Construction Choices | Poster layout, colors, and headlines designed to attract and inform |
-| Accuracy & Honesty | Real-world examples, no exaggeration or fearmongering |
-| Ethical Media Practice | Informative, fair, and empowering in tone |
-| Application of Course Concepts | Business models, persuasion, construction choices |
-| Presentation & Communication | Posters displayed and explained to an audience |
+| Message Clarity | Each poster teaches one disguised ad type and the overall series keeps the message focused |
+| Audience Awareness | Language, examples, and size fit school-age readers |
+| Evidence and Accuracy | Real-world examples and spotting clues are specific and correct |
+| Transparency and Attribution | The student credits where the ideas, examples, or visuals came from |
+| Persuasion Ethics | The tone warns without fearmongering or shaming |
+| Design and Accessibility | Headlines, contrast, spacing, and checklist layout help readers follow the posters |
+| Reflection and Revision | The series can improve after hallway testing or reviewer feedback |
 
 ---
 
@@ -67,7 +68,7 @@ A student creates a 90-second video (or 6-slide presentation) that walks viewers
 | **Format** | 60–90 second video (recorded on a phone or tablet) or 6 slides with script |
 | **Audience** | Kids their own age who use social media or share things in group chats |
 | **Core message** | Before you share something surprising, take 30 seconds to check it — here's how |
-| **Evidence/sources** | The video walks through a live fact-check of a specific claim, showing the steps (search the claim, check multiple sources, look at the original source) and the result |
+| **Evidence/sources** | The video walks through a live fact-check of a specific claim, showing the steps (search the claim, check multiple sources, look at the original source) and the result. If the example claim is fictional, the project labels that clearly. |
 
 ### What Makes It Strong
 
@@ -86,12 +87,13 @@ A student creates a 90-second video (or 6-slide presentation) that walks viewers
 
 | Rubric Category | How This Project Meets It |
 |---|---|
-| Clear Purpose & Audience | Specific audience (peers who share content), clear teaching goal |
-| Intentional Construction Choices | Video pacing, on-screen text, tone of voice selected for audience |
-| Accuracy & Honesty | Fact-check process is authentic and correctly modeled |
-| Ethical Media Practice | Responsible — doesn't spread the example claim as real |
-| Application of Course Concepts | Verification skills, source-checking, sharing consequences |
-| Presentation & Communication | Clear walkthrough with voiceover or live narration |
+| Message Clarity | The project teaches one clear routine: check before you share |
+| Audience Awareness | Fast pacing, plain language, and examples fit peers who share content |
+| Evidence and Accuracy | The verification process is authentic and correctly modeled |
+| Transparency and Attribution | Sources can be shown on screen or credited on a final slide, and fictional examples are labeled clearly |
+| Persuasion Ethics | The project encourages caution without panic or shame |
+| Design and Accessibility | Captions, large text, and paced slides or narration make the routine easier to follow |
+| Reflection and Revision | Viewer feedback can help simplify steps or clarify confusing parts |
 
 ---
 
@@ -107,8 +109,8 @@ A student creates an illustrated, hand-drawn or digitally designed explainer (li
 |---|---|
 | **Format** | Illustrated comic strip or infographic (4–6 panels or sections), hand-drawn or digital |
 | **Audience** | Younger kids (ages 7–9) or classmates |
-| **Core message** | Your feed is built by a system that watches what you click — here's how it works and what you can do about it |
-| **Evidence/sources** | The explainer uses the algorithm concepts from the course (engagement signals, personalization, filter bubble), credited to the curriculum lessons |
+| **Core message** | Your feed is shaped by many signals — here's how it works and what you can do to widen your view |
+| **Evidence/sources** | The explainer uses the algorithm concepts from the course (engagement signals, personalization, filter patterns), credited to the curriculum lessons |
 
 ### What Makes It Strong
 
@@ -127,12 +129,13 @@ A student creates an illustrated, hand-drawn or digitally designed explainer (li
 
 | Rubric Category | How This Project Meets It |
 |---|---|
-| Clear Purpose & Audience | Younger audience, clear explanatory goal |
-| Intentional Construction Choices | Panel layout, character design, visual flow |
-| Accuracy & Honesty | Algorithm explanation is accurate and non-alarmist |
-| Ethical Media Practice | Empowering tone, includes actionable advice |
-| Application of Course Concepts | Algorithms, personalization, filter bubbles, engagement signals |
-| Presentation & Communication | Visual storytelling with logical sequence |
+| Message Clarity | The explainer shows how a feed gets shaped and ends with one clear action step |
+| Audience Awareness | The story, visuals, and wording fit younger learners |
+| Evidence and Accuracy | The algorithm explanation is accurate, age-appropriate, and non-alarmist |
+| Transparency and Attribution | The student credits curriculum ideas and any borrowed visuals or icons |
+| Persuasion Ethics | The tone is empowering and avoids framing algorithms as magic or evil |
+| Design and Accessibility | Panels, arrows, labels, and readable text make the sequence easy to follow |
+| Reflection and Revision | Testing the explainer with a younger reader can reveal where the sequence needs revision |
 
 ---
 
@@ -149,7 +152,7 @@ A student creates a short podcast episode (2–3 minutes) or a written blog post
 | **Format** | Podcast episode (~2–3 minutes) or written blog post (~300–400 words) |
 | **Audience** | Family members, classmates, or a general audience of curious kids |
 | **Core message** | The same event can be covered in very different ways — comparing sources gives you a more complete picture |
-| **Evidence/sources** | Three actual articles or reports about the same real event (age-appropriate, non-political), with specific details about what each one included, emphasized, and omitted |
+| **Evidence/sources** | Three actual articles or reports about the same real event (age-appropriate, non-political), with specific details about what each one included, emphasized, and omitted, and clear credit to each source |
 
 ### What Makes It Strong
 
@@ -168,12 +171,13 @@ A student creates a short podcast episode (2–3 minutes) or a written blog post
 
 | Rubric Category | How This Project Meets It |
 |---|---|
-| Clear Purpose & Audience | Defined audience, clear analytical goal |
-| Intentional Construction Choices | Podcast tone/pacing or blog structure chosen for audience |
-| Accuracy & Honesty | Accurate representation of each source; fair comparison |
-| Ethical Media Practice | Honest assessment without political bias or false equivalence |
-| Application of Course Concepts | Construction choices, source comparison, framing, evidence |
-| Presentation & Communication | Clear narration or writing with organized structure |
+| Message Clarity | The comparison leads to a clear point about why source comparison matters |
+| Audience Awareness | Tone, topic choice, and pacing fit curious kids or families |
+| Evidence and Accuracy | The project compares sources accurately and supports its conclusion with specifics |
+| Transparency and Attribution | Each article or report is clearly named or credited |
+| Persuasion Ethics | The student avoids false equivalence, loaded language, and hidden context |
+| Design and Accessibility | Structure, signposting, or audio pacing make the comparison easy to follow |
+| Reflection and Revision | Reviewer questions can reveal where analysis needs clearer evidence or organization |
 
 ---
 

@@ -86,7 +86,7 @@ Students can name the four main purposes of media (inform, entertain, persuade, 
 
 4. **The Tricky Ones** — Deliberately show an example where the purpose is disguised. A "fun quiz" on social media that's actually collecting data. A video that's helpful but is also sponsored. A creator who seems to be sharing a personal favorite but is actually being paid. A game that offers a "free reward" in exchange for watching an ad. Ask: "What is this *really* trying to do?"
 
-5. **Media Checkpoint Update** — Remind the student about [The Media Checkpoint](/docs/media-checkpoint) from Week 1. Now they've leveled up: they can answer question 2 (*Who made it, and why?*) with much more depth, because they understand the four purposes.
+5. **Media Checkpoint Update** — Remind the student about [The Media Checkpoint](/docs/media-checkpoint) from Week 1. Now they've leveled up: they can answer question 2 (*Who made this, who is it for, and why?*) with much more depth, because they understand the four purposes.
 
 #### Reflection Questions
 

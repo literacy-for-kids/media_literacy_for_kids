@@ -12,7 +12,7 @@ description: "Students explore filter bubbles, confirmation bias, and why our br
 ---
 
 :::info Facilitator Snapshot
-Last week students learned how algorithms curate their feeds. This week they learn what happens when that curation goes too far: **filter bubbles** and **echo chambers.** A filter bubble is when the algorithm only shows you things you already agree with. An echo chamber is when that narrow feed reinforces the same ideas over and over until they feel like "everyone thinks this." Students also learn about **confirmation bias** — our brain's built-in tendency to favor information that matches what we already believe.
+Last week students learned how algorithms curate their feeds. This week they learn what can happen when that curation keeps narrowing what they see: **filter bubbles** and **echo chambers.** A filter bubble is not only "the algorithm shows you things you agree with." Sometimes a feed narrows around what you already agree with. Sometimes it narrows around what keeps you interested. Either way, the view gets smaller. An echo chamber is when that narrow feed reinforces the same ideas over and over until they feel like "everyone thinks this." Students also learn about **confirmation bias** — our brain's built-in tendency to favor information that matches what we already believe.
 :::
 
 :::tip Quick Navigation
@@ -27,13 +27,13 @@ Last week students learned how algorithms curate their feeds. This week they lea
 
 | Term | Definition |
 |------|------------|
-| **Filter bubble** | When an algorithm only shows you content you already like or agree with, blocking out other perspectives |
+| **Filter bubble** | When a feed keeps narrowing around what you already engage with, so other perspectives show up less and less |
 | **Echo chamber** | An environment where you only hear ideas similar to your own, making them feel like "everyone thinks this" |
 | **Confirmation bias** | Your brain's natural shortcut of preferring information that matches what you already believe |
 | **Feedback loop** | A cycle where your actions influence the algorithm, and the algorithm's output influences your actions, reinforcing the same pattern |
 
 :::note 🧒 Kid Version
-If you only ever heard one side of a story, you'd start to think that's the whole story. That's what a filter bubble can do — it keeps showing you things you already agree with, which makes it harder to hear different ideas. But here's the good news: once you know about it, you can pop the bubble by looking for different viewpoints on purpose.
+If you only ever heard one side of a story, you'd start to think that's the whole story. That's what a filter bubble can do — it keeps showing you more of the same kinds of things, which makes it harder to hear different ideas or notice what is missing. But here's the good news: once you know about it, you can widen your view on purpose.
 :::
 
 ## Connection
@@ -77,13 +77,13 @@ Students can explain what a filter bubble is, describe how algorithms create the
 
 #### Activities
 
-1. **The Bubble Drawing** — Draw a big circle on paper. Put a stick figure in the center labeled "ME." Explain: "When an algorithm only shows you things you already like and agree with, it builds a bubble around you. Inside the bubble, everything feels normal. Everyone seems to agree with you. The information all points the same direction. But outside the bubble..." Draw other stick figures with different icons/interests outside the circle. "...there's a whole world of ideas, topics, and perspectives you're NOT seeing."
+1. **The Bubble Drawing** — Draw a big circle on paper. Put a stick figure in the center labeled "ME." Explain: "When a feed keeps showing you things you already like, agree with, or stay interested in, it builds a bubble around you. Inside the bubble, everything feels normal. The same kinds of ideas keep showing up. But outside the bubble..." Draw other stick figures with different icons/interests outside the circle. "...there's a whole world of ideas, topics, and perspectives you're NOT seeing."
 
 2. **Two Feeds, One Topic** — Present your two-sided topic (e.g., "Dogs vs. Cats as Pets"). Show Feed A: 5 posts all saying dogs are the best — cute dog photos, dog facts, "10 reasons dogs are better." Show Feed B: 5 posts all saying cats are the best — cute cat photos, cat facts, "10 reasons cats are better." Ask: "If you only saw Feed A, what would you think? If you only saw Feed B? Both feeds are 'real' — but neither one shows the full picture."
 
 3. **The Echo Effect** — Explain: "When you only hear one side of any topic, something happens in your brain. You start to think *everyone* agrees with that side. It feels like the truth — not because it IS the truth, but because it's the only thing you hear. That's called an **echo chamber.** It's like shouting in an empty room — you only hear your own voice bouncing back."
 
-4. **Real Examples** — Discuss: "This happens with much bigger topics than dogs and cats. People who only see one type of news start to think that everyone thinks the same way they do. They're surprised when they find out that lots of people think differently. The algorithm didn't show them the other side."
+4. **Real Examples** — Discuss: "This happens with much bigger topics than dogs and cats. People who only see one type of news or one kind of creator start to think that everyone thinks the same way they do. They're surprised when they find out that lots of people think differently. Their feed did not show them enough range."
 
    People are not trapped — they can search, compare, and choose. But without awareness, it's easy to stay inside a bubble without realizing it.
 
@@ -119,7 +119,7 @@ Students can define confirmation bias and recognize it as a natural tendency tha
 
    **Epistemic guardrail:** Seeking other perspectives is a strength, not a weakness. But being open-minded doesn't mean treating all claims as equally valid. Some claims have strong evidence; others don't. "Everyone has their own truth" sounds fair, but it can be misleading — facts exist independently of opinion. The skill is distinguishing between *perspectives* (which can legitimately differ) and *facts* (which can be checked). You can respect someone's viewpoint while still asking: "What's the evidence?"
 
-5. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Question 6 — *What am I missing?* — is the antidote to filter bubbles and confirmation bias. When you feel certain you're right, that's exactly when you should ask: "What perspective haven't I considered? What evidence might challenge my view?"
+5. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Question 6 — *What might be missing or left out?* — is the antidote to filter bubbles and confirmation bias. When you feel certain you're right, that's exactly when you should ask: "What perspective haven't I considered? What evidence might challenge my view?" Then return to the [Feed Balance Moves](/docs/week12-week-12#feed-balance-moves) from Week 12 and choose one action on purpose.
 
 #### Reflection Questions
 
@@ -162,6 +162,7 @@ After this week's sessions, the student should be able to:
 1. **Define it**: Explain what a filter bubble is and how it forms.
 2. **Name the bias**: Describe confirmation bias in their own words and give an example.
 3. **Draw the loop**: Sketch or explain the feedback loop between their actions and the algorithm.
+4. **Explain the limit**: Say why a feed can be useful and still be incomplete.
 
 ---
 

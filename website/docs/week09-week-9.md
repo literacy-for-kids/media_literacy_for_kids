@@ -12,7 +12,7 @@ description: "Students learn why false information spreads and get their first v
 ---
 
 :::info Facilitator Snapshot
-This week marks a major shift. Units 1 and 2 taught the student to see how media is built and paid for. Now we ask: **is this information even true?** Students learn that false information spreads for different reasons (mistakes, jokes, deliberate manipulation), and they get their first toolkit of verification habits: checking the source, checking the date, and searching for the same claim from other places.
+This week marks a major shift. Units 1 and 2 taught the student to see how media is built and paid for. Now we ask: **is this information even true?** Students learn that false information spreads for different reasons (mistakes, jokes, deliberate manipulation), and they get their first toolkit of verification habits: checking the source, checking the date, looking for evidence, and comparing with at least one more reliable source. More advanced tools come later with adult support or as extensions.
 :::
 
 :::tip Quick Navigation
@@ -48,6 +48,16 @@ Sometimes information that looks real turns out to be wrong — and sometimes it
 **From Weeks 5-8:** Follow the incentive. Does the person sharing this have an incentive to get clicks, reactions, or shares? Could that incentive influence accuracy?
 :::
 
+## Age-Banded Verification Goal
+
+For younger or newer learners, the core goal is not mastering every tool. The core goal is building the habit of checking before trusting or sharing.
+
+- **Core path for ages 8–10:** Ask who made it, check when it was made, look for evidence, compare with one more reliable source, and explain what still feels uncertain.
+- **Core path for ages 10–12:** Add stronger source comparison, basic lateral reading with adult support, and simple evidence tracking.
+- **Extension path for ages 11–13:** Add independent lateral reading, guided reverse image search, source tracing, and stronger comparison across tabs.
+
+The goal for all learners is corroboration before confidence.
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -57,6 +67,7 @@ Prepare the following:
   - A viral social media post that turned out to be a joke or satire
   - An old news story reshared as if it's current
   - A real photo used out of context (e.g., labeled as one event but actually from a different one)
+   - A school closure notice, weather alert, or community event message reshared with the wrong date
 - 1 clearly labeled **opinion or editorial** piece alongside 1 **news report** about the same or a similar topic. Look for the words "Opinion," "Editorial," or "Commentary" in the header of the opinion piece.
 - A computer or tablet with a web browser (for demonstrating verification tools)
 - Optional: print screenshots so the student can examine them without being online
@@ -106,7 +117,18 @@ Students can name at least three reasons false information spreads and explain w
 
    **Important nuance:** These categories aren't always clean. Advertising can look like entertainment (a funny commercial). Opinion can appear alongside news (a social media post quoting a news story and adding commentary). The skill is noticing *which type you're dealing with* so you know what kind of evaluation it deserves.
 
-6. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Question 1 (*What am I looking at?*) now includes identifying whether something is news, opinion, advertising, or entertainment. Question 5 (*What's the evidence?*) takes on new importance: when media claims to be reporting facts, you can ask *what sources and evidence support those claims?*
+6. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Question 1 (*What am I looking at?*) now includes identifying whether something is news, opinion, advertising, or entertainment. Question 5 (*What claims does it make, and what evidence is shown?*) takes on new importance: when media claims to be reporting facts, you can ask what sources and evidence support those claims. Pair it with question 7: *What should I check before I trust, share, or act on it?*
+
+:::info AI Reminder
+Some images, voices, videos, comments, summaries, or screenshots may be AI-generated or AI-edited. That does not automatically make them bad or fake, but it does mean we should ask careful questions:
+
+- Who shared it?
+- Where did it come from?
+- Is there another source?
+- Does it show evidence?
+- Could it be edited, staged, or generated?
+- What should I do before I share it?
+:::
 
 #### Reflection Questions
 
@@ -167,7 +189,7 @@ Each check gives you a clue, not proof. The more clues you gather, the better yo
 
 #### Instruction
 
-Practice using your Verification Toolkit on **4 pieces of information.** The adult should pre-select 4 items for you — a mix of true, false, outdated, and misleading.
+Practice using your Verification Toolkit on **4 pieces of information.** The adult should pre-select 4 items for you — a mix of true, false, outdated, and misleading. For younger learners, do the searching together and focus on explaining what still feels uncertain.
 
 For each one, use all three tools:
 
@@ -199,7 +221,7 @@ Pre-select four items: one clearly reliable, one clearly false or misleading, on
 After this week's sessions, the student should be able to:
 
 1. **Name the types**: Explain the difference between misinformation and disinformation.
-2. **Use the tools**: Demonstrate all three verification steps (check the source, check the date, search for it).
+2. **Use the tools**: Demonstrate or talk through all three verification steps (check the source, check the date, search for it).
 3. **Rate a claim**: Given a piece of information, assign a trust rating (green / yellow / red) and explain why.
 4. **Identify content types**: Distinguish between news reporting, opinion, advertising, and entertainment when looking at a piece of media.
 
@@ -250,4 +272,4 @@ After this week's sessions, the student should be able to:
 
 ## Preview of Next Week
 
-Next week is the Fact-Check Sprint — students trace a viral claim all the way back to its original source using lateral reading, a technique used by professional fact-checkers worldwide.
+Next week is the Fact-Check Sprint — students trace a viral claim toward its original source using lateral reading, a technique used by professional fact-checkers and practiced here with adult guidance when needed.

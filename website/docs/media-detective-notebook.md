@@ -83,24 +83,24 @@ Use these prompts to guide what goes into the notebook each week. They align wit
 
 | Week | Notebook Entry |
 |------|---------------|
-| 1 | **Media Scavenger Hunt** — list 10 pieces of media, who made them, and one construction choice |
+| 1 | **Media Scavenger Hunt** — list 10 pieces of media, who made them, who they seem to be for, and one construction choice |
 | 2 | **Purpose Sorting** — chart of media examples sorted by purpose (inform, entertain, persuade, sell) |
 | 3 | **Variable Experiment** — notes or sketches showing how changing one variable changes the feeling of a message |
 | 4 | **Re-Edit Reflection** — side-by-side comparison of two versions of the same story and what made them different |
-| 5 | **Ad Detective Journal** — log of 8 ads or persuasion attempts with type, technique, and disguise rating |
+| 5 | **Ad Detective Journal** — log of ads, persuasion attempts, or creator recommendations with type, technique, labels, and disguise rating |
 | 6 | **Clickbait Lab** — original clickbait headlines vs. honest rewrites, with notes on what made the clickbait "work" |
-| 7 | **Ad Tracker** — tally sheet of every persuasion attempt found in 30 minutes of media |
+| 7 | **Ad Tracker** — tally sheet of every persuasion attempt, sponsored influence, or creator promo found in 30 minutes of media |
 | 8 | **Emotion Selling Analysis** — examples of media selling ideas or feelings instead of products |
-| 9 | **Verification Practice** — trust ratings for 4 pieces of information with evidence for each rating |
-| 10 | **Fact-Check Sprint Report** — investigation notes tracing claims to their original source |
-| 11 | **Fake Spotter's Guide** — student-created reference card for identifying manipulated/out-of-context media |
+| 9 | **Verification Practice** — trust ratings for 4 pieces of information with evidence, uncertainty notes, and one corroboration check |
+| 10 | **Fact-Check Sprint Report** — investigation notes tracing claims to their original source and comparing at least one more reliable source |
+| 11 | **Fake Spotter's Guide** — student-created reference card for identifying manipulated, out-of-context, or AI-edited media |
 | 12 | **Algorithm Journal** — first entry tracking recommendations and what's missing from the feed |
 | 13 | **Perspective Challenge** — written or drawn exploration of a topic from an unfamiliar viewpoint |
 | 14 | **Feed Swap Reflection** — notes on what it felt like to see a completely different simulated feed |
 | 15 | **Spec Sheet** — the planning document for the final project |
-| 16 | **Draft-in-Progress Notes** — notes on construction choices made during building |
-| 17 | **Peer Review Notes** — feedback received and revision plan |
-| 18 | **Creator Reflection** — final personal reflection on the full course journey |
+| 16 | **Draft-in-Progress Notes** — notes on construction choices, evidence, attribution, and accessibility during building |
+| 17 | **Peer Review Notes** — feedback received, fact checks completed, and revision plan |
+| 18 | **Creator Reflection** — final personal reflection on the full course journey and the Honest Media Project Checklist |
 
 ---
 
@@ -109,12 +109,14 @@ Use these prompts to guide what goes into the notebook each week. They align wit
 These seven questions work with almost any piece of media. Encourage the student to use them throughout the notebook. Write them on the inside front cover or on a bookmark card the student keeps with it. See the [full Media Checkpoint page](/docs/media-checkpoint) for details.
 
 1. **What am I looking at?** — What type of media is this?
-2. **Who made it, and why?** — Who's behind this, and what's their goal?
-3. **What choices shaped it?** — What was included, left out, or emphasized?
-4. **How does it want me to feel?** — What emotions is it designed to trigger?
-5. **What's the evidence?** — Is this supported by facts, sources, or just vibes?
-6. **What am I missing?** — Other perspectives, context, or information I haven't seen?
-7. **What's my next move?** — Trust it, question it, check it, share it, or let it go?
+2. **Who made this, who is it for, and why?** — Who is behind this, and what does it want that audience to think, feel, or do?
+3. **What choices shaped it, and what techniques does it use to get attention?** — What was included, highlighted, or made easy to notice?
+4. **What does it want me to think, feel, or do?** — What reaction is it pushing me toward?
+5. **What claims does it make, and what evidence is shown?** — Is this supported by facts, sources, examples, or mostly strong feelings?
+6. **What might be missing or left out?** — Other perspectives, context, or information I have not seen yet?
+7. **What should I check before I trust, share, or act on it?** — What would help me decide more carefully?
+
+**Incentives Add-On:** *How might money, popularity, sponsorship, algorithms, or platform goals shape this message?*
 
 Students start with questions 1–3 in Unit 1 and progressively add the rest. By the end of the course, the full routine should feel natural.
 
@@ -128,10 +130,10 @@ Here's what a few real notebook entries might look like:
 > "I found 10 pieces of media! The one that surprised me most was the tag on my T-shirt — someone designed that too. The creator chose to make the letters small and use a simple font. I think they wanted it to look clean and not too distracting."
 
 **Week 5 entry (Ad Detective):**
-> "I found an ad in my game that looked like a button I was supposed to press. It was disguised as part of the game! I'd rate it ⭐⭐⭐⭐ for how hidden it was. The technique was blending in with the game design."
+> "I found an ad in my game that looked like a button I was supposed to press. It was disguised as part of the game. I would rate it ⭐⭐⭐⭐ for how hidden it was. The technique was blending in with the game design, and there was no clear label until I looked closely."
 
 **Week 12 entry (Algorithm Journal):**
-> "My YouTube recommendations are all gaming videos and funny animal clips. I think it's because those are what I watch the most. What's missing: anything about science or cooking, even though I like those too. My algorithm thinks I am someone who only cares about gaming and cute animals."
+> "My YouTube recommendations are all gaming videos and funny animal clips. I think it's because those are what I watch the most, how long I watch them, and what I search for. What's missing: anything about science or cooking, even though I like those too. My algorithmic feed thinks I only care about gaming and cute animals."
 
 These are examples — the student's entries don't have to look exactly like this. Any honest observation counts.
 

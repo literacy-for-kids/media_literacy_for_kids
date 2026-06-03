@@ -12,7 +12,7 @@ description: "Students learn what algorithms are and how 'liking' and watching c
 ---
 
 :::info Facilitator Snapshot
-This week introduces one of the most important concepts in modern media literacy: **the algorithm.** Students learn that the content they see online is not random — it's selected by a set of rules designed to show them content they're likely to engage with — based on what they've clicked, watched, and liked before. Every like, watch, and scroll teaches the algorithm more about them. The feed is not a mirror of the world; it's a mirror of what the platform thinks will keep them watching.
+This week introduces one of the most important concepts in modern media literacy: **the algorithm.** Students learn that the content they see online is not random — it is selected by a set of rules that use many signals to decide what to show next. Feeds are shaped by many signals: what you click, what you watch, how long you watch, what you search for, what language you use, what people near you or similar to you engage with, and what the platform is designed to optimize. Sometimes that means you see more of what you already agree with. Sometimes it means you simply see more of what keeps you interested. Either way, your feed is not the whole world.
 :::
 
 :::tip Quick Navigation
@@ -27,7 +27,7 @@ This week introduces one of the most important concepts in modern media literacy
 
 | Term | Definition |
 |------|------------|
-| **Algorithm** | A set of rules that a platform uses to decide what content to show you, based on your past behavior |
+| **Algorithm** | A set of rules that a platform uses to decide what content to show you, using signals like clicks, watch time, searches, and other patterns |
 | **Feed** | The stream of posts, videos, or articles a platform shows you — curated by an algorithm, not randomly selected |
 | **Engagement signal** | Any action you take (like, comment, share, watch time) that tells the algorithm what to show you more of |
 | **Personalization** | When a platform customizes what you see based on your behavior, so that two people using the same app see different content |
@@ -38,7 +38,7 @@ Imagine a librarian who watches everything you read and only gives you more of t
 
 ## Connection
 
-**Units 1–3** taught students to see how media is built, paid for, and verified. **This week** asks a new question: *who decides what you see in the first place?* Students discover that algorithms curate their feeds based on engagement, not accuracy or value. **Next week** they explore what happens when that curation goes too far: filter bubbles and echo chambers.
+**Units 1–3** taught students to see how media is built, paid for, and verified. **This week** asks a new question: *who decides what you see in the first place?* Students discover that algorithmic feeds are shaped by engagement signals and platform goals, not by a promise to show the full world. **Next week** they explore what happens when that curation keeps narrowing what they see: filter patterns, echo chambers, and confirmation bias.
 
 :::tip 🔄 Bring Forward
 **From Weeks 5-6:** Students learned about the attention economy and clickbait. Now they see the system behind it: algorithms use engagement signals (the same clicks and watch-time they studied) to decide what to show next. The attention economy is powered by algorithmic curation.
@@ -86,16 +86,19 @@ Students can explain what an algorithm is (a set of rules that decides what to s
    - You **skip** something after two seconds → the algorithm thinks: "they didn't like that — show less like it"
    - You **like, comment, or share** something → the algorithm thinks: "strong signal! Show MUCH more like it"
    - You **search** for something → the algorithm adds that topic to your profile
+   - You **watch longer** than usual → the algorithm treats that as a strong signal, even if you never click "like"
+   - You use certain **words, searches, or languages** → the platform uses those patterns too
+   - The platform also has its own goal → keep you interested, active, and likely to come back
 
-   The result: your feed becomes more and more specific over time. It's not showing you the world — it's showing you a version of the world that the platform thinks will keep you engaged.
+   The result: your feed becomes more and more specific over time. It is not showing you the whole world — it is showing you a version of the world that the platform thinks will keep you engaged.
 
 3. **The Recommendation Game** — On paper, simulate an algorithm. Create cards with different types of content: "Funny cat video," "Science documentary," "Soccer highlights," "Scary story," "Cooking tutorial." Give the student 10 cards and have them "watch" 5 by picking the ones they'd click on. Then remove the unclicked cards, double the topics they chose, and present a new round. And again. After 3 rounds, look at the feed: "It's all the same type of content now. How did that happen?"
 
-4. **Anchor Concept** — Introduce the third core concept: *Algorithms shape what you see.* Explain: "Many recommendation systems are designed to keep you engaged — meaning they tend to show you content you're likely to click on, watch, or interact with. This often means emotional or exciting content gets promoted, while calmer or more accurate content may get less attention. This is a simplified model — platforms are complex, and some are working to promote quality content too — but it's a useful way to start understanding how your feed is built. The key idea: the algorithm doesn't choose what's true or important. It chooses what's likely to keep you watching."
+4. **Anchor Concept** — Introduce the third core concept: *Algorithms shape what you see.* Explain: "Many recommendation systems are designed to keep you engaged — meaning they tend to show you content you're likely to click on, watch, or interact with. This often means emotional or exciting content gets promoted, while calmer or more accurate content may get less attention. This is a simplified model — platforms are complex, and some are working to promote quality content too — but it's a useful way to start understanding how your feed is built. The key idea: the algorithm is not choosing the whole world for you. It is making a set of choices based on signals and goals."
 
    **Epistemic guardrail:** Algorithms are systems — not magic, not automatically bad. They're designed by people to accomplish a goal (usually engagement). Some algorithmic recommendations are genuinely helpful: they surface music you love, tutorials you need, or news you care about. The issue isn't that algorithms exist — it's that their goal (keep watching) and *your* goal (be well-informed, make good choices) aren't always the same. Understanding the system gives you more control, not less.
 
-5. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Every question in the checkpoint still applies — but now add a new layer. Before you even start analyzing a piece of media, ask: *Why am I seeing this in the first place?* The algorithm chose to show it to you. That's a construction choice too — made by software instead of a person.
+5. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Every question in the checkpoint still applies — but now add the **Incentives Add-On**: *How might money, popularity, sponsorship, algorithms, or platform goals shape this message?* Before you even start analyzing a piece of media, ask: *Why am I seeing this in the first place?* The feed chose to show it to you. That's a construction choice too — made by software instead of a person.
 
 #### Reflection Questions
 
@@ -118,7 +121,7 @@ Students can describe how interacting with content (liking, watching, searching)
 
    If a device isn't available, describe this experiment verbally and discuss what the student would expect to happen.
 
-2. **Two Feeds, One World** — Discuss: "If Person A watches funny animal videos all day, and Person B watches news about science, their feeds will look completely different. They're using the same app, living in the same city — but they see a different internet." Ask: "Is either feed showing 'the truth'? Or are both showing *a piece* of the truth selected by the algorithm?"
+2. **Two Feeds, One World** — Discuss: "If Person A watches funny animal videos all day, and Person B watches news about science, their feeds will look completely different. They're using the same app, living in the same city — but they see a different internet." Ask: "Is either feed showing 'the truth'? Or are both showing *a piece* of the world selected by the algorithm?"
 
 3. **The Engagement Trap** — Explain why emotional content gets boosted: "If a calm, factual video gets watched for 2 minutes but an outrageous, dramatic video gets watched for 7 minutes plus 50 comments, which one will the algorithm promote? The dramatic one — because it generates more engagement. This doesn't always happen — platforms are working on ways to promote quality content too — but the general pattern holds: engagement signals are powerful, and emotional content tends to generate more of them."
 
@@ -129,6 +132,18 @@ Students can describe how interacting with content (liking, watching, searching)
 - If the algorithm had its way, what would your feed look like in a year?
 - Does the algorithm show you what you *need* to know or what you *want* to watch?
 - How could you "train" an algorithm to show you a better, more balanced feed?
+
+---
+
+## Feed Balance Moves
+
+When a feed starts to feel too narrow, learners can:
+
+- search on purpose instead of only scrolling
+- compare the same topic across two or three sources
+- follow or visit one helpful source outside their usual pattern
+- ask whether the feed is showing what is true, what is popular, what is emotional, or what keeps attention
+- pause before assuming “everyone thinks this”
 
 ---
 
@@ -162,8 +177,9 @@ Provide a journal or notebook with three columns: "What Was Recommended," "Why I
 After this week's sessions, the student should be able to:
 
 1. **Define algorithm**: Explain what an algorithm does in their own words (no jargon — the librarian analogy is fine).
-2. **Name the signals**: List at least three engagement signals that teach the algorithm about them.
+2. **Name the signals**: List at least three signals or goals that may shape what appears in a feed.
 3. **Spot the pattern**: Look at their own feed and explain why certain content appears there.
+4. **Explain the trade-off**: Say one way recommendation systems can be useful and one way they can be limiting.
 
 ---
 
@@ -179,9 +195,9 @@ After this week's sessions, the student should be able to:
 
 ## 🎯 Takeaway
 
-**Big idea:** The content you see online is selected by algorithms that respond to your behavior — not by someone choosing the best or most accurate content for you.
+**Big idea:** The content you see online is selected by algorithms that respond to many signals and platform goals — not by someone choosing the best or most accurate content for you.
 
-**Remember:** Your feed is shaped by your clicks, but it doesn't have to define what you think. You can always search, explore, and choose to look beyond what's recommended.
+**Remember:** Your feed is shaped by your behavior, but it does not have to define what you think. Recommendation systems can be useful and limiting at the same time.
 
 ---
 

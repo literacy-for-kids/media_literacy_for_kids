@@ -18,121 +18,162 @@ Assessment happens in six ways:
 1. **Weekly Quick Checks** — 2–3 quick questions or tasks at the end of each lesson page
 2. **Facilitator Look-Fors** — observable signs of understanding during each week's activities
 3. **Spiral Performance Tasks** — milestone activities at key intervals that ask students to apply multiple skills to a single media artifact (see [below](#spiral-performance-tasks))
-4. **Unit Checkpoints** — reflection prompts at the end of each unit (see below)
+4. **Phase Checkpoints** — reflection prompts and readiness indicators at the end of each phase (see below)
 5. **Pre/Post Self-Assessment** — a habit-and-confidence reflection at the start and end of the course (see [Self-Assessment & Reflection](/docs/self-assessment))
 6. **The Final Project** — the strongest, most authentic evidence of learning (see [Final Project Rubric](/docs/final-project-rubric) and [Project Exemplars](/docs/final-project-exemplars))
 
 None of these require formal grading. They are conversation starters and thinking prompts.
 
-The [Media Checkpoint](/docs/media-checkpoint) — a seven-question analysis routine — runs through all assessments as a consistent framework.
+The [Media Checkpoint](/docs/media-checkpoint) — a seven-question analysis routine, plus the incentives add-on when it fits — runs through all assessments as a consistent framework.
 
 ---
 
-## Unit 1 Checkpoint — The Anatomy of a Message (After Week 4)
+## Phase Checkpoints
 
-By the end of Unit 1, the student should be able to:
+### Phase Checkpoint: Anatomy of a Message (Weeks 1–4)
 
-- [x] Identify at least 5 different types of media in everyday life
-- [x] Explain that all media is created by someone with a purpose
-- [x] Name 4 common purposes of media: inform, entertain, persuade, sell
-- [x] Identify at least 3 construction choices in a piece of media (colors, words, images, sounds, camera angle, layout)
-- [x] Take the same material and present it in two different ways to tell two different stories
+Learner is ready to move on when they can:
 
-### Checkpoint Conversation
+- identify different types of media in everyday life, including home, school, community, and online examples
+- explain that all media is created by someone for an audience and a purpose
+- name at least three construction choices or attention techniques in a piece of media
+- compare two versions of the same material and explain how the choices changed the meaning
 
-Ask the student:
+Checkpoint questions:
 
-1. *"Show me something in this room that counts as media. How do you know?"*
-2. *"Pick up that [cereal box / book / poster]. Who made it, and what did they want you to feel?"*
-3. *"If you had to re-edit that to make it feel [scarier / funnier / more serious], what would you change?"*
+- What am I looking at, and who does it seem to be for?
+- What choices shaped it or helped it get attention?
+- If you changed one part, how would the message feel different?
 
-**What you're listening for:** The student talks about specific **choices** the creator made, not just vague reactions. They see media as something **built**, not something that just exists.
+Ready to move on indicator:
 
----
+Learner can run the first three Media Checkpoint questions on a new artifact with only light prompting.
 
-## Unit 2 Checkpoint — The Attention Economy (After Week 8)
+Reteach move:
 
-By the end of Unit 2, the student should be able to:
-
-- [x] Explain how free content is typically funded (advertising, attention as the product)
-- [x] Identify at least 3 types of advertising, including disguised forms
-- [x] Recognize clickbait patterns and explain why they work
-- [x] Identify when media is selling an idea, feeling, or behavior instead of a product
-- [x] Ask "who benefits?" when encountering free content
-
-### Checkpoint Conversation
-
-Ask the student:
-
-1. *"Why do you think [this app / this game / this website] is free?"*
-2. *"Can you show me an ad that's trying to look like it's NOT an ad?"*
-3. *"If someone is trying to persuade you using emotion, how would you notice?"*
-
-**What you're listening for:** The student thinks about the **business model** behind free content. They can distinguish between content and advertising even when the line is blurred. They question emotional appeals without being cynical.
+Put two familiar examples side by side — for example, a cereal box and a school flyer, or a game thumbnail and a library poster. Have the learner circle what each one makes easiest to notice, then talk through the audience and purpose.
 
 ---
 
-## Unit 3 Checkpoint — Verification & Debugging (After Week 11)
+### Phase Checkpoint: Attention Economy (Weeks 5–8)
 
-By the end of Unit 3, the student should be able to:
+Learner is ready to move on when they can:
 
-- [x] Explain the difference between misinformation (accidental) and disinformation (intentional)
-- [x] Distinguish between news reporting, opinion, advertising, and entertainment
-- [x] Use three verification strategies: check the source, check the date, search for the same claim elsewhere
-- [x] Compare how different sources cover the same event and explain why coverage differs
-- [x] Identify at least 2 examples of out-of-context or manipulated media
-- [x] Use reverse image search or describe how it works
-- [x] Make an evidence-based trust rating for a piece of information
+- identify at least one attention technique used in a message
+- explain how a free platform, app, or creator may still make money
+- notice when a message is trying to trigger curiosity, urgency, belonging, fear, or creator trust
+- ask whether sponsorship, popularity, or platform goals might shape the message
+- spot a disclosure label or explain what they would look for in a creator promotion
 
-### Checkpoint Conversation
+Checkpoint questions:
 
-Ask the student:
+- What is this message doing to get attention?
+- Who benefits if people click, watch, buy, or share?
+- What label, evidence, or disclosure would help you judge this more fairly?
 
-1. *"If I showed you a surprising headline right now, what would you do before sharing it?"*
-2. *"What's the difference between a news report and an opinion piece? How can you tell?"*
-3. *"If two sources cover the same event but emphasize different things, does that mean one is lying?"*
+Ready to move on indicator:
 
-**What you're listening for:** The student has a **verification habit**, not just knowledge. They describe a process (check → search → compare) rather than just saying "I'd Google it." They understand that different coverage doesn't automatically mean bias or dishonesty — it reflects the construction choices each source made. They can distinguish between types of content without needing to label sources as "good" or "bad."
+Learner can compare a straightforward recommendation and a sponsored creator recommendation without assuming every creator is dishonest.
 
----
+Reteach move:
 
-## Unit 4 Checkpoint — The Algorithmic Echo (After Week 14)
-
-By the end of Unit 4, the student should be able to:
-
-- [x] Explain what an algorithm does on a media platform in their own words
-- [x] Describe how their own behavior (likes, watches, searches) shapes what the algorithm shows them
-- [x] Explain what a filter bubble is and why it forms
-- [x] Recognize that their feed is curated, not a complete picture of the world
-- [x] Suggest at least one strategy for getting a more balanced information diet
-
-### Checkpoint Conversation
-
-Ask the student:
-
-1. *"If two people use the same app but have completely different feeds, why?"*
-2. *"What's a filter bubble, and how does it happen?"*
-3. *"If you wanted to see something your feed never shows you, what could you do?"*
-
-**What you're listening for:** The student understands that the feed is **personalized, not neutral**. They can explain the mechanism (behavior → signals → algorithm → narrower content). They think about what they might be missing.
+Use two familiar examples side by side: one straightforward message and one message designed to maximize clicks. Have the learner underline the attention techniques, then add any labels or money clues they notice before discussing them.
 
 ---
 
-## Unit 5 Checkpoint — Intentional Production (After Week 18)
+### Phase Checkpoint: Verification and Debugging (Weeks 9–11)
 
-By the end of Unit 5, the student should be able to:
+Learner is ready to move on when they can:
 
-- [x] Plan a media project with a defined audience, purpose, format, and key message
-- [x] Create an original piece of media that applies course principles
-- [x] Identify and explain the construction choices in their own work
-- [x] Fact-check their own claims
-- [x] Present their project and respond to questions about their creative choices
+- explain the difference between misinformation and disinformation
+- distinguish between news reporting, opinion, advertising, and entertainment
+- use the basic verification habit: source, date, evidence, and one more reliable source
+- explain what still feels uncertain instead of forcing a yes-or-no answer
+- describe guided tools like lateral reading or reverse image search, even if they still need support using them
 
-### Checkpoint Conversation
+Checkpoint questions:
 
-This happens naturally during the Week 18 presentation. The most important sign of learning is that the student can talk about their own media the way they learned to analyze everyone else's.
+- What claim is being made, and what evidence is shown?
+- What would you check before trusting or sharing this?
+- What still feels uncertain, missing, or out of context?
 
-**What you're listening for:** The student talks about their project using course vocabulary — audience, purpose, construction choices, accuracy, signal vs. noise. They made **intentional** decisions and can explain why.
+Ready to move on indicator:
+
+Learner can give a trust rating with evidence and describe at least one corroboration step they used or would use.
+
+Reteach move:
+
+Use one low-stakes example — a fun fact, community flyer, weather screenshot, or animal claim. Walk through source, date, evidence, and one more source together. End by asking what still feels uncertain so the learner practices honest caution.
+
+---
+
+### Phase Checkpoint: Algorithms and Feeds (Weeks 12–14)
+
+Learner is ready to move on when they can:
+
+- explain what an algorithmic feed does in their own words
+- name several signals that may shape a feed
+- explain why a feed is incomplete, even when it feels useful
+- describe one way recommendation systems can help and one way they can limit
+- use at least one Feed Balance Move on purpose
+
+Checkpoint questions:
+
+- What signals may be shaping this feed?
+- Why is this feed incomplete, even if it is useful?
+- What could you do on purpose to widen your view?
+
+Ready to move on indicator:
+
+Learner can explain one concrete way to look beyond a narrow feed instead of only describing the problem.
+
+Reteach move:
+
+Compare two fictional feeds on the same topic. Circle what overlaps, what differs, and what is missing from each one. Then have the learner choose one Feed Balance Move and try it immediately.
+
+---
+
+### Phase Checkpoint: Intentional Media Creation (Weeks 15–18)
+
+Learner is ready to move on when they can:
+
+- plan a final media project with a clear audience, purpose, and message
+- support claims with evidence or examples and separate facts, opinions, and feelings
+- give credit for outside facts, images, ideas, or AI help
+- revise for honesty, clarity, accessibility, and fairness after feedback
+- present the project and explain at least one change they made during revision
+
+Checkpoint questions:
+
+- Who is your audience, and what do you want them to think, feel, or do?
+- What claims are you making, and what evidence supports them?
+- What did you revise to make the project clearer, fairer, more honest, or more accessible?
+
+Ready to move on indicator:
+
+Learner can explain their own choices using the Honest Media Project Checklist and the final project rubric.
+
+Reteach move:
+
+Take one section of the draft and do a checklist pass together. Highlight claims in one color, evidence in another, outside material that needs credit in a third, and any design or accessibility issue in a fourth.
+
+---
+
+## Honest Media Project Checklist
+
+Before publishing or presenting, check:
+
+- Who is my audience?
+- What do I want my audience to think, feel, or do?
+- What claims am I making?
+- What evidence or examples support those claims?
+- Did I clearly separate facts, opinions, and feelings?
+- Did I give credit for outside facts, images, ideas, or AI help?
+- Did I avoid exaggerating?
+- Did I avoid hiding important context?
+- Is my design readable?
+- Are images, captions, audio, or layout choices accessible for my audience?
+- Would I feel okay explaining every choice I made?
 
 ---
 
@@ -153,11 +194,11 @@ Spiral performance tasks are milestone activities at key points in the course wh
 
 **When:** After completing Unit 1 (The Anatomy of a Message)
 
-**Task:** Choose one piece of media the student hasn't analyzed before — a poster, video thumbnail, magazine ad, or product package. Run the first three questions of the [Media Checkpoint](/docs/media-checkpoint) on it:
+**Task:** Choose one piece of media the student hasn't analyzed before — a poster, video thumbnail, magazine ad, school flyer, or product package. Run the first three questions of the [Media Checkpoint](/docs/media-checkpoint) on it:
 
 1. *What am I looking at?* (Identify the type of media — Week 1)
-2. *Who made it, and why?* (Identify the creator and purpose — Week 2)
-3. *What choices shaped it?* (Name at least three construction choices and explain how each affects the message — Week 3)
+2. *Who made this, who is it for, and why?* (Identify the creator, audience, and purpose — Week 2)
+3. *What choices shaped it, and what techniques does it use to get attention?* (Name at least three construction choices and explain how each affects the message — Week 3)
 
 Then: *If you re-edited this with a completely different mood or purpose, what would you change?* (Week 4)
 
@@ -167,12 +208,14 @@ Then: *If you re-edited this with a completely different mood or purpose, what w
 
 **When:** After completing Unit 2 (The Attention Economy)
 
-**Task:** Find a piece of free online content — a video, an app screen, a social media-style feed, or a game notification. Apply the full Media Checkpoint (questions 1–4):
+**Task:** Find a piece of free online content — a video, an app screen, a social media-style feed, a game notification, or a creator product recommendation. Apply the Media Checkpoint through question 4, then add the incentives question:
 
 1. *What am I looking at?*
-2. *Who made it, and why? Who is paying for it?* (Follow the incentive — Week 5)
-3. *What choices shaped it?* (Identify clickbait patterns, emotional hooks, or disguised ads — Weeks 6–7)
-4. *How does it want me to feel?* (Is it selling a product, an idea, or a feeling? — Week 8)
+2. *Who made this, who is it for, and why?* (Follow the incentive — Week 5)
+3. *What choices shaped it, and what techniques does it use to get attention?* (Identify clickbait patterns, emotional hooks, or disguised ads — Weeks 6–7)
+4. *What does it want me to think, feel, or do?* (Is it selling a product, an idea, a feeling, or trust? — Week 8)
+
+Add the incentives question: *How might money, popularity, sponsorship, algorithms, or platform goals shape this message?*
 
 Bonuses: *Is there a hidden ad or persuasion attempt?* *How obvious or disguised is it?*
 
@@ -182,14 +225,15 @@ Bonuses: *Is there a hidden ad or persuasion attempt?* *How obvious or disguised
 
 **When:** After completing Unit 3 (Verification & Debugging)
 
-**Task:** Present the student with a surprising claim, headline, or image (prepare one in advance). Have them run the full Media Checkpoint (questions 1–6):
+**Task:** Present the student with a surprising claim, headline, or image (prepare one in advance). Have them run the full Media Checkpoint, focusing especially on questions 5–7:
 
 1. *What am I looking at?* (What type of content is this — news, opinion, entertainment, ad?)
-2. *Who made it, and why?*
-3. *What choices shaped it?*
-4. *How does it want me to feel?* (Is the emotional pull proportional to the evidence?)
-5. *What's the evidence?* (Check the source, check the date, search for other sources — Weeks 9–10)
-6. *What am I missing?* (Is this image in context? Is there another side? — Week 11)
+2. *Who made this, who is it for, and why?*
+3. *What choices shaped it, and what techniques does it use to get attention?*
+4. *What does it want me to think, feel, or do?* (Is the emotional pull proportional to the evidence?)
+5. *What claims does it make, and what evidence is shown?* (Check the source, check the date, search for other sources — Weeks 9–10)
+6. *What might be missing or left out?* (Is this image in context? Is there another side? — Week 11)
+7. *What should I check before I trust, share, or act on it?* (What is the next verification step?)
 
 Then give a trust rating: 🟢 reliable, 🟡 uncertain, or 🔴 unreliable — and explain why.
 
@@ -199,10 +243,11 @@ Then give a trust rating: 🟢 reliable, 🟡 uncertain, or 🔴 unreliable — 
 
 **When:** After the Algorithmic Echo unit, before major project work begins
 
-**Task:** Choose a piece of media that's relevant to the student's likely project topic area. Run the complete Media Checkpoint (all 7 questions). Additionally:
+**Task:** Choose a piece of media that's relevant to the student's likely project topic area. Run the complete Media Checkpoint (all 7 questions), then add the incentives question if it fits. Additionally:
 
-- *If this appeared in your feed, why might the algorithm have shown it to you?* (Weeks 12–14)
+- *If this appeared in your feed, what signals might have shaped that?* (Weeks 12–14)
 - *If this appeared in someone else's feed — someone who doesn't share your interests or views — would they see it? Would they react the same way?*
+- *What Feed Balance Move would help you get a wider view of this topic before creating your own media?*
 - *If you were going to create something better than this on the same topic, what would you do differently?*
 
 **What you're looking for:** The student connects algorithmic thinking to everything else. They can analyze a media artifact from construction through incentives through verification through algorithmic context — and then pivot to thinking about what *they* would create.
@@ -226,6 +271,7 @@ The best evidence of learning in this curriculum is **habits and reasoning**, no
 - They **use course vocabulary naturally** in conversation
 - They **compare and check** before forming strong opinions
 - They apply earlier skills to new situations (e.g., using Week 2's purpose questions while working on the final project)
+- They can say what is still uncertain instead of pretending confidence they have not earned
 
 ### What assessment is NOT in this curriculum:
 - A quiz or test

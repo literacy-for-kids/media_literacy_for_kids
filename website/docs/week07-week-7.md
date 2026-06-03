@@ -51,11 +51,14 @@ Prepare a tracking sheet or help the student create one. Columns should include:
 - What was being "sold" (product, idea, click, feeling)
 - Where it appeared (TV, app, game, website, sign, packaging)
 - How it tried to get your attention (bright colors, famous person, emotional appeal, clickbait, free offer)
+- Was there a label or disclosure? (ad, sponsored, affiliate, creator code)
+- Might money, free products, discounts, or popularity be shaping it?
 - Did it work? (Did you feel the urge to click, buy, or pay attention?)
 
 Choose which media the student will track during Session 2. Good options:
 - 30 minutes of regular TV (with commercials)
 - 30 minutes of browsing YouTube (with ads)
+- 20 minutes of creator product reviews, unboxing videos, or shopping streams
 - A walk through a store or shopping area
 - Flipping through a magazine
 - Using a free mobile game
@@ -96,7 +99,7 @@ Students can define "persuasion attempt" broadly — including ads for products,
 
 4. **Set the Rules** — Decide together: what media will they track? How long? (Aim for at least 30 minutes of focused tracking.) The student should try to catch EVERYTHING — even small things like colored price tags in a store or auto-play prompts on a video.
 
-5. **Media Checkpoint Connection** — Remind students that [The Media Checkpoint](/docs/media-checkpoint) questions apply to every persuasion attempt they find. For the trickiest ones, run through questions 1–4: *What am I looking at? Who made it, and why? What choices shaped it? How does it want me to feel?*
+5. **Media Checkpoint Connection** — Remind students that [The Media Checkpoint](/docs/media-checkpoint) questions apply to every persuasion attempt they find. For the trickiest ones, run through questions 1–4: *What am I looking at? Who made this, who is it for, and why? What choices or techniques does it use to get attention? What does it want me to think, feel, or do?*
 
 #### Reflection Questions
 
@@ -149,6 +152,7 @@ When you're done tracking, answer these questions in your journal:
 1. **Total count**: How many persuasion attempts did you find?
 2. **Most common type**: Were they mostly selling products, clicks, ideas, or feelings?
 3. **Sneakiest one**: Which attempt was the hardest to spot? Why?
+4. **Disclosure check**: Did any example include a label like ad, sponsored, affiliate, or creator code? If so, what did it help you notice?
 4. **Your defense plan**: Now that you can see these, what will you do differently? Write 2–3 rules for yourself. (Example: "Before I click a headline, I'll ask: is this telling me something or tricking me into clicking?")
 
 If you want a bonus challenge, try tracking the media someone else in your family uses and compare your results.
@@ -172,6 +176,21 @@ After this week's sessions, the student should be able to:
 1. **Count them**: Report a total number of persuasion attempts found in a block of media.
 2. **Sort them**: Categorize attempts into products, clicks, ideas, and feelings.
 3. **Reflect**: Name their personal "blind spot" — what kind of persuasion do they most easily miss?
+4. **Notice incentives**: Point out at least one example where money, free products, discounts, or popularity may have shaped the message.
+
+---
+
+## Creator Ads and Sponsored Influence
+
+During the Ad Tracker, count creator recommendations too. A creator review can be shaped by:
+
+- payment
+- free products
+- affiliate links
+- creator codes
+- popularity or engagement rewards
+
+Notice both the **label** and the **technique**. A message can be clearly labeled and still use humor, urgency, or excitement to push you toward a choice.
 
 ---
 

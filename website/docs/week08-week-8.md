@@ -31,6 +31,7 @@ Weeks 5–7 focused on ads and clickbait — the commercial side of the attentio
 | **Propaganda** | Media designed to promote a particular viewpoint, often using emotional techniques and leaving out opposing information |
 | **Bandwagon effect** | Making it seem like "everyone" already agrees, so you should too |
 | **Outrage hook** | Content designed to make you angry or shocked so you'll react and share without thinking |
+| **Parasocial trust** | Feeling like you know a creator because you see them often, even though they do not know you personally |
 
 :::note 🧒 Kid Version
 "Not all ads sell products. Some try to sell you an idea, a feeling, or a way of thinking. A commercial might try to make you feel like you need something to be cool. A poster might try to make you worried about something. This week, we learn to notice when media is selling something you can't put in a shopping cart."
@@ -53,6 +54,8 @@ Collect examples of media that sell ideas or emotions rather than physical produ
 - A social media post designed to provoke outrage or strong agreement
 - A "feel-good" viral video that has a subtle brand message
 - A charity appeal that uses emotional images
+- A creator recommendation or unboxing video that leans on trust, excitement, or humor more than on evidence
+- A product review with clear evidence beside a product review that mostly sells popularity or belonging
 
 The goal is to show that media can influence how people *think and feel*, not just what they *buy*.
 :::
@@ -113,6 +116,7 @@ Students can name specific techniques used to sell ideas and emotions, and pract
    - **The appeal to children/animals** — using cute or vulnerable subjects to bypass critical thinking
    - **The outrage hook** — presenting something infuriating to make you react and share without thinking
    - **The countdown** — "act NOW before it's too late" (creates urgency that prevents careful thought)
+   - **The trusted creator effect** — using familiarity, humor, or friendship vibes so the recommendation feels safer than it really is
 
 2. **Match the Technique** — Give the student 4–5 new examples. Have them match each one to a technique from the list. Some might use multiple techniques.
 
@@ -120,7 +124,7 @@ Students can name specific techniques used to sell ideas and emotions, and pract
 
 4. **Unit 2 Review** — Recap the full unit: "Free content is paid for by attention (Week 5). Clickbait is the hook (Week 6). Ads are everywhere (Week 7). And the biggest sell isn't always a product — it can be an idea, a feeling, or a behavior (Week 8). Your new superpower: you can see all of it."
 
-5. **Media Checkpoint Connection** — Return to [The Media Checkpoint](/docs/media-checkpoint). Students should now feel confident with questions 1–4. For this week's examples, question 4 (*How does it want me to feel?*) is the star — but pair it with question 5 (*What's the evidence?*). When media makes you feel strongly, that's the moment to check: is the feeling supported by solid evidence, or is the emotion doing all the heavy lifting?
+5. **Media Checkpoint Connection** — Return to [The Media Checkpoint](/docs/media-checkpoint). Students should now feel confident with questions 1–4. For this week's examples, question 4 (*What does it want me to think, feel, or do?*) is the star — but pair it with question 5 (*What claims does it make, and what evidence is shown?*). When media makes you feel strongly, that's the moment to check: is the feeling supported by solid evidence, or is the emotion doing all the heavy lifting?
 
 #### Reflection Questions
 
@@ -146,6 +150,16 @@ For each one, create a gallery card:
 5. **Your verdict**: Is this honest emotional media, or is it manipulating you?
 
 Arrange your gallery cards on a table or wall. Step back and look at the collection. Write a one-sentence summary: "The most common way media tries to change what I think or feel is _______."
+
+---
+
+## Creator Ads and Sponsored Influence
+
+Sometimes the strongest emotional selling tool is trust. If you watch a creator often, you may start to feel like you know them. That feeling is called **parasocial trust**. It is normal, and it does not mean you are gullible. It does mean product recommendations can feel more convincing than the evidence alone deserves.
+
+A creator can be honest and still be influenced by money, free products, attention, or a relationship with a brand. The question is not “Is this creator bad?” The better question is: “What might shape what they are saying?”
+
+The goal is not to distrust every creator. The goal is to notice when evidence is doing the work and when excitement, humor, popularity, or trust is doing most of the work.
 
 #### Skills Reinforced
 

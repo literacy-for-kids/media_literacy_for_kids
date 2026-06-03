@@ -16,12 +16,14 @@ Great media literacy doesn't just happen during lessons. The most powerful learn
 These seven questions work with any piece of media. Post them on the fridge, write them inside the front cover of the Media Detective Notebook, or memorize them as a family. See the [full Media Checkpoint page](/docs/media-checkpoint) for details.
 
 1. **What am I looking at?** — What type of media is this?
-2. **Who made it, and why?** — Who's behind this, and what's their goal?
-3. **What choices shaped it?** — What was included, left out, or emphasized?
-4. **How does it want me to feel?** — What emotions is it designed to trigger?
-5. **What's the evidence?** — Is this supported by facts, sources, or just vibes?
-6. **What am I missing?** — Other perspectives, context, or information I haven't seen?
-7. **What's my next move?** — Trust it, question it, check it, share it, or let it go?
+2. **Who made this, who is it for, and why?** — Who is behind this, and what does it want that audience to think, feel, or do?
+3. **What choices shaped it, and what techniques does it use to get attention?** — What was included, highlighted, or made easy to notice?
+4. **What does it want me to think, feel, or do?** — What reaction is it pushing me toward?
+5. **What claims does it make, and what evidence is shown?** — Is this supported by facts, sources, examples, or mostly strong feelings?
+6. **What might be missing or left out?** — Other perspectives, context, or information I have not seen yet?
+7. **What should I check before I trust, share, or act on it?** — What would help me decide more carefully?
+
+**Incentives Add-On:** *How might money, popularity, sponsorship, algorithms, or platform goals shape this message?*
 
 ---
 
@@ -48,12 +50,14 @@ Use these during or after each week's lessons, or anytime during the week when r
 |------|--------|
 | 5 | *"This app is free. How do you think the company that made it pays its employees?"* |
 | 5 | *"If your attention is worth money, how much of it did you 'spend' today?"* |
+| 5 | *"If a creator says 'use my code' or links a product, what might they get out of that recommendation?"* |
 | 6 | *"Look at this headline. Does it make you want to click? Why? Is the real story as exciting as the headline makes it sound?"* |
 | 6 | *"Can you rewrite this headline to be honest but still interesting?"* |
 | 7 | *"How many ads or persuasion attempts did you notice during [dinner / a show / a game]?"* |
 | 7 | *"Which ad technique was most effective on you personally? Why?"* |
 | 8 | *"Is this ad selling a product, or is it selling a feeling?"* |
 | 8 | *"When someone uses strong emotion to persuade you, what's a good first question to ask yourself?"* |
+| 8 | *"Am I trusting this recommendation because of evidence, or because I like the creator?"* |
 
 ### Unit 3 — Verification & Debugging
 
@@ -73,10 +77,11 @@ Use these during or after each week's lessons, or anytime during the week when r
 | Week | Prompt |
 |------|--------|
 | 12 | *"Look at what's recommended to you right now. Why do you think the algorithm chose those?"* |
-| 12 | *"What's something you're interested in that your feed probably doesn't show you?"* |
+| 12 | *"What signals besides likes might shape this feed — watch time, searches, language, location, or what similar users engage with?"* |
 | 13 | *"If you only heard opinions you already agree with, what would happen over time?"* |
 | 13 | *"What's one topic where you've thought about looking at the other side?"* |
 | 14 | *"If you designed a feed for yourself, what would you include that the algorithm would probably leave out?"* |
+| 14 | *"When your feed feels too narrow, what is one move you can make on purpose to widen the view?"* |
 | 14 | *"Do you think it's possible to have a truly balanced feed? Why or why not?"* |
 
 ### Unit 5 — Intentional Production
@@ -86,7 +91,7 @@ Use these during or after each week's lessons, or anytime during the week when r
 | 15 | *"What's the most important thing you want your audience to understand from your project?"* |
 | 15 | *"How is planning a project different from just starting?"* |
 | 16 | *"What construction choices are you making, and why?"* |
-| 16 | *"Is there anything in your project that you haven't fact-checked yet?"* |
+| 16 | *"Is there anything in your project that you have not fact-checked or credited yet?"* |
 | 17 | *"What was the most helpful feedback you got? Did any feedback surprise you?"* |
 | 17 | *"If someone analyzed your project the way you've been analyzing media, what would they notice?"* |
 | 18 | *"What's the biggest change in how you think about media since Week 1?"* |

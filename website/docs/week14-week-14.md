@@ -12,7 +12,7 @@ description: "Key Activity — Students explore a simulated feed from a complete
 ---
 
 :::info Facilitator Snapshot
-This is the key activity for Unit 4. Students experience what it's like to see the internet through someone else's eyes. Using paper-based simulated "feeds" from fictional people with completely different interests and perspectives, they see firsthand that the same platforms can build very different realities. The week ends with designing a "balanced feed" that represents what an algorithm *should* show if its goal were understanding rather than engagement.
+This is the key activity for Unit 4. Students experience what it is like to see the internet through someone else's eyes. Using paper-based simulated "feeds" from fictional people with different interests, habits, and priorities, they see firsthand that the same platforms can build very different realities. The week ends with designing a "balanced feed" that represents what an algorithm *could* show if its goal were understanding rather than pure engagement.
 :::
 
 :::tip Quick Navigation
@@ -53,6 +53,7 @@ Create 2–3 simulated "feeds" on paper. Each feed is a list of 10 posts/videos/
 - **Alex, age 10**: Loves soccer, watches gaming videos, follows pet accounts. Feed: soccer highlight, gaming clip, funny dog video, soccer shoe ad, gaming tournament news, puppy meme, "Top 10 Soccer Goals" video, gaming controller review, dog training tip, soccer team news.
 - **Sam, age 10**: Loves science, watches nature documentaries, follows space accounts. Feed: Mars rover update, ocean documentary clip, science experiment video, telescope ad, "10 Amazing Deep-Sea Creatures," space station news, volcano eruption footage, science kit review, rainforest video, astronomy quiz.
 - **Jordan, age 10**: Loves cooking, watches baking shows, follows food accounts. Feed: cake decorating video, recipe for easy cookies, restaurant review, kitchen gadget ad, "5-Minute Meals for Kids," baking competition clip, funny cooking fail, pizza-making tutorial, smoothie recipe, food photography tips.
+- **Mina, age 10**: Follows local weather, library events, recycling tips, and school announcements. Feed: storm update, library craft event, community cleanup poster, bus route notice, local park photo, weather explainer, school newsletter, recycling reminder, neighborhood event video, public health poster.
 
 Write or draw each feed on separate sheets. Make them look slightly different visually if possible.
 :::
@@ -87,7 +88,7 @@ Students can describe how the same platform creates different experiences for di
    - "Are they seeing the same content?" (No — almost nothing overlaps.)
    - "If Alex and Sam argued about 'what's popular online,' who would be right?" (Both — and neither. They're both describing what's popular *in their bubble.*)
 
-5. **The Big Realization** — Discuss: "There is no single 'internet.' Every person sees a customized version. When someone says 'everyone is talking about X,' they mean 'everyone in MY feed is talking about X.' The algorithm built their feed. It's not a reflection of reality — it's a reflection of their clicks."
+5. **The Big Realization** — Discuss: "There is no single 'internet.' Every person sees a customized version. When someone says 'everyone is talking about X,' they often mean 'everyone in MY feed is talking about X.' The feed was shaped by signals and platform goals. It is not the whole world."
 
 #### Reflection Questions
 
@@ -122,9 +123,9 @@ Students can experience a different perspective's information environment and ar
 
 4. **What Got Lost** — The most important question: "In YOUR feed, what important things might the algorithm be hiding from you? What topics, perspectives, or types of information are probably outside your bubble?"
 
-5. **Unit 4 Review** — Recap: "Algorithms build your feed based on engagement (Week 12). Over time, this creates a filter bubble where you only see things you already agree with (Week 13). Different people see completely different versions of reality (this week). And none of these feeds show the full picture. Now that you know this — what are you going to do about it?"
+5. **Unit 4 Review** — Recap: "Algorithms build your feed using many signals (Week 12). Over time, this can create a filter bubble where your view gets narrower (Week 13). Different people see completely different versions of reality (this week). And none of these feeds show the full picture. Now that you know this — what are you going to do about it?"
 
-6. **Media Checkpoint Connection** — Return to [The Media Checkpoint](/docs/media-checkpoint). Students should now be able to use all seven questions confidently. From this point forward, question 7 — *What's my next move?* — includes algorithmic awareness: "If I share this, who will the algorithm show it to? If I engage with this, what will the algorithm show me *next*?"
+6. **Media Checkpoint Connection** — Return to [The Media Checkpoint](/docs/media-checkpoint). Students should now be able to use all seven questions confidently. From this point forward, question 7 — *What should I check before I trust, share, or act on it?* — includes algorithmic awareness: "Before I assume this is the full picture, what else should I look for? If I engage with this, what might the system show me next?"
 
 :::note 🖨️ Printable-Friendly
 This activity works just as well on paper. Write 10 items on index cards for each fictional character's feed. No screens needed.
@@ -155,6 +156,7 @@ After designing it, answer:
 1. Would this feed be more or less interesting than your current one? Why?
 2. Would this feed make you a better-informed person? Why?
 3. Would an algorithm ever build this feed for you on its own? Why or why not?
+4. How could recommendation systems be useful and limiting at the same time?
 
 #### Skills Reinforced
 
@@ -175,6 +177,7 @@ After this week's sessions, the student should be able to:
 1. **Describe the contrast**: Explain what was different between the simulated feeds and why.
 2. **Identify the gap**: Name at least two topics or perspectives their own feed probably never shows them.
 3. **Design intentionally**: Create a balanced feed that includes variety, not just engagement favorites.
+4. **Explain the balance**: Describe one way recommendation systems can help them and one way recommendation systems can limit them.
 
 :::tip Unit 4 Checkpoint
 This is the end of Unit 4. See the [Assessment Checkpoints](/docs/assessment-checkpoints) page for a unit-level reflection conversation.
@@ -198,7 +201,7 @@ Around Weeks 14–15, students are ready for **Spiral Performance Task 4: The Pr
 
 ## 🎯 Takeaway
 
-**Big idea:** Different people see very different versions of the internet based on their behavior, location, and interests — and most people don't realize it.
+**Big idea:** Different people see very different versions of the internet based on their behavior, location, interests, and platform signals — and most people don't realize it.
 
 **Remember:** Repeated exposure shapes expectations and assumptions. If you want a fuller picture, you have to look beyond your feed on purpose.
 

@@ -30,6 +30,7 @@ Last week students learned that free content is paid for by attention. This week
 | **Clickbait** | A headline or thumbnail designed to trigger curiosity, shock, or emotion — often exaggerating or leaving out key information |
 | **Curiosity gap** | The gap between what you know and what you want to know — clickbait exploits this by teasing without satisfying |
 | **Thumbnail** | The small preview image shown before you click on a video or article, designed to grab attention |
+| **Disclosure label** | A label like "ad," "sponsored," or "affiliate" that tells you there is a business relationship behind a recommendation |
 
 :::note 🧒 Kid Version
 "Have you ever seen a headline like 'You Won't BELIEVE What Happened Next!'? That's clickbait — it's designed to make you SO curious that you have to click. Once you know the tricks, you can spot them and decide for yourself whether it's worth your time."
@@ -53,6 +54,8 @@ Collect 8–10 clickbait headlines. You can find these on any news aggregator, Y
 - "She Ate Only Pizza for 30 Days. The Results Were Shocking."
 - A YouTube thumbnail with a shocked face, red arrow, and all-caps text
 - A short-form video title like "Wait for it… 😱" or "I can't believe this actually worked"
+- A product-review title like "I tested every snack at the game store" with a visible sponsor or creator-code note
+- A creator video title like "Use my code before midnight" or "This brand sent me EVERYTHING"
 
 Also prepare 3–4 **honest** headlines about the same topics for comparison. Example: "Woman Tests All-Pizza Diet for 30 Days and Shares Health Results."
 
@@ -64,7 +67,7 @@ Write 3-4 clickbait headlines on index cards or scraps of paper. You can make th
 :::
 
 :::tip Teaching Mindset
-Clickbait is fun to analyze because it's everywhere and kids already recognize it, even if they don't have a word for it. The goal isn't to make them cynical — it's to help them notice the mechanics. Once they see the formula, it loses its power over them.
+Clickbait is fun to analyze because it's everywhere and kids already recognize it, even if they don't have a word for it. The goal isn't to make them cynical — it's to help them notice the mechanics. Once they see the formula, it loses much of its power over them.
 :::
 
 ---
@@ -85,16 +88,17 @@ Students can define clickbait, explain why it works (exploiting curiosity), and 
    - **The big number**: "10 things you didn't know about..." / "97% of people get this wrong..."
    - **The emotional trigger**: "SHOCKING" / "heartbreaking" / "jaw-dropping"
    - **The vague promise**: "This one trick..." / "The secret to..."
+   - **The reward hook**: "Use my code" / "before it sells out" / "don't miss this drop"
 
    Write these patterns on a card or whiteboard as the student's "Clickbait Decoder."
 
 3. **Real vs. Clickbait** — Show pairs of headlines about the same topic — one clickbait, one honest. Have the student identify which is which and explain what makes the clickbait version different. Ask: "Which one gives you more real information? Which one makes you more curious?"
 
-4. **Why It Matters** — Connect back to the attention economy: "Remember, platforms make money when you click. Clickbait is engineered to make you click. The headline's job is NOT to inform you — it's to make you curious enough to click so the platform can show you more ads."
+4. **Why It Matters** — Connect back to the attention economy: "Remember, platforms make money when you click. Clickbait is engineered to make you click. The headline's job is NOT to inform you — it's to make you curious enough to click so the platform can show you more ads." The same packaging shows up in creator promotions too. A thumbnail can be selling a click and a product at the same time.
 
    Not every attention-grabbing headline is dishonest. Strong packaging is a normal part of communication. The issue is when a headline deliberately misleads or exaggerates to get clicks. Teach the student to notice the difference between strong and deceptive.
 
-5. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint), question 4: *How does it want me to feel?* Clickbait is a masterclass in engineering feelings — usually curiosity, outrage, or FOMO. When you notice one of those feelings spiking, that's a signal to pause and ask: "Is this designed to inform me or just to hook me?"
+5. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint), question 3: *What choices or techniques does it use to get attention?* Clickbait is a masterclass in engineered attention. Pair that with question 4: *What does it want me to think, feel, or do?* When you notice curiosity, outrage, or FOMO spiking, pause and ask: "Is this designed to inform me or just to hook me?"
 
 #### Reflection Questions
 
@@ -147,6 +151,17 @@ Find **5 real clickbait headlines** (from magazines, websites, or written from m
 4. Rate the original: how strong is the curiosity pull? (1 = weak, 5 = almost impossible to resist)
 
 Bonus: Write one completely made-up clickbait headline that's so over-the-top it's funny. See if someone in your family falls for the curiosity trap.
+
+---
+
+## Creator Ads and Sponsored Influence
+
+Creator promotions often use the exact same tools as clickbait: surprise, urgency, humor, and excitement. A disclosure label like **ad**, **sponsored**, **affiliate**, or **use my code** does not automatically make the message dishonest. It does tell you to slow down and ask what is shaping the recommendation.
+
+When a sponsored creator recommendation uses heavy clickbait, ask two questions together:
+
+- What is this doing to get attention?
+- What reward might be connected to the click, watch, or purchase?
 
 #### Skills Reinforced
 

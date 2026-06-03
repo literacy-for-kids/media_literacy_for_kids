@@ -18,7 +18,7 @@ Welcome to the Media Literacy for Kids curriculum — an 18-week program that te
 - Read [What This Is (and What It Isn't)](#what-this-is-and-what-it-isnt) for a clear picture of the approach.
 - Skim [Course at a Glance](#course-at-a-glance) to see the full program structure.
 - Visit [Core Concepts](#core-concepts) for the five mental models that thread through the course.
-- Learn [The Media Checkpoint](#the-media-checkpoint) — the seven-question analysis routine used throughout the course.
+- Learn [The Media Checkpoint](#the-media-checkpoint) — the seven-question analysis routine, plus the incentives add-on, used throughout the course.
 - Jump to [What a Typical Week Looks Like](#what-a-typical-week-looks-like) for a quick sense of the rhythm.
 - Use [Getting Started](#getting-started) if you want the quickest path into the lessons.
 :::
@@ -36,12 +36,12 @@ Most kids (and adults) take in media passively. Something appears on a screen or
 
 This curriculum helps students become active, curious media consumers — and creators. Instead of passively receiving information, they learn to ask thoughtful questions:
 
-- **Who made this, and why?**
-- **What choices did the creator make — and what did they leave out?**
-- **How is this designed to make me feel?**
-- **What's the evidence? How would I check?**
-- **What am I missing — other perspectives, other sources, other context?**
-- **What's my next move — trust it, question it, check it, or let it go?**
+- **Who made this, who is it for, and what does it want me to think, feel, or do?**
+- **What choices shaped it, and what techniques does it use to get attention?**
+- **What claims does it make, and what evidence is shown?**
+- **What might be missing or left out?**
+- **How might money, popularity, sponsorship, or platform goals shape it?**
+- **What should I check before I trust, share, or act on it?**
 
 By the end of the program, students will understand that all media — from cereal boxes to news articles to short-form videos to game item shops — is made by people who make choices about what to include, leave out, and emphasize. That isn't a reason to distrust everything. It's a reason to pay attention, ask good questions, and think for themselves.
 
@@ -82,10 +82,16 @@ It's worth saying clearly what this curriculum is about — and what it's not.
 | Unit | Weeks | Theme |
 |------|-------|-------|
 | The Anatomy of a Message | 1–4 | How media is constructed and how choices shape stories |
-| The Attention Economy | 5–8 | How "free" content makes money and how ads and clickbait work |
-| Verification & Debugging | 9–11 | How to fact-check, spot fakes, and trace claims to their source |
-| The Algorithmic Echo | 12–14 | How algorithms, filter bubbles, and confirmation bias shape what we see |
-| Intentional Production | 15–18 | Building an honest, valuable media project from scratch |
+| The Attention Economy | 5–8 | How "free" content makes money, how creator sponsorship works, and how attention gets captured |
+| Verification & Debugging | 9–11 | How to check claims, spot fakes, and build age-appropriate verification habits |
+| The Algorithmic Echo | 12–14 | How algorithmic feeds, filter patterns, and confirmation bias shape what we see |
+| Intentional Production | 15–18 | Building an honest, well-supported media project from scratch |
+
+---
+
+## Choosing Media Examples
+
+Try to rotate examples across home, school, community, entertainment, and online spaces. Media literacy is not only about social media or global news. It also applies to signs, flyers, packaging, messages, videos, search results, local announcements, and the everyday information that shapes family and community life.
 
 ---
 
@@ -95,9 +101,9 @@ Five mental models that students return to throughout the curriculum:
 
 1. **All Media is Constructed** — Content doesn't just "happen." Every piece of media is designed by someone who chose what to include, what to leave out, and how to present it. From the camera angle to the word choice to the background music, each element is a deliberate decision.
 
-2. **Follow the Incentive** — To understand a message, ask what the creator gets out of it. If the content is free, ask what pays for it — in many cases, advertisers are paying for your attention. Understanding the incentive helps students ask whether a creator's goal is to inform, to sell, or to provoke. Important: an incentive is a clue, not a conviction. Just because someone profits from content doesn't mean the content is dishonest — but it's always worth knowing.
+2. **Follow the Incentive** — To understand a message, ask what the creator gets out of it. If the content is free, ask what pays for it — in many cases, advertisers, sponsors, affiliate programs, or platform rewards are tied to your attention. Understanding the incentive helps students ask whether a creator's goal is to inform, to sell, to entertain, or to keep them engaged. Important: an incentive is a clue, not a conviction. Just because someone profits from content does not mean the content is dishonest — but it is always worth knowing.
 
-3. **Algorithms Shape What You See** — Digital platforms use algorithms — sets of rules that sort, recommend, and prioritize content — to decide what to show each user. These systems tend to promote content that keeps people engaged, which can mean emotional or sensational material gets amplified. Algorithms aren't magic and aren't automatically "bad" — they're tools. But understanding how they work gives you more control over what you see.
+3. **Algorithms Shape What You See** — Feeds are shaped by many signals: what you click, what you watch, how long you watch, what you search for, what language you use, what people near you or similar to you engage with, and what the platform is designed to optimize. Sometimes that means you see more of what you already agree with. Sometimes it means you simply see more of what keeps you interested. Either way, your feed is not the whole world.
 
 4. **Context Changes Meaning** — A photo, a quote, or a video clip taken out of its original context can tell a very different story. Knowing where information came from, when it was created, and what was happening around it is essential for understanding what it actually means.
 
@@ -107,15 +113,17 @@ Five mental models that students return to throughout the curriculum:
 
 ## The Media Checkpoint
 
-Throughout the course, students build a habit of asking seven questions about any piece of media they encounter. We call this **The Media Checkpoint** — a simple routine that becomes more powerful over time as students add new skills:
+Throughout the course, students build a habit of asking seven questions about any piece of media they encounter. We call this **The Media Checkpoint** — a simple routine that becomes more powerful over time as students add new skills and use the incentives add-on when it matters:
 
 1. **What am I looking at?** — What type of media is this?
-2. **Who made it, and why?** — Who is behind this, and what's their goal?
-3. **What choices shaped it?** — What was included, left out, or emphasized?
-4. **How does it want me to feel?** — What emotions is it designed to trigger?
-5. **What's the evidence?** — Is this supported by facts, sources, or just vibes?
-6. **What am I missing?** — Other perspectives, context, or information I haven't seen?
-7. **What's my next move?** — Trust it, question it, check it, share it, or let it go?
+2. **Who made this, who is it for, and why?** — Who is behind this, and what do they want that audience to think, feel, or do?
+3. **What choices shaped it, and what techniques does it use to get attention?** — What is being emphasized, highlighted, or made easy to notice?
+4. **What does it want me to think, feel, or do?** — What reaction is it pushing me toward?
+5. **What claims does it make, and what evidence is shown?** — Are there facts, examples, sources, or just strong feelings?
+6. **What might be missing or left out?** — What context, perspectives, or details am I not seeing yet?
+7. **What should I check before I trust, share, or act on it?** — What would help me decide more carefully?
+
+**Incentives Add-On:** *How might money, popularity, sponsorship, algorithms, or platform goals shape this message?*
 
 Students begin with questions 1–3 in the first unit and progressively add the rest as new skills are introduced. By the end of the course, these questions should feel automatic. See the [Media Checkpoint](/docs/media-checkpoint) page for the full reference.
 
@@ -129,7 +137,7 @@ Each week follows a simple, repeatable rhythm:
 2. **Guided Session 2** (~30 minutes) — The student goes deeper through a hands-on activity or small project.
 3. **Independent Session** (~20–30 minutes) — The student practices on their own with a guided challenge.
 
-That's about **80–90 minutes per week**, spread across two or three sittings. Examples are drawn from everyday life — cereal boxes, book covers, video thumbnails, game notifications, short-form video feeds, ads, apps, packaging — so no heavy tech setup is required. Most weeks need only basic supplies and a few minutes of prep.
+That's about **80–90 minutes per week**, spread across two or three sittings. Examples are drawn from everyday life — cereal boxes, school newsletters, library announcements, video thumbnails, game notifications, search-result screenshots, local flyers, packaging, ads, apps, and neighborhood signs — so no heavy tech setup is required. Most weeks need only basic supplies and a few minutes of prep.
 
 ---
 
@@ -221,11 +229,11 @@ Each week builds on the previous one, gradually expanding the student's toolkit 
 By the end of the program, students should:
 
 - **Recognize construction** — see that all media is made by someone with a goal
-- **Follow the incentive** — ask who benefits and how content is paid for
-- **Verify before trusting** — use tools and habits to check whether something is accurate
-- **Understand the algorithm** — know that their feed is curated, not neutral
+- **Follow the incentive** — ask who benefits and how content is paid for or rewarded
+- **Verify before trusting** — use tools and habits to corroborate before confidence
+- **Understand the algorithmic feed** — know that their feed is curated, not complete
 - **Share responsibly** — treat every like, share, and comment as an action with consequences
-- **Create with integrity** — build media that is honest, clear, and valuable to an audience
+- **Create with integrity** — build media that is honest, clear, well-attributed, and useful to an audience
 
 The most important outcome is simple:
 

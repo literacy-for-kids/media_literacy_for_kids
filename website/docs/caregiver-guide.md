@@ -39,10 +39,11 @@ Most lessons need **5–10 minutes of preparation**. That usually means:
 
 Many lessons ask you to bring in a real-world media example. If you can't find the perfect one, don't worry — everyday media works great:
 
-- Cereal boxes, snack packaging, and grocery store flyers
-- Book covers, magazine ads, and junk mail
-- App icons, website homepages, and movie posters
-- Posters, billboards, or signs you pass on a walk
+- Cereal boxes, snack packaging, product labels, and grocery store flyers
+- School newsletters, public library announcements, and community center posters
+- Book covers, magazine ads, local event flyers, and junk mail
+- App icons, website homepages, search-result screenshots, and movie posters
+- Posters, billboards, transit signs, weather alerts, translated notices, and signs you pass on a walk
 
 The goal is for the student to practice thinking about media, not to find one specific "right" example.
 
@@ -139,7 +140,7 @@ These guardrails appear naturally throughout the curriculum. You don't need to g
 Many lessons ask you to gather real media examples (a cereal box, a headline, a video clip, a thumbnail). Tips:
 
 - **Use what's already in your home.** Packaging, mail, books, posters, and apps all work.
-- **Include media kids actually encounter.** Video thumbnails, game notifications, creator/influencer content, recommended videos, memes, and group chat screenshots are all fair game and often more engaging than traditional examples.
+- **Include media kids actually encounter.** Video thumbnails, game notifications, creator/influencer content, recommended videos, memes, group chat screenshots, school announcements, library signs, local business pages, public health posters, and community flyers are all fair game and often more engaging than traditional examples.
 - **Preview screen-based examples.** Before showing a website, article, or video, check that the content (and ads) are age-appropriate.
 - **Avoid politically charged or emotionally distressing examples** unless the lesson specifically calls for them and you feel the student is ready.
 - **Evergreen over trending.** Use examples that will make sense weeks from now, not just today's viral post. Describe situations generically ("a short video where someone reviews a product") rather than naming specific creators or brands that may not age well.
@@ -162,6 +163,17 @@ For kids ages 8–12, the safest and most effective examples come from **consume
 
 **If a sensitive topic comes up naturally,** redirect the conversation toward the *process* rather than the *conclusion*. For example: "That's an interesting topic. Let's focus on what we'd check and compare — what sources would you look at? What questions would you ask?" This keeps the learning on track without requiring you or the student to take a position on a charged issue.
 
+## Handling Sensitive Media Examples
+
+Use low-stakes examples first: ads, packaging, thumbnails, local flyers, school announcements, hobby posts, or fictional screenshots. Learners can practice serious skills without starting with frightening or highly political examples.
+
+When real news or sensitive topics come up, focus on the thinking routine: Who made it? What is the claim? What evidence is shown? What should we check? Avoid turning the lesson into a debate about what the learner should believe.
+
+- Do not ask learners to share private family media.
+- Do not require social media accounts.
+- Use screenshots, printed examples, or fictional examples when needed.
+- Respect family rules about technology and media access.
+
 ### When Topics Feel Heavy
 
 Some lessons touch on topics that may feel uncomfortable: manipulation, misinformation, propaganda, deepfakes. A few guidelines:
@@ -169,6 +181,18 @@ Some lessons touch on topics that may feel uncomfortable: manipulation, misinfor
 - **Stay empowering, not scary.** The message is always "you have tools to handle this," not "the world is trying to trick you."
 - **Pause if needed.** If a student seems anxious, reassure them: "This is exactly why we're learning this — so you know what to do."
 - **You can skip or postpone.** If a topic feels too advanced for your learner right now, move on and come back later.
+
+## Age-Banded Verification Goal
+
+For younger or newer learners, the core goal is not mastering every tool. The core goal is building the habit of checking before trusting or sharing.
+
+- **Core path for ages 8–10:** Ask who made it, check when it was made, look for evidence, compare with one more reliable source, and explain what still feels uncertain.
+- **Core path for ages 10–12:** Add stronger source comparison, basic lateral reading with adult support, and simple evidence tracking.
+- **Extension path for ages 11–13:** Add independent lateral reading, guided reverse image search, source tracing, and stronger comparison across tabs.
+
+The goal for all learners is corroboration before confidence.
+
+Some images, voices, videos, comments, summaries, or screenshots may be AI-generated or AI-edited. That does not automatically make them bad or fake, but it does mean we should ask careful questions: Who shared it? Where did it come from? Is there another source? Does it show evidence? Could it be edited, staged, or generated? What should I do before I share it?
 
 ---
 
@@ -251,12 +275,14 @@ Normalize it. **"Even experts disagree about this sometimes. The important thing
 Throughout the course, students use a consistent seven-question routine called **The Media Checkpoint** to analyze any piece of media:
 
 1. **What am I looking at?**
-2. **Who made it, and why?**
-3. **What choices shaped it?**
-4. **How does it want me to feel?**
-5. **What's the evidence?**
-6. **What am I missing?**
-7. **What's my next move?**
+2. **Who made this, who is it for, and why?**
+3. **What choices shaped it, and what techniques does it use to get attention?**
+4. **What does it want me to think, feel, or do?**
+5. **What claims does it make, and what evidence is shown?**
+6. **What might be missing or left out?**
+7. **What should I check before I trust, share, or act on it?**
+
+**Incentives Add-On:** *How might money, popularity, sponsorship, algorithms, or platform goals shape this message?*
 
 Students start with questions 1–3 in the first unit and add more as the course progresses. By the end, the routine should feel automatic. Post these questions somewhere visible — on the fridge, next to the computer, or inside the notebook cover.
 

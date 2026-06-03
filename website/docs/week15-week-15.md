@@ -12,7 +12,7 @@ description: "Students plan their final media project: audience, goal, format, a
 ---
 
 :::info Facilitator Snapshot
-This is the beginning of the final project. Over Weeks 15–18, students will create their own piece of media — a short video, a blog post, a poster, a podcast episode, or another format they choose. This week is all about **planning**. Before building anything, students write a "Spec Sheet" that defines their audience, their goal, their format, and the ethical standards they'll hold themselves to. Every lesson from Weeks 1–14 comes into play here.
+This is the beginning of the final project. Over Weeks 15–18, students will create their own piece of media — a short video, a blog post, a poster, a podcast episode, or another format they choose. This week is all about **planning**. Before building anything, students write a "Spec Sheet" that defines their audience, their goal, their format, their evidence plan, and the honesty standards they'll hold themselves to. Every lesson from Weeks 1–14 comes into play here.
 :::
 
 :::tip Quick Navigation
@@ -30,7 +30,7 @@ This is the beginning of the final project. Over Weeks 15–18, students will cr
 | **Spec Sheet** | A planning document that describes what you're building, who it's for, what it's meant to do, and what standards you'll hold yourself to |
 | **Audience** | The specific group of people your media is created for — their age, knowledge, and interests shape every choice |
 | **Key message** | The single most important idea you want your audience to take away |
-| **Ethics checklist** | A set of questions to make sure your media is honest, accurate, fairly framed, and free of manipulation |
+| **Honest Media Project Checklist** | A set of questions to make sure your media is honest, accurate, clearly credited, fairly framed, and accessible for your audience |
 
 :::note 🧒 Kid Version
 "You've spent 14 weeks learning how media works. Now it's your turn to make something! But instead of just jumping in, you'll make a plan first — called a Spec Sheet. It's like a recipe for your project: who it's for, what you want to say, and how you're going to say it."
@@ -61,8 +61,11 @@ Prepare the following:
   - Audience (who is this for?)
   - Goal (what do you want the audience to think, feel, or do?)
   - Key Message (in one sentence)
+   - Evidence and Examples (what facts, examples, or sources will support the message?)
   - Construction Choices (what words, images, colors, sounds will you use?)
-  - Ethics Checklist (is it honestly sourced? Does it avoid clickbait? Is the emotion proportional?)
+   - Transparency and Attribution (what outside facts, images, ideas, or AI help will need credit?)
+   - Design and Accessibility (how will the audience read, hear, and follow it?)
+   - Honest Media Project Checklist (is it well-supported, clearly credited, fair, and audience-ready?)
 - Examples of student-appropriate media projects for inspiration (a short public service announcement, a one-page informational poster, a 60-second video)
 - Art supplies, a device, or both — depending on the format the student chooses
 :::
@@ -125,7 +128,7 @@ Students can select a topic, format, and audience for their final project, and e
 
 #### Learning Goal
 
-Students can complete a project Spec Sheet that documents their creative intent, audience, construction choices, and ethical commitments.
+Students can complete a project Spec Sheet that documents their creative intent, audience, evidence plan, construction choices, and honesty commitments.
 
 #### Activities
 
@@ -137,23 +140,46 @@ Students can complete a project Spec Sheet that documents their creative intent,
    - **Audience**: Who will see/hear/read this?
    - **Goal**: What do you want the audience to think, feel, or do after experiencing your media?
    - **Key Message**: In ONE sentence, what's the core idea?
+    - **Evidence and Examples**: What facts, examples, observations, or sources will support the project? Which parts will need checking?
    - **Construction Choices**: What variables will you use? (Refer back to Week 3 — words, colors, images, sounds, framing.) Be specific: "I'll use bright colors because my audience is young kids" or "I'll use simple language because I want everyone to understand."
-   - **Ethics Checklist**: Answer these honestly:
-     - Is every fact in my project accurate? How will I check?
-     - Am I using emotion honestly — or am I using it to manipulate?
-     - Am I giving my audience the full picture, or leaving out important context?
-     - Would I be proud if someone analyzed my project the way I've been analyzing media all semester?
-     - Run through [The Media Checkpoint](/docs/media-checkpoint) questions 1–7 as if you were the audience. Does your project hold up?
+    - **Transparency and Attribution**: What outside facts, images, ideas, or AI help might I use, and how will I give credit?
+    - **Design and Accessibility**: How will I make this readable, hearable, and easy for my audience to follow?
+    - **Honest Media Project Checklist**: Answer these honestly:
+       - Who is my audience, and what do I want them to think, feel, or do?
+       - What claims am I making, and what evidence or examples will support them?
+       - Did I clearly separate facts, opinions, and feelings?
+       - What will I need to credit if I use outside facts, images, ideas, or AI help?
+       - How will I avoid exaggerating or hiding important context?
+       - How will I make this easy for my audience to read, hear, or follow?
+       - Run through [The Media Checkpoint](/docs/media-checkpoint) questions 1–7 as if you were the audience. Does your project hold up?
 
 3. **Peer Preview** — If another family member is available, have the student explain their Spec Sheet to them. Can the listener understand the plan? Do they have questions? This practice in explaining intent is valuable.
 
-4. **Checkpoint** — Confirm: the student has a topic, format, audience, goal, and key message. They know what construction choices they'll make and have thought about ethics. They're ready to build.
+4. **Checkpoint** — Confirm: the student has a topic, format, audience, goal, key message, evidence plan, and credit plan. They know what construction choices they'll make and how they want the project to feel fair, honest, and accessible. They're ready to build.
 
 #### Reflection Questions
 
 - How does having a plan change the way you approach creating something?
-- Which part of the Ethics Checklist feels hardest to follow? Why?
+- Which part of the Honest Media Project Checklist feels hardest to follow? Why?
 - How is your project different from clickbait? What makes it "signal-heavy" instead of "engagement-bait"?
+
+---
+
+## Honest Media Project Checklist
+
+Before publishing or presenting, check:
+
+- Who is my audience?
+- What do I want my audience to think, feel, or do?
+- What claims am I making?
+- What evidence or examples support those claims?
+- Did I clearly separate facts, opinions, and feelings?
+- Did I give credit for outside facts, images, ideas, or AI help?
+- Did I avoid exaggerating?
+- Did I avoid hiding important context?
+- Is my design readable?
+- Are images, captions, audio, or layout choices accessible for my audience?
+- Would I feel okay explaining every choice I made?
 
 ---
 
@@ -193,7 +219,7 @@ After this week's sessions, the student should be able to:
 
 1. **Name the plan**: Describe their topic, format, audience, and goal without looking at the Spec Sheet.
 2. **Explain a choice**: Pick one construction choice from their Spec Sheet and explain why they're making it.
-3. **Pass the ethics check**: Answer every question on the Ethics Checklist honestly.
+3. **Pass the project check**: Answer every question on the Honest Media Project Checklist honestly.
 
 ---
 
@@ -202,14 +228,15 @@ After this week's sessions, the student should be able to:
 - The student genuinely owns their topic choice (they're not just picking the easiest option)
 - They can explain their audience and how it shapes their choices
 - The Spec Sheet is specific, not vague ("kids my age" is fine; "everyone" is too broad)
-- They take the Ethics Checklist seriously, not as a formality
+- They think about evidence, credit, and accessibility early instead of treating them as afterthoughts
+- They take the Honest Media Project Checklist seriously, not as a formality
 - They're excited to start building
 
 ---
 
 ## 🎯 Takeaway
 
-**Big idea:** A great media project starts with a clear plan — knowing who it's for, what you want to say, and what standards you'll hold yourself to.
+**Big idea:** A great media project starts with a clear plan — knowing who it's for, what you want to say, what will support your message, and what standards you'll hold yourself to.
 
 **Remember:** You're not just any creator — you're a creator who understands how media works. That's your superpower.
 
@@ -236,10 +263,10 @@ After this week's sessions, the student should be able to:
 
 - **Verbal Spec Sheet**: The student speaks their plan into a recording instead of writing.
 - **Visual Spec Sheet**: Draw each section as an image — sketch the audience, draw the format, illustrate the key message.
-- **Checklist as conversation**: Walk through the Ethics Checklist as a dialogue instead of a written exercise.
+- **Checklist as conversation**: Walk through the Honest Media Project Checklist as a dialogue instead of a written exercise.
 - **Template with sentence starters**: Pre-fill the Spec Sheet with prompts like "My project is about ___" and "I chose this format because ___."
 - **Photo-based planning**: Take photos of materials, locations, or inspiration and arrange them as a visual plan.
 
 ## Preview of Next Week
 
-Next week, students create the first full draft of their media project — applying everything they've learned about purpose, framing, persuasion, and ethics to build something real and original.
+Next week, students create the first full draft of their media project — applying everything they've learned about purpose, evidence, framing, persuasion, credit, and accessibility to build something real and original.

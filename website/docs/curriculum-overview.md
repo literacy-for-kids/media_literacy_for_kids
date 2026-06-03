@@ -56,7 +56,7 @@ These are simplified models designed for ages 8–12. Each one captures an impor
 
 ### Final Project
 
-The program culminates in a student-created media project developed during Weeks **15–18**. Students plan, build, test, and present an honest media artifact with a clearly defined audience and purpose. See the [Final Project Rubric](/docs/final-project-rubric) for evaluation criteria.
+The program culminates in a student-created media project developed during Weeks **15–18**. Students plan, build, test, and present an honest media artifact with a clearly defined audience, supported claims, clear attribution, and accessible design. See the [Final Project Rubric](/docs/final-project-rubric) for evaluation criteria.
 
 ### Flexibility & Adaptability
 
@@ -93,7 +93,7 @@ This curriculum uses practical, lightweight assessment — no tests, no grades. 
 
 ### The Media Checkpoint
 
-A seven-question analysis routine — [The Media Checkpoint](/docs/media-checkpoint) — runs through the entire course as a recurring thinking tool. Students begin with the first few questions in Week 1 and progressively add the rest, building toward automatic media analysis habits.
+A seven-question analysis routine — [The Media Checkpoint](/docs/media-checkpoint) — runs through the entire course as a recurring thinking tool. Students begin with the first few questions in Week 1 and progressively add the rest, building toward automatic media analysis habits. An incentives add-on helps them notice sponsorships, creator rewards, algorithms, and platform goals when those pressures matter.
 
 ---
 
@@ -122,9 +122,9 @@ Each week below links to a detailed lesson page containing:
 | Week | Theme | Focus |
 |---|---|---|
 | [Week 5](/docs/week05-week-5) | The Price of Free | Business models behind free content — if it's free, ask what's paying for it |
-| [Week 6](/docs/week06-week-6) | The Clickbait Machine | How headlines and thumbnails are engineered to exploit curiosity |
-| [Week 7](/docs/week07-week-7) | The Ad Tracker | Key Activity — counting every persuasion attempt in an hour of media |
-| [Week 8](/docs/week08-week-8) | Selling Ideas | When media sells opinions, feelings, or behaviors instead of products |
+| [Week 6](/docs/week06-week-6) | The Clickbait Machine | How headlines, thumbnails, and creator promos are engineered to exploit curiosity |
+| [Week 7](/docs/week07-week-7) | The Ad Tracker | Key Activity — counting persuasion attempts, sponsored influence, and disguised recommendations |
+| [Week 8](/docs/week08-week-8) | Selling Ideas | When media sells opinions, feelings, behaviors, or trust instead of just products |
 
 ### Verification & Debugging — Weeks 9–11
 
@@ -132,9 +132,9 @@ How to check information, trace claims, evaluate sources, and understand the dif
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Week 9](/docs/week09-week-9) | Is This Real? | Why false information spreads; types of content (news, opinion, entertainment, advertising); introduction to verification tools |
-| [Week 10](/docs/week10-week-10) | The Fact-Check Sprint | Key Activity — tracing a viral claim back to its original source; comparing how different sources cover the same event |
-| [Week 11](/docs/week11-week-11) | Spotting Fakes | Manipulated images, out-of-context media, and visual detection tools |
+| [Week 9](/docs/week09-week-9) | Is This Real? | Why false information spreads; types of content; age-banded verification habits for checking before trusting or sharing |
+| [Week 10](/docs/week10-week-10) | The Fact-Check Sprint | Key Activity — guided lateral reading, corroboration, and comparing how different sources cover the same event |
+| [Week 11](/docs/week11-week-11) | Spotting Fakes | Manipulated images, out-of-context media, AI-edited examples, and visual detection tools |
 
 ### The Algorithmic Echo — Weeks 12–14
 
@@ -142,17 +142,17 @@ How recommendation systems shape what you see, and how to broaden your view.
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Week 12](/docs/week12-week-12) | How Does My Feed Know Me? | What algorithms are and how "liking" changes what gets shown next |
-| [Week 13](/docs/week13-week-13) | The Echo Chamber | Filter bubbles, confirmation bias, and why our brains prefer familiar ideas |
-| [Week 14](/docs/week14-week-14) | The Feed Swap | Key Activity — exploring a simulated feed from a completely different perspective |
+| [Week 12](/docs/week12-week-12) | How Does My Feed Know Me? | What algorithmic feeds are and how many signals shape what gets shown next |
+| [Week 13](/docs/week13-week-13) | The Echo Chamber | Filter patterns, confirmation bias, and why our brains prefer familiar ideas |
+| [Week 14](/docs/week14-week-14) | The Feed Swap | Key Activity — exploring a simulated feed from a different perspective and practicing feed-balance moves |
 
 ### Intentional Production — Weeks 15–18
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Week 15](/docs/week15-week-15) | The Spec Sheet | Planning a media project — audience, goal, format, and ethics |
-| [Week 16](/docs/week16-week-16) | Building Your Message | First draft — writing, recording, or designing the project |
-| [Week 17](/docs/week17-week-17) | Testing and Refining | Peer review, revision, and fact-checking your own work |
+| [Week 15](/docs/week15-week-15) | The Spec Sheet | Planning a media project — audience, goal, honesty, attribution, and ethics |
+| [Week 16](/docs/week16-week-16) | Building Your Message | First draft — writing, recording, or designing with evidence and accessible choices |
+| [Week 17](/docs/week17-week-17) | Testing and Refining | Peer review, transparency checks, revision, and fact-checking your own work |
 | [Week 18](/docs/week18-week-18) | The Signal Broadcast | Final presentations and course reflection |
 
 ---
@@ -161,7 +161,7 @@ How recommendation systems shape what you see, and how to broaden your view.
 
 | Week | Theme | Focus |
 |---|---|---|
-| [Extension Week 1](/docs/week-extension-1) | AI-Generated Media | Deepfakes, AI images, synthetic text — how to detect and think about AI-produced content |
+| [Extension Week 1](/docs/week-extension-1) | AI-Generated Media | AI-generated or AI-edited images, audio, and text — how to ask careful questions without panic |
 | [Extension Week 2](/docs/week-extension-2) | Journalism Deep Dive | How newsrooms work, editorial independence, advanced source comparison, and building a personal credibility framework |
 
 ---

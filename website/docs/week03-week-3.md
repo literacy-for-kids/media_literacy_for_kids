@@ -88,7 +88,7 @@ Students can identify at least three types of choices creators make (words, colo
    - What's included and what's left out
    - Pacing and timing (quick cuts vs. slow shots, short clips vs. long)
 
-5. **Media Checkpoint Connection** — This week adds real depth to question 3 of [The Media Checkpoint](/docs/media-checkpoint): *What choices shaped it?* Students can now answer this with specific, concrete examples — naming the variables that make a message feel the way it does.
+5. **Media Checkpoint Connection** — This week adds real depth to question 3 of [The Media Checkpoint](/docs/media-checkpoint): *What choices shaped it, and what techniques does it use to get attention?* Students can now answer this with specific, concrete examples — naming the variables that make a message feel the way it does.
 
 #### Reflection Questions
 

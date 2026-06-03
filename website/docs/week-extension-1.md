@@ -127,7 +127,7 @@ Students can identify common signs of AI-generated images and apply their existi
    - ✅ **Look for tells** — check hands, text, backgrounds, symmetry
    - ✅ **Check the context** — is there a real event, date, or location connected to this image?
    - ✅ **Ask: who benefits?** — If this image is fake, who benefits from people believing it's real?
-   - ✅ **Run [The Media Checkpoint](/docs/media-checkpoint)** — all 7 questions apply to AI-generated content, especially question 5 (*What's the evidence?*) and question 1 (*What am I looking at?* — now includes "is this AI-generated?")
+   - ✅ **Run [The Media Checkpoint](/docs/media-checkpoint)** — all 7 questions apply to AI-generated content, especially question 5 (*What claims does it make, and what evidence is shown?*) and question 1 (*What am I looking at?* — which now includes asking whether something may be AI-generated or AI-edited)
 
 4. **AI Text Detection** — Show two paragraphs about the same topic: one written by a human, one by AI. Can the student tell which is which? Discuss: AI text often sounds "correct but empty" — it uses the right words but may lack personal experience, specific examples, or a genuine voice. (Acknowledge: this is getting harder to detect, which is why verification of *claims* matters more than detecting the *author*.)
 

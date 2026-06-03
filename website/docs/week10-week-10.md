@@ -2,7 +2,7 @@
 sidebar_position: 10
 sidebar_label: "Week 10: The Fact-Check Sprint"
 title: "Week 10: The Fact-Check Sprint"
-description: "Key Activity — Students trace a viral claim back to its original source using lateral reading."
+description: "Key Activity — Students trace a viral claim toward its original source using lateral reading, with adult support as needed."
 ---
 
 # Week 10: The Fact-Check Sprint
@@ -13,6 +13,7 @@ description: "Key Activity — Students trace a viral claim back to its original
 
 :::info Facilitator Snapshot
 This is the key activity week for Unit 3. Students learn **lateral reading** — the technique that professional fact-checkers use. Instead of spending a long time reading one source and deciding if it's trustworthy, you open new tabs and see what OTHER sources say about it. Then students run a "Fact-Check Sprint": given a claim, they race to trace it back to its origin and determine whether it holds up.
+Younger learners often do the tab-opening and navigation with adult support.
 :::
 
 :::tip Quick Navigation
@@ -48,6 +49,16 @@ Last week you got your first checking tools. This week, you become a speed-check
 **From Week 2:** Remember "Who made this and why?" — that question is now essential for evaluating whether a source is trying to inform you or persuade you.
 :::
 
+## Age-Banded Verification Goal
+
+For younger or newer learners, the core goal is not mastering every tool. The core goal is building the habit of checking before trusting or sharing.
+
+- **Core path for ages 8–10:** Ask who made it, check when it was made, look for evidence, compare with one more reliable source, and explain what still feels uncertain.
+- **Core path for ages 10–12:** Add stronger source comparison, basic lateral reading with adult support, and simple evidence tracking.
+- **Extension path for ages 11–13:** Add independent lateral reading, guided reverse image search, source tracing, and stronger comparison across tabs.
+
+The goal for all learners is corroboration before confidence.
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -62,6 +73,8 @@ Also prepare **2 news articles about the same event** from different outlets. Ch
 For Session 1, also prepare a brief demonstration of lateral reading: have a web browser open, and show how to open multiple tabs to compare what different sources say about the same topic.
 
 **Important**: test your claims in advance. Make sure the student can find relevant results with a basic search.
+
+For younger learners, consider pre-opening tabs or choosing shorter claims so the task stays focused on the reasoning, not on navigation.
 :::
 
 :::tip ⚡ Quick Prep
@@ -79,7 +92,7 @@ The Fact-Check Sprint should feel exciting, not like homework. Frame it as detec
 
 #### Learning Goal
 
-Students can explain the difference between "vertical reading" (reading one source deeply) and "lateral reading" (checking what other sources say) and practice using lateral reading to assess a claim.
+Students can explain the difference between "vertical reading" (reading one source deeply) and "lateral reading" (checking what other sources say) and practice using lateral reading, often with adult support, to assess a claim.
 
 #### Activities
 
@@ -87,7 +100,7 @@ Students can explain the difference between "vertical reading" (reading one sour
    - **Vertical reading**: You stay on one page. You read the whole article carefully. You look at the design of the website. You try to decide: "Is this trustworthy?"
    - **Lateral reading**: You leave the page almost immediately. You open a new tab and search for what OTHER sources say about the same topic. You compare.
 
-   The surprise: professional fact-checkers almost never use vertical reading. They use lateral reading. It's faster and more reliable, because a single source can fool you — but it's very hard to fool five sources at once.
+   The surprise: professional fact-checkers almost never use vertical reading. They use lateral reading. It's faster and more reliable, because a single source can fool you — but it's very hard to fool several unrelated sources at once. Younger learners do not need to manage lots of tabs independently to practice the habit well.
 
 2. **Live Demonstration** — Open a browser. Show a claim (one of your prepared examples). Instead of reading the article carefully, copy the claim, open a new tab, paste it into a search engine, and see what comes up. Narrate your thinking aloud: "I see that three other news sites reported the same thing... this fact-checking site says it's confirmed... so it seems reliable." Or: "Hmm, nobody else is reporting this. The only source is this one blog. That's a warning sign."
 
@@ -98,7 +111,11 @@ Students can explain the difference between "vertical reading" (reading one sour
    - Compare: do they say the same thing?
    - Verdict: reliable, uncertain, or unreliable?
 
+   For ages 8–10, the adult can do the typing and tab management while the student makes the decisions about what to compare and what seems missing.
+
 4. **The Three-Tab Rule** — Give the student a simple rule of thumb: "Before you believe a claim, try to find it confirmed by at least **three different, unrelated sources.** If only one source says it, slow down. If three say it, it's more likely true."
+
+   For younger learners, treat this as a flexible goal rather than a hard rule. Two strong sources plus a careful discussion is still valuable practice.
 
 #### Reflection Questions
 
@@ -146,7 +163,11 @@ Students can take a specific claim, trace it back toward its original source, an
 
    **Important nuance:** Differences between sources don't automatically mean one is wrong or biased. Coverage choices are often driven by space, audience, or emphasis — not deception. The skill is noticing the differences and using them to build a more complete picture, not jumping to accusations of bias.
 
-7. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Question 6 (*What am I missing?*) is the star this week. Lateral reading and source comparison are *how* you answer that question. When you read only one source, you're trusting one set of construction choices. When you compare, you find what each source left out.
+7. **Media Checkpoint Connection** — Link to [The Media Checkpoint](/docs/media-checkpoint). Question 6 (*What might be missing or left out?*) is the star this week. Lateral reading and source comparison are *how* you answer that question. Question 7 (*What should I check before I trust, share, or act on it?*) matters too. When you read only one source, you're trusting one set of construction choices. When you compare, you find what each source left out.
+
+:::info AI Reminder
+Some screenshots, summaries, and comments may be AI-generated or AI-edited. That does not automatically make them bad or fake, but it is one more reason to check the source, compare across tabs, and look for evidence outside the first thing you saw.
+:::
 
 :::tip 🔍 Verification Habit Reminder
 Keep using the five-step process from Week 9: **Stop → Notice → Check → Compare → Decide.** This week, the *Compare* step gets a major upgrade — lateral reading and source comparison are how you do it well.
@@ -165,7 +186,7 @@ Keep using the five-step process from Week 9: **Stop → Notice → Check → Co
 
 #### Instruction
 
-Choose **one claim** to investigate deeply on your own. It can be:
+Choose **one claim** to investigate deeply on your own or with adult support. It can be:
 - Something you saw online recently
 - A "fact" a friend told you
 - Something from the Fact-Check Sprint that you want to dig into further
@@ -198,7 +219,7 @@ Provide a device with a web browser (supervised), a notebook or report template,
 After this week's sessions, the student should be able to:
 
 1. **Explain lateral reading**: Describe the difference between vertical and lateral reading and why lateral reading is more reliable.
-2. **Apply the Three-Tab Rule**: Given any claim, open multiple tabs and check what different sources say.
+2. **Apply the Three-Tab Rule**: Given any claim, open multiple tabs or talk through multiple sources and compare what they say.
 3. **Write a verdict**: Produce a one-sentence evidence-based judgment about a claim's accuracy.
 4. **Compare coverage**: Describe specific differences between two outlets' coverage of the same event and explain what each source left out.
 
@@ -206,7 +227,7 @@ After this week's sessions, the student should be able to:
 
 ## Facilitator Look-Fors
 
-- The student naturally opens new tabs to check claims instead of trusting one source
+- The student looks for more than one source instead of trusting one source alone
 - They can narrate their thinking: "This source says X, but this other one says Y..."
 - They enjoy the detective-work feel of the Fact-Check Sprint
 - They are building confidence in their own ability to investigate

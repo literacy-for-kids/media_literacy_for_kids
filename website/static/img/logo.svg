@@ -1,4 +1,48 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect width="200" height="200" fill="#2e8555"/>
-  <text x="100" y="120" font-family="Arial, sans-serif" font-size="48" fill="white" text-anchor="middle">CL</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Media Literacy for Kids Logo</title>
+  <desc id="desc">A compact red-orange media literacy icon showing a magnifying glass over a newspaper, designed to be readable at small sizes.</desc>
+
+  <!-- Background badge -->
+  <rect x="12" y="12" width="176" height="176" rx="42" fill="#FEF2F2"/>
+  <rect x="12" y="12" width="176" height="176" rx="42" stroke="#DC2626" stroke-width="8"/>
+
+  <!-- Newspaper body -->
+  <path d="M48 56
+           C48 49 53 44 60 44
+           H136
+           C143 44 148 49 148 56
+           V137
+           C148 145 142 151 134 151
+           H60
+           C53 151 48 146 48 139
+           V56Z"
+        fill="#FFFFFF" stroke="#DC2626" stroke-width="8" stroke-linejoin="round"/>
+
+  <!-- Fold strip -->
+  <path d="M123 44V151" stroke="#FCA5A5" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Headline block -->
+  <rect x="64" y="62" width="44" height="22" rx="6" fill="#DC2626"/>
+
+  <!-- Newspaper lines, deliberately chunky for 32px readability -->
+  <path d="M64 98H108" stroke="#DC2626" stroke-width="7" stroke-linecap="round"/>
+  <path d="M64 116H103" stroke="#F87171" stroke-width="7" stroke-linecap="round"/>
+  <path d="M64 134H96" stroke="#F87171" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Right column blocks -->
+  <path d="M134 64H134.5" stroke="#DC2626" stroke-width="7" stroke-linecap="round"/>
+  <path d="M134 82H134.5" stroke="#F87171" stroke-width="7" stroke-linecap="round"/>
+  <path d="M134 100H134.5" stroke="#F87171" stroke-width="7" stroke-linecap="round"/>
+
+  <!-- Magnifying glass -->
+  <circle cx="111" cy="110" r="30" fill="#FEF2F2" fill-opacity="0.78" stroke="#991B1B" stroke-width="10"/>
+  <path d="M132 132L154 154" stroke="#991B1B" stroke-width="12" stroke-linecap="round"/>
+
+  <!-- Check mark inside lens -->
+  <path d="M98 110L107 119L123 99" stroke="#DC2626" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Small signal/checking dots -->
+  <circle cx="52" cy="163" r="6" fill="#F87171"/>
+  <circle cx="148" cy="42" r="6" fill="#F87171"/>
 </svg>

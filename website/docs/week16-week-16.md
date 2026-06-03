@@ -12,7 +12,7 @@ description: "Students create the first draft of their media project, applying e
 ---
 
 :::info Facilitator Snapshot
-This is the **building week.** The student has a Spec Sheet and gathered materials. Now they create their first draft. The sessions are structured to provide guidance and checkpoints, but the student drives the creative work. The adult's role is to ask good questions ("How does this choice connect to your goal?") rather than direct the project.
+This is the **building week.** The student has a Spec Sheet and gathered materials. Now they create their first draft. The sessions are structured to provide guidance and checkpoints, but the student drives the creative work. The adult's role is to ask good questions ("How does this choice connect to your goal?") rather than direct the project. By the end of the week, the draft should show a clear message, supported claims, visible credit where needed, and design choices the audience can actually use.
 :::
 
 :::tip Quick Navigation
@@ -48,6 +48,8 @@ This is the **building week.** The student has a Spec Sheet and gathered materia
 - **Accuracy** (Weeks 9-11): Have I verified every claim?
 - **Context** (Week 11): Am I giving the full picture?
 - **Perspective** (Week 13): Am I only showing one side?
+- **Transparency and attribution** (Weeks 5, 9-11): Have I credited outside facts, images, ideas, or AI help?
+- **Accessibility** (project weeks): Is the design readable, hearable, and clear for my audience?
 
 This is the payoff of the entire course — students apply their analytical skills to their own creation.
 :::
@@ -120,13 +122,13 @@ Students can audit their own work using the media literacy principles from the c
 #### Activities
 
 1. **The Self-Audit** — Walk the student through a media literacy self-check on their own project. Start with [The Media Checkpoint](/docs/media-checkpoint) — pretend you're a stranger encountering this media for the first time and answer all 7 questions. Then go deeper with the course-specific lenses:
-   - **Construction** (Week 1–4): What choices did I make? Are they intentional?
-   - **Purpose** (Week 2): Is my purpose clear? Would the audience know what I'm trying to do?
-   - **Attention hooks** (Week 5–6): Did I use any clickbait or engagement tricks? If so, are they honest or manipulative?
-   - **Emotional techniques** (Week 8): Am I using emotion? Is it proportional and honest?
-   - **Accuracy** (Week 9–11): Are my facts correct? Can I source every claim?
-   - **Context** (Week 11): Am I giving the full picture, or leaving out important information?
-   - **Perspective** (Week 13): Am I only showing one side? Should I acknowledge other viewpoints?
+   - **Message clarity**: Is my main message clear from beginning to end?
+   - **Audience awareness**: Would this make sense to the audience I chose?
+   - **Evidence and accuracy**: Are my facts correct? Can I support or explain every claim?
+   - **Transparency and attribution**: Did I clearly mark what came from outside facts, images, ideas, or AI help?
+   - **Persuasion ethics**: Am I using hooks, emotion, and tone honestly instead of manipulatively?
+   - **Design and accessibility**: Is the text readable, the layout clear, the audio understandable, and the pacing manageable?
+   - **Reflection and revision**: What already works, and what still needs to change before I share this?
 
 2. **Revision Time** — Based on the self-audit, the student makes improvements. This might mean:
    - Fixing a factual claim they weren't sure about
@@ -134,8 +136,10 @@ Students can audit their own work using the media literacy principles from the c
    - Adding context they left out
    - Changing a clickbaity title to something more honest
    - Making a construction choice more intentional
+   - Adding credit for an outside fact, image, idea, or AI help they used
+   - Revising the layout, captions, sound, or pacing so the audience can follow it more easily
 
-3. **The Honesty Standard** — Ask: "If someone in this class analyzed your project the way you've analyzed media all semester — would they find anything they'd flag? Would you be proud of what they'd find?"
+3. **The Honesty Standard** — Ask: "If someone in this class analyzed your project the way you've analyzed media all semester — would they understand your message, trust your evidence, notice your credits, and feel respected by your design choices? Would you be proud of what they'd find?"
 
 4. **Progress Check** — The student should now have a solid draft that applies the course principles. Note any remaining work for the independent session.
 
@@ -165,6 +169,7 @@ When you're done working, write a quick "Creator's Note" (3–4 sentences) expla
 - Who it's for
 - What you want them to take away
 - What you're most proud of
+- What you checked, credited, or revised to make it more honest or useful
 
 This Creator's Note will be useful next week when you present.
 
@@ -186,7 +191,7 @@ After this week's sessions, the student should be able to:
 
 1. **Show the draft**: Present a complete (if rough) first draft of their project.
 2. **Explain every choice**: Point to any element and explain why it's there, connected to the Spec Sheet.
-3. **Self-audit**: Identify at least one thing they improved after running the media literacy self-check.
+3. **Self-audit**: Identify at least one thing they improved after using the Media Checkpoint, the project checklist, or the rubric categories.
 
 ---
 
@@ -195,6 +200,8 @@ After this week's sessions, the student should be able to:
 - The student refers back to the Spec Sheet while building (not ignoring it)
 - Construction choices are intentional, not random
 - The self-audit produces genuine reflection, not "everything is fine"
+- They notice when a source, credit, or explanation is missing
+- They improve readability, clarity, or accessibility instead of focusing only on decoration
 - The student identifies at least one area for improvement voluntarily
 - They can distinguish between "I like it" and "it serves my goal"
 
@@ -204,7 +211,7 @@ After this week's sessions, the student should be able to:
 
 **Big idea:** Creating media intentionally means making every choice on purpose and being able to explain why.
 
-**Remember:** Apply the same critical questions to your own work that you've been asking about everyone else's.
+**Remember:** Apply the same critical questions to your own work that you've been asking about everyone else's — including whether it is supported, clearly credited, and easy for your audience to use.
 
 ---
 
@@ -235,4 +242,4 @@ After this week's sessions, the student should be able to:
 
 ## Preview of Next Week
 
-Next week, students share their drafts for peer review, revise based on feedback, and fact-check their own work — making sure their final message is clear, honest, and ready to share.
+Next week, students share their drafts for peer review, revise based on feedback, and fact-check their own work — making sure their final message is clear, honest, well-supported, clearly credited, and ready to share.

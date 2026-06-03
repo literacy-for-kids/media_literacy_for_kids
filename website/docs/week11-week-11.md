@@ -2,7 +2,7 @@
 sidebar_position: 11
 sidebar_label: "Week 11: Spotting Fakes"
 title: "Week 11: Spotting Fakes"
-description: "Students learn to identify manipulated images, out-of-context media, and deceptive framing."
+description: "Students learn to identify manipulated images, out-of-context media, AI-edited examples, and deceptive framing."
 ---
 
 # Week 11: Spotting Fakes
@@ -12,7 +12,7 @@ description: "Students learn to identify manipulated images, out-of-context medi
 ---
 
 :::info Facilitator Snapshot
-Weeks 9–10 taught students to check text-based claims. This week focuses on **visual media** — photos, screenshots, and video clips. Students learn that real images can be used to tell false stories (out-of-context media), that photos can be digitally altered, and that "seeing it with your own eyes" is not always proof. They build a personal checklist for spotting fakes.
+Weeks 9–10 taught students to check text-based claims. This week focuses on **visual media** — photos, screenshots, and video clips. Students learn that real images can be used to tell false stories (out-of-context media), that photos can be digitally altered, and that some visuals may also be AI-generated or AI-edited. "Seeing it with your own eyes" is not always proof. They build a personal checklist for spotting fakes.
 :::
 
 :::tip Quick Navigation
@@ -30,10 +30,11 @@ Weeks 9–10 taught students to check text-based claims. This week focuses on **
 | **Out-of-context media** | A real image, video, or quote used with a false description, wrong date, or wrong location |
 | **Manipulated image** | A photo or graphic that has been digitally altered — things added, removed, or changed |
 | **Staged media** | A real photo or video where the scene was set up on purpose to create a false impression |
+| **AI-edited media** | Media that was created or changed with AI tools, such as edited images, generated backgrounds, or synthetic voices |
 | **Reverse image search** | A tool that lets you upload an image and find where else it appears online, helping trace its origin |
 
 :::note 🧒 Kid Version
-Can you always trust a photo? Not always! A real photo can be used to tell a false story if someone changes the caption or the date. And some images are edited or even completely made up. This week you learn to look at images like a detective — checking for clues that something might not be what it seems.
+Can you always trust a photo? Not always! A real photo can be used to tell a false story if someone changes the caption or the date. Some images are edited, and some may even be AI-generated or AI-edited. This week you learn to look at images like a detective — checking for clues that something might not be what it seems.
 :::
 
 ## Connection
@@ -46,6 +47,16 @@ Can you always trust a photo? Not always! A real photo can be used to tell a fal
 **From Week 3:** Creator choices include visual choices. The same image with a different caption, crop, or context can tell a completely different story — just like the re-edit project from Week 4.
 :::
 
+## Age-Banded Verification Goal
+
+For younger or newer learners, the core goal is not mastering every tool. The core goal is building the habit of checking before trusting or sharing.
+
+- **Core path for ages 8–10:** Ask who made it, check when it was made, look for evidence, compare with one more reliable source, and explain what still feels uncertain.
+- **Core path for ages 10–12:** Add stronger source comparison, basic lateral reading with adult support, and simple evidence tracking.
+- **Extension path for ages 11–13:** Add independent lateral reading, guided reverse image search, source tracing, and stronger comparison across tabs.
+
+The goal for all learners is corroboration before confidence.
+
 ## Facilitator Preparation
 
 :::info Before You Begin
@@ -55,6 +66,7 @@ Prepare the following:
   - An obviously manipulated image (cloned objects, impossible shadows, warped edges)
   - A quote graphic with a misattributed quote
   - An old photo reshared as current (disaster photos are common examples)
+   - Optional: a light, clearly non-scary AI-generated or AI-edited image so students can practice the same questions on newer media too
 - Access to a reverse image search tool (Google Images has a "search by image" feature; TinEye is another option). Practice using it before the session.
 - Print or display the images so you can examine them closely.
 
@@ -89,6 +101,8 @@ Students understand that a real photo or video can still be used to spread false
 
    Show one example of each and have the student identify the type.
 
+   Some visual media may also be **AI-generated or AI-edited**. That does not automatically make it bad or fake. It simply means we should ask careful questions about source, evidence, and whether the image is being presented honestly.
+
    **News images note:** Out-of-context media is especially common with news photos. A real crowd photo from 2019 might be reshared in 2026 to support a completely different story. A dramatic weather photo from one country might be labeled as a different country. When evaluating any image attached to a news claim, apply the same source-comparison skills from Week 10: check whether other outlets are using the same image for the same story.
 
 3. **Reverse Image Search** — Demonstrate how to check where a photo came from:
@@ -97,11 +111,22 @@ Students understand that a real photo or video can still be used to spread false
    - See where else it appears online
    - Look for the earliest or most credible version
 
-   Walk through an example together. Show how the same image might appear on many sites with different captions.
+   Walk through an example together. Show how the same image might appear on many sites with different captions. For many learners, this remains a guided tool first and an independent tool later.
 
 4. **Anchor Concept** — Revisit the fourth core concept: *Context is the metadata of truth.* Explain: "A photo without its real context is like a sentence without the rest of the paragraph. You don't have enough information to know what it really means."
 
-5. **Media Checkpoint Connection** — Question 6 of [The Media Checkpoint](/docs/media-checkpoint) — *What am I missing?* — applies powerfully to images. A photo shows you one frozen moment. It can't show you what happened before, after, or just outside the frame. That missing context is often where the truth lives.
+5. **Media Checkpoint Connection** — Question 6 of [The Media Checkpoint](/docs/media-checkpoint) — *What might be missing or left out?* — applies powerfully to images. A photo shows you one frozen moment. It can't show you what happened before, after, or just outside the frame. That missing context is often where the truth lives.
+
+:::info AI Reminder
+Some images, voices, videos, comments, summaries, or screenshots may be AI-generated or AI-edited. That does not automatically make them bad or fake, but it does mean we should ask careful questions:
+
+- Who shared it?
+- Where did it come from?
+- Is there another source?
+- Does it show evidence?
+- Could it be edited, staged, or generated?
+- What should I do before I share it?
+:::
 
 #### Reflection Questions
 
@@ -187,7 +212,7 @@ Provide a sheet of paper or cardstock, markers or colored pens, and the student'
 After this week's sessions, the student should be able to:
 
 1. **Name the three types**: Explain out-of-context, manipulated, and staged media in their own words.
-2. **Use reverse image search**: Demonstrate how to check where a photo came from.
+2. **Use reverse image search**: Demonstrate or explain how to check where a photo came from.
 3. **Apply the checklist**: Examine an image and walk through the Fake Spotter's Checklist to reach a verdict.
 
 :::tip Unit 3 Checkpoint
@@ -201,7 +226,7 @@ This is the end of Unit 3. See the [Assessment Checkpoints](/docs/assessment-che
 - The student pauses before accepting a dramatic image at face value
 - They can name the type of visual deception ("That's out-of-context media")
 - They remember to check the caption, not just the image
-- They use reverse image search confidently
+- They use reverse image search with guidance or independently, depending on age and experience
 - They show genuine pride in the Fake Spotter's Guide they created
 
 ---
@@ -215,7 +240,7 @@ This is the end of Unit 3. See the [Assessment Checkpoints](/docs/assessment-che
 ---
 
 :::info Spiral Task Opportunity
-After completing Unit 3, students are ready for **Spiral Performance Task 3: The Source Detective**. See the [Spiral Performance Tasks](/docs/assessment-checkpoints#spiral-performance-tasks) section for details. This task asks students to apply Media Checkpoint questions 1–6 to a piece of media, including a trust rating and source comparison.
+After completing Unit 3, students are ready for **Spiral Performance Task 3: The Source Detective**. See the [Spiral Performance Tasks](/docs/assessment-checkpoints#spiral-performance-tasks) section for details. This task asks students to apply all 7 Media Checkpoint questions to a piece of media, including a trust rating and source comparison.
 :::
 
 ---

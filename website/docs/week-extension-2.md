@@ -150,7 +150,7 @@ Students can evaluate a news source using a structured set of criteria they deve
 
    Practice: apply the checklist to each of the three articles. Which ones score highest? Does the tool help you make a judgment that feels *earned* rather than based on someone else's recommendation?
 
-4. **Media Checkpoint Connection** — Return to [The Media Checkpoint](/docs/media-checkpoint). All seven questions apply to news. But in journalism contexts, question 5 (*What's the evidence?*) and question 6 (*What am I missing?*) carry extra weight. News that cites sources, links evidence, and acknowledges what it doesn't know is doing its job well.
+4. **Media Checkpoint Connection** — Return to [The Media Checkpoint](/docs/media-checkpoint). All seven questions apply to news. But in journalism contexts, question 5 (*What claims does it make, and what evidence is shown?*) and question 6 (*What might be missing or left out?*) carry extra weight. News that cites sources, links evidence, and acknowledges what it doesn't know is doing its job well.
 
 #### Reflection Questions
 

@@ -31,6 +31,9 @@ This week shifts from *how* media is made to *why* it's made. The big idea: if a
 | **Business model** | How a company makes money. Free apps often make money by showing ads |
 | **Advertiser** | A company or person who pays to show messages (usually about products) to an audience |
 | **Sponsored content** | Media that looks like regular content but is paid for by an advertiser |
+| **Affiliate link** | A link that gives a creator money or credit when someone buys through it |
+| **Creator code** | A special code a creator shares so a brand or game can track purchases connected to them |
+| **Disclosure label** | A word like "ad," "sponsored," "partner," "affiliate," or "#ad" that tells you there is a business relationship |
 | **Incentive** | What the creator gets out of making the content |
 
 :::note 🧒 Kid Version
@@ -53,6 +56,9 @@ Prepare examples of "free" things that actually make money:
 - A free mobile game that has in-app purchases, reward-video prompts, or a battle pass
 - A social media feed with "Sponsored" posts mixed in with regular content
 - A creator's video with a visible "Thanks to today's sponsor..." segment
+- A creator recommendation with an affiliate link, creator code, or "use my code" discount
+- An unboxing or product review where the creator received a free product or brand partnership
+- A school newsletter, library announcement, or community flyer as a contrast example that informs without selling
 - A website with pop-up ads and cookie consent banners
 - A free-to-play game with a cosmetics shop or loot-box mechanic
 
@@ -115,21 +121,58 @@ Students can distinguish between content and advertising, even when advertising 
 2. **The Disguise Game** — Discuss three ways ads hide:
    - **Sponsored posts** that look like regular content
    - **Product placement** in videos (a creator "casually" using a product)
-   - **Influencer partnerships** where someone recommends a product because they're being paid to
+   - **Creator partnerships** where someone recommends a product because they're being paid, receiving a free product, or benefiting from an affiliate link or creator code
 
-   For each one, show an example (real or described) and ask: "Is this person sharing because they love this product, or because they're being paid?"
+   For each one, show an example (real or described) and ask: "What clues help you tell whether this is a personal recommendation, a brand partnership, or both?"
 
 3. **The "Why Is This Free?" Test** — Practice a new habit. Pick 3–4 things the student uses (a game, a website, a short-form video app, a creator's channel). For each one, ask: "Is this free? If yes, who is paying, and what are they getting?" Not everything has a hidden motive — public libraries are free and publicly funded. But the question is always worth asking.
 
-5. **Media Checkpoint Connection** — Link this week's learning to [The Media Checkpoint](/docs/media-checkpoint). Focus on question 2: *Who made it, and why?* From this week forward, "why" includes the business model. Ask: "Now that you know about attention economics, does question 2 feel different than it did in Week 1?"
+4. **Compare Four Recommendations** — Put four examples side by side:
+   - a normal product recommendation from a friend
+   - a sponsored creator recommendation
+   - a product review with clear evidence
+   - a product review that mostly uses excitement, humor, or popularity
 
-4. **Design an Honest Ad** — Have the student design a short ad (drawn on paper, or described aloud) that is completely transparent. It should say: "This is an ad. We are trying to sell you [product]. Here is why we think you should buy it: [reason]." Compare this to the "disguised" ads they found. Which is more honest? Which would work better at actually selling?
+   Ask: "Which one feels most fair? Which one gives the strongest evidence? Which one is most shaped by rewards or attention?"
+
+5. **Media Checkpoint Connection** — Link this week's learning to [The Media Checkpoint](/docs/media-checkpoint). Focus on question 2: *Who made this, who is it for, and why?* Then add the **Incentives Add-On**: *How might money, popularity, sponsorship, algorithms, or platform goals shape this message?* Ask: "Now that you know about attention economics, does the checkpoint feel different than it did in Week 1?"
+
+6. **Design an Honest Ad** — Have the student design a short ad (drawn on paper, or described aloud) that is completely transparent. It should say: "This is an ad. We are trying to sell you [product]. Here is why we think you should buy it: [reason]." Compare this to the "disguised" ads they found. Which is more honest? Which would work better at actually selling?
 
 #### Reflection Questions
 
 - Was any ad harder to spot than you expected?
 - Why do you think advertisers prefer ads that don't LOOK like ads?
 - If an influencer you like recommends a product, how could you figure out if they're being paid?
+
+---
+
+## Creator Ads and Sponsored Influence
+
+Creators do not have to be villains for incentives to matter. A creator might recommend something because they like it, because they were paid, because they got a free sample, because an affiliate link helps them earn money, or because a creator code helps them stay visible.
+
+A creator can be honest and still be influenced by money, free products, attention, or a relationship with a brand. The question is not “Is this creator bad?” The better question is: “What might shape what they are saying?”
+
+Watch for:
+
+- sponsored posts
+- affiliate links
+- creator codes
+- “use my code” discounts
+- unboxing videos
+- product reviews
+- brand partnerships
+- free products sent to creators
+- disclosure labels such as “ad,” “sponsored,” “partner,” “affiliate,” and “#ad”
+- parasocial trust, or feeling like you know a creator because you see them often
+
+Helpful learner questions:
+
+- Is this recommendation connected to money, free products, discounts, or popularity?
+- Is there an ad, sponsored, partner, affiliate, or creator-code label?
+- Would this message sound different if the creator were not being paid or rewarded?
+- Am I trusting the product because of the evidence, or because I like the creator?
+- What information would help me decide more fairly?
 
 ---
 
@@ -196,7 +239,7 @@ Signs that learning is happening this week:
 - **Start with tangible examples**: Compare a toy you buy at a store (you pay money) to a free game with ads (you pay with your attention).
 - **Simplify the diagram**: Draw it as "You watch → You see ads → Company gets money."
 - **Use physical ads**: Magazine ads and cereal boxes are easier to analyze than digital ones.
-- **Skip disguised ads**: Focus on obvious ads first. Sponsored posts and influencer partnerships can wait for older learners.
+- **Use clearly labeled examples first**: Focus on obvious ads and clearly labeled sponsored posts before moving to trickier creator partnerships.
 
 ---
 

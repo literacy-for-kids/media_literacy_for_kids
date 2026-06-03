@@ -37,6 +37,10 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 | **Business model** | How a company makes money. Free apps and websites often make money by showing ads. |
 | **Advertiser** | A company or person who pays to put a message (usually about a product or service) in front of an audience. |
 | **Sponsored content** | Media that looks like regular content but is actually paid for by an advertiser. *(Example: a social media post that looks like a personal recommendation but is actually paid for by a company)* |
+| **Disclosure label** | A label like "ad," "sponsored," "paid partnership," "affiliate," or "#ad" that tells you there is a business connection behind the message. |
+| **Affiliate link** | A link that gives a creator money or credit when someone buys through it. |
+| **Creator code** | A special code a creator shares so a brand or game can track purchases connected to that creator. |
+| **Parasocial trust** | The feeling that you know a creator because you see them often, even though they do not know you personally. That feeling can make recommendations seem extra trustworthy. |
 | **Clickbait** | A headline or thumbnail designed to make you click by triggering curiosity, shock, or strong emotion — often exaggerating or leaving out key information. *(Example: "You Won't BELIEVE What Happened Next!" — designed to make you click)* |
 | **Thumbnail** | The small preview image shown before you click on a video or article. Thumbnails are designed to grab attention. |
 | **Incentive** | What the creator gets out of making the content. If the incentive is ad revenue, the creator is motivated to keep you watching as long as possible. An incentive is a clue that helps you ask better questions — but having an incentive does not automatically make someone dishonest. |
@@ -55,9 +59,10 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 | **Disinformation** | False information created or shared on purpose to deceive people. |
 | **Satire** | Content created as humor or commentary that imitates real news or media. Sometimes people share satire thinking it's real. |
 | **Verification** | The process of checking whether a piece of information is accurate and trustworthy. |
+| **Corroboration** | Checking a claim against one or more additional reliable sources before feeling confident about it. |
 | **Source** | Where a piece of information comes from — the author, publication, or organization behind it. |
-| **Lateral reading** | Instead of reading deeply on one website, opening new tabs to check what other sources say about the same claim. |
-| **Reverse image search** | Uploading an image to a search engine (like Google Images or TinEye) to find out where it originally appeared and whether it's been used in different contexts. *(Example: uploading a photo to Google Images to see where it originally appeared and whether the caption is accurate)* |
+| **Lateral reading** | Instead of reading deeply on one website, opening new tabs to check what other sources say about the same claim. Younger learners often do this with adult support first. |
+| **Reverse image search** | Uploading an image to a search engine (like Google Images or TinEye) to find out where it originally appeared and whether it has been used in different contexts. Younger learners usually use this as a guided tool before doing it more independently. |
 | **Out-of-context media** | A real photo, video, or quote used in a misleading way — placed alongside a different event, date, or story than the one it actually belongs to. |
 | **Manipulated image** | A photo or image that has been altered (cropped, edited, or combined with other images) to change its meaning. |
 | **Fact-check** | To investigate whether a specific claim is supported by reliable evidence. |
@@ -74,10 +79,11 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 | Term | Simple Definition |
 |------|-------------------|
 | **Algorithm** | A set of rules or instructions that a computer follows. On media platforms, algorithms decide which content to show each user. Algorithms are tools — they aren't magic, and they aren't automatically "bad." But understanding how they work helps you make more intentional choices about what you consume. *(Example: the system that decides which videos appear on your YouTube home page based on what you've watched before)* |
-| **Recommendation system** | A specific type of algorithm that suggests content based on what a user has watched, liked, or searched for in the past. |
+| **Recommendation system** | A specific type of algorithm that suggests content based on many signals, including what a user has watched, liked, searched for, how long they watched, and what the platform wants to promote. |
 | **Engagement** | Any interaction with content — watching, liking, commenting, sharing, or clicking. Platforms measure engagement to decide what to promote. |
 | **Personalization** | When a platform tailors what it shows you based on your past behavior, location, or profile. |
-| **Filter bubble** | The limited, personalized view of information that forms when algorithms keep showing you content similar to what you've already engaged with — while filtering out other perspectives. *(Example: if you only watch funny cat videos, the algorithm shows you more cats and fewer other topics — your view of the internet gradually narrows)* |
+| **Algorithmic feed** | The stream of recommended content shaped by signals and platform goals, rather than showing everything equally. |
+| **Filter bubble** | The limited, personalized view of information that forms when a feed keeps narrowing around what you already engage with. Sometimes that means more of what you agree with. Sometimes it simply means more of what keeps you interested. Either way, the feed is not the whole world. |
 | **Echo chamber** | A situation where you mostly encounter opinions and information that agree with what you already believe, reinforcing those beliefs and making it harder to see other viewpoints. *(Example: if everyone in your friend group agrees on something and you never hear a different opinion, you might start thinking everyone agrees)* |
 | **Confirmation bias** | The natural human tendency to pay more attention to information that supports what we already believe and to dismiss information that challenges it. Everyone has confirmation bias — including you. Recognizing it is the first step to managing it. *(Example: if you already think dogs are better than cats, you'll tend to notice and remember information that supports that belief)* |
 | **Feed** | The stream of content a platform shows you (your YouTube home page, your social media timeline, your "For You" page). Your feed is curated by the algorithm. |
@@ -95,7 +101,10 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 | **Draft** | A first version of your project. Drafts are meant to be improved, not perfect. |
 | **Peer review** | Having another person look at your work and give honest, constructive feedback. |
 | **Revision** | Improving your work based on feedback, fact-checking, and your own critical review. |
-| **Ethics checklist** | A set of questions to help you make sure your media is honest, fair, accurate, and responsible. |
+| **Honest Media Project Checklist** | A set of questions to help you make sure your media is honest, fair, accurate, clearly credited, and responsible. |
+| **Attribution** | Giving clear credit for outside facts, images, quotes, ideas, or AI help used in your project. |
+| **Accessible design** | Making your media easy for your audience to read, hear, understand, and use. |
+| **Transparency** | Being open about what is fact, what is opinion, what evidence you used, and where help came from. |
 | **Signal vs. noise** | Signal is the valuable, accurate, meaningful content in your media. Noise is anything that distracts, misleads, or adds nothing useful. |
 
 ---

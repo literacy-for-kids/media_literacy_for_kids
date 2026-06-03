@@ -39,7 +39,7 @@ Before students learn to fact-check, they learn how media makes money. Understan
 
 ### 3. Verifying and Evaluating Sources (Weeks 9–11)
 
-With a solid understanding of construction and incentives, students now learn the practical tools of verification: lateral reading, source-checking, reverse image search, comparing coverage, and recognizing the difference between reporting and opinion. Core news literacy concepts are woven into this unit because verification *is* news literacy in practice.
+With a solid understanding of construction and incentives, students now learn the practical tools of verification: source-checking, date-checking, corroboration, guided lateral reading, reverse image search, comparing coverage, and recognizing the difference between reporting and opinion. Core news literacy concepts are woven into this unit because verification *is* news literacy in practice. The developmental goal is not that every 8-year-old independently masters every tool. The goal is that every learner builds the habit of checking before trusting or sharing.
 
 **Why this comes here:** Students need the earlier conceptual foundation before verification tools make full sense. A lateral reading exercise means more when the student already understands why a source might have an incentive to mislead.
 
@@ -63,7 +63,7 @@ This curriculum is designed for the developmental realities of older elementary 
 
 - **Concrete thinking is still dominant, but abstract thinking is emerging.** The curriculum starts with concrete, tangible examples (cereal boxes, posters, packaging) and progressively introduces more abstract concepts (incentives, algorithms, confirmation bias). Abstract ideas are always anchored to specific, relatable examples.
 
-- **Children this age are increasingly independent media consumers.** Many 8–12-year-olds encounter short-form videos, gaming content, recommendation feeds, memes, and group chat messages regularly. The curriculum meets them where they are, using examples from the media environments they actually inhabit.
+- **Children this age are increasingly independent media consumers.** Many 8–12-year-olds encounter short-form videos, gaming content, recommendation feeds, memes, group chat messages, school announcements, local flyers, and community notices regularly. The curriculum meets them where they are, using examples from the media environments they actually inhabit.
 
 - **Moral reasoning is developing.** Students this age are grappling with fairness, honesty, and perspective-taking. The curriculum channels this development by asking students to evaluate media choices ethically — not by telling them what to think, but by giving them tools to think it through.
 
@@ -95,7 +95,7 @@ These three moves do more for media literacy development than any amount of memo
 
 ### The Media Checkpoint as a Recurring Routine
 
-The curriculum uses a consistent seven-question routine — [The Media Checkpoint](/docs/media-checkpoint) — as a through-line. Students encounter these questions in progressively deeper forms across the entire course. The routine builds automaticity: by the end, students don't need to look at the list because the questions have become habits.
+The curriculum uses a consistent seven-question routine — [The Media Checkpoint](/docs/media-checkpoint) — as a through-line. Students encounter these questions in progressively deeper forms across the entire course, with an incentives add-on that surfaces money, popularity, sponsorship, algorithms, and platform goals when those pressures matter. The routine builds automaticity: by the end, students don't need to look at the list because the questions have become habits.
 
 ### Balancing Skepticism with Fairness and Curiosity
 
@@ -106,6 +106,12 @@ This is one of the hardest balances in media literacy education. The curriculum 
 - **Incentives explain behavior; they don't convict.** Understanding that a creator has a financial incentive helps explain their choices, but it doesn't mean the content is dishonest.
 - **Perspectives differ, but evidence matters.** Different people can reasonably interpret the same event differently. That doesn't mean all interpretations are equally supported by evidence. Students learn to weigh evidence without falling into "everyone has their own truth" relativism or "only my side has the truth" certainty.
 - **Algorithms are tools, not villains.** Algorithms sort, recommend, and prioritize. They aren't magic and they aren't evil. Understanding how they work gives students agency to manage their own information diet.
+
+### Low-Stakes Examples First
+
+The curriculum deliberately begins with low-stakes examples whenever possible: packaging, school messages, library flyers, hobby posts, thumbnails, local announcements, and other everyday media. Students can practice serious thinking skills without starting with distressing, graphic, or highly politicized material.
+
+**Why:** Younger learners do not need high-conflict content in order to learn strong habits. Starting with familiar, community-grounded media keeps the focus on the thinking routine instead of on shock, fear, or debate.
 
 ### Differentiation Without Stigma
 

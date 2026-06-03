@@ -109,8 +109,8 @@ Students understand that every piece of media was created by a real person (or t
 
 3. **The Creator Questions** — Introduce three questions the student can ask about any piece of media. These are the first three questions of **The Media Checkpoint** — a routine they'll build on throughout the entire course:
    - **What am I looking at?** (What type of media is this?)
-   - **Who made this, and why?**
-   - **What choices did they make?**
+   - **Who made this, who is it for, and why?**
+   - **What choices shaped this message?**
 
    Practice using these three questions on 2–3 of the media examples from Session 1. See the [Media Checkpoint](/docs/media-checkpoint) page for the full seven-question routine.
 

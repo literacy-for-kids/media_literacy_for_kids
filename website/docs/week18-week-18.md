@@ -12,7 +12,7 @@ description: "Final presentations and course reflection — students share their
 ---
 
 :::info Facilitator Snapshot
-This is the final week. Students present their finished media project to an audience (even if that audience is just one family member), answer questions, and then reflect on everything they've learned across the entire 18-week course. This week should feel like a **celebration and a showcase**, not a test. The student has built real media literacy skills — this is their moment to demonstrate them.
+This is the final week. Students present their finished media project to an audience (even if that audience is just one family member), answer questions, and then reflect on everything they've learned across the entire 18-week course. This week should feel like a **celebration and a showcase**, not a test. The student has built real media literacy skills — this is their moment to demonstrate a message they can support, explain, credit, and stand behind.
 :::
 
 :::tip Quick Navigation
@@ -42,9 +42,9 @@ This is the final week. Students present their finished media project to an audi
 :::tip 🔄 Bring Forward
 **From the entire course:** The Timeline Walk in Session 2 is the spiral review of all five units. Each concept should feel like an old friend by now:
 - Week 1's "all media is constructed" → Now visible in their own project
-- Week 5's "follow the incentive" → They chose their own incentive: to inform, to help, to share
-- Week 9's verification tools → They fact-checked their own work
-- Week 12's algorithmic awareness → They understand how their project might travel
+- Week 5's "follow the incentive" → They chose their own incentive: to inform, to help, to share, not just to grab attention
+- Week 9's verification tools → They fact-checked their own work and gave credit where needed
+- Week 12's algorithmic awareness → They understand how their project might travel and why a feed is never the whole picture
 
 Encourage the student to reference specific activities and moments from earlier weeks.
 :::
@@ -95,8 +95,12 @@ Students can present their media project to an audience, explain their creative 
 3. **Audience Q&A** — The audience asks questions. Guide them toward media-literacy-related questions:
    - "What construction choices did you make?"
    - "How did you make sure the facts were accurate?"
+   - "What evidence or examples support your message?"
+   - "What did you credit or disclose, including any AI help if you used it?"
    - "Why did you choose this format?"
+   - "How did you make this clear and accessible for your audience?"
    - "What was the hardest part to create?"
+   - "What changed most after feedback or fact-checking?"
    - "If an algorithm were promoting this, what kind of person would it show it to?"
 
 4. **Celebrate** — Applaud. Be specific in praise: "I loved how clear your key message was" or "The way you used color really matched the mood you were going for." If you prepared a certificate, present it. This moment matters.
@@ -120,10 +124,10 @@ Students can reflect on the full 18-week journey, identify how their thinking ha
 
 1. **The Timeline Walk** — Walk through the curriculum together, unit by unit. For each one, ask: "What do you remember from this unit? Did it change how you see media?" Quick summaries:
    - **Weeks 1–4**: All media is constructed. Who made it, and what choices did they make?
-   - **Weeks 5–8**: Free content is paid for by attention. Ads, clickbait, and emotional selling are everywhere.
-   - **Weeks 9–11**: Not everything is true. You have tools to verify: check the source, check the date, search for it elsewhere.
-   - **Weeks 12–14**: Your feed is curated by an algorithm. Filter bubbles and confirmation bias narrow your view.
-   - **Weeks 15–18**: You created your own media — intentionally, honestly, with a clear purpose.
+   - **Weeks 5–8**: Free content is paid for by attention. Ads, clickbait, sponsorship, and emotional selling all shape what we see.
+   - **Weeks 9–11**: Not everything is true. You have tools to verify: check the source, check the date, look for evidence, and compare with another source.
+   - **Weeks 12–14**: Your feed is shaped by many signals. It can be useful and limiting at the same time, so you sometimes need to widen your view on purpose.
+   - **Weeks 15–18**: You created your own media — intentionally, honestly, with a clear purpose, evidence, credit, and revision.
 
 2. **Before and After** — Ask: "Think about how you consumed media before this course. How do you consume it NOW? What's different?" Help the student articulate the shift. They might say things like:
    - "I notice ads I never noticed before."
@@ -131,16 +135,16 @@ Students can reflect on the full 18-week journey, identify how their thinking ha
    - "I think about who made something and what they want."
    - "I don't share things without checking first."
 
-3. **Five Tools for Life** — Together, distill the five core concepts into the student's own words:
+3. **Five Tools for Life** — Together, distill the five core ideas into the student's own words:
    1. All media is constructed → *"Someone made this on purpose."*
-   2. The incentive dictates the signal → *"Follow the money."*
-   3. Algorithms optimize for engagement → *"My feed is not the whole picture."*
-   4. Context is the metadata of truth → *"Always look for the full story."*
-   5. Sharing is a write operation → *"When I share, I'm responsible."*
+   2. Incentives shape messages → *"Follow the incentive."*
+   3. Feeds are incomplete → *"My feed is not the whole world."*
+   4. Verification matters → *"Check the source, evidence, and context."*
+   5. Creation and sharing carry responsibility → *"When I share or publish, I'm responsible."*
 
    Write these on a card the student can keep. Then add one more: **"When in doubt, run The Media Checkpoint."** If the student remembers nothing else from the course, the [seven questions](/docs/media-checkpoint) are the tools that stay with them.
 
-4. **Looking Forward** — Ask: "How will you use these skills going forward? What will you do differently?" Let the student set their own intentions. There's no quiz, no grade — just a kid who now understands media better than most adults.
+4. **Looking Forward** — Ask: "How will you use these skills going forward? What will you do differently?" Let the student set their own intentions. There's no quiz, no grade — just a learner who now understands media better and can use that understanding on purpose.
 
 5. **Post-Course Self-Assessment** — If the student completed the [Pre/Post Self-Assessment](/docs/self-assessment) at the beginning of the course, now is the time to complete Part 2 (After) and Part 3 (Comparison). This gives the student a concrete way to see how their habits and confidence have changed. If they didn't complete it earlier, they can still fill out both parts now from memory — "before" based on how they remember thinking at the start.
 
@@ -164,7 +168,7 @@ Answer any or all of these questions:
 1. **What did I learn?** Write 3–5 things you know now that you didn't know 18 weeks ago.
 2. **What surprised me?** Was there a lesson, activity, or moment that changed how I think?
 3. **What am I proud of?** What's the accomplishment (big or small) that I'm most proud of from this course?
-4. **My project**: In 2–3 sentences, describe your final project and why it matters to you.
+4. **My project**: In 2–3 sentences, describe your final project, why it matters to you, and one thing you checked, credited, or revised to make it stronger.
 5. **My media rules**: Write 3 personal rules you'll follow from now on when you consume or share media. These are YOUR rules — not from a textbook. Based on what you learned, what do YOU think is important?
 6. **A message to the next student**: If someone were about to start this course, what would you tell them?
 
@@ -187,11 +191,12 @@ Provide a journal, nice paper, or a lined notebook — something that feels slig
 After this week's sessions, the student should be able to:
 
 1. **Present with confidence**: Share their project and explain their creative choices clearly.
-2. **Summarize the journey**: Name one thing they learned from each unit (construction, persuasion, verification, algorithms, creation).
-3. **Set personal rules**: Articulate at least 3 personal media rules they'll follow going forward.
+2. **Explain the standards**: Describe how they supported claims, gave credit, revised, or made the project easier for the audience to use.
+3. **Summarize the journey**: Name one thing they learned from each unit (construction, persuasion, verification, algorithms, creation).
+4. **Set personal rules**: Articulate at least 3 personal media rules they'll follow going forward.
 
-:::tip Unit 5 / Course Checkpoint
-This is the end of the course. See the [Assessment Checkpoints](/docs/assessment-checkpoints) page for the final unit and overall course reflection. See the [Final Project Rubric](/docs/final-project-rubric) for evaluating the completed project.
+:::tip Phase 5 / Course Checkpoint
+This is the end of the course. See the [Assessment Checkpoints](/docs/assessment-checkpoints) page for the final phase and overall course reflection. See the [Final Project Rubric](/docs/final-project-rubric) for evaluating the completed project.
 :::
 
 ---
@@ -200,6 +205,7 @@ This is the end of the course. See the [Assessment Checkpoints](/docs/assessment
 
 - The student presents with genuine pride and ownership
 - They can answer audience questions using media literacy vocabulary naturally
+- They can explain what evidence, credits, or revisions strengthened the project
 - The Timeline Walk produces real memories and reflections, not blank stares
 - Their personal media rules are specific and authentic (not just repeating what they think you want to hear)
 - They feel a sense of accomplishment and closure
