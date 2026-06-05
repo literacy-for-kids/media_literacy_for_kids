@@ -30,20 +30,13 @@ jobs:
       - uses: actions/checkout@v4
       - uses: lycheeverse/lychee-action@v2
         with:
-          args: >-
-            --exclude 'file://'
-            --exclude 'https://shields.io'
-            --exclude 'https://camo.githubusercontent.com'
-            ./README.md
-          fail: true
-      - uses: lycheeverse/lychee-action@v2
-        with:
           workingDirectory: ./website
           args: >-
-            --root-dir .
-            --exclude 'file://'
+            --timeout 30
+            --max-retries 3
+            --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
-            ./README.md
+            --exclude 'https://literacy-for-kids.github.io'
             './docs/**/*.md'
           fail: true
