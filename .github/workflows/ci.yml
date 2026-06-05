@@ -28,16 +28,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+          cache-dependency-path: ./website/package-lock.json
+      - run: npm ci
+        working-directory: ./website
+      - run: npm run build
+        working-directory: ./website
+      - name: Mirror build under site base path for lychee
+        run: |
+          rm -rf ./.lychee-root
+          mkdir -p './.lychee-root/media_literacy_for_kids'
+          cp -R ./website/build/. './.lychee-root/media_literacy_for_kids/'
+          rm -f './.lychee-root/media_literacy_for_kids/404.html'
       - uses: lycheeverse/lychee-action@v2
         with:
-          workingDirectory: ./website
           args: >-
+            --root-dir ./.lychee-root
             --timeout 30
             --max-retries 3
             --retry-wait-time 5
             --exclude 'https://shields.io'
             --exclude 'https://camo.githubusercontent.com'
-            --exclude '^/'
             --exclude 'https://literacy-for-kids.github.io'
-            './docs/**/*.md'
+            './.lychee-root/media_literacy_for_kids/**/*.html'
           fail: true
