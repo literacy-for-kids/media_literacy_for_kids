@@ -23,6 +23,10 @@ Weeks 5–7 focused on ads and clickbait — the commercial side of the attentio
 - [Check for Understanding](#check-for-understanding)
 :::
 
+:::tip Coping Skill Moment
+Persuasion often works by stirring a feeling — excitement, worry, or fear of missing out. When an ad or message makes you suddenly *want* something or *fear* something, name the feeling first: *"This is making me feel ___."* A feeling is a signal, not a command to buy, click, or share. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |

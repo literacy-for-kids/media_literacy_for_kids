@@ -23,6 +23,10 @@ This week shifts from *how* media is made to *why* it's made. The big idea: if a
 - [Check for Understanding](#check-for-understanding)
 :::
 
+:::tip Coping Skill Moment
+The attention economy runs on feelings — apps are designed to keep you watching. If you notice yourself glued to a screen and a little wound up, that's a signal. Take a screen break, breathe once, and decide on purpose whether to keep going. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |

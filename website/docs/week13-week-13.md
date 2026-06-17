@@ -23,6 +23,10 @@ Last week students learned how algorithms curate their feeds. This week they lea
 - [Check for Understanding](#check-for-understanding)
 :::
 
+:::tip Coping Skill Moment
+Echo chambers can crank up outrage by showing you more of what already upset you. If you feel your anger climbing as you scroll, that is a signal to pause. Step away, take a slow breath, and come back to the question with a clearer head. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |

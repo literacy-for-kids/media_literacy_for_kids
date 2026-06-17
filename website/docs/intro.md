@@ -10,6 +10,8 @@ slug: /intro
 
 Welcome to the Media Literacy for Kids curriculum — an 18-week program that teaches young learners to think critically about the media they see, hear, read, and share every day.
 
+Because so much media is built to grab feelings fast, the short [Coping Skills for Media Overload](./coping-skills.md) page introduces simple tools for pausing before you share, believe, or spiral — so the thinking skills in this curriculum have room to work.
+
 ---
 
 :::tip Use This Page

@@ -23,6 +23,10 @@ This week introduces one of the most important concepts in modern media literacy
 - [Check for Understanding](#check-for-understanding)
 :::
 
+:::tip Coping Skill Moment
+A feed can quietly turn into comparison — everyone else looks happier, richer, or cooler. That left-out feeling is a signal worth noticing. Try grounding (feet on the floor, name three true things) and remember a feed shows highlights, not whole lives. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |
