@@ -22,6 +22,16 @@ A strong feeling about a post is a **signal, not proof.** It tells you the conte
 
 Coping skills let you pause between *feeling something* and *doing something* — sharing, commenting, believing, or spiraling into doomscrolling. The pause is where your media-literacy skills (checking the source, spotting persuasion, reading laterally) actually get used.
 
+## When this shows up
+
+These tools come in handy in everyday media moments:
+
+- When a post makes you instantly angry or scared
+- When a video makes you feel left out
+- When a headline feels too shocking to ignore
+- When an ad makes a want feel like a need
+- When you want to share something before checking it
+
 ## Tools that help online
 
 - **Name the feeling** — *"This made me angry / scared / jealous."*
