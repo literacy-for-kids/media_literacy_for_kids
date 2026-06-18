@@ -32,6 +32,10 @@ The most share-worthy posts are often the ones that make us feel the most. Befor
 Lateral reading is really a set of questions: "Who says so? How do we know? What do other sources say?" Asking evidence questions out loud is not rude — it is how careful people check a claim together before passing it on. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+When a claim feels confusing, sort it before sharing: facts, guesses, and missing information. That turns a reaction into an investigation. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |

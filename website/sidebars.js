@@ -14,6 +14,7 @@ const sidebars = {
     'curriculum-overview',
     'coping-skills',
     'communication-skills',
+    'problem-solving-skills',
     {
       type: 'category',
       label: 'The Anatomy of a Message',

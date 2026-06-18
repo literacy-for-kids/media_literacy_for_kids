@@ -31,6 +31,10 @@ Persuasion often works by stirring a feeling — excitement, worry, or fear of m
 When a message is selling an idea or emotion, ask one clear question: "What is this trying to make me believe?" Naming the message's goal out loud — to yourself or a friend — turns a feeling into something you can actually discuss. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
+:::tip Problem Solving Moment
+Ask what problem the ad is solving — for the seller. Naming their goal helps you separate a real need of your own from a problem the ad invented to sell you something. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |
