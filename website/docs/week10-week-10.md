@@ -28,6 +28,10 @@ Younger learners often do the tab-opening and navigation with adult support.
 The most share-worthy posts are often the ones that make us feel the most. Before deciding whether something is true, run a quick fact-vs-story check: *What do I actually know, and what is the post just implying?* A strong reaction is a reason to slow down and verify, not to hit share. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Lateral reading is really a set of questions: "Who says so? How do we know? What do other sources say?" Asking evidence questions out loud is not rude — it is how careful people check a claim together before passing it on. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |

@@ -23,6 +23,10 @@ This is the capstone week for Unit 1. Students put everything from Weeks 1–3 i
 - [Check for Understanding](#check-for-understanding)
 :::
 
+:::tip Communication Moment
+Re-editing the same material into two stories shows that media *creates* meaning — it doesn't just record it. When you share your own version, explain the choices: "I picked this clip and this caption because ___." Naming how you built the meaning is honest communication. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |

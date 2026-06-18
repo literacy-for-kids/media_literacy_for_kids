@@ -27,6 +27,10 @@ This week introduces one of the most important concepts in modern media literacy
 A feed can quietly turn into comparison — everyone else looks happier, richer, or cooler. That left-out feeling is a signal worth noticing. Try grounding (feet on the floor, name three true things) and remember a feed shows highlights, not whole lives. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+When something in your feed surprises you, clarify before sharing it: "Is this real, and how do I know?" A quick question to a trusted adult or a second source is communication that stops misinformation from traveling through you. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |

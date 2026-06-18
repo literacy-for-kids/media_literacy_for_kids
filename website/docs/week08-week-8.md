@@ -27,6 +27,10 @@ Weeks 5–7 focused on ads and clickbait — the commercial side of the attentio
 Persuasion often works by stirring a feeling — excitement, worry, or fear of missing out. When an ad or message makes you suddenly *want* something or *fear* something, name the feeling first: *"This is making me feel ___."* A feeling is a signal, not a command to buy, click, or share. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+When a message is selling an idea or emotion, ask one clear question: "What is this trying to make me believe?" Naming the message's goal out loud — to yourself or a friend — turns a feeling into something you can actually discuss. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |

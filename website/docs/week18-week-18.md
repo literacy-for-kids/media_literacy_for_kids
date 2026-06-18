@@ -23,6 +23,10 @@ This is the final week. Students present their finished media project to an audi
 - [Check for Understanding](#check-for-understanding)
 :::
 
+:::tip Communication Moment
+Presenting your media analysis is communication in action: explain your thinking, not just your conclusion. Try the "because bridge" — "I think this message is ___ because ___" — and be ready for questions and feedback. Feedback on your project is information you can use, not a grade on you. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |

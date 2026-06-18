@@ -27,6 +27,10 @@ Last week students learned how algorithms curate their feeds. This week they lea
 Echo chambers can crank up outrage by showing you more of what already upset you. If you feel your anger climbing as you scroll, that is a signal to pause. Step away, take a slow breath, and come back to the question with a clearer head. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
 :::
 
+:::tip Communication Moment
+Echo chambers shrink when you actually listen to a different view. Online, where tone is easy to misread, disagree with extra clarity: "I see it differently because ___" — about the idea, not the person. Understanding someone is not the same as agreeing with them. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
+
 ## Key Vocabulary
 
 | Term | Definition |

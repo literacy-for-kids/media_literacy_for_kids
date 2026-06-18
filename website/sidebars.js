@@ -13,6 +13,7 @@ const sidebars = {
     'caregiver-guide',
     'curriculum-overview',
     'coping-skills',
+    'communication-skills',
     {
       type: 'category',
       label: 'The Anatomy of a Message',
