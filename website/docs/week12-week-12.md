@@ -31,9 +31,6 @@ A feed can quietly turn into comparison — everyone else looks happier, richer,
 When something in your feed surprises you, clarify before sharing it: "Is this real, and how do I know?" A quick question to a trusted adult or a second source is communication that stops misinformation from traveling through you. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Before sharing something surprising, try one safe step: check a second source. A quick test beats spreading a guess — and it tells you whether the claim holds up. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
 
 ## Key Vocabulary
 
@@ -82,6 +79,10 @@ Many kids assume the internet shows everyone the same thing. The realization tha
 
 ## Guided Session 1
 ### What Is an Algorithm?
+
+:::tip Problem Solving Moment
+Before sharing something surprising, try one safe step: check a second source. A quick test beats spreading a guess — and it tells you whether the claim holds up. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 #### Learning Goal
 

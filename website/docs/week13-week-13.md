@@ -31,9 +31,6 @@ Echo chambers can crank up outrage by showing you more of what already upset you
 Echo chambers shrink when you actually listen to a different view. Online, where tone is easy to misread, disagree with extra clarity: "I see it differently because ___" — about the idea, not the person. Understanding someone is not the same as agreeing with them. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-When a group chat spreads a rumor, separate what you know from what you're guessing, and ask one clarifying question before passing it on. Sorting facts from guesses slows a rumor down. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
 
 ## Key Vocabulary
 
@@ -82,6 +79,10 @@ Confirmation bias is a sensitive topic because it applies to everyone — includ
 
 ## Guided Session 1
 ### Filter Bubbles
+
+:::tip Problem Solving Moment
+When a group chat spreads a rumor, separate what you know from what you're guessing, and ask one clarifying question before passing it on. Sorting facts from guesses slows a rumor down. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 
 #### Learning Goal
 
