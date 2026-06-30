@@ -10,7 +10,7 @@ slug: /coping-skills
 
 This curriculum teaches how media is built and why — how attention is captured, how persuasion works, and how to check what's true. A big part of that picture is **feelings**, because a lot of media is designed to make you feel something *fast.*
 
-This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills), connected to the media systems you study here.
+This page is the local doorway into the Literacy for Kids [Coping Skills Toolkit](https://www.literacy-for-kids.com/docs/toolkits/coping-skills), connected to the media systems you study here.
 
 ## Media is built to grab attention — and feelings
 
@@ -53,4 +53,4 @@ These are everyday coping and self-management tools, not therapy or medical advi
 
 The full toolkit has short lessons on noticing signals, pausing, grounding, breathing, body resets, checking your thoughts, asking for help, and building a personal coping menu:
 
-- [Coping Skills Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/coping-skills)
+- [Coping Skills Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/coping-skills)

@@ -10,7 +10,7 @@ slug: /communication-skills
 
 This curriculum is about understanding media — how messages are built, who made them, and what they want you to think, feel, or do. But media isn't only something you *receive.* Every time you share, comment, react, or post, **you** are the one communicating. The same skills that help you read media carefully help you communicate well online.
 
-This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication), connected to the careful thinking this curriculum builds.
+This page is the local doorway into the Literacy for Kids [Communication Toolkit](https://www.literacy-for-kids.com/docs/toolkits/communication), connected to the careful thinking this curriculum builds.
 
 ## A few core ideas
 
@@ -48,4 +48,4 @@ These are everyday communication and self-management tools, not therapy or medic
 
 The full toolkit has short lessons on active listening, clarifying questions, explaining your thinking, disagreeing without attacking, asking for help, using feedback, and repairing misunderstandings:
 
-- [Communication Toolkit (hub)](https://literacy-for-kids.github.io/literacy_for_kids/docs/toolkits/communication)
+- [Communication Toolkit (hub)](https://www.literacy-for-kids.com/docs/toolkits/communication)

@@ -108,7 +108,7 @@ export default function HomepageFeatures() {
           <Heading as="h2">Part of the Literacy for Kids Ecosystem</Heading>
           <p className={styles.sectionLead}>
             This curriculum is part of{' '}
-            <Link to="https://literacy-for-kids.github.io/literacy_for_kids/">Literacy for Kids</Link>,
+            <Link to="https://www.literacy-for-kids.com/">Literacy for Kids</Link>,
             a collection of open-source curricula designed to help children ages 8–12
             understand the systems that shape the modern world.
           </p>
