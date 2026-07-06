@@ -69,6 +69,12 @@ The "aha moment" this week comes from *contrast*. When the student holds two or 
 ---
 
 ## Guided Session 1
+
+:::tip Collaboration Moment
+A media team can split the work without splitting the message. One person can track sources, one can watch the audience goal, one can design, and one can check clarity. The shared goal keeps the pieces connected.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Different People, Different Internets
 
 #### Learning Goal

@@ -97,6 +97,12 @@ Students can name the four main purposes of media (inform, entertain, persuade, 
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+Media gets easier to judge when you sort what you see into piles: fact, opinion, claim. The same sentence can feel different once it is in the right pile — and a sentence that will not sort cleanly is worth a closer look.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Purpose in the Wild
 
 #### Learning Goal

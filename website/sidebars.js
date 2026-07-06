@@ -12,9 +12,20 @@ const sidebars = {
     'intro',
     'caregiver-guide',
     'curriculum-overview',
-    'coping-skills',
-    'communication-skills',
-    'problem-solving-skills',
+    {
+      type: 'category',
+      label: 'Shared Skills',
+      collapsed: true,
+      items: [
+        'coping-skills',
+        'communication-skills',
+        'problem-solving-skills',
+        'learning-how-to-learn',
+        'executive-function',
+        'collaboration-skills',
+        'information-organization',
+      ],
+    },
     {
       type: 'category',
       label: 'The Anatomy of a Message',

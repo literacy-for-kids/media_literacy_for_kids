@@ -112,6 +112,12 @@ Students can explain that "free" content is usually paid for by advertisers, and
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+When a group analyzes a message together, one shared question keeps the work connected: "What is this message trying to get us to think or do?" Different people can examine different parts and still aim at that one question.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Ads vs. Content
 
 #### Learning Goal

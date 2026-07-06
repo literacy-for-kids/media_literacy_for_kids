@@ -27,10 +27,6 @@ Last week students learned how algorithms curate their feeds. This week they lea
 Echo chambers can crank up outrage by showing you more of what already upset you. If you feel your anger climbing as you scroll, that is a signal to pause. Step away, take a slow breath, and come back to the question with a clearer head. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Echo chambers shrink when you actually listen to a different view. Online, where tone is easy to misread, disagree with extra clarity: "I see it differently because ___" — about the idea, not the person. Understanding someone is not the same as agreeing with them. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Key Vocabulary
 
@@ -109,6 +105,10 @@ Students can explain what a filter bubble is, describe how algorithms create the
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Echo chambers shrink when you actually listen to a different view. Online, where tone is easy to misread, disagree with extra clarity: "I see it differently because ___" — about the idea, not the person. Understanding someone is not the same as agreeing with them. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### Confirmation Bias
 
 #### Learning Goal
@@ -169,6 +169,12 @@ Provide a journal or paper. This is a reflective exercise — a quiet space help
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Changing your mind when new evidence appears is a learning skill, not a loss. Ask: "What did I believe first, and what evidence updated it?" Updating beliefs on purpose is how learners get more accurate.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week's sessions, the student should be able to:
 

@@ -83,6 +83,12 @@ This project should belong to the student. Let them choose a topic they care abo
 ---
 
 ## Guided Session 1
+
+:::tip Information Organization Moment
+A media project collects a lot of pieces — claims, sources, images, drafts. Give each kind a home before building: one place for evidence, one for visuals, one for the message notes. Pieces with homes do not get lost.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Choosing a Project Idea
 
 #### Learning Goal
@@ -214,6 +220,12 @@ Provide whatever materials match the student's chosen format: art supplies, a de
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+Before a media project, clear the job and make the first step tiny: "My message is about ___," then open the file and write the title. A clear job makes the rest easier to plan.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 After this week's sessions, the student should be able to:
 

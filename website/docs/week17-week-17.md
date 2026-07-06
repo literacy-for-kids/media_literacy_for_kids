@@ -119,6 +119,12 @@ Students can present their project to a reviewer, receive constructive feedback,
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+During revision, keep feedback organized: what was said, what you changed, and what you decided to keep. A short revision note means the next draft builds on the last one instead of repeating it.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### Revision and Fact-Checking
 
 #### Learning Goal
@@ -193,6 +199,12 @@ Provide all project materials and a quiet workspace. If the student is practicin
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+Revising can go forever without a done-enough check. Ask: "What was the purpose, what parts matter most, and what can wait?" Then decide it is done enough.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 After this week's sessions, the student should be able to:
 

@@ -27,10 +27,6 @@ This week introduces one of the most important concepts in modern media literacy
 A feed can quietly turn into comparison — everyone else looks happier, richer, or cooler. That left-out feeling is a signal worth noticing. Try grounding (feet on the floor, name three true things) and remember a feed shows highlights, not whole lives. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-When something in your feed surprises you, clarify before sharing it: "Is this real, and how do I know?" A quick question to a trusted adult or a second source is communication that stops misinformation from traveling through you. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Key Vocabulary
 
@@ -122,6 +118,10 @@ Students can explain what an algorithm is (a set of rules that decides what to s
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+When something in your feed surprises you, clarify before sharing it: "Is this real, and how do I know?" A quick question to a trusted adult or a second source is communication that stops misinformation from traveling through you. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### The Recommendation Experiment
 
 #### Learning Goal
@@ -186,6 +186,12 @@ Provide a journal or notebook with three columns: "What Was Recommended," "Why I
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+If a false claim fooled you, use it as data: "What clue did I miss?" That question turns one mistake into a stronger checking habit for next time.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week's sessions, the student should be able to:
 

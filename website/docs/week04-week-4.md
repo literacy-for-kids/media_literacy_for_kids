@@ -27,10 +27,6 @@ This is the capstone week for Unit 1. Students put everything from Weeks 1–3 i
 Re-editing the same material into two stories shows that media *creates* meaning — it doesn't just record it. When you share your own version, explain the choices: "I picked this clip and this caption because ___." Naming how you built the meaning is honest communication. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-When a message confuses you, name the problem first: "What is this trying to make me think or feel, and how?" Defining it clearly makes the construction choices behind it visible. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Key Vocabulary
 
 | Term | Definition |
@@ -70,6 +66,10 @@ This is a creative week. Let the student have fun — silly stories are great. T
 ---
 
 ## Guided Session 1
+
+:::tip Problem Solving Moment
+When a message confuses you, name the problem first: "What is this trying to make me think or feel, and how?" Defining it clearly makes the construction choices behind it visible. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 ### Planning the Two Versions
 
 #### Learning Goal
@@ -160,6 +160,12 @@ Provide the student's two completed versions, a journal or paper, and something 
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Explaining how a media message was built is a teach-back: "The big choice here is ___, and an example is ___." The part that is hard to explain is the part to study again.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week's sessions, the student should be able to:
 

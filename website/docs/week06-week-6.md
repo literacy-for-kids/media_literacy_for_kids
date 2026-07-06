@@ -109,6 +109,12 @@ Students can define clickbait, explain why it works (exploiting curiosity), and 
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+Group media work goes better when the jobs are visible. Try roles: one person tracks claims, one tracks evidence, one watches the audience goal. Roles keep one person from quietly doing everything.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Building Our Own Clickbait
 
 #### Learning Goal

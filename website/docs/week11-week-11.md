@@ -84,6 +84,12 @@ The goal is to build *careful observation habits* to visual media without making
 ---
 
 ## Guided Session 1
+
+:::tip Collaboration Moment
+Source checking can be split without being sloppy. Give each person a source and one shared checklist, then compare findings. Split the work, share the standard.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### When Real Things Tell False Stories
 
 #### Learning Goal

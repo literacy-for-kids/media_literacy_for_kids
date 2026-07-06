@@ -156,6 +156,12 @@ Provide paper (two sheets), markers or crayons, scissors and old magazines if av
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Building a media message is easier with a checklist: audience, main idea, one example, and a check. A visible list keeps the steps out of your head.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week's sessions, the student should be able to:
 
 1. **Name three variables**: List at least three "invisible choices" creators make (e.g., colors, words, music, camera angle, what's included/excluded).

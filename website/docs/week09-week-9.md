@@ -140,6 +140,12 @@ Some images, voices, videos, comments, summaries, or screenshots may be AI-gener
 ---
 
 ## Guided Session 2
+
+:::tip Information Organization Moment
+Keep every claim connected to its source and evidence in one row: claim, where it came from, what supports it, and one open question. A claim that loses its source cannot be checked later.
+(More on the [Information Organization Skills](./information-organization.md) page.)
+:::
+
 ### The Verification Toolkit
 
 #### Learning Goal
@@ -217,6 +223,12 @@ Pre-select four items: one clearly reliable, one clearly false or misleading, on
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+When a claim has lots of parts, use a claim-and-evidence checklist. Writing each claim next to its evidence keeps your investigation organized.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 After this week's sessions, the student should be able to:
 

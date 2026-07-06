@@ -27,10 +27,6 @@ Weeks 5–7 focused on ads and clickbait — the commercial side of the attentio
 Persuasion often works by stirring a feeling — excitement, worry, or fear of missing out. When an ad or message makes you suddenly *want* something or *fear* something, name the feeling first: *"This is making me feel ___."* A feeling is a signal, not a command to buy, click, or share. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-When a message is selling an idea or emotion, ask one clear question: "What is this trying to make me believe?" Naming the message's goal out loud — to yourself or a friend — turns a feeling into something you can actually discuss. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Key Vocabulary
 
@@ -114,6 +110,10 @@ Students can identify media that is designed to change opinions, feelings, or be
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+When a message is selling an idea or emotion, ask one clear question: "What is this trying to make me believe?" Naming the message's goal out loud — to yourself or a friend — turns a feeling into something you can actually discuss. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### The Emotional Selling Toolkit
 
 #### Learning Goal
@@ -187,6 +187,12 @@ Provide index cards or small pieces of paper for the gallery cards, markers, and
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Spotting persuasion tricks is a skill that grows with repetition. Practice naming one technique from memory each time you see an ad — small repeats train your brain to notice them faster.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week's sessions, the student should be able to:
 

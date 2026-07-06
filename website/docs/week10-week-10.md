@@ -28,10 +28,6 @@ Younger learners often do the tab-opening and navigation with adult support.
 The most share-worthy posts are often the ones that make us feel the most. Before deciding whether something is true, run a quick fact-vs-story check: *What do I actually know, and what is the post just implying?* A strong reaction is a reason to slow down and verify, not to hit share. (More on the [Coping Skills for Media Overload](./coping-skills.md) page.)
 :::
 
-:::tip Communication Moment
-Lateral reading is really a set of questions: "Who says so? How do we know? What do other sources say?" Asking evidence questions out loud is not rude — it is how careful people check a claim together before passing it on. (More on the [Communication Skills](./communication-skills.md) page.)
-:::
-
 
 ## Key Vocabulary
 
@@ -139,6 +135,10 @@ Students can explain the difference between "vertical reading" (reading one sour
 ---
 
 ## Guided Session 2
+
+:::tip Communication Moment
+Lateral reading is really a set of questions: "Who says so? How do we know? What do other sources say?" Asking evidence questions out loud is not rude — it is how careful people check a claim together before passing it on. (More on the [Communication Skills](./communication-skills.md) page.)
+:::
 ### The Fact-Check Sprint
 
 #### Learning Goal
@@ -228,6 +228,12 @@ Provide a device with a web browser (supervised), a notebook or report template,
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Source-check questions help most when you can recall them without a list. Cover the questions, say them from memory, then check — practicing recall makes checking a habit instead of a lookup.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week's sessions, the student should be able to:
 

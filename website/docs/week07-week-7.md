@@ -171,6 +171,12 @@ Provide the same tracking sheet from Session 2 (or a fresh one), a journal or pa
 
 ## Check for Understanding
 
+:::tip Executive Function Moment
+Checking sources gets easier when you track it outside your head. Make a tiny table: claim, source, evidence, question. That way every tab has a job.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
+
 After this week's sessions, the student should be able to:
 
 1. **Count them**: Report a total number of persuasion attempts found in a block of media.

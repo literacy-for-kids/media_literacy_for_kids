@@ -27,10 +27,6 @@ This is the final week. Students present their finished media project to an audi
 Presenting your media analysis is communication in action: explain your thinking, not just your conclusion. Try the "because bridge" — "I think this message is ___ because ___" — and be ready for questions and feedback. Feedback on your project is information you can use, not a grade on you. (More on the [Communication Skills](./communication-skills.md) page.)
 :::
 
-:::tip Problem Solving Moment
-Treat your project like a test: show it to one person and observe what they actually understood. Their confusion is information for your Version 2, not a verdict on you. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
-:::
-
 ## Key Vocabulary
 
 | Term | Definition |
@@ -84,6 +80,10 @@ This week should feel like a **showcase**, not a test. Every student who complet
 ---
 
 ## Guided Session 1
+
+:::tip Problem Solving Moment
+Treat your project like a test: show it to one person and observe what they actually understood. Their confusion is information for your Version 2, not a verdict on you. (More on the [Problem Solving Skills](./problem-solving-skills.md) page.)
+:::
 ### The Creator Presentation
 
 #### Learning Goal
@@ -195,6 +195,12 @@ Provide a journal, nice paper, or a lined notebook — something that feels slig
 ---
 
 ## Check for Understanding
+
+:::tip Learning Moment
+Feedback can make a media message clearer. After someone reacts to your project, ask: "What part landed the way I meant, and what part confused them?" That answer tells you what to revise.
+(More on the [Learning How to Learn](./learning-how-to-learn.md) page.)
+:::
+
 
 After this week's sessions, the student should be able to:
 

@@ -113,6 +113,12 @@ Students can create a complete (though rough) first draft of their media project
 ---
 
 ## Guided Session 2
+
+:::tip Collaboration Moment
+During a group revision, run a quick check-in: "What is done, what is stuck, and what help is needed?" Check-ins catch a confusing slide or missing source while there is still time to fix it together.
+(More on the [Collaboration Skills](./collaboration-skills.md) page.)
+:::
+
 ### Applying What You've Learned
 
 #### Learning Goal
@@ -186,6 +192,12 @@ Provide all necessary materials for the student's format. Have the Spec Sheet vi
 ---
 
 ## Check for Understanding
+
+:::tip Executive Function Moment
+A media project gets easier when "done" is visible. Before revising, write the main job: "My message should help the audience understand ___." Then check whether each part supports that job.
+(More on the [Executive Function Skills](./executive-function.md) page.)
+:::
+
 
 After this week's sessions, the student should be able to:
 
