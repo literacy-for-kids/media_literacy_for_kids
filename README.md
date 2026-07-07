@@ -7,7 +7,7 @@
 
 A free, open **18-week media literacy curriculum** that teaches young learners to see media not as a window into reality, but as a series of designed artifacts — built by people, delivered by algorithms, and amplified by sharing.
 
-🌐 **View the curriculum website:**  
+🌐 **Use the curriculum here:**
 https://media.literacy-for-kids.com/
 
 ---
@@ -37,62 +37,44 @@ Five core concepts thread through every lesson:
 | 5 | 15–18 | Intentional Production | Planning, creating, and presenting an original media project |
 | Ext. | Bonus | Optional Extensions | AI-Generated Media & News Literacy Deep Dive |
 
-Each week includes:
-
-- two guided sessions
-- one independent creative session
+Each week includes two guided sessions and one independent creative session.
 
 ---
 
-## Repository Structure
+## How to Use It
 
-The curriculum is written as a documentation website built with **Docusaurus**.
+You do not need to run all 18 weeks. Every lesson stands alone as a 10–20 minute discussion or activity — use one lesson, one unit, or the full sequence.
 
-Most of the educational content lives in `website/docs/`.
-
-```
-website/
-  docs/
-    intro.md
-    curriculum-overview.md
-    week01-week-1.md
-    week02-week-2.md
-    ...
-    week18-week-18.md
-    week-extension-1.md
-    week-extension-2.md
-```
+- **New to Literacy for Kids?** The hub's [Start Here guide](https://www.literacy-for-kids.com/docs/start-here/) has dedicated pages [for parents](https://www.literacy-for-kids.com/docs/start-here/parents/) and [for teachers and facilitators](https://www.literacy-for-kids.com/docs/start-here/facilitators/).
+- **Only have 20 minutes?** Pick any week on the [curriculum site](https://media.literacy-for-kids.com/), read the big idea, run one activity, and ask one discussion question.
+- **Want grab-and-go materials?** The [Shared Toolkit Printables](https://www.literacy-for-kids.com/docs/toolkits/printables/) are one-page cards kids can keep nearby.
 
 ---
 
-## Getting Started
+## Shared Skills
 
-### Prerequisites
+This curriculum connects to the seven cross-curriculum [Shared Toolkits](https://www.literacy-for-kids.com/docs/toolkits/) — short life-skill modules that support every literacy: **Coping Skills, Communication, Problem Solving, Learning How to Learn, Executive Function, Collaboration, and Information Organization.**
 
-- [Node.js](https://nodejs.org/) (version 20.0 or above)
-- npm (comes with Node.js)
+The curriculum site includes a local doorway page for each toolkit (connecting the skill to media specifically), and weekly lessons contain "Moment" callouts that surface the right skill at the right time — like keeping a claim connected to its source, or pausing before sharing something upsetting.
 
-### Local Development
+---
 
-```bash
-cd website
-npm install
-npm run start
-```
+## Part of Literacy for Kids
 
-This starts a local development server at `http://localhost:3000`.
+This is one of **nine domain literacies** in the [Literacy for Kids](https://www.literacy-for-kids.com/) ecosystem — free, open-source curricula covering decisions, computers, media, money, civic life, law, emotions and relationships, the environment, and health. Browse them all from the [hub site](https://www.literacy-for-kids.com/) or the [GitHub organization](https://github.com/literacy-for-kids).
 
-### Build for Production
+---
 
-```bash
-npm run build
-```
+## Contributing
+
+Contributions that improve the curriculum are welcome — fixing typos, sharpening explanations, adding examples or activities, or suggesting teaching improvements. Lesson content is plain Markdown under `website/docs/`; fork, edit, and open a pull request. Every page on the live site also has an "Edit this page" link that takes you straight to the file.
 
 ---
 
 ## License
 
 This project uses dual licensing:
+
 - Code (JavaScript, CSS, configuration, build scripts): [MIT License](LICENSE-CODE)
 - Curriculum content (Markdown documents under `website/docs/`): [CC BY-NC-SA 4.0](LICENSE-CONTENT)
 
