@@ -117,7 +117,11 @@ Students can identify common signs of AI-generated images and apply their existi
    - **Background weirdness**: Objects that melt into each other, impossible geometry, repeated patterns
    - **Skin and hair**: Overly smooth skin, hair that merges with the background, inconsistent lighting
 
-   Look at AI images together and hunt for these tells.
+   Look at AI images together and hunt for these tells. Start with this one — it is AI-generated, and it contains a classic error. Hunt for it together: look carefully at the arms and hands. Whose hand is on the laptop? Where does each arm begin?
+
+   ![An AI-generated picture of a woman and a humanoid robot at a laptop — it contains a typical AI error: the arms and hands are merged and ambiguous, so it is unclear whose hand is on the laptop](/img/photos/ai-generated-example.png)
+
+   *AI-generated image (public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Humanoid_robot_and_woman_retrieve_infomation_-_includes_a_visible_typical_error_of_recent_AI_generated_pictures.png)) — shared specifically as a training example.*
 
    **Important caveat**: These visual tells are becoming less reliable as AI technology improves. They are a useful bonus skill, but your most dependable tools are still the ones from Weeks 9–11: check the source, search for the image elsewhere, and ask who benefits from you believing it's real. Visual tells supplement your verification toolkit — they don't replace it.
 

@@ -115,6 +115,16 @@ Students can compare two versions of the same story and identify the specific cr
 
 2. **Photo Framing** — If you have a camera (phone works fine), take a photo of a familiar object from two angles: one looking up from below (makes it look big and powerful), one looking down from above (makes it look small). Show the student both photos and ask which one makes the object seem more important. Explain that filmmakers and photographers use this trick constantly.
 
+   No camera handy? Use these two real photos of the **same tower** (Tokyo Skytree). Ask: "Which photo makes the tower feel powerful? Which makes it feel small? Nothing about the tower changed — only the camera angle."
+
+   ![Tokyo Skytree photographed from directly below: the tower looms overhead, filling the sky and looking enormous and powerful](/img/photos/skytree-low-angle.jpg)
+
+   *Photo: Basile Morin, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Worm%27s-eye_view_of_Tokyo_Skytree_with_vertical_symmetry_impression,_a_sunny_day,_in_Japan.jpg)*
+
+   ![The same Tokyo Skytree photographed from an aircraft: the tower looks small inside the enormous spread of the city around it](/img/photos/skytree-aerial.jpg)
+
+   *Photo: Ian G Shingler, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aerial_view_of_tokyo_skytree.jpg)*
+
 3. **The Music Test** — Pick a calm, everyday activity (pouring a glass of water, opening a door). Describe it out loud twice: once with "imagine happy, bouncy music playing" and once with "imagine slow, creepy violin music playing." Same action — completely different story. If you have a device handy, play actual music clips over the narration.
 
 4. **Analysis Practice** — Show one more video clip or print ad. Have the student fill out a quick analysis using the "variables" list from Session 1: what words did they choose? What colors? What mood do the choices create? What was left out?
