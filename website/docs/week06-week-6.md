@@ -66,6 +66,10 @@ If possible, print or write these on cards so the student can sort and compare t
 Write 3-4 clickbait headlines on index cards or scraps of paper. You can make them up: "You Won't BELIEVE What This Dog Did!" works perfectly. No need to find real ones unless you want to.
 :::
 
+This made-up thumbnail shows every clickbait trick at once — use it to point out the pieces:
+
+![Anatomy of a clickbait thumbnail: a fake video preview with a shocked face, giant red arrow, all-caps curiosity-gap headline — compared with an honest version of the same story](/img/examples/clickbait-anatomy.svg)
+
 :::tip Teaching Mindset
 Clickbait is fun to analyze because it's everywhere and kids already recognize it, even if they don't have a word for it. The goal isn't to make them cynical — it's to help them notice the mechanics. Once they see the formula, it loses much of its power over them.
 :::

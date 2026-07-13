@@ -180,6 +180,8 @@ This five-step process works for any piece of information:
 5. **Decide** — What do I know, what don't I know yet, and what would help me find out more?
 
 Each check gives you a clue, not proof. The more clues you gather, the better your judgment.
+
+![The verification habit in five steps: stop, notice, check, compare, decide](/img/diagrams/verification-strip.svg)
 :::
 
 #### Reflection Questions

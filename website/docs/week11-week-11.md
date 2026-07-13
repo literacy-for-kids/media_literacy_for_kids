@@ -160,6 +160,10 @@ Students can examine a piece of visual media and apply a structured checklist to
 
    Show 3–4 images (a mix of real and manipulated) and have the student examine them like a detective. For each one: "Real, or altered? What's your evidence?"
 
+   Warm up with this drawn training example before moving to real photos:
+
+   ![Spot-the-changes training example: the original drawing shows a kid with a small fish by a lake; the edited version makes the fish huge, adds a trophy, and removes a cloud](/img/examples/photo-pair-manipulated.svg)
+
 2. **The Caption Check** — Show 3 photos with captions. The photos are all real, but the captions may or may not be accurate. Have the student evaluate each caption using the tools from Weeks 9–10 (check the source, check the date, search for it). This connects visual literacy to the verification skills they already have.
 
 3. **Quote Graphics** — Show 2–3 "inspirational quote" images (the kind often shared on social media). At least one should have a misattributed quote. Ask: "Did this person actually say this? How would you check?" Practice searching for the quote to verify attribution.

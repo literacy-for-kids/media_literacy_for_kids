@@ -1,0 +1,70 @@
+<svg viewBox="0 0 860 620" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="cbaTitle">
+  <title id="cbaTitle">Anatomy of a clickbait thumbnail: a fake video preview with a shocked face, giant red arrow pointing at nothing, all-caps headline with a curiosity gap — compared with an honest version of the same story</title>
+  <defs>
+    <marker id="cbaA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="858" height="618" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Anatomy of Clickbait</text>
+  <text x="430" y="64" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">A made-up video thumbnail with every trick turned up to maximum.</text>
+
+  <!-- thumbnail -->
+  <g>
+    <rect x="90" y="90" width="420" height="250" rx="10" fill="#fde047"/>
+    <!-- rays -->
+    <g stroke="#facc15" stroke-width="14">
+      <line x1="300" y1="215" x2="90" y2="95"/><line x1="300" y1="215" x2="300" y2="90"/><line x1="300" y1="215" x2="510" y2="95"/><line x1="300" y1="215" x2="510" y2="215"/><line x1="300" y1="215" x2="90" y2="215"/>
+    </g>
+    <!-- shocked face -->
+    <circle cx="180" cy="215" r="62" fill="#fbbf24" stroke="#b45309" stroke-width="3"/>
+    <circle cx="158" cy="196" r="13" fill="#ffffff" stroke="#1e293b" stroke-width="2.5"/>
+    <circle cx="204" cy="196" r="13" fill="#ffffff" stroke="#1e293b" stroke-width="2.5"/>
+    <circle cx="158" cy="199" r="5" fill="#1e293b"/>
+    <circle cx="204" cy="199" r="5" fill="#1e293b"/>
+    <ellipse cx="181" cy="248" rx="16" ry="22" fill="#1e293b"/>
+    <!-- hands on cheeks -->
+    <ellipse cx="120" cy="245" rx="16" ry="24" fill="#f59e0b" transform="rotate(-20 120 245)"/>
+    <ellipse cx="242" cy="245" rx="16" ry="24" fill="#f59e0b" transform="rotate(20 242 245)"/>
+    <!-- giant red arrow pointing at... a sandwich -->
+    <g transform="translate(370 190) rotate(35)">
+      <rect x="-70" y="-16" width="105" height="32" fill="#dc2626"/>
+      <polygon points="35,-34 95,0 35,34" fill="#dc2626"/>
+    </g>
+    <rect x="418" y="262" width="64" height="34" rx="8" fill="#f8fafc" stroke="#b45309" stroke-width="2"/>
+    <text x="450" y="285" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="18">&#129386;</text>
+    <!-- caps text on image -->
+    <text x="300" y="130" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="26" font-weight="900" fill="#dc2626" stroke="#ffffff" stroke-width="0.8">YOU WON&#8217;T BELIEVE&#8230;</text>
+    <!-- headline under thumbnail -->
+    <text x="90" y="368" font-family="'Segoe UI', system-ui, sans-serif" font-size="16.5" font-weight="700" fill="#1e293b">KID EATS LUNCH AND WHAT HAPPENS NEXT WILL SHOCK YOU!!! &#128561;</text>
+    <text x="90" y="390" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#94a3b8">2.1M views &#183; FreakoutFacts (a made-up channel)</text>
+  </g>
+
+  <!-- callouts -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5">
+    <line x1="560" y1="140" x2="516" y2="128" stroke="#dc2626" stroke-width="2.5" marker-end="url(#cbaA)"/>
+    <text x="570" y="132" fill="#1e293b" font-weight="700">ALL CAPS + &#8220;you won&#8217;t believe&#8221;</text>
+    <text x="570" y="150" fill="#64748b">promises a shock it can&#8217;t deliver</text>
+
+    <line x1="560" y1="205" x2="255" y2="215" stroke="#dc2626" stroke-width="2.5" marker-end="url(#cbaA)"/>
+    <text x="570" y="200" fill="#1e293b" font-weight="700">shocked face</text>
+    <text x="570" y="218" fill="#64748b">big emotion = big clicks</text>
+
+    <line x1="560" y1="270" x2="495" y2="282" stroke="#dc2626" stroke-width="2.5" marker-end="url(#cbaA)"/>
+    <text x="570" y="266" fill="#1e293b" font-weight="700">giant red arrow&#8230; at a sandwich</text>
+    <text x="570" y="284" fill="#64748b">fake importance</text>
+
+    <line x1="640" y1="330" x2="600" y2="356" stroke="#dc2626" stroke-width="2.5" marker-end="url(#cbaA)"/>
+    <text x="650" y="322" fill="#1e293b" font-weight="700">the curiosity gap</text>
+    <text x="590" y="410" fill="#64748b">tells you just enough to make you itch &#8212;</text>
+    <text x="590" y="427" fill="#64748b">never the actual answer</text>
+  </g>
+
+  <!-- honest version -->
+  <rect x="90" y="430" width="680" height="120" rx="12" fill="#f0fdf4" stroke="#16a34a" stroke-width="2.5"/>
+  <text x="110" y="462" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" font-weight="700" fill="#166534">THE SAME STORY, TOLD HONESTLY:</text>
+  <text x="110" y="492" font-family="'Segoe UI', system-ui, sans-serif" font-size="16" fill="#1e293b">&#8220;Student tries a new sandwich at lunch and likes it&#8221;</text>
+  <text x="110" y="522" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">Fewer clicks&#8230; but it respects your time and tells you what actually happened.</text>
+
+  <text x="430" y="590" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#64748b">Clickbait is not an accident &#8212; every piece is designed to make your brain itch until you click.</text>
+</svg>

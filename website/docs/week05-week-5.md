@@ -126,7 +126,13 @@ Students can distinguish between content and advertising, even when advertising 
 
 #### Activities
 
-1. **Spot the Ad** — Show a social media feed screenshot (or draw a simplified one on paper). Mix in regular posts and sponsored/advertised posts. Have the student circle everything they think is an ad. Then reveal the answers. Were any ads hiding as regular posts?
+1. **Spot the Ad** — Show a social media feed screenshot (or use the made-up feed below). Mix in regular posts and sponsored/advertised posts. Have the student circle everything they think is an ad. Then reveal the answers. Were any ads hiding as regular posts?
+
+   ![A made-up social media feed with five posts — some are regular posts from friends and community groups, and some are advertising](/img/examples/spot-the-ad-feed.svg)
+
+   When the student has made their picks, reveal the answer key:
+
+   ![The same made-up feed with the two advertising posts circled: one labeled Sponsored, and one sneaky influencer post with a tiny hashtag-ad](/img/examples/spot-the-ad-answers.svg)
 
 2. **The Disguise Game** — Discuss three ways ads hide:
    - **Sponsored posts** that look like regular content

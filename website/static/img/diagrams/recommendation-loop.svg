@@ -1,0 +1,48 @@
+<svg viewBox="0 0 760 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="rlTitle">
+  <title id="rlTitle">The recommendation loop: you watch something, the app records what held your attention, the algorithm finds similar content, your feed gets more of the same, and you watch more — around and around, with the feed narrowing each lap</title>
+  <defs>
+    <marker id="rlA" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 z" fill="#dc2626"/>
+    </marker>
+  </defs>
+  <rect x="1" y="1" width="758" height="518" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="380" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">How Your Feed Learns You</text>
+
+  <!-- loop arrows -->
+  <g stroke="#dc2626" stroke-width="3" fill="none">
+    <path d="M475,140 A210,150 0 0 1 578,272" marker-end="url(#rlA)"/>
+    <path d="M568,320 A210,150 0 0 1 462,438" marker-end="url(#rlA)"/>
+    <path d="M298,438 A210,150 0 0 1 192,320" marker-end="url(#rlA)"/>
+    <path d="M182,272 A210,150 0 0 1 285,140" marker-end="url(#rlA)"/>
+  </g>
+
+  <!-- nodes -->
+  <g font-family="'Segoe UI', system-ui, sans-serif" text-anchor="middle">
+    <g transform="translate(380 118)">
+      <rect x="-95" y="-30" width="190" height="60" rx="12" fill="#dc2626"/>
+      <text y="-4" font-size="14.5" font-weight="700" fill="#ffffff">1 &#183; you watch</text>
+      <text y="16" font-size="12.5" fill="#fecaca">a skateboard video</text>
+    </g>
+    <g transform="translate(600 296)">
+      <rect x="-95" y="-30" width="190" height="60" rx="12" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+      <text y="-4" font-size="14.5" font-weight="700" fill="#991b1b">2 &#183; the app records</text>
+      <text y="16" font-size="12.5" fill="#64748b">what held your attention</text>
+    </g>
+    <g transform="translate(380 468)">
+      <rect x="-95" y="-30" width="190" height="60" rx="12" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+      <text y="-4" font-size="14.5" font-weight="700" fill="#991b1b">3 &#183; it finds similar</text>
+      <text y="16" font-size="12.5" fill="#64748b">more skateboard videos</text>
+    </g>
+    <g transform="translate(160 296)">
+      <rect x="-95" y="-30" width="190" height="60" rx="12" fill="#fef2f2" stroke="#dc2626" stroke-width="2"/>
+      <text y="-4" font-size="14.5" font-weight="700" fill="#991b1b">4 &#183; your feed fills up</text>
+      <text y="16" font-size="12.5" fill="#64748b">&#8230;so you watch more</text>
+    </g>
+  </g>
+
+  <!-- center -->
+  <text x="380" y="285" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#991b1b">every lap, the feed</text>
+  <text x="380" y="307" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#991b1b">gets narrower</text>
+  <text x="380" y="332" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#64748b">the algorithm shows what you&#8217;ll watch,</text>
+  <text x="380" y="349" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#64748b">not what you&#8217;d love to discover</text>
+</svg>

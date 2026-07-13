@@ -128,6 +128,8 @@ When something in your feed surprises you, clarify before sharing it: "Is this r
 
 Students can describe how interacting with content (liking, watching, searching) changes what the algorithm shows next, and begin to see their feed as a curated, not neutral, experience.
 
+![The recommendation loop: you watch, the app records what held your attention, it finds similar content, your feed fills up, and you watch more — with the feed narrowing every lap](/img/diagrams/recommendation-loop.svg)
+
 #### Activities
 
 1. **Before and After** — If you have a device available, look at the home page or "recommended" section. Take a screenshot or write down the top 5 suggestions. Then deliberately watch or interact with something *very different* from what's usually shown (if the feed is all gaming, watch a cooking video all the way through). Check the recommendations again later. Did anything change? (Even a small shift demonstrates the algorithm responding.)

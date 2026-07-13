@@ -105,7 +105,9 @@ Students understand that every piece of media was created by a real person (or t
 
 1. **The Invisible Creator** — Pick one example from Session 1 (a cereal box works well). Ask: "Who made this?" Not just the company name — think about the people. Someone chose the colors. Someone wrote the words. Someone decided what picture to put on the front. Someone decided what NOT to put on the front.
 
-2. **Two Boxes, One Cereal** — Show the student two different packages for similar products (or draw/describe two imaginary ones). One might be bright and fun with a cartoon character; the other might be plain and earthy with words like "natural" and "whole grain." Ask: "These are both selling cereal. Why do they look so different?" Guide the conversation toward the idea that **different choices create different feelings**.
+2. **Two Boxes, One Cereal** — Show the student two different packages for similar products (or use the made-up pair below). One might be bright and fun with a cartoon character; the other might be plain and earthy with words like "natural" and "whole grain." Ask: "These are both selling cereal. Why do they look so different?" Guide the conversation toward the idea that **different choices create different feelings**.
+
+   ![Two made-up cereal boxes selling similar cereal: a loud purple box with a cartoon mascot aimed at kids, and a plain earthy box with words like natural and whole grain aimed at parents](/img/examples/cereal-boxes.svg)
 
 3. **The Creator Questions** — Introduce three questions the student can ask about any piece of media. These are the first three questions of **The Media Checkpoint** — a routine they'll build on throughout the entire course:
    - **What am I looking at?** (What type of media is this?)

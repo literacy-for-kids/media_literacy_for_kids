@@ -1,0 +1,67 @@
+<svg viewBox="0 0 860 560" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ppTitle">
+  <title id="ppTitle">Training example of a manipulated picture: the original shows a kid holding a small fish by a lake; the altered version shows the same scene with the fish made huge, a trophy added, and a cloud removed</title>
+  <rect x="1" y="1" width="858" height="558" rx="16" fill="#ffffff" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="430" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="22" font-weight="700" fill="#1e293b">Spot the Changes (Training Example)</text>
+  <text x="430" y="64" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="14" fill="#64748b">Same scene, but one picture has been edited. Can you find all three changes?</text>
+
+  <!-- ORIGINAL -->
+  <g>
+    <rect x="55" y="90" width="360" height="300" rx="10" fill="#bae6fd"/>
+    <!-- sun + clouds -->
+    <circle cx="120" cy="140" r="24" fill="#fde047"/>
+    <ellipse cx="250" cy="130" rx="42" ry="16" fill="#ffffff"/>
+    <ellipse cx="345" cy="160" rx="34" ry="13" fill="#ffffff"/>
+    <!-- lake + grass -->
+    <rect x="55" y="290" width="360" height="100" fill="#7dd3fc"/>
+    <rect x="55" y="270" width="360" height="24" fill="#86efac"/>
+    <!-- kid -->
+    <circle cx="200" cy="235" r="20" fill="#fbbf24"/>
+    <rect x="184" y="255" width="32" height="48" rx="10" fill="#3b82f6"/>
+    <rect x="172" y="258" width="14" height="34" rx="7" fill="#3b82f6" transform="rotate(28 179 275)"/>
+    <rect x="214" y="258" width="14" height="34" rx="7" fill="#3b82f6" transform="rotate(-28 221 275)"/>
+    <!-- small fish in hand -->
+    <g transform="translate(248 270)">
+      <ellipse cx="0" cy="0" rx="20" ry="9" fill="#94a3b8"/>
+      <polygon points="18,0 30,-8 30,8" fill="#94a3b8"/>
+      <circle cx="-10" cy="-2" r="2" fill="#1e293b"/>
+    </g>
+    <text x="235" y="418" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#16a34a">ORIGINAL</text>
+  </g>
+
+  <!-- EDITED -->
+  <g>
+    <rect x="445" y="90" width="360" height="300" rx="10" fill="#bae6fd"/>
+    <circle cx="510" cy="140" r="24" fill="#fde047"/>
+    <ellipse cx="640" cy="130" rx="42" ry="16" fill="#ffffff"/>
+    <!-- (second cloud removed) -->
+    <rect x="445" y="290" width="360" height="100" fill="#7dd3fc"/>
+    <rect x="445" y="270" width="360" height="24" fill="#86efac"/>
+    <!-- kid -->
+    <circle cx="565" cy="235" r="20" fill="#fbbf24"/>
+    <rect x="549" y="255" width="32" height="48" rx="10" fill="#3b82f6"/>
+    <rect x="537" y="258" width="14" height="34" rx="7" fill="#3b82f6" transform="rotate(28 544 275)"/>
+    <rect x="579" y="258" width="14" height="34" rx="7" fill="#3b82f6" transform="rotate(-28 586 275)"/>
+    <!-- HUGE fish -->
+    <g transform="translate(670 265)">
+      <ellipse cx="0" cy="0" rx="62" ry="30" fill="#94a3b8"/>
+      <polygon points="55,0 95,-26 95,26" fill="#94a3b8"/>
+      <circle cx="-32" cy="-8" r="6" fill="#1e293b"/>
+    </g>
+    <!-- added trophy -->
+    <g transform="translate(495 320)">
+      <rect x="-10" y="18" width="20" height="8" fill="#ca8a04"/>
+      <rect x="-6" y="8" width="12" height="12" fill="#ca8a04"/>
+      <path d="M-14,-14 L14,-14 L10,8 L-10,8 Z" fill="#facc15"/>
+      <path d="M-14,-12 C-26,-12 -26,2 -12,2" fill="none" stroke="#facc15" stroke-width="4"/>
+      <path d="M14,-12 C26,-12 26,2 12,2" fill="none" stroke="#facc15" stroke-width="4"/>
+    </g>
+    <text x="625" y="418" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="15" font-weight="700" fill="#dc2626">EDITED</text>
+  </g>
+
+  <g font-family="'Segoe UI', system-ui, sans-serif" font-size="13.5" fill="#1e293b">
+    <text x="430" y="455" text-anchor="middle">Changes: the fish became enormous &#183; a trophy appeared &#183; a cloud vanished.</text>
+    <text x="430" y="480" text-anchor="middle" fill="#64748b">Real edits are usually sneakier than this &#8212; but the checking habit is the same:</text>
+    <text x="430" y="503" text-anchor="middle" font-weight="600">Does anything look too perfect, oddly sized, or strangely empty?</text>
+  </g>
+  <text x="430" y="540" text-anchor="middle" font-family="'Segoe UI', system-ui, sans-serif" font-size="12.5" fill="#94a3b8">This is a drawn training example &#8212; both &#8220;photos&#8221; are illustrations made for practice.</text>
+</svg>
