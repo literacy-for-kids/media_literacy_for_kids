@@ -97,6 +97,8 @@ Students can explain that "free" content is usually paid for by advertisers, and
    - **Advertiser** → pays the app → to show you those ads
    - **App** → keeps you watching → makes more money from advertisers
 
+   ![Follow the money in a free app: you give the app your time and attention, the app shows you ads, and the advertiser pays the app to put ads in front of your eyes](/img/diagrams/follow-the-money.svg)
+
 3. **Paid vs. Free** — Show the comparison: a paid app (like a one-time-purchase game with no ads) vs. a free version (with ads, pop-ups, or "watch a video to earn coins"). Ask: "Why would a company give something away for free? What do they get in return?"
 
 4. **Anchor Concept** — Introduce the second core idea: *The incentive dictates the signal.* Explain: "Incentive" means "what the creator gets out of it." If ad revenue is a major incentive, the creator is motivated to keep you watching. That can influence what kind of content they make and how they present it.
