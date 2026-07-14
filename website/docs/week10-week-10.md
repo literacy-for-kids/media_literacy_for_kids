@@ -184,6 +184,8 @@ Some screenshots, summaries, and comments may be AI-generated or AI-edited. That
 
 :::tip 🔍 Verification Habit Reminder
 Keep using the five-step process from Week 9: **Stop → Notice → Check → Compare → Decide.** This week, the *Compare* step gets a major upgrade — lateral reading and source comparison are how you do it well.
+
+![The verification habit in five steps: stop, notice, check, compare, decide](/img/diagrams/verification-strip.svg)
 :::
 
 #### Reflection Questions

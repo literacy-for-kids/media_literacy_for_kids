@@ -128,6 +128,8 @@ Students can define confirmation bias and recognize it as a natural tendency tha
    Draw the loop on paper:
    - You believe X → You click on X → Algorithm shows more X → You believe X even more → ...
 
+   ![The bias and algorithm feedback loop drawn as a circle: you believe X, you click on X, the algorithm shows more X, you believe X even more, and around it goes](/img/diagrams/belief-loop.svg)
+
 4. **The Challenge Exercise** — Give the student a statement they probably agree with (keep it light: "Pizza is the best food"). Ask: "Now, try to think of the BEST argument AGAINST this. Not a silly argument — the strongest, most reasonable one you can come up with." This is hard! Acknowledge that. Explain: "This discomfort is confirmation bias pushing back. It wants you to stay comfortable. Fighting it takes effort — but it's worth it."
 
    **Epistemic guardrail:** Seeking other perspectives is a strength, not a weakness. But being open-minded doesn't mean treating all claims as equally valid. Some claims have strong evidence; others don't. "Everyone has their own truth" sounds fair, but it can be misleading — facts exist independently of opinion. The skill is distinguishing between *perspectives* (which can legitimately differ) and *facts* (which can be checked). You can respect someone's viewpoint while still asking: "What's the evidence?"
