@@ -40,7 +40,7 @@ In Weeks 9–10 you learned to tell news from opinion and to compare how differe
 This extension goes deeper into how journalism actually works. Students move from *evaluating individual articles* (Weeks 9–10) to understanding *the system that produces them* — drawing on construction awareness (Unit 1), attention economics (Unit 2), and algorithmic thinking (Unit 4).
 
 :::tip 🔄 Bring Forward
-**From Weeks 9–10:** Students can distinguish news from opinion, compare two sources on the same story, and apply the Three-Tab Rule. This extension assumes those skills are solid and goes deeper.
+**From Weeks 9–10:** Students can distinguish news from opinion, compare two sources on the same story, and apply the Evidence-Origin Check. This extension assumes those skills are solid and goes deeper.
 
 **From Week 5:** Follow the money. News outlets have business models too — ads, subscriptions, donations, or government funding. Those incentives shape coverage choices, but they don't automatically corrupt them. The skill is noticing the incentive and evaluating the work.
 
@@ -126,7 +126,7 @@ Students can evaluate a news source using a structured set of criteria they deve
    | What's the overall tone? | | | |
    | What's left out or barely mentioned? | | | |
 
-   Discuss: "With three sources, you can see patterns that two sources can't reveal. If Sources A and B agree but C doesn't, that's worth investigating. If all three include the same core facts but differ on emphasis, that tells you about construction choices rather than accuracy."
+   Discuss: "With three sources, you can see patterns that two sources can't reveal. If Sources A and B agree but C doesn't, that's worth investigating. If all three include the same core facts, trace their evidence origins before treating that agreement as corroboration. They may share a press release or one reporting chain. Differences in emphasis can reveal construction choices, while accuracy requires checking the underlying evidence."
 
 2. **Why Coverage Differs** — Discuss the reasons sources cover the same event differently:
    - **Audience** — who the outlet is writing for shapes what they emphasize

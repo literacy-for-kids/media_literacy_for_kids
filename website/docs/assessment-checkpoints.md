@@ -286,3 +286,8 @@ Assessment here is a **conversation** — a chance for the student to show what 
 :::tip Assessment Is a Conversation
 The best assessment in this curriculum happens when you simply talk with the student about media they encounter in real life. If they start asking "Who made this?" and "What are they trying to make me feel?" — unprompted, outside of lesson time — they've learned what matters most.
 :::
+
+
+## Week 10 Evidence-Origin Check
+
+At the Weeks 9–11 checkpoint, use Claim 1 from the [Fact-Check Sprint Packet](./fact-check-packet.md). A learner demonstrates the core skill by explaining that A–C share a repetition chain, using D or E for the relevant schedule or observation, and stating what the evidence does not establish. Reading three websites alone is not the success criterion.

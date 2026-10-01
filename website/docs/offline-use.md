@@ -43,3 +43,8 @@ Facilitators only need the printed lesson -- students do not need to hold any ma
 
 Offline formats protect student privacy naturally: nothing is typed, submitted, or stored.
 No student names or responses need to be recorded.
+
+
+## Ready-to-Run Verification Activity
+
+[The Fact-Check Sprint Packet](./fact-check-packet.md) supplies fictional claims, full source cards, dependency notes, a report form, and answers for Week 10. It requires no searching or account access and teaches independence of evidence rather than counting websites.

@@ -131,3 +131,12 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 - **Caregivers**: Use this page to preview vocabulary before teaching a week, or to refresh your own understanding.
 - **Everyone**: Don't try to memorize the whole list. Learn each term when it comes up naturally in the curriculum.
 :::
+
+
+## Evidence Origins (Weeks 9–10)
+
+**Independent corroboration:** Relevant support from a separate observation, record, or investigation. Different websites can reuse the same evidence.
+
+**Repeated claim:** A statement copied or paraphrased from an upstream source without adding new evidence.
+
+**Evidence-Origin Check:** Ask who knows, how they know, and whether the apparent confirmations share one origin. A source count is not proof.

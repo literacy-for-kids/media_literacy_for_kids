@@ -97,6 +97,7 @@ const sidebars = {
         'materials',
         'glossary',
         'media-detective-notebook',
+        'fact-check-packet',
         'assessment-checkpoints',
         'final-project-rubric',
         'discussion-prompts',

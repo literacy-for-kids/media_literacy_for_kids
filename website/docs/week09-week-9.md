@@ -162,7 +162,7 @@ Students can use three basic verification techniques: checking the source, check
 
    Practice: show 2 examples and have the student find the publication date.
 
-3. **Tool 3: Search for It Somewhere Else** — This is one of the most useful verification habits. Instead of just reading one source, search for the same claim using a search engine. Are other trustworthy sources reporting the same thing? If only one place is saying it, that's worth noting — though it doesn't automatically mean it's false. If many reliable sources confirm it, that increases your confidence. The goal is to gather clues, not to prove something with a single check.
+3. **Tool 3: Search for It Somewhere Else** — This is one of the most useful verification habits. Instead of just reading one source, search for the same claim using a search engine. Are other trustworthy sources reporting the same thing? If only one place is saying it, that's worth noting — though it doesn't automatically mean it's false. Confidence should increase when relevant evidence supports the claim, especially when a separate record or investigation corroborates it. Many pages copying one claim are not independent confirmation. The goal is to gather clues, not to prove something with a single check.
 
    Practice together: take one claim from an example, type it into a search engine, and see what comes up. Discuss what you find.
 
@@ -206,7 +206,7 @@ For each one, use all three tools:
 3. **Search for it**: Can you find the same claim reported by other sources?
 
 After checking, give each item a **Trust Rating**:
-- 🟢 **Seems reliable** — good source, current, confirmed by others
+- 🟢 **Seems reliable** — relevant source, appropriate date, evidence checked rather than merely repeated
 - 🟡 **Uncertain** — something doesn't check out, need more info
 - 🔴 **Unreliable** — bad source, outdated, or nobody else is reporting it
 
