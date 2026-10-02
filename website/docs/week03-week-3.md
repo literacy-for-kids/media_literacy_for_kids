@@ -137,6 +137,26 @@ Students can compare two versions of the same story and identify the specific cr
 
 ---
 
+## Core Practice: Same Numbers, Different Chart Story
+
+**Time:** 20 minutes; use as the side-by-side comparison in Guided Session 2. **Goal:** check labels, baseline, and claim before trusting a chart. **Materials:** the image below or paper to draw both charts. No browsing or accounts needed.
+
+**Fictional data:** visits counted during two equally long library activity sessions: **Tuesday 40 visits; Thursday 60 visits**. Counts are visits, not unique people. These two sessions do not represent every day or explain why the counts changed.
+
+![Two charts of the same fictional library visits: Tuesday 40 and Thursday 60. Chart A starts at zero; Chart B starts at 35 and makes the increase look much larger.](/img/diagrams/library-chart-comparison.svg)
+
+**Text alternative:** Chart A's count axis goes from 0 to 60 in steps of 10. Its bars rise from 0 to 40 and 60. Chart B's axis goes from 35 to 60 in steps of 5. Its bars rise from 35 to 40 and 60, so their visible lengths are 5 and 25. Both print the true values 40 and 60, but only A shows full lengths from zero.
+
+1. Cover the value labels. Which chart makes Thursday look much busier? Now uncover the labels: did the data change? **No. The baseline changed.**
+2. Test the headline "Visits increased fivefold!" against the table. `60 ÷ 40 = 1.5`, not 5. The increase is 20 visits, or `20 ÷ 40 = 50%`. Chart B's visible bars have a 5:1 length ratio because the first 35 visits are cut off; that is not the ratio of the counts.
+3. Redraw B as a bar chart starting at zero, with equal tick spacing, both session labels, count units, true values, and the source note "Invented classroom data."
+4. Write a supported caption: "The Thursday session recorded 60 visits, compared with 40 on Tuesday — 20 more, or 50% higher, in these two sessions." Do not claim the whole library's attendance trend or a cause.
+5. Before sharing any chart, ask: Who counted what? Which dates and groups? What units? Where does the scale start? Are intervals equal? Does the headline match the numbers? What is missing?
+
+**Facilitator notes:** A truncated bar chart can distort length comparisons. A narrowed axis on another chart type can sometimes reveal a small change if clearly labeled; "not zero" alone does not prove deception. Check the claim and context, not just the visual style.
+
+**Check and answer guide:** both charts contain 40 and 60; Thursday is 1.5 times Tuesday, not five times; the dataset cannot tell why or describe a long-term trend. **Simplify:** use 4 and 6 blocks and a zero-based drawing. **Extend:** evaluate a chart that omits the date or switches from counts to percentages without identifying the denominator. **Artifact:** a corrected chart and limited caption.
+
 ## Independent Session
 ### Mood Board Challenge
 
@@ -163,6 +183,13 @@ When you're done, compare them. Same topic, two completely different feelings �
 Provide paper (two sheets), markers or crayons, scissors and old magazines if available for collage, and a flat workspace. A timer set for 25 minutes works well — suggest spending about 12 minutes on each mood board.
 
 ---
+
+
+## Optional Depth and Worked Response
+
+**Supplied practice, about 15–20 minutes:** [Week 3's fictional scenario, illustrative response, and depth question](./worked-examples-and-optional-depth.md#week-3) are ready to use after this week's core teaching. Choose the depth question by readiness and interest; it is not a prerequisite or core assessment requirement.
+
+**Open research prompts:** Enrichment suggestions that ask you to locate sources, investigate a real case, choose a tool, or contact someone **without supplying the teaching material** need adult preparation and verified materials. Such suggestions are optional, not a supplied packet. A tool activity with provided instructions remains supplied instruction, though adult setup may be needed. Use the linked fictional practice when outside preparation or access is unavailable.
 
 ## Check for Understanding
 

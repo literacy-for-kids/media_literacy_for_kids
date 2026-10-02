@@ -262,3 +262,11 @@ Students will not just learn about media — they will learn to **question it, v
 By the end of the program, students will understand not just how to consume media — but how the media system works and how to navigate it with confidence and integrity.
 
 Most importantly, they will build **confidence navigating an information landscape** — not through fear, but through understanding.
+
+## Practical Core Skills
+
+[Week 3 compares two charts of the same fictional data](./week03-week-3.md#core-practice-same-numbers-different-chart-story), checks a misleading headline, and builds a corrected chart with a limited claim. Each activity includes materials, timing, a worked example, and a learning check. Follow the suggested substitution or add a meeting rather than fitting every activity into one short session.
+
+## Worked Examples and Optional Depth
+
+Use the [supplied weekly practice cards](./worked-examples-and-optional-depth.md) for fictional scenarios, illustrative responses, and one bounded depth question for each core week. Allow about 15–20 minutes per selected card after its core teaching. Depth is optional and does not change checkpoint requirements. Suggestions that require the adult to locate or construct missing sources, tool activities, interview records, or real-case materials are **open research prompts**, which need preparation and verification; use a supplied card when that preparation is unavailable. Assess evidence, reasoning, and limits, with oral, drawn, or written responses.

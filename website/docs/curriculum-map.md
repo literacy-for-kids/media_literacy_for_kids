@@ -10,7 +10,7 @@ sidebar_label: Curriculum Map
 |---|---|---|---|---|---|---|
 | 1 | What IS Media? | What counts as media, and who makes it? | Media identification | media, audience, message, medium | Name five types of media you encountered today | Find one piece of media made by a person your age |
 | 2 | Who Made This and Why? | What are the four purposes behind media? | Purpose identification | inform, entertain, persuade, sell | Take one piece of media and identify which purpose it serves | Find one example of each of the four purposes |
-| 3 | The Invisible Choices | How do production choices change how a story feels? | Production technique analysis | framing, tone, angle, word choice | Describe how one production choice changed your reaction to a media piece | Take the same photo with two different framings |
+| 3 | The Invisible Choices | How do production choices change how a story feels? | Production technique analysis | framing, tone, angle, word choice, baseline, units, percentage change | Describe how one production choice changed your reaction to a media piece; Explain why 40→60 is 50% higher, not fivefold | Take the same photo with two different framings |
 | 4 | The Re-Edit | Can the same material tell different stories? | Media construction activity | perspective, editing, narrative, bias | After the activity: what did you notice about how editing changed the story? | Find two news stories about the same event -- compare the choices |
 | 5 | The Price of Free | How do free websites and apps actually make money? | Business model analysis | advertisement, data, engagement, platform | How does YouTube make money if it is free? | Spend 10 minutes counting ads on a free platform |
 | 6 | The Clickbait Machine | How are headlines designed to capture attention? | Headline analysis | clickbait, curiosity gap, thumbnail, engagement | Identify three techniques in one clickbait headline you find | Rewrite three clickbait headlines to be accurate instead |
@@ -28,3 +28,15 @@ sidebar_label: Curriculum Map
 | 18 | The Signal Broadcast | What did I learn about media and about myself as a consumer and creator? | Synthesis and presentation | reflection, broadcast, media literacy | Name one thing that changed about how you consume media over this curriculum | Create a one-paragraph "media manifesto" for yourself |
 | Ext. 1 | AI-Generated Media | How do I recognize AI-generated content? | AI media analysis | generative AI, deepfake, synthetic media | Name two techniques for spotting AI-generated images | Find and analyze a piece of AI-generated media |
 | Ext. 2 | Journalism Deep Dive | How do professional newsrooms work? | Journalism analysis | editorial independence, sourcing, newsroom, credibility | What is editorial independence? Why does it matter? | Research the funding model of one news organization |
+
+## Practical Core Activities
+
+These activities are integrated into the existing weeks. Use the lesson's suggested substitution or add a meeting; they do not add new curriculum weeks.
+
+| Week | Added core skill | Evidence to collect |
+|---|---|---|
+| 3 | Chart construction | Check baseline, units, raw values, and limited claim |
+
+## Optional-Work Status Key
+
+The map’s extension column is enrichment, not core assessment. An invitation to locate or construct missing source, current-case, interview, or tool-activity material is an **open research prompt** needing adult selection, verification, and additional preparation. Supplied tool instructions remain supplied teaching, with their stated setup needs. For a **supplied practice** alternative, use the [weekly worked examples](./worked-examples-and-optional-depth.md), which include the fictional scenario, illustrative response, and bounded depth question. Choose one activity after the corresponding core teaching; do not require both routes.

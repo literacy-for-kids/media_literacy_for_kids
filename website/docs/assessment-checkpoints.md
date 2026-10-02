@@ -291,3 +291,11 @@ The best assessment in this curriculum happens when you simply talk with the stu
 ## Week 10 Evidence-Origin Check
 
 At the Weeks 9–11 checkpoint, use Claim 1 from the [Fact-Check Sprint Packet](./fact-check-packet.md). A learner demonstrates the core skill by explaining that A–C share a repetition chain, using D or E for the relevant schedule or observation, and stating what the evidence does not establish. Reading three websites alone is not the success criterion.
+
+## Week 3 Chart Check in Unit 1
+
+Use the [same-numbers chart activity](./week03-week-3.md#core-practice-same-numbers-different-chart-story). Ask learners to locate the units and baseline, test "fivefold," and rewrite the caption. Look for **40 → 60 = 20 more / 50% higher**, with a claim limited to two fictional sessions. If the learner follows bar length alone, revisit the raw table and draw from zero. Use blocks and oral explanation for the younger route.
+
+## Using Worked Responses Without Expanding the Core Assessment
+
+The [worked-example cards](./worked-examples-and-optional-depth.md) offer an illustrative response for each core week. Use the scenario to check the already taught idea and reasoning; sample wording is not a scoring key. Additional depth questions, technical vocabulary, and optional modules are enrichment, not requirements for moving to the next core week. External research, a new account, real-world contact, private disclosure, or public presentation is not required by these practice cards. If a core idea remains unclear, reteach it before adding depth. Accept oral, drawn, sorted, or written evidence appropriate to the learner.

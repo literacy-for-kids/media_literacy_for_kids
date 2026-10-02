@@ -140,3 +140,14 @@ Use this page as a reference throughout the course. Terms are listed in the orde
 **Repeated claim:** A statement copied or paraphrased from an upstream source without adding new evidence.
 
 **Evidence-Origin Check:** Ask who knows, how they know, and whether the apparent confirmations share one origin. A source count is not proof.
+
+## Practical and Optional-Depth Vocabulary
+
+These entries align the worked examples and added practical activities with the core lessons. Optional-module vocabulary is not required for core progression.
+
+| Term | Meaning and limit | Taught in |
+|---|---|---|
+| **Chart baseline** | Where a displayed scale starts. Cropped bar lengths can distort comparisons even when printed values are correct. | Week 3 |
+| **Units and denominator** | Units say what is measured; a denominator states the total a fraction or percentage is compared with. | Weeks 3 and 8–10 |
+| **Evidence origin** | The record, observation, or other source a claim ultimately depends on; copying that source does not create independent evidence. | Weeks 9–10 |
+| **Provenance** | Information about where an image or claim came from and how it was made or reused; appearance alone does not establish it. | Optional AI media |

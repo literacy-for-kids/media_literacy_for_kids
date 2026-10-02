@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc">
+<title id="title">Same visits, different chart baselines</title>
+<desc id="desc">Fictional counts: Tuesday 40 and Thursday 60 visits in equally long sessions. Chart A has a zero baseline. Chart B starts at 35, making visible bar lengths 5 and 25. The data are unchanged.</desc>
+<rect width="1000" height="620" fill="#fff"/>
+<g font-family="Arial, sans-serif" fill="#172b4d">
+<text x="500" y="42" font-size="28" text-anchor="middle" font-weight="bold">Same data. Different visual impression.</text>
+<text x="500" y="78" font-size="20" text-anchor="middle" font-weight="normal">Library activity visits • invented classroom data</text>
+<text x="290" y="126" font-size="25" text-anchor="middle" font-weight="bold">A: baseline 0</text>
+<text x="80" y="151" font-size="18" text-anchor="start" font-weight="normal">Visits (count)</text>
+<line x1="135" y1="460.0" x2="455" y2="460.0" stroke="#d5deea"/>
+<text x="123" y="467.0" font-size="18" text-anchor="end" font-weight="normal">0</text>
+<line x1="135" y1="410.0" x2="455" y2="410.0" stroke="#d5deea"/>
+<text x="123" y="417.0" font-size="18" text-anchor="end" font-weight="normal">10</text>
+<line x1="135" y1="360.0" x2="455" y2="360.0" stroke="#d5deea"/>
+<text x="123" y="367.0" font-size="18" text-anchor="end" font-weight="normal">20</text>
+<line x1="135" y1="310.0" x2="455" y2="310.0" stroke="#d5deea"/>
+<text x="123" y="317.0" font-size="18" text-anchor="end" font-weight="normal">30</text>
+<line x1="135" y1="260.0" x2="455" y2="260.0" stroke="#d5deea"/>
+<text x="123" y="267.0" font-size="18" text-anchor="end" font-weight="normal">40</text>
+<line x1="135" y1="210.0" x2="455" y2="210.0" stroke="#d5deea"/>
+<text x="123" y="217.0" font-size="18" text-anchor="end" font-weight="normal">50</text>
+<line x1="135" y1="160.0" x2="455" y2="160.0" stroke="#d5deea"/>
+<text x="123" y="167.0" font-size="18" text-anchor="end" font-weight="normal">60</text>
+<path d="M135 160V460H455" fill="none" stroke="#172b4d" stroke-width="2"/>
+<rect x="185" y="260.0" width="95" height="200.0" fill="#1c6eb5"/>
+<text x="232.5" y="248.0" font-size="23" text-anchor="middle" font-weight="bold">40</text>
+<text x="232.5" y="491" font-size="20" text-anchor="middle" font-weight="normal">Tuesday</text>
+<rect x="330" y="160.0" width="95" height="300.0" fill="#087f6a"/>
+<text x="377.5" y="148.0" font-size="23" text-anchor="middle" font-weight="bold">60</text>
+<text x="377.5" y="491" font-size="20" text-anchor="middle" font-weight="normal">Thursday</text>
+<text x="290" y="527" font-size="18" text-anchor="middle" font-weight="normal">Full bar lengths: 40 and 60</text>
+<text x="775" y="126" font-size="25" text-anchor="middle" font-weight="bold">B: baseline 35</text>
+<text x="565" y="151" font-size="18" text-anchor="start" font-weight="normal">Visits (count)</text>
+<line x1="620" y1="460.0" x2="940" y2="460.0" stroke="#d5deea"/>
+<text x="608" y="467.0" font-size="18" text-anchor="end" font-weight="normal">35</text>
+<line x1="620" y1="400.0" x2="940" y2="400.0" stroke="#d5deea"/>
+<text x="608" y="407.0" font-size="18" text-anchor="end" font-weight="normal">40</text>
+<line x1="620" y1="340.0" x2="940" y2="340.0" stroke="#d5deea"/>
+<text x="608" y="347.0" font-size="18" text-anchor="end" font-weight="normal">45</text>
+<line x1="620" y1="280.0" x2="940" y2="280.0" stroke="#d5deea"/>
+<text x="608" y="287.0" font-size="18" text-anchor="end" font-weight="normal">50</text>
+<line x1="620" y1="220.0" x2="940" y2="220.0" stroke="#d5deea"/>
+<text x="608" y="227.0" font-size="18" text-anchor="end" font-weight="normal">55</text>
+<line x1="620" y1="160.0" x2="940" y2="160.0" stroke="#d5deea"/>
+<text x="608" y="167.0" font-size="18" text-anchor="end" font-weight="normal">60</text>
+<path d="M620 160V460H940" fill="none" stroke="#172b4d" stroke-width="2"/>
+<rect x="670" y="400.0" width="95" height="60.0" fill="#1c6eb5"/>
+<text x="717.5" y="388.0" font-size="23" text-anchor="middle" font-weight="bold">40</text>
+<text x="717.5" y="491" font-size="20" text-anchor="middle" font-weight="normal">Tuesday</text>
+<rect x="815" y="160.0" width="95" height="300.0" fill="#087f6a"/>
+<text x="862.5" y="148.0" font-size="23" text-anchor="middle" font-weight="bold">60</text>
+<text x="862.5" y="491" font-size="20" text-anchor="middle" font-weight="normal">Thursday</text>
+<text x="775" y="527" font-size="18" text-anchor="middle" font-weight="normal">Visible lengths: 5 and 25</text>
+<text x="500" y="568" font-size="21" text-anchor="middle" font-weight="bold">True change: +20 visits • +50% • 1.5 times the original count</text>
+<text x="500" y="598" font-size="17" text-anchor="middle" font-weight="normal">Two equally long sessions; visits are not unique people or a long-term trend.</text>
+</g>
+</svg>

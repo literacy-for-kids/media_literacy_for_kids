@@ -21,6 +21,24 @@ In Weeks 9–10, students learned to distinguish news from opinion, compare sour
 - [Check for Understanding](#check-for-understanding)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Weeks 2 and 9–10: purpose, evidence origins, and bounded reporting.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — A tiny newsroom packet:** A fictional library director’s notice says one room closes Tuesday for repair and reopens Wednesday. A repost says the whole library closes forever. A reporter directly visits Wednesday and observes the room open. Write a short report, noting which evidence is independent.
+
+**Illustrative response and reasoning:** "One room was scheduled to close Tuesday for repair. The notice gave Wednesday as reopening; a reporter observed the room open Wednesday. The permanent-library-closure repost is contradicted." The repost is not an independent record; the direct observation is evidence for Wednesday only.
+
+**Optional depth question:** Add a correction explaining the original scope error. Do not rank reliability by outlet count or demand real interviewing/social media accounts.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Key Vocabulary
 
 | Term | Definition |

@@ -21,6 +21,24 @@ This extension explores one of the fastest-changing areas of media literacy: **A
 - [Check for Understanding](#check-for-understanding)
 :::
 
+## Optional Module Plan and Supplied Case
+
+**Status:** Optional depth, separate from the 18 core weeks and their checkpoint requirements. Choose by readiness and interest rather than age alone.
+
+**Prior learning:** After Weeks 9–11: evidence origins, fact-checking, and image context.
+
+**Time and materials:** About 20 minutes for the supplied paper case below, with paper and pencil; calculator optional. This is one practice activity, not the completion time for every guided session on the page. Use the existing session timings if teaching the full module. Read the case and response before the session.
+
+**Supplied case — Verify a claim, not a visual guess:** Fictional record A labels an image "AI illustration for a story, not a photograph." Post B reuses it saying "Photo of today’s actual library robot." Card C, a library event notice, lists no robot demonstration. What is established, and what remains uncertain?
+
+**Illustrative response and reasoning:** A explicitly discloses an illustration; B misrepresents that image as a current photograph. C does not confirm the claimed event, but omission alone does not prove no event occurred. Image origin and event truth are different questions. Visual artifacts or their absence cannot settle AI authorship.
+
+**Optional depth question:** Write a report separating image provenance, the unsupported event claim, and evidence still needed. This text-only route replaces the prepared-image guessing game when a verified image set is unavailable.
+
+**Facilitator check:** Look for a reason tied to the supplied evidence and one stated limit. Model that connection if it is missing; accept an oral, drawn, or written response rather than requiring exact wording.
+
+**Open research prompts:** Any enrichment request to locate or construct missing external sources, real-case materials, media sets, tool activities, or interview records requires adult preparation, verification, and additional time. That request is an optional research suggestion, not supplied instruction. A tool activity with complete supplied steps remains instruction and may also need adult setup. The paper case can be completed without it, without a new account, real-world contact, or personal disclosure.
+
 ## Key Vocabulary
 
 | Term | Definition |
@@ -104,15 +122,15 @@ Students can explain what AI-generated content is, name the main types (images, 
 
 #### Learning Goal
 
-Students can identify common signs of AI-generated images and apply their existing verification tools to AI content.
+Students can describe possible visual clues and their limits, then verify image origins and claims. A visual guess alone cannot establish AI authorship or event truth.
 
 #### Activities
 
 1. **Real or AI? (Image Round)** — Show 6–8 images, a mix of real and AI-generated. For each one, the student guesses: "Real or AI?" After each guess, reveal the answer and discuss: "What clues helped? What clues were misleading?"
 
-2. **Common AI Image Tells** — AI images are getting better, but many still have detectable artifacts:
+2. **Common AI Image Tells** — Some images contain visual inconsistencies. These can prompt investigation, but neither an inconsistency nor its absence establishes AI authorship:
    - **Hands and fingers**: Often the wrong number of fingers, or fingers that blend together
-   - **Text in images**: AI struggles with text — letters may be distorted or nonsensical
+   - **Text in images**: Distorted or nonsensical letters can occur in some generated images, but they are not a universal signature
    - **Symmetry glitches**: Earrings that don't match, glasses arms that disappear, teeth that look too uniform
    - **Background weirdness**: Objects that melt into each other, impossible geometry, repeated patterns
    - **Skin and hair**: Overly smooth skin, hair that merges with the background, inconsistent lighting
@@ -127,7 +145,7 @@ Students can identify common signs of AI-generated images and apply their existi
 
 3. **The Verification Extension** — AI content means we need to add new items to our verification toolkit:
    - ✅ All the existing checks (source, date, lateral reading)
-   - ✅ **Reverse image search** — does this image appear anywhere else? If it only exists in one place, be suspicious
+   - ✅ **Reverse image search** — does this image appear elsewhere, and in what context? No match does not prove fabrication; an original image may not have been indexed
    - ✅ **Look for tells** — check hands, text, backgrounds, symmetry
    - ✅ **Check the context** — is there a real event, date, or location connected to this image?
    - ✅ **Ask: who benefits?** — If this image is fake, who benefits from people believing it's real?
@@ -156,8 +174,8 @@ Create an **AI Detective Report.** Find or receive 5 images (the adult can prepa
 4. **Your verdict** (after checking/being told the answer): Were you right?
 
 After completing all 5, write a short reflection:
-- How many did you get right?
-- What was the best clue for detecting AI images?
+- How many claims could you actually verify from origin/context records, and which remained uncertain? Do not grade visual detection accuracy as proof of authorship.
+- Which evidence supported an origin or context claim, and which visual clues remained uncertain?
 - What would you tell a friend who doesn't know about AI-generated content?
 
 #### Skills Reinforced
