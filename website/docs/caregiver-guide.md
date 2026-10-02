@@ -47,9 +47,9 @@ Many lessons ask you to bring in a real-world media example. If you can't find t
 
 The goal is for the student to practice thinking about media, not to find one specific "right" example.
 
-### No-Prep Fallback
+### Quick Discussion Fallback
 
-If you have zero prep time, you can still run a great session. Open the lesson page, look around the room for any piece of media, and follow the conversation prompts. For example, grab a water bottle and ask: "Who made this label? What do they want you to notice first? Why did they choose that color?" The discussion questions work with almost any example. Done is better than perfect — and an imperfect example often sparks the best conversations.
+For a short discussion with little setup, read the chosen prompts and use a safe, nonpersonal piece of media already nearby. For example, use a water bottle label and ask: "Who made this label? What do they want you to notice first? Why did they choose that color?" Choose prompts that fit the example. This samples audience and design choices; it does not replace a full fact-check investigation, production activity, or weekly module. Use the supplied packets and preparation notes when teaching those activities.
 
 ---
 
