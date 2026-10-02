@@ -87,9 +87,9 @@ Learner is ready to move on when they can:
 
 - explain the difference between misinformation and disinformation
 - distinguish between news reporting, opinion, advertising, and entertainment
-- use the basic verification habit: source, date, evidence, and one more reliable source
+- use the basic verification habit: source, relevant date, evidence origin, and independent evidence rather than copied reports
 - explain what still feels uncertain instead of forcing a yes-or-no answer
-- describe guided tools like lateral reading or reverse image search, even if they still need support using them
+- trace an origin using supplied records; actual lateral reading and reverse image search are optional guided browser skills
 
 Checkpoint questions:
 
@@ -99,11 +99,11 @@ Checkpoint questions:
 
 Ready to move on indicator:
 
-Learner can give a trust rating with evidence and describe at least one corroboration step they used or would use.
+Learner can explain T3's shared report chain and conflicting inventory, V1's date mismatch, and V4's unresolved award claim using the supplied [Week 9 packet](./verification-practice-packet.md) and [Week 11 packet](./visual-verification-packet.md). Accept supported, contradicted, or uncertain judgments when the learner names the exact claim, relevant evidence, and a limit. Live browser-tool use is not required on the offline route.
 
 Reteach move:
 
-Use one low-stakes example — a fun fact, community flyer, weather screenshot, or animal claim. Walk through source, date, evidence, and one more source together. End by asking what still feels uncertain so the learner practices honest caution.
+Use T1 with R1 or V1 with O1. Walk through source, date, and evidence together. Then compare T3's copied reports with the separate inventory record. End by asking what still feels uncertain.
 
 ---
 
@@ -225,13 +225,13 @@ Bonuses: *Is there a hidden ad or persuasion attempt?* *How obvious or disguised
 
 **When:** After completing Unit 3 (Verification & Debugging)
 
-**Task:** Present the student with a surprising claim, headline, or image (prepare one in advance). Have them run the full Media Checkpoint, focusing especially on questions 5–7:
+**Task:** Use T3 from the Week 9 packet or V4 from the Week 11 packet; their records and answer notes are supplied. An adult-prepared real-world example is optional. Have the learner run the full Media Checkpoint, focusing especially on questions 5–7:
 
 1. *What am I looking at?* (What type of content is this — news, opinion, entertainment, ad?)
 2. *Who made this, who is it for, and why?*
 3. *What choices shaped it, and what techniques does it use to get attention?*
 4. *What does it want me to think, feel, or do?* (Is the emotional pull proportional to the evidence?)
-5. *What claims does it make, and what evidence is shown?* (Check the source, check the date, search for other sources — Weeks 9–10)
+5. *What claims does it make, and what evidence is shown?* (Check the source, date, and evidence origin; distinguish copied reports from independent evidence — Weeks 9–10)
 6. *What might be missing or left out?* (Is this image in context? Is there another side? — Week 11)
 7. *What should I check before I trust, share, or act on it?* (What is the next verification step?)
 

@@ -12,7 +12,7 @@ description: "Students learn why false information spreads and get their first v
 ---
 
 :::info Facilitator Snapshot
-This week marks a major shift. Units 1 and 2 taught the student to see how media is built and paid for. Now we ask: **is this information even true?** Students learn that false information spreads for different reasons (mistakes, jokes, deliberate manipulation), and they get their first toolkit of verification habits: checking the source, checking the date, looking for evidence, and comparing with at least one more reliable source. More advanced tools come later with adult support or as extensions.
+This week marks a major shift. Units 1 and 2 taught the student to see how media is built and paid for. Now we ask: **is this information even true?** Students learn that false information spreads for different reasons (mistakes, jokes, deliberate manipulation), and they get their first toolkit of verification habits: checking the source, checking the date, looking for evidence, and tracing evidence origins and comparing independent evidence. More advanced tools come later with adult support or as extensions.
 :::
 
 :::tip Quick Navigation
@@ -35,12 +35,12 @@ This week marks a major shift. Units 1 and 2 taught the student to see how media
 | **Opinion / editorial** | A type of media that argues for a point of view about an event or topic |
 
 :::note 🧒 Kid Version
-Sometimes information that looks real turns out to be wrong — and sometimes it spreads really fast before anyone checks. But not all media is trying to do the same thing: some reports facts (news), some argues an opinion, some entertains, and some sells you something. Knowing which type you're looking at is the first step. The good news? You can learn to check things yourself. This week you get your first set of detective tools: check where it came from, check when it was made, and search for the same story somewhere else.
+Sometimes information that looks real turns out to be wrong — and sometimes it spreads really fast before anyone checks. But not all media is trying to do the same thing: some reports facts (news), some argues an opinion, some entertains, and some sells you something. Knowing which type you're looking at is the first step. The good news? You can learn to check things yourself. This week you get your first set of detective tools: check where it came from, check when it was made, and compare the evidence behind the story.
 :::
 
 ## Connection
 
-**Units 1 and 2** taught students to see how media is *constructed* and *paid for*. **This week** begins a new question: is this information even *true*? Students learn that false information spreads for different reasons, get their first three verification tools, and learn to distinguish between different *types* of content — news reporting, opinion, advertising, and entertainment. Understanding the type of media you're looking at is the foundation for evaluating it fairly. **Next week** they'll level up to lateral reading, compare how different sources cover the same story, and run a Fact-Check Sprint.
+**Units 1 and 2** taught students to see how media is *constructed* and *paid for*. **This week** begins a new question: is this information even *true*? Students learn that false information spreads for different reasons, get three verification habits, and learn to distinguish between different *types* of content — news reporting, opinion, advertising, and entertainment. Understanding the type of media you're looking at is the foundation for evaluating it fairly. **Next week** they'll level up to lateral reading, compare how different sources cover the same story, and run a Fact-Check Sprint.
 
 :::tip 🔄 Bring Forward
 **From Weeks 1-4:** Apply the same construction lens to information claims: who made this claim? What did they include or leave out? What might be missing?
@@ -52,7 +52,7 @@ Sometimes information that looks real turns out to be wrong — and sometimes it
 
 For younger or newer learners, the core goal is not mastering every tool. The core goal is building the habit of checking before trusting or sharing.
 
-- **Core path for ages 8–10:** Ask who made it, check when it was made, look for evidence, compare with one more reliable source, and explain what still feels uncertain.
+- **Core path for ages 8–10:** Ask who made it, check when it was made, look for evidence, compare evidence origins, and explain what still feels uncertain.
 - **Core path for ages 10–12:** Add stronger source comparison, basic lateral reading with adult support, and simple evidence tracking.
 - **Extension path for ages 11–13:** Add independent lateral reading, guided reverse image search, source tracing, and stronger comparison across tabs.
 
@@ -60,23 +60,12 @@ The goal for all learners is corroboration before confidence.
 
 ## Facilitator Preparation
 
-:::info Before You Begin
-Prepare the following:
-- 3–4 examples of information that *look* real but aren't (or are misleading). Good options:
-  - A real news headline that was later corrected
-  - A viral social media post that turned out to be a joke or satire
-  - An old news story reshared as if it's current
-  - A real photo used out of context (e.g., labeled as one event but actually from a different one)
-   - A school closure notice, weather alert, or community event message reshared with the wrong date
-- 1 clearly labeled **opinion or editorial** piece alongside 1 **news report** about the same or a similar topic. Look for the words "Opinion," "Editorial," or "Commentary" in the header of the opinion piece.
-- A computer or tablet with a web browser (for demonstrating verification tools)
-- Optional: print screenshots so the student can examine them without being online
-
-Keep examples age-appropriate. Focus on non-political, non-scary content — misidentified animals, debunked "fun facts," recycled old stories.
+:::info Before You Begin — supplied default
+Open or print the [Week 9 Verification Practice Packet](./verification-practice-packet.md). It supplies the telephone sentence, four claims, original records, a news/opinion pair, advertising and humor examples, and facilitator answer notes. Bring a notebook and pencil; colored rating cards are optional. Read the claim cards before revealing their records and notes. No browsing, accounts, or example hunting is required.
 :::
 
-:::tip ⚡ Quick Prep
-No time to find perfect examples? Use this: search 'commonly believed myths' and pick 2-3 fun ones like 'goldfish have a 3-second memory' or 'you eat spiders in your sleep.' These make great practice examples for verification — and kids love them.
+:::tip Optional adult-prepared browser route
+To practice live searching, an adult may substitute verified public examples, originals, dates, a news/opinion pair, and evidence-based answer notes prepared beforehand. Supervise browsing and avoid private material. This route needs preparation; the supplied packet is the default when it is unavailable.
 :::
 
 :::tip Teaching Mindset
@@ -94,18 +83,18 @@ Students can name at least three reasons false information spreads and explain w
 
 #### Activities
 
-1. **The Telephone Game** — Play a quick round of the classic telephone game (whisper a sentence around a group, or back and forth with the adult a few times via written notes). After the message gets distorted, discuss: "Nobody was trying to lie. But the information changed anyway. This is how **mistakes** spread."
+1. **The Telephone Game** — Use the packet's supplied sentence. Play a quick round of the classic telephone game (whisper a sentence around a group, or back and forth with the adult a few times via written notes). If the message changes, discuss: "Nobody was trying to lie. But the information changed anyway. This is how **mistakes** spread."
 
 2. **Three Reasons It Spreads** — Introduce the three main categories:
    - **Mistakes** (misinformation) — someone shares something wrong without realizing it. They didn't check. They misunderstood. The telephone effect.
    - **Jokes and satire** — someone creates something fake for humor, but other people share it thinking it's real. (Example: an article from a comedy website gets shared as actual news.)
    - **Deliberate manipulation** (disinformation) — someone creates or shares false information *on purpose* to trick people, make money, or cause confusion.
 
-   Use simple examples for each. Ask: "In each case, who is at fault — the person who made it, or the person who shared it without checking?"
+   Use packet cards T1–T3 and their records for an accidental repost, humor, and a deliberately false count. Ask what the supplied notes establish about intention. A false claim alone does not establish whether a person meant to mislead.
 
 3. **The Sharing Chain** — Draw a simple chain on paper: Creator → First Sharer → Second Sharer → Third Sharer → You. Ask: "By the time something reaches you, how many people could have changed it, misunderstood it, or added their own spin?" Connect to the core concept: *sharing is a "write" operation*. When you share, you're adding your name to the chain.
 
-4. **Show the Examples** — Present your prepared examples one at a time. For each one, reveal the truth behind it. Ask: "How could you have figured out this wasn't accurate without someone telling you?"
+4. **Show the Examples** — Present packet cards T1–T4 one at a time, then open their records. Ask: "Which evidence supports or conflicts with the exact claim? What remains uncertain?" Use the answer notes after discussion.
 
 5. **What Kind of Content Is This?** — Before you can evaluate information, it helps to know what *type* of media you're looking at. Not all media is trying to do the same thing:
    - **News reporting** presents facts — what happened, who was involved, when, where. It aims to inform.
@@ -113,7 +102,7 @@ Students can name at least three reasons false information spreads and explain w
    - **Advertising** sells something — a product, a service, or a brand.
    - **Entertainment** aims to amuse, engage, or tell a story — it's not claiming to be factual.
 
-   Show the news report and opinion piece you prepared. Ask: "What's different about these? Which one is presenting facts, and which one is arguing a viewpoint?" Point out labels: many outlets mark opinion content with words like *Opinion, Editorial, Commentary, Column, Op-Ed.* The problem is that on social media, those labels often get stripped away.
+   Show the packet's News N and Opinion O, then Advertisement A and Entertainment E. Ask: "What's different about these? Which one is presenting facts, and which one is arguing a viewpoint?" Point out labels: many outlets mark opinion content with words like *Opinion, Editorial, Commentary, Column, Op-Ed.* The problem is that on social media, those labels often get stripped away.
 
    **Important nuance:** These categories aren't always clean. Advertising can look like entertainment (a funny commercial). Opinion can appear alongside news (a social media post quoting a news story and adding commentary). The skill is noticing *which type you're dealing with* so you know what kind of evaluation it deserves.
 
@@ -150,36 +139,36 @@ Keep every claim connected to its source and evidence in one row: claim, where i
 
 #### Learning Goal
 
-Students can use three basic verification techniques: checking the source, checking the date, and searching for the same claim from other sources.
+Students can check a source, check a relevant date, and trace whether another source supplies independent evidence or repeats the same report.
 
 #### Activities
 
 1. **Tool 1: Check the Source** — Ask: "Where did this come from?" Show a piece of information and trace it back. Who published it? Is there a real author name? Is the website well-known, or does it have a strange URL? Explain: "A real news story has a real journalist's name, a real publication, and a date. If any of those are missing, slow down." These are clues, not guarantees. Some legitimate sources may be missing one of these elements, and some unreliable sources may have all of them. Use these as starting points, not final verdicts.
 
-   Practice: show 2–3 examples and have the student identify the source (or the lack of one).
+   Practice with T1–T3: identify each publisher, then trace to R1–R3 or mark a missing origin.
 
-2. **Tool 2: Check the Date** — Show an old news story being shared as if it's current (you can find these easily — stories from years ago regularly recirculate). Ask: "When was this written? Is it being shared today as if it just happened?" Explain: "Old information isn't always wrong, but sharing it as if it's new can create a false picture."
+2. **Tool 2: Check the Date** — Show packet card T1 and the dated notice R1. Ask: "When was this written? Is it being shared today as if it just happened?" Explain: "Old information isn't always wrong, but sharing it as if it's new can create a false picture."
 
-   Practice: show 2 examples and have the student find the publication date.
+   Practice with T1/R1 and T4/R4: compare the posting date with the date and scope of the original record.
 
-3. **Tool 3: Search for It Somewhere Else** — This is one of the most useful verification habits. Instead of just reading one source, search for the same claim using a search engine. Are other trustworthy sources reporting the same thing? If only one place is saying it, that's worth noting — though it doesn't automatically mean it's false. Confidence should increase when relevant evidence supports the claim, especially when a separate record or investigation corroborates it. Many pages copying one claim are not independent confirmation. The goal is to gather clues, not to prove something with a single check.
+3. **Tool 3: Trace and Compare Evidence** — Use T3's copied report chain and R3's original inventory. Ask whether each page supplies new evidence or repeats the same report. In the optional browser route, open search results and trace their evidence origins too. If only one place is saying it, that's worth noting — though it doesn't automatically mean it's false. Confidence should increase when relevant evidence supports the claim, especially when a separate record or investigation corroborates it. Many pages copying one claim are not independent confirmation. The goal is to gather clues, not to prove something with a single check.
 
-   Practice together: take one claim from an example, type it into a search engine, and see what comes up. Discuss what you find.
+   Practice together: draw newsletter → blog → Kit Buzz, then compare their 40-kit claim with the 24-kit inventory R3. The three copied pages are not three independent counts.
 
 4. **Build a Verification Card** — Create a simple reference card the student can keep:
    - ✅ **Who said it?** (Check the source)
    - ✅ **When was it published?** (Check the date)
-   - ✅ **Who else is saying the same thing?** (Search for it)
+   - ✅ **What evidence is behind it?** (Trace origins; distinguish independent records from copied reports)
 
 :::info 🔍 The Verification Habit: Stop → Notice → Check → Compare → Decide
 This five-step process works for any piece of information:
 1. **Stop** — Don't react or share immediately
 2. **Notice** — What claims are being made? What feelings is it trying to create?
 3. **Check** — Where did this come from? When was it made? Is there a real source?
-4. **Compare** — What do other sources say about the same claim?
+4. **Compare** — What do other sources actually support, and do they share one evidence origin?
 5. **Decide** — What do I know, what don't I know yet, and what would help me find out more?
 
-Each check gives you a clue, not proof. The more clues you gather, the better your judgment.
+Each check gives you a clue, not proof. Weigh relevance and independence; more copied pages do not add confirmation.
 
 ![The verification habit in five steps: stop, notice, check, compare, decide](/img/diagrams/verification-strip.svg)
 :::
@@ -197,18 +186,18 @@ Each check gives you a clue, not proof. The more clues you gather, the better yo
 
 #### Instruction
 
-Practice using your Verification Toolkit on **4 pieces of information.** The adult should pre-select 4 items for you — a mix of true, false, outdated, and misleading. For younger learners, do the searching together and focus on explaining what still feels uncertain.
+Practice with **T1–T4 in the supplied packet**. Use the records before the facilitator answer notes. For younger learners, read and trace together and focus on evidence and uncertainty. Adult-prepared real-world items are an optional alternative.
 
 For each one, use all three tools:
 
 1. **Check the source**: Who published this? Is there a real author? A real publication?
 2. **Check the date**: When was it made? Is it being shared as if it's new?
-3. **Search for it**: Can you find the same claim reported by other sources?
+3. **Trace and compare**: What original evidence supports it? Does another page add independent evidence or repeat a report?
 
 After checking, give each item a **Trust Rating**:
 - 🟢 **Seems reliable** — relevant source, appropriate date, evidence checked rather than merely repeated
 - 🟡 **Uncertain** — something doesn't check out, need more info
-- 🔴 **Unreliable** — bad source, outdated, or nobody else is reporting it
+- 🔴 **Contradicted or misleading** — relevant evidence conflicts with the exact claim or its framing; age or missing confirmation alone does not prove it false
 
 Write a one-sentence explanation for each rating.
 
@@ -220,7 +209,7 @@ Write a one-sentence explanation for each rating.
 
 #### Setup
 
-Pre-select four items: one clearly reliable, one clearly false or misleading, one outdated, and one ambiguous. Print them out or have them ready on a device. Provide the student's verification card, a notebook, and colored pens or pencils for the trust ratings. Set a timer for 25 minutes.
+Open or print packet cards T1–T4 and R1–R4. Provide the verification card and notebook; ordinary pencil or optional colors work. Allow about 25 minutes, with more time or adult reading as needed.
 
 ---
 
@@ -242,7 +231,7 @@ When a claim has lots of parts, use a claim-and-evidence checklist. Writing each
 After this week's sessions, the student should be able to:
 
 1. **Name the types**: Explain the difference between misinformation and disinformation.
-2. **Use the tools**: Demonstrate or talk through all three verification steps (check the source, check the date, search for it).
+2. **Use the tools**: Use T1 and T3 to check source, date, and evidence origin; explain why the copied 40-kit pages do not independently confirm the count.
 3. **Rate a claim**: Given a piece of information, assign a trust rating (green / yellow / red) and explain why.
 4. **Identify content types**: Distinguish between news reporting, opinion, advertising, and entertainment when looking at a piece of media.
 
@@ -271,13 +260,15 @@ After this week's sessions, the student should be able to:
 - **Simplify to two categories**: "Oops, they didn't know" (misinformation) vs. "They did it on purpose" (disinformation). Skip the formal terms at first.
 - **Use the Telephone Game heavily**: Younger learners learn best from experiential activities.
 - **Pre-verify together**: Instead of independent verification, walk through each tool together.
-- **Use familiar claims**: "Goldfish have a 3-second memory" or "You eat 8 spiders a year in your sleep" — fun claims they may have heard before.
+- **Use the supplied cards**: Compare T1 with its date and T3 with the simple 3 × 8 inventory; an adult can read the records aloud.
 
 ---
 
 ## Older Learner Extension (Ages 11–13)
 
-- **Speed verification challenge**: How fast can you verify a claim using all three tools? Track times to build fluency.
+These optional real-world investigations need adult-prepared, age-appropriate materials and supervision. The supplied packet meets the core goals.
+
+- **Evidence challenge**: Explain which evidence changes your confidence and which merely repeats a claim. Accuracy and limits matter more than speed.
 - **Trace the chain**: For one piece of misinformation, try to find the *original* source where it first appeared. How far back can you go?
 - **News vs. opinion deep dive**: Find three articles on the same topic. Classify each as news reporting, opinion, or a mix. What labels (or lack of labels) does each outlet use? How easy or hard is it to tell the difference?
 - **Create a misinformation case study**: Document one false claim — who created it, how it spread, and what damage it caused.
@@ -288,7 +279,7 @@ After this week's sessions, the student should be able to:
 
 - **Traffic light cards**: Use physical green, yellow, and red cards for trust ratings instead of writing.
 - **Verbal verification**: The student dictates their findings while the adult writes them down.
-- **Simplified verification card**: Large-print, three-step card with icons (magnifying glass = check source; calendar = check date; three arrows = search for it).
+- **Simplified verification card**: Large-print, three-step card with icons (magnifying glass = check source; calendar = check date; arrows = trace evidence).
 - **Team verification**: Adult and student verify together, taking turns on each step.
 
 ## Preview of Next Week

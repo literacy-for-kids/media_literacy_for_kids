@@ -87,28 +87,23 @@ Plus: journal or paper for reflection
 
 ### Week 9: Is This Real?
 
-- 3–4 examples of information that looks real but isn't (corrected headline, satirical post shared as real, old story reshared as current, out-of-context photo)
-- 1 clearly labeled opinion/editorial piece and 1 news report on the same topic (for content-type identification activity)
-- 2–3 additional examples representing different content types: news, opinion, advertising, entertainment
-- Computer or tablet with a web browser
-- Optional: printed screenshots of examples
-- Card stock for Verification Card
-- Colored pens/pencils for Trust Ratings (green/yellow/red)
+- [Supplied Verification Practice Packet](./verification-practice-packet.md): telephone sentence, four claim cards, original records, news/opinion pair, advertising/humor examples, and answer notes
+- Notebook and pencil; optional colors or rating cards
+- Display or print the packet; no browser searching or outside examples required
+- Optional adult-prepared browser route: verified public examples, original evidence, and answer notes, prepared and supervised by an adult
 
 ### Week 10: The Fact-Check Sprint (Key Activity)
 
-- 3–4 pre-tested claims for investigation (viral "did you know?" facts, misattributed quotes, misleading statistics, wrong-context photos)
-- 2 news articles about the **same event** from different outlets (non-controversial, kid-friendly — for source comparison activity)
-- Comparison chart template (rows: headline, lead sentence, sources quoted, details included, details left out, overall tone)
-- Device with web browser (supervised)
-- Timer
-- Report template (sections: Claim, Source, Search, Verdict, Evidence)
+- [Supplied Fact-Check Packet](./fact-check-packet.md): claims, source records, paired reports, comparison prompts, and facilitator notes
+- Notebook or report template; optional timer
+- Display or print the packet; supervised browser investigation is an optional adult-prepared route
 
 ### Week 11: Spotting Fakes
 
-- 3–4 examples of visual media deception (false caption, manipulated image, misattributed quote graphic, old photo reshared)
-- Access to reverse image search (Google Images or TinEye)
-- Paper or cardstock and markers/colored pens (for Fake Spotter's Guide)
+- [Supplied Visual Verification Packet](./visual-verification-packet.md): four drawn image cases, originals and context logs, three quote graphics, transcript, and answer notes
+- Paper and pencil; optional markers for the Fake Spotter's Guide
+- Display or print the packet with its images; no searching, accounts, uploads, or outside examples required
+- Optional adult-prepared browser route: verified public images and quote graphics, original records, and a tested reverse image search tool used together
 
 ---
 

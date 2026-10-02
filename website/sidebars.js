@@ -98,6 +98,8 @@ const sidebars = {
         'glossary',
         'media-detective-notebook',
         'fact-check-packet',
+        'verification-practice-packet',
+        'visual-verification-packet',
         'assessment-checkpoints',
         'final-project-rubric',
         'discussion-prompts',
